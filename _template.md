@@ -1,5 +1,6 @@
 ---
 type: kennis
+merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-09

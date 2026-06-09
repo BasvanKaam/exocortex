@@ -16,10 +16,11 @@ Twijfel je waar iets hoort? In `inbox/`. De wekelijkse opschoonrun verplaatst he
 
 ## Tag-conventie
 
-Elke notitie begint met frontmatter (zie `_template.md`). Vier velden zijn verplicht:
+Elke notitie begint met frontmatter (zie `_template.md`). Vijf velden zijn verplicht:
 
 - `type` - kennis | beslissing | standaard | bron | idee
-- `domein` - nerdio | nmb | podcast | euc | persoonlijk | financieel | ai-tooling
+- `merk` - bvk | nerdio. De merk-as: van wie is dit. Standaard `bvk` (mijn eigen werk), `nerdio` alleen voor officieel Nerdio-werk.
+- `domein` - nerdio | nmb | podcast | euc | persoonlijk | financieel | ai-tooling. Het onderwerp, los van het merk.
 - `status` - actief | concept | achterhaald
 - `datum` - aanmaakdatum, formaat JJJJ-MM-DD
 

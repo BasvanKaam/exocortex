@@ -1,9 +1,10 @@
 ---
 type: standaard
-domein: nerdio
+merk: bvk
+domein: euc
 status: actief
 datum: 2026-06-09
-tags: [taal, output, schrijfregel, voice]
+tags: [taal, output, schrijfregel, voice, nerdio]
 ---
 
 # Output-taal: Engels als default
