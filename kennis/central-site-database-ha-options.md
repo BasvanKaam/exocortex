@@ -1,0 +1,22 @@
+---
+type: kennis
+merk: bvk
+domein: euc
+status: actief
+datum: 2026-06-09
+tags: [sql, high-availability, alwayson, mirroring, clustering, central-site-database]
+layer: reference
+bron: inside-citrix-fma
+---
+
+# High-availability options for the Central Site database
+
+Back up the Site database regularly (daily). For HA:
+
+- SQL Server AlwaysOn Availability Groups (recommended with SQL Server 2012 Enterprise or later): an HA/DR solution first introduced in SQL Server 2012; requires SQL instances on Windows Server Failover Clustering (WSFC) nodes.
+- SQL Mirroring (recommended when AlwaysOn isn't possible): automatic failover in seconds; users generally unaffected. Requires full SQL Server licenses on each database server. SQL Express cannot be mirrored.
+- SQL Clustering (third choice): more complex to set up and typically slower failover than mirroring. SQL Express does not support clustering out of the box.
+
+Supported SQL Server versions: SQL Server 2014 (Express/Standard/Enterprise); SQL Server 2012 SP1/SP2 (Express/Standard/Enterprise; SP2 Express is installed by default with the Controller if no supported SQL is detected); SQL Server 2008 R2 SP2 (Express/Standard/Enterprise/Datacenter).
+
+Combine HA with regular backups and a SQL Maintenance Plan to keep the database optimized, backed up and free of inconsistencies.

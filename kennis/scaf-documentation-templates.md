@@ -1,0 +1,24 @@
+---
+type: kennis
+merk: bvk
+domein: cloud
+status: actief
+datum: 2026-06-09
+tags: [scaf, templates, documentation, tooling, bas-ip]
+layer: rich
+bron: van-de-basis-tot-meester-in-de-cloud
+---
+
+# SCAF Documentation and Templates
+
+SCAF ships with pre-defined templates aligned to its phases so collected information is easy to maintain, archive and access (covered in detail in chapter 14). Supporting documents in the Strategie phase include the SCAF SWOT analysis, SCAF Strategy Map (adapted version), a drivers-plus-priorities overview, and mission/vision where applicable. Core templates are the SCAF Strategy Template and SCAF Final Report Template. Other SCAF templates include management-summary forms, GAP and SWOT analysis templates, application/data/system inventory forms, a handover checklist, and TCO and business-case templates.
+
+Bas's stance from real-world use: keep it simple, cloud is already complex enough. Depending on the project you may need only some documents — adapt them, or skip them if you gather information another way. There is no wrong approach, except skipping this step entirely.
+
+On tooling, he prefers not to spend unnecessarily on licences: Microsoft Teams and SharePoint (SharePoint underlies Teams) work well for information sharing because most companies already use them, with easy permissions and folder structures. For agile teams he names Confluence + Jira and/or ServiceNow; for project management Smartsheet, Monday or Trello.
+
+## Bron-citaten (NL, verbatim)
+
+> Houd het simpel, Cloud is al complex genoeg.
+>
+> Er is wat dat betreft geen foute aanpak (behalve deze stap volledig overslaan).

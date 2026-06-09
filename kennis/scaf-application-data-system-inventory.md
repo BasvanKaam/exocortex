@@ -1,0 +1,20 @@
+---
+type: kennis
+merk: bvk
+domein: cloud
+status: actief
+datum: 2026-06-09
+tags: [scaf, inventory, waves, rationalization, dependencies, storage]
+layer: rich
+bron: van-de-basis-tot-meester-in-de-cloud
+---
+
+# SCAF: Application, Data and System Inventory via Waves
+
+Waves 1 and 2 create an overview of all present and in-use applications, datasets, systems, (physical) network and security components, looking at the function they fulfill, their impact in/on the organization, and technical dependencies. From this you get a first picture of whether (and how) a workload can move to the Cloud, by what method (rationalization), and whether a modernization pass in wave 3 is worth the extra time.
+
+For larger, complex IaaS-focused environments, Bas suggests limiting choices initially to **rehost and retire** (part of the 6 R's) to quickly create a starting point, then applying a more detailed analysis later.
+
+The same process runs for data, networks, hardware components, virtual systems and storage. Document everything carefully, including required (24/7) availability, contractual restrictions and special cases. For networks watch line type, up/download speed, bandwidth and redundancy needs; for storage, the type, throughput, etc. Specific dependencies to capture include: latency sensitivity; other network requirements; where data resides in the new Cloud situation; whether all data may/should go to the Cloud; data volumes; specific storage requirements (block, file, system); dependencies on hardware/dongles, OS, other applications; single vs multi-user certification; security requirements (encryption, authentication); and minimum/desired system requirements.
+
+Also don't forget: existing monitoring/tooling, an overview of current subscriptions and licenses, unused active resources, unexplained usage/consumption, permissions and rights, and lack of budget control.

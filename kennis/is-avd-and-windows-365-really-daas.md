@@ -1,0 +1,25 @@
+---
+type: kennis
+merk: bvk
+domein: euc
+status: actief
+datum: 2026-06-09
+tags: [avd, windows-365, daas, iaas, desktop-virtualization]
+layer: rich
+bron: van-de-basis-tot-meester-in-de-cloud
+---
+
+# Bas's reframe: is AVD and/or Windows 365 Cloud PC really DaaS?
+
+Bas tackles the recurring debate over what does and doesn't count as DaaS. His framing: AVD is often seen as an 'IaaS variant of DaaS'. With Windows 365 you pay for simplicity and outsourcing complexity; with AVD you mainly pay for flexibility and control.
+
+His position:
+- AVD is technically DaaS but still demands a certain management effort. AVD could be part of a DaaS service.
+- Windows 365 Cloud PC is more of a 'real' DaaS solution, where Microsoft takes most of the management off your hands - for a price.
+- AVD is more suitable for companies that want to retain full control and have the necessary technical expertise in-house.
+
+Bas adds that it doesn't really matter much which label you use, but the discussion is extensive so he wanted to give it at least some attention. He stresses that AVD and W365 are far from the only options: AWS and GCP have their own DaaS solutions, as do Parallels, Citrix, Nutanix, VMware and more. The concept stays largely the same, and that is the point.
+
+## Bron-citaten (NL, verbatim)
+
+> AVD wordt vaak gezien als een "Infrastructure-as-a-Service (IaaS) variant van DaaS".

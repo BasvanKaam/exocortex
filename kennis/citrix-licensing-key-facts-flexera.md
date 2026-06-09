@@ -1,0 +1,20 @@
+---
+type: kennis
+merk: bvk
+domein: euc
+status: actief
+datum: 2026-06-09
+tags: [citrix, licensing, flexera, license-server, netscaler]
+layer: reference
+bron: inside-citrix-fma
+---
+
+# Citrix licensing key facts (Flexera, capacity, NetScaler)
+
+A few important facts about Citrix licensing infrastructure:
+
+- Citrix Licensing relies on **Flexera** software (as do many other vendors).
+- The license server is a relatively light role and can share a single physical or virtual server with other roles. A single license server can handle **over 10,000 continuous connections**.
+- XenDesktop and XenApp are licensed through a central license server, but a **NetScaler** requires its license file to be uploaded directly to the device itself rather than residing on the license server.
+- Getting licenses is a three-step process: **activate** (from the order confirmation email), **allocate** (select the number of users and generate the license file), and **download** (save and copy the file to the license server via the License Management Console).
+- Citrix also runs a Trial Center for limited trial licenses; some are only available to registered Citrix partners.

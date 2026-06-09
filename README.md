@@ -20,7 +20,7 @@ Elke notitie begint met frontmatter (zie `_template.md`). Vijf velden zijn verpl
 
 - `type` - kennis | beslissing | standaard | bron | idee
 - `merk` - bvk | nerdio. De merk-as: van wie is dit. Standaard `bvk` (mijn eigen werk), `nerdio` alleen voor officieel Nerdio-werk.
-- `domein` - nerdio | nmb | podcast | euc | persoonlijk | financieel | ai-tooling. Het onderwerp, los van het merk.
+- `domein` - nerdio | cloud | euc | nmb | podcast | persoonlijk | financieel | ai-tooling. Het onderwerp, los van het merk.
 - `status` - actief | concept | achterhaald
 - `datum` - aanmaakdatum, formaat JJJJ-MM-DD
 

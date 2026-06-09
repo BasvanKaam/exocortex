@@ -1,0 +1,24 @@
+---
+type: kennis
+merk: bvk
+domein: cloud
+status: actief
+datum: 2026-06-09
+tags: [scaf, framework, cloud-adoption, strategy]
+layer: rich
+bron: van-de-basis-tot-meester-in-de-cloud
+---
+
+# The Step-Cloud Adoptie Framework (SCAF) as the book's backbone
+
+Bas van Kaam's own, self-assembled and field-tested framework, the Step-Cloud Adoptie Framework (SCAF), is the deliberate "rode draad" (red thread) running through the entire book. It is introduced gradually and reapplied across multiple chapters so that cloud computing is approached in a structured, strategic way rather than ad hoc.
+
+SCAF is designed to help an organisation develop a deliberate, step-by-step implementation and adoption process, from preparation through execution to optimisation of cloud strategies. Its pillars, surfaced across later chapters, are Strategie (strategy), Inzicht (insight), Uitvoering (execution) and Adoptie (adoption), each with its own stakeholders, handelingen (actions), resultaat (result) and supporting documentation.
+
+Bas is explicit that not every detail can be worked out for every organisation because each one differs; the framework gives you the handvatten (handholds) to prepare well and implement cloud successfully. In the book's fictional case, XYZ-Care Health Group explicitly uses SCAF for its structured approach.
+
+## Bron-citaten (NL, verbatim)
+
+> Daarnaast maken we gebruik van een door mij samengesteld en in de praktijk geteste Step-Cloud Adoptie Framework. Het is de rode draad in het boek.
+>
+> Dit framework helpt je om een doordacht, stapsgewijs implementatie- en adoptieproces te ontwikkelen, van de voorbereiding tot uitvoering en optimalisatie van Cloudstrategieën in je organisatie.

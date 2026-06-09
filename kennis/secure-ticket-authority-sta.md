@@ -1,0 +1,18 @@
+---
+type: kennis
+merk: bvk
+domein: euc
+status: actief
+datum: 2026-06-09
+tags: [sta, netscaler, broker-service, security]
+layer: reference
+bron: inside-citrix-fma
+---
+
+# The Secure Ticket Authority (STA)
+
+The Secure Ticket Authority (STA) was first introduced with an early Secure Gateway edition over twelve years ago. It runs as a service and is part of the Broker Service on the Delivery Controller (like the XML service). During a resource launch, both the StoreFront server and the NetScaler must communicate with the STA, so NetScaler and StoreFront/Web Interface must point to the exact same XML/STA service(s)/Delivery Controller(s).
+
+The NetScaler Gateway uses the STA to guarantee each user is successfully authenticated: a valid STA ticket means the user passed the web-server authentication checks and may be granted access. It prevents outside computers from knowing about the inside network and authorises the NetScaler Gateway ICA Proxy to set up a connection from outside to inside, specifying where an outbound connection may connect on the inside.
+
+When a resource is launched through NetScaler Gateway, an STA ticket is requested and ends up in the launch.ica file. The Delivery Controller hosting the STA holds the ticket in memory for a configurable time. The STA is only used when traffic traverses a NetScaler, so internal StoreFront authentication does not involve STA tickets.
