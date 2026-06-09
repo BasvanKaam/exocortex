@@ -15,11 +15,11 @@ Alle content-deliverables worden standaard in het Engels geschreven, ook als ik 
 
 De regel geldt voor de geproduceerde output: LinkedIn-posts, blog, EUC-content, carousels, lessen, video scripts. De chat/overleg mag in het Nederlands blijven, dit gaat over wat er uiteindelijk gepubliceerd wordt.
 
-Bekende uitzonderingen die wel in het Nederlands blijven, conform het voice-profile:
+Bekende uitzondering die binnen dit brein wel in het Nederlands blijft, conform het voice-profile:
 
-- De Academy / finance-kanaal
-- Nooit Meer Blut
-- FIRE
+- Het Academy / finance-kanaal.
+
+Buiten dit brein blijven Nooit Meer Blut (NMB) en FIRE ook Nederlands, maar die worden als apart project beheerd, niet in deze repo. Zie de "Niet hier"-sectie in `../../CLAUDE.md`.
 
 Bij twijfel over het kanaal: schrijf Engels en vraag of Nederlands bedoeld was.
 
