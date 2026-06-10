@@ -18,7 +18,7 @@ Twijfel je waar iets hoort? In `inbox/`. De wekelijkse opschoonrun verplaatst he
 
 Elke notitie begint met frontmatter (zie `_template.md`). Vijf velden zijn verplicht:
 
-- `type` - kennis | beslissing | standaard | bron | idee
+- `type` - kennis | beslissing | standaard | bron | idee | positie | index
 - `merk` - bvk | nerdio. De merk-as: van wie is dit. Standaard `bvk` (mijn eigen werk), `nerdio` alleen voor officieel Nerdio-werk.
 - `domein` - nerdio | cloud | euc | nmb | podcast | persoonlijk | financieel | ai-tooling. Het onderwerp, los van het merk.
 - `status` - actief | concept | achterhaald

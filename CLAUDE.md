@@ -15,6 +15,12 @@ Ik communiceer in het Nederlands. Deliverables zijn meestal Engels (zie de outpu
 - Zoek eerst in `kennis/`, `beslissingen/` en `standaarden/` voordat je uit algemene kennis antwoordt.
 - Filter eerst op frontmatter (`type`, `merk`, `domein`, `status`, `datum`), dan pas op inhoud. De conventie staat in `README.md`.
 
+## Brein-onderhoud (altijd)
+Het brein is een web, geen stapel. Volg `standaarden/brein-onderhoud.md`:
+- Leg verbanden: elke notitie die je maakt of aanraakt krijgt links naar verwante notities, twee kanten op.
+- Werk ongevraagd bij: bij nieuwe input (gesprek, memo, transcript, artikel) update je geraakte notities, verzoen je tegenstrijdigheden en signaleer je gaten. Wacht niet tot ik vraag om te archiveren.
+- Leg ook posities vast (`type: positie`), niet alleen feiten.
+
 ## Standaarden (lees voor je iets maakt dat mijn stem of stijl draagt)
 - Voice: `standaarden/voice/voice-profile.md` — de stem en de register-dial (BvK vs Nerdio).
 - Afgekeurde wendingen: `standaarden/voice/voice-corrections.md` — concrete woorden en zinnen die niet van mij zijn. Lees mee met het profiel en vul aan als ik iets afkeur.
