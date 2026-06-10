@@ -27,3 +27,17 @@ Bas illustrates the step-by-step approach with his elephant joke.
 ## Bron-citaten (NL, verbatim)
 
 > Ken je de grap… Hoe eet je een olifant? Juist, hapje voor hapje. Zo doen we dat hier ook.
+
+## Verwante notities
+
+- [Bas: 'Wegwerp IT' and the Lift-and-Shift Caution](bas-wegwerp-it-and-lift-and-shift.md)
+- [Cloud Center of Excellence (CCoE): Definition and Why Early](cloud-center-of-excellence-definition.md)
+- [EA: Working with Principles (Top-Down and Bottom-Up Balance)](ea-working-with-principles.md)
+- [Enterprise Architecture (EA) and TOGAF](enterprise-architecture-togaf.md)
+- [SCAF Cloud Exit Strategy Template (On Bas's Backlog)](scaf-cloud-exit-strategy-on-backlog.md)
+- [SCAF Documentation and Templates](scaf-documentation-templates.md)
+- [SCAF Key Takeaways - The Four Phases and Strategy](scaf-four-phases-key-takeaways.md)
+- [SCAF: The Step-Cloud Adoptie Framework Overview](scaf-step-cloud-adoption-framework-overview.md)
+- [The Step-Cloud Adoptie Framework (SCAF) as the book's backbone](scaf-the-red-thread-of-the-book.md)
+- [SCAF Toolkit: Bas's 'keep it simple' philosophy and applicability](scaf-toolkit-philosophy-and-applicability.md)
+- [Bas: use the SCAF toolkit as inspiration, not a checklist](scaf-toolkit-use-it-as-inspiration.md)

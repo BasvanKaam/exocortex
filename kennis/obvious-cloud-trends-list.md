@@ -23,3 +23,15 @@ Bas lists the "voor de hand liggend" (obvious, unsurprising) cloud trends:
 - **Quantum computing in the cloud** — AWS, Google, Microsoft experimenting; early stage, for complex calculations like medical simulations and cryptography.
 - **Regulation and compliance** — stricter data/privacy laws (GDPR) and the rise of 'sovereign cloud'.
 - **Cloud-based collaboration tools** — remote work persists; Teams, Google Workspace getting smarter with AI.
+
+## Verwante notities
+
+- [Bas's reframe: chase trends and innovation only in moderation](bas-innovation-with-moderation.md)
+- [Cloud Market Statistics (2024)](cloud-market-statistics-2024.md)
+- [Edge computing and Edge-nodes](edge-computing.md)
+- [FaaS / Serverless Computing Explained](faas-serverless-explained.md)
+- [The Gartner Hype Cycle and its five stages](gartner-hype-cycle.md)
+- [Bas: look critically at 'green' datacenter claims](green-cloud-claims-critical-look.md)
+- [Post-COVID work models and continued cloud growth](post-covid-work-and-cloud-trends.md)
+- [Azure, AWS and Google sustainability targets](provider-sustainability-targets.md)
+- [Zero Trust Security Model](zero-trust-model.md)

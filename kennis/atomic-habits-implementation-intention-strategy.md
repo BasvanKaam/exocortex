@@ -18,3 +18,12 @@ Clear's key insight, which Bas finds fitting for the strategy phase of cloud ado
 ## Bron-citaten (NL, verbatim)
 
 > Kort gezegd, het ontbreekt je niet aan motivatie, maar aan duidelijkheid.
+
+## Verwante notities
+
+- [Bas's reading habit: the 10-pages-a-morning method](bas-reading-habit-and-method.md)
+- [Bas's recommended reading list](bas-recommended-booklist.md)
+- [Bas's navigation metaphor: a cloud journey needs a destination](cloud-journey-navigation-metaphor.md)
+- [SCAF Strategie: The Foundation Questions](scaf-strategie-fundament-questions.md)
+- [SCAF Strategie Pillar: Summary of Steps](scaf-strategie-pillar-step-summary.md)
+- [The Step-Cloud Adoptie Framework (SCAF) as the book's backbone](scaf-the-red-thread-of-the-book.md)

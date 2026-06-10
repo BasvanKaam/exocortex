@@ -18,3 +18,12 @@ In his paper Bas references the cloud characteristics defined by NIST (2011), no
 - Resource pooling
 - Rapid elasticity
 - Measured service
+
+## Verwante notities
+
+- [Bas deconstructs the cloud promises](bas-deconstructs-the-cloud-promises.md)
+- [Cloud service models: SaaS, PaaS, IaaS, DaaS](cloud-service-models-saas-paas-iaas-daas.md)
+- [Core cloud building blocks: datacenter, virtualization, APIs, storage, databases, elasticity](core-cloud-components-and-concepts.md)
+- [Fundamental principles of the Cloud (per NIST)](fundamental-cloud-principles-nist.md)
+- [NIST and its definition of Cloud computing](nist-cloud-definition.md)
+- [The promises of the Cloud (and Bas's invitation to challenge them)](the-promises-of-the-cloud.md)

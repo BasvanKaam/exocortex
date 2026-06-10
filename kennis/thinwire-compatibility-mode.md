@@ -16,3 +16,13 @@ ThinWire has been part of ICA almost from the start (WinFrame 1995, ICA 3.0). Th
 It is a fallback for the default 'video codec for compression', which uses H.264 and delivers high-quality graphics/video for most users by default. The H.264 method consumes more resources to encode/decode, needing a high-power client processor and impacting server-side user density.
 
 If the default method can't kick in (insufficient client CPU, or an older unsupported Receiver), ThinWire compatibility mode is used automatically. It uses low-cost algorithms compatible with almost every OS, with a very efficient CPU and bandwidth footprint. Bas suggests that even when the default mode works you might consider switching to compatibility mode anyway, to enhance user density and save resources and bandwidth. Studio ships 6 HDX policy templates.
+
+## Verwante notities
+
+- [Citrix Adaptive Transport (Enlightened Data Transport / EDT)](citrix-adaptive-transport-edt.md)
+- [Citrix HDX: an extension to ICA, not a replacement](citrix-hdx-extends-ica.md)
+- [Framehawk: ICA over lossy, high-latency networks](framehawk.md)
+- [HDX is not a replacement for ICA](hdx-not-a-replacement-for-ica.md)
+- [What the ICA protocol does and its default ports](ica-protocol-fundamentals.md)
+- [Receiver communications, ICA handshake and virtual channels](receiver-ica-handshake-and-virtual-channels.md)
+- [Remote Display Analyzer: a community HDX codec tool](remote-display-analyzer.md)

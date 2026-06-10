@@ -21,3 +21,13 @@ Bas details the full lifecycle of an Innovation Board — a team/committee that 
 6. **Track progress** — against milestones; keep on budget and schedule; stop projects that fail to meet expectations or hit major obstacles.
 7. **Implement and scale** successful innovations into daily operations.
 8. **Document Lessons Learned** — capture knowledge so future projects learn, fostering a culture of continuous improvement.
+
+## Verwante notities
+
+- [Bas's reframe: chase trends and innovation only in moderation](bas-innovation-with-moderation.md)
+- [Bas's contrarian tip: get feedback from prospects you lost, not just customers](bas-learn-from-lost-prospects.md)
+- [Bas's Lessons Learned document: a living continuous-learning tool](bas-lessons-learned-document-method.md)
+- [The Gartner Hype Cycle and its five stages](gartner-hype-cycle.md)
+- [Where to 'park' innovation: Innovation/Technology Board, Solutions Board, Office of the CTO](innovation-board-technology-board-office-of-cto.md)
+- [Innovation Comes From Outside the Firewall](innovation-comes-from-outside-the-firewall.md)
+- [The Technology / Innovation Board](technology-innovation-board.md)

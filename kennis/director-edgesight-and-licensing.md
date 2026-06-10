@@ -22,3 +22,11 @@ Historical data retention by license:
 - Platinum + NetScaler Platinum: same plus unlimited data storage (officially supported/tested up to three years).
 
 The Monitor Service OData API lets you build custom reports, e.g. letting Excel communicate directly with the Delivery Controller via the OData protocol.
+
+## Verwante notities
+
+- [Citrix Director: monitoring and troubleshooting tool](citrix-director-overview.md)
+- [Director dashboard, Trends view and alerts](director-dashboard-trends-and-alerts.md)
+- [Director and built-in EdgeSight](director-monitoring-tool.md)
+- [Director SCOM and Insight Services integration](director-scom-and-insight-services-integration.md)
+- [The three XenDesktop databases](xendesktop-three-databases.md)

@@ -16,3 +16,13 @@ The 'Internet minute' captures how much data is uploaded to the internet every m
 ## Bron-citaten (NL, verbatim)
 
 > Bijna 10 miljoen Gigabyte per minuut!
+
+## Verwante notities
+
+- [Bas on the future limits of self-hosting your own data growth](bas-self-hosting-data-growth-limit.md)
+- [Cloud Market Statistics (2024)](cloud-market-statistics-2024.md)
+- [Data unit hierarchy from bit to Geopbyte](data-unit-hierarchy-bit-to-geopbyte.md)
+- [The less-obvious challenges of building datacenters](datacenter-hidden-challenges.md)
+- [Edge computing and Edge-nodes](edge-computing.md)
+- [Semantic technologies and data science in the cloud](semantic-technologies-and-data-science.md)
+- [Bas on the physical scale: subsea cables and an Azure datacenter tour](submarine-cables-and-datacenter-scale.md)

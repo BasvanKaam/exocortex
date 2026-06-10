@@ -18,3 +18,11 @@ Source quote: "Dus, zeggen dat je als software ontwikkelaar Cloud native bent en
 ## Bron-citaten (NL, verbatim)
 
 > Dus, zeggen dat je als software ontwikkelaar Cloud native bent en het ook echt zijn, daar zit nogal een verschil tussen.
+
+## Verwante notities
+
+- [Bas's War Story: The IaC Dependency Trap](bas-iac-dependency-trap.md)
+- [Bas: 'Wegwerp IT' and the Lift-and-Shift Caution](bas-wegwerp-it-and-lift-and-shift.md)
+- [Cloud delivery models: IaaS, PaaS, SaaS and DaaS](cloud-delivery-models-iaas-paas-saas-daas.md)
+- [Cloud-Native: Designed for the Cloud from the Start](cloud-native-definition.md)
+- [Infrastructure as Code (IaC) and Its Benefits](infrastructure-as-code-basics.md)

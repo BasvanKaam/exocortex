@@ -19,3 +19,13 @@ Bas calls cloud technology the literal backbone of the digital-nomad existence �
 - Security: working in hotels, cafés or shared coworking spaces brings risk; cloud-based security protects against hackers and unsafe networks. A VPN and two-step verification are standard kit for any serious digital nomad.
 
 Aside: Bas notes Google Mail adapts to your location when abroad (the language changes depending on where you are) — small things that fit the always-moving nomadic life. He admits personally he couldn't imagine being as efficient constantly working from a different place, but understands why the lifestyle appeals to many.
+
+## Verwante notities
+
+- [Bas on digital nomads: living while you work](bas-on-digital-nomads-freedom.md)
+- [Cloud delivery models: IaaS, PaaS, SaaS and DaaS](cloud-delivery-models-iaas-paas-saas-daas.md)
+- [Cloud ideas for the modern, attractive employer](cloud-ideas-for-the-modern-attractive-employer.md)
+- [Why people choose nomad life — and its downsides](digital-nomad-reasons-and-downsides.md)
+- [Digital-nomad visas and the future of work](digital-nomad-visas-and-future-of-work.md)
+- [Role-Specific Security Training (Don't Call Staff the Weakest Link)](people-are-the-weakest-link-training.md)
+- [Post-COVID work models and continued cloud growth](post-covid-work-and-cloud-trends.md)

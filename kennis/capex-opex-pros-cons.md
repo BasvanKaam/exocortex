@@ -16,3 +16,11 @@ bron: van-de-basis-tot-meester-in-de-cloud
 
 **Opex pros:** flexibility (pay only for what you use, cost-saving short-term); low initial costs (ideal for limited means); fast scalability (easily scale up/down as with cloud services); virtually no maintenance costs for physical equipment (though the company remains responsible for software install and patching).
 **Opex cons:** higher long-term costs if cloud resources are used long-term without proper management; less control (dependent on third-party infrastructure); income uncertainty for the provider (variable usage makes revenue hard to forecast).
+
+## Verwante notities
+
+- [Four Hosting Models - On-Prem, Co-location, Managed, Cloud](hosting-models-onprem-colo-managed-cloud.md)
+- [Opdracht 5: build your own business case (the method)](opdracht-5-business-case-exercise.md)
+- [Opex Is Harder for the Provider Than the Customer](opex-challenge-for-providers.md)
+- [Comparing a Physical Server to Cloud Isn't Fair](physical-vs-cloud-server-not-fair-comparison.md)
+- [Transformation: From Product to Service, Ownership to Usage](product-to-service-ownership-to-usage.md)

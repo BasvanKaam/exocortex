@@ -26,3 +26,15 @@ The headline reframe: adoption is not the end of a cloud journey but the start o
 ## Bron-citaten (NL, verbatim)
 
 > De adoptiefase is de laatste, maar zeker niet de minst belangrijke stap in een Cloudtransitie.
+
+## Verwante notities
+
+- [Ambassadors and skill readiness in the execution phase](ambassadors-skill-readiness.md)
+- [Bas on the Cloud roadmap as a strategic tool](bas-cloud-roadmap-as-strategic-tool.md)
+- [Bas's Lessons Learned document: a living continuous-learning tool](bas-lessons-learned-document-method.md)
+- [Bas on documentation: the 'undervalued child' of IT](bas-on-documentation-the-undervalued-child.md)
+- [Bas on the helpdesk as first point of contact](bas-on-the-helpdesk-experience.md)
+- [SCAF Adoption phase: activities and deliverables](scaf-adoption-phase-activities.md)
+- [SCAF Adoption phase: finishing what you started](scaf-adoption-phase-purpose.md)
+- [SCAF Adoption result: the end goal of the Cloud transition](scaf-adoption-phase-result.md)
+- [KPIs in the SCAF Adoption phase: making success measurable](scaf-kpis-in-adoption-phase.md)

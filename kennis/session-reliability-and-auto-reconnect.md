@@ -20,3 +20,12 @@ By default SR is configured via policy and set to 180 seconds (3 minutes) before
 **Auto Client Reconnect** detects unintended disconnected ICA sessions and reconnects automatically. If both SR and Auto Client Reconnect are used they work in sequence: SR applies first, and when the SR timeframe elapses and the session disconnects, Auto Client Reconnect kicks in.
 
 As an alternative to SR you can configure **ICA Keep-Alive**, which sends a constant stream of ICA packets every few seconds to detect if the session is active before marking it disconnected. In practice SR is almost always preferred over ICA Keep-Alive.
+
+## Verwante notities
+
+- [Citrix Adaptive Transport (Enlightened Data Transport / EDT)](citrix-adaptive-transport-edt.md)
+- [Framehawk: ICA over lossy, high-latency networks](framehawk.md)
+- [ICA ports, virtual channels and priorities](ica-ports-and-virtual-channels.md)
+- [What the ICA protocol does and its default ports](ica-protocol-fundamentals.md)
+- [Multi-Stream ICA: true network-level QoS via separate TCP/IP ports](multi-stream-ica.md)
+- [What happens inside the VDA during launch (PortICA/ICA service)](vda-internals-during-launch.md)

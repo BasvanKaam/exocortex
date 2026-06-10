@@ -21,3 +21,12 @@ Launching a pooled VDI virtual machine internally (no NetScaler, so no STA invol
 6. The local (or HTML5) Receiver auto-launches launch.ica, making a direct endpoint-to-VDA connection via ICA over port 1494.
 7. The VDA verifies its license with the Delivery Controller; the Delivery Controller checks the Citrix License Server for a valid ticket; Citrix policies are applied to the VDA.
 8. Windows authentication occurs between the domain controller and the Citrix VDI VM; the session initializes (profile load, GPOs, scripts, drive/printer mappings); session info is registered in the Central Site Database; the VDI session is fully launched.
+
+## Verwante notities
+
+- [Broker service, XML/STA and the 18 site services](broker-service-xml-sta-site-services.md)
+- [External launch process: Hosted Shared Desktop via NetScaler](external-launch-process-hsd-netscaler.md)
+- [Receiver for HTML5 as a fallback](html5-receiver-fallback.md)
+- [StoreFront authentication and resource enumeration traffic flow](storefront-authentication-traffic-flow.md)
+- [What happens inside the VDA during launch (PortICA/ICA service)](vda-internals-during-launch.md)
+- [Launching a VDI desktop from a trusted internal network](vdi-desktop-launch-sequence.md)

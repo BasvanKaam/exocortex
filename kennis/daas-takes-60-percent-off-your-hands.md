@@ -22,3 +22,13 @@ Nuance he raises himself: you can question whether AVD even counts as DaaS, sinc
 ## Bron-citaten (NL, verbatim)
 
 > “Je gaat, als je net uit eten bent geweest, ook niet zelf de afwas doen, toch?”
+
+## Verwante notities
+
+- [AVD - The Only Cloud Service That Runs Windows Client Multi-User](avd-windows-client-multi-user.md)
+- [DaaS / VDI Additions to the Technical Design](daas-vdi-technical-design-considerations.md)
+- [DaaS provider takes roughly 60% of the management off the IT department](daas-vendor-takes-60-percent-of-management.md)
+- [DaaS versus VDI](daas-vs-vdi.md)
+- [Bas's reframe: is AVD and/or Windows 365 Cloud PC really DaaS?](is-avd-and-windows-365-really-daas.md)
+- [Transformation: From Product to Service, Ownership to Usage](product-to-service-ownership-to-usage.md)
+- [Shared Responsibility Model (Restaurant Analogy)](shared-responsibility-model-restaurant-analogy.md)

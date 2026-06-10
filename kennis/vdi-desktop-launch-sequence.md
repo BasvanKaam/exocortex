@@ -22,3 +22,10 @@ When a VDI VM is launched (pre-subscribed, already on the user's StoreFront home
 7. The local Receiver (or HTML5 Receiver) reads and auto-launches launch.ica, initiating a direct connection from endpoint to VDA.
 8. The VDA verifies its license with the Controller; the Controller checks the Citrix License Server for a valid ticket (a change from IMA, where every Session Host talked to the license server).
 9. Applicable session policies are passed to the VDA and the session launches.
+
+## Verwante notities
+
+- [External launch process: Hosted Shared Desktop via NetScaler](external-launch-process-hsd-netscaler.md)
+- [Internal launch process: pooled VDI VM via StoreFront](internal-launch-process-pooled-vdi.md)
+- [StoreFront authentication and resource enumeration traffic flow](storefront-authentication-traffic-flow.md)
+- [What happens inside the VDA during launch (PortICA/ICA service)](vda-internals-during-launch.md)

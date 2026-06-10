@@ -23,3 +23,14 @@ Bas's own summary list closing the StoreFront chapter:
 - Multi-site deployments can map user groups to a preferred site and configure a Recovery site that sits idle until all other deployments stop accepting connections.
 - If only a single desktop is published, StoreFront auto-launches it after login; change via web.conf (CTX139058).
 - StoreFront is key for Receiver pass-through authentication / Single Sign-on (CTX200157).
+
+## Verwante notities
+
+- [Configuring Receiver connection information](receiver-connection-configuration-methods.md)
+- [Self Service Store vs Mandatory Store and shortcut-only mode](self-service-vs-mandatory-store.md)
+- [StoreFront multi-Site: aggregation, user mapping and recovery sites](storefront-multi-site-aggregation-and-user-mapping.md)
+- [StoreFront over Web Interface, and StoreFront design notes](storefront-over-web-interface.md)
+- [StoreFront resource subscription and Keywords](storefront-resource-subscription-keywords.md)
+- [StoreFront server sizing and supported OSes](storefront-server-sizing.md)
+- [StoreFront subscription storage, server groups and synchronization](storefront-subscription-storage-and-sync.md)
+- [StoreFront subscriptions, Self Service Store and Keywords](storefront-subscriptions-and-keywords.md)

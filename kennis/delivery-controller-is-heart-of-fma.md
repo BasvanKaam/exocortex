@@ -19,3 +19,12 @@ Bas frames the Delivery Controller(s) as the heart of an FMA deployment because 
 - Do not install SQL on the same machine as a Delivery Controller.
 
 He stresses Delivery Controllers are fundamentally different from the old Data Collectors: no Local Host Cache, direct database communication, no communication between Delivery Controllers, and a service-/agent(VDA)-based model.
+
+## Verwante notities
+
+- [The XenDesktop Central Site database](central-site-database-role.md)
+- [The Delivery Controller as the heart of the FMA](delivery-controller-heart-of-fma.md)
+- [Delivery Controller server sizing and supported OS](delivery-controller-sizing.md)
+- [Delivery Controller vs Data Collector differences](delivery-controller-vs-data-collector.md)
+- [The FlexCast Management Architecture and its thirteen core services](fma-thirteen-core-services-overview.md)
+- [The 'one is none' rule and Delivery Controller high availability](one-is-none-delivery-controller-ha.md)

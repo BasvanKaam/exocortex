@@ -20,3 +20,18 @@ His sharper reframe is that even if it were technically and practically possible
 > Hoewel de groei en met name de snelle toename niet te vergelijken is met wat er wereldwijd plaatsvindt, kan ik me voorstellen dat we op een punt komen (in de komende vijf tot tien jaar) dat het vrijwel onmogelijk of op z'n minst erg lastig is om deze ontwikkelingen zelfstandig bij te houden.
 >
 > opnieuw een gouden kans voor hybride infrastructuren
+
+## Verwante notities
+
+- [Azure Files: a cloud NAS, plus Azure File Sync for hybrid](azure-files-cloud-nas.md)
+- [Azure Stack HCI (renamed Azure Local): cloud in your own datacenter](azure-stack-hci-azure-local.md)
+- [Bas's list of reasons companies stay (partly) on-premises](bas-objections-to-full-cloud-migration.md)
+- [Bas's paper: Cloud Only? No. Cloud First or Hybrid? Yes.](bas-paper-cloud-only-no-cloud-first-yes.md)
+- [Paper conclusion: Cloud only? Maybe never](bas-paper-conclusion-cloud-only-never.md)
+- [Bas's war story: SAN/NAS data migrations were weeks of nightmares](bas-san-nas-nightmares.md)
+- [Data unit hierarchy from bit to Geopbyte](data-unit-hierarchy-bit-to-geopbyte.md)
+- [The less-obvious challenges of building datacenters](datacenter-hidden-challenges.md)
+- [Edge computing and Edge-nodes](edge-computing.md)
+- [Bas Disagrees With Gartner on Co-location's Demise](gartner-colocation-prediction-disagreement.md)
+- [Hybrid cloud: best of both worlds via ExpressRoute and low latency](hybrid-cloud-best-of-both-worlds.md)
+- [The 'Internet Minute' and global data growth](internet-minute-and-data-growth.md)

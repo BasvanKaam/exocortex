@@ -25,3 +25,14 @@ Launching a published Hosted Shared Desktop (XenApp) externally through NetScale
 10. The HSD session launches with NetScaler Gateway acting as proxy. Windows authentication occurs between the domain controller and the Citrix Worker/Session Host; the session initializes (profile load, GPOs, scripts, drive/printer mappings); session info is registered in the Central Site Database for future load balancing.
 
 FMA fact: the STA ticket is generated and sent back after a user launches an application/desktop, not during resource enumeration, and it includes the resource and the server to launch it on (load balance).
+
+## Verwante notities
+
+- [Broker Service: XML, STA and the Principal Broker](broker-service-xml-sta-principal.md)
+- [External user authentication through NetScaler](external-authentication-through-netscaler.md)
+- [FMA Broker Service (XML/STA) and its responsibilities](fma-broker-service.md)
+- [Internal launch process: pooled VDI VM via StoreFront](internal-launch-process-pooled-vdi.md)
+- [NetScaler SNIP, STA tickets and certificate practice](netscaler-snip-and-sta.md)
+- [Optimal NetScaler Gateway routing](optimal-netscaler-gateway-routing.md)
+- [The Secure Ticket Authority (STA)](secure-ticket-authority-sta.md)
+- [Launching a VDI desktop from a trusted internal network](vdi-desktop-launch-sequence.md)

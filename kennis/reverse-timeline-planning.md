@@ -20,3 +20,15 @@ In his XYZ-Care assignment the reverse timeline starts from the 'Go-Live' date a
 ## Bron-citaten (NL, verbatim)
 
 > Tegenwoordig zijn de data waarop bepaalde licenties moeten worden vernieuwd voor een tot drie jaar erg populair als compelling event.
+
+## Verwante notities
+
+- [Bas on the Cloud roadmap as a strategic tool](bas-cloud-roadmap-as-strategic-tool.md)
+- [Why Write a Business Case, and Its Key Elements](business-case-value-and-elements.md)
+- [The 'Cloud because of the Cloud' syndrome and poor migration planning](cloud-because-of-cloud-syndrome.md)
+- [The six-step process for building a cloud exit strategy](cloud-exit-strategy-steps.md)
+- [Selecting the First Migration Workload (Simple to Complex)](first-migration-workload-selection.md)
+- [Opdracht 9: Migration Mastery - Strategy to Execution (XYZ-Care)](migration-mastery-assignment-xyz-care.md)
+- [The project manager's role across migration phases](project-manager-role-cloud-migration.md)
+- [SCAF Execution Phase (Uitvoeringsfase) Overview](scaf-execution-phase-overview.md)
+- [SCAF visual timeline and Bas's preference for visual artifacts](scaf-visual-timeline.md)

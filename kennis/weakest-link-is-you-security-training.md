@@ -22,3 +22,8 @@ His warning: experienced Cloud/IT people too easily think 'pfff, this is obvious
 > “Het zal je verbazen hoeveel collega’s en medewerkers niet op de hoogte zijn van wat voor jou zo vanzelfsprekend lijkt. Er is altijd winst te halen. Je weet wat ze zeggen. Assumption is the mother of all f*ck-ups!”
 >
 > Maak deze fout alsjeblieft nooit.
+
+## Verwante notities
+
+- [Gartner: 99% of security issues are caused by people](gartner-99-percent-security-issues-are-people.md)
+- [Role-Specific Security Training (Don't Call Staff the Weakest Link)](people-are-the-weakest-link-training.md)

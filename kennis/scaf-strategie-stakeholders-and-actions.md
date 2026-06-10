@@ -24,3 +24,13 @@ bron: van-de-basis-tot-meester-in-de-cloud
 - Challenges, risks and concerns inventoried — a SWOT analysis can help.
 - Everyone aligned ("alle neuzen dezelfde kant op"), with agreements made and next phase scheduled.
 - Innovation and running projects recorded separately (see Inzicht); a strategy map produced; the next evaluation moment planned.
+
+## Verwante notities
+
+- [Opdracht 4 - Cloudkompas (XYZ-Care Health Group)](opdracht-cloudkompas-xyz-care.md)
+- [SCAF Execution Phase Stakeholders](scaf-execution-stakeholders.md)
+- [SCAF Insight Phase: Stakeholders to Involve](scaf-insight-stakeholders.md)
+- [SCAF Strategie: The Foundation Questions](scaf-strategie-fundament-questions.md)
+- [SCAF Strategie Pillar: Summary of Steps](scaf-strategie-pillar-step-summary.md)
+- [Strategy Map (Kaplan & Norton) in SCAF](strategy-map-kaplan-norton.md)
+- [SWOT Analysis in SCAF](swot-analysis-in-scaf.md)

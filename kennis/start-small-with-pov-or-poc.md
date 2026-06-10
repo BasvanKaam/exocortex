@@ -16,3 +16,15 @@ Within the Opdracht 5 wrap-up, Bas advises that a temporary Proof of Value (PoV)
 ## Bron-citaten (NL, verbatim)
 
 > Begin klein, met initiatieven die direct nut hebben
+
+## Verwante notities
+
+- [Promoting the CCoE: the 'kindergarten' war story and strategies](bas-promoting-the-ccoe-kindergarten-war-story.md)
+- [Cloud ideas for the modern, attractive employer](cloud-ideas-for-the-modern-attractive-employer.md)
+- [Start a DaaS Business Case 'High-Over' First](daas-business-case-high-over-first.md)
+- [Selecting the First Migration Workload (Simple to Complex)](first-migration-workload-selection.md)
+- [Mind The Gap: Shadow IT as Enabler and the Entry Point](mind-the-gap-shadow-it-as-enabler.md)
+- [Opdracht 5: build your own business case (the method)](opdracht-5-business-case-exercise.md)
+- [Everett Rogers' technology-adoption categories mapped to the hype cycle](rogers-technology-adoption-categories.md)
+- [SCAF Go/NoGo: The Insight-Phase Business Case](scaf-go-nogo-business-case.md)
+- [Where The Magic Happens and Het Laaghangend Fruit](where-the-magic-happens-laaghangend-fruit.md)

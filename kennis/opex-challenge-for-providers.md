@@ -20,3 +20,13 @@ Bottom line: for the supplier, Opex means income is uncertain; a balance between
 ## Bron-citaten (NL, verbatim)
 
 > Brons, zilver, goud, platina, zijn de geijkte voorbeelden
+
+## Verwante notities
+
+- [Bas on cost management: cost vs. value and ROI/TCO](bas-on-cost-management-roi-tco.md)
+- [Capex and Opex - Pros and Cons](capex-opex-pros-cons.md)
+- [Reading the Hosting Spectrum - Capex Falls, Opex Rises](capex-opex-shift-across-hosting-spectrum.md)
+- [Capex vs Opex in IT and Cloud](capex-vs-opex-in-it.md)
+- [Innovation Comes From Outside the Firewall](innovation-comes-from-outside-the-firewall.md)
+- [Comparing a Physical Server to Cloud Isn't Fair](physical-vs-cloud-server-not-fair-comparison.md)
+- [Transformation: From Product to Service, Ownership to Usage](product-to-service-ownership-to-usage.md)

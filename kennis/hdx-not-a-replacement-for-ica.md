@@ -22,3 +22,13 @@ He cheekily points readers to YouTube Framehawk comparison clips, asking 'Guess 
 ## Bron-citaten (NL, verbatim)
 
 > If you go to YouTube and search for Citrix Framehawk you will find multiple comparison clips of Framehawk vs. other technologies. Guess who comes out on top?
+
+## Verwante notities
+
+- [Citrix Adaptive Transport (Enlightened Data Transport / EDT)](citrix-adaptive-transport-edt.md)
+- [Citrix HDX: an extension to ICA, not a replacement](citrix-hdx-extends-ica.md)
+- [Framehawk: ICA over lossy, high-latency networks](framehawk.md)
+- [The origin of Citrix and the ICA protocol](history-of-citrix-and-ica.md)
+- [What the ICA protocol does and its default ports](ica-protocol-fundamentals.md)
+- [Receiver communications, ICA handshake and virtual channels](receiver-ica-handshake-and-virtual-channels.md)
+- [ThinWire compatibility mode: the low-footprint fallback for H.264](thinwire-compatibility-mode.md)

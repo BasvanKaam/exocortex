@@ -22,3 +22,14 @@ Topics Bas wants information on:
 - Routers, gateways, switches, load-balancers, etc.
 - Line/internet, LAN, WAN connections.
 - Risk analysis and prioritization.
+
+## Verwante notities
+
+- [Definitive Cloud and Refactor Choice (Rationalisation)](rationalisation-refactor-choice-execution.md)
+- [Risk analysis process steps](risk-analysis-process-steps.md)
+- [SCAF: Application, Data and System Inventory via Waves](scaf-application-data-system-inventory.md)
+- [SCAF Insight Phase: Actions and the Waves Approach](scaf-insight-actions-and-waves.md)
+- [SCAF Chapter 8: The Insight (Inzicht) Phase Foundation](scaf-insight-phase-foundation.md)
+- [SCAF Insight Phase: Stakeholders to Involve](scaf-insight-stakeholders.md)
+- [SCAF Insight: Workshop as Starting Point](scaf-workshop-starting-point.md)
+- [The Security Operations Center (SOC)](soc-security-operations-center.md)

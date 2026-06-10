@@ -21,3 +21,12 @@ Bas's chapter-15 takeaways on how the IT role is changing:
 - Innovation matters but must be combined with practical goals; a balanced approach prevents innovation harming stability and operations. Structures like an Innovation Board or an Office of the CTO can help.
 - Tools like the hype cycle and Magic Quadrants give insight into new technologies and vendor positions.
 - Personal development is necessary: keep learning, earn certifications, step out of the comfort zone. Read, learn and share — this strengthens both the professional and the organisation.
+
+## Verwante notities
+
+- [Bas on continuous study and self-investment](bas-on-continuous-study-and-self-investment.md)
+- [The Gartner Hype Cycle and its five stages](gartner-hype-cycle.md)
+- [Where to 'park' innovation: Innovation/Technology Board, Solutions Board, Office of the CTO](innovation-board-technology-board-office-of-cto.md)
+- [The IT (Cloud) Professional 2.0: from geek to strategic generalist](it-cloud-professional-2-0.md)
+- [Key Takeaways Chapter 4: Cloud Transformation Beyond Technology](key-takeaways-chapter-4-cloud-transformation.md)
+- [Bas on the value of IT communities](value-of-it-communities.md)

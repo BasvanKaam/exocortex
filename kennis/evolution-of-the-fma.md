@@ -18,3 +18,19 @@ XenApp joined the FMA on 26 June 2013 — the GA date of XenDesktop 7.0 — whic
 ## Bron-citaten (NL, verbatim)
 
 > Luckily, Citrix listened and reintroduced XenApp and XenDesktop as separate products with the release of version 7.5. I don't think they will make a mistake like that again.
+
+## Verwante notities
+
+- [Bas's take: the Current Release isn't really new](bas-current-release-not-really-new.md)
+- [Delivery Controller vs Data Collector differences](delivery-controller-vs-data-collector.md)
+- [Delivery Controller vs. Data Collector (FMA vs. IMA)](delivery-controller-vs-data-collector-2.md)
+- [FlexCast delivery technology, worker types and delivery models](flexcast-delivery-models-and-worker-types.md)
+- [FMA architectural casualties: Zones, LHC and Worker Groups removed then re-added](fma-architectural-changes-zones-lhc-removed.md)
+- [FMA evolution key dates](fma-evolution-key-dates.md)
+- [FMA foundation: .NET, WCF, CLR and just-in-time compilation](fma-foundation-dotnet-wcf-clr.md)
+- [The FlexCast Management Architecture and its thirteen core services](fma-thirteen-core-services-overview.md)
+- [FMA Controllers differ fundamentally from IMA Data Collectors](fma-vs-ima-controller-differences.md)
+- [The origin of Citrix and the ICA protocol](history-of-citrix-and-ica.md)
+- [IMA-to-FMA terminology mapping table](ima-vs-fma-terminology-mapping.md)
+- [The nine main FMA components and the XenDesktop Site definition](nine-main-fma-components.md)
+- [XenApp folded into the FMA: the Excalibur / XenDesktop 7.0 moment](xenapp-joins-fma-excalibur-2013.md)

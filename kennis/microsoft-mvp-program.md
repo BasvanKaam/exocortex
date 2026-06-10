@@ -16,3 +16,16 @@ Bas was a Microsoft MVP (Most Valuable Professional - he writes 'Microsoft Value
 He joined just before the world 'locked down', so he never got to travel to Redmond - though he says, honestly, he doesn't find that all that important. Microsoft also runs side-events (a Community Hub) at larger events like Microsoft Ignite, where MVPs often present and organise outings.
 
 How you become an MVP differs sharply from E2EVC. E2E is primarily a few annual physical gatherings - you buy a ticket, optionally sign up to present, book hotel, done. The MVP program is largely online/virtual (except the Summit); the bar to travel to Redmond is higher than to a city like Barcelona, Prague or Amsterdam (E2EVC). Microsoft runs monthly insider gatherings sharing roadmap info and asking MVPs for feedback, and you get access to beta products, free exams and much more. To join, you go through a process where a jury assesses and decides on you, repeated yearly. You're judged on the amount and type of community contributions: writing many blogs, giving Microsoft feedback, attending Microsoft webinars, mentoring, running a YouTube channel, etc. - it can be any combination of efforts.
+
+## Verwante notities
+
+- [Bas's take on Twitter/X and Bluesky for following experts](bas-on-twitter-x-and-bluesky.md)
+- [Bas van Kaam: experience, character and the people behind the book](bas-van-kaam-bio-and-character.md)
+- [Citrix Technology Professionals (CTP) and Citrix Technology Advocates (CTA)](citrix-technology-professionals-and-advocates.md)
+- [E2EVC (Expert to Expert Virtualization Congress)](e2evc-community.md)
+- [E2EVC: the Experts-2-Experts Virtualization Conference](e2evc-conference.md)
+- [E2EVC traditions: grandfathers and the networking game](e2evc-grandfathers-and-networking-game.md)
+- [Following Cloud and EUC experts on X (Twitter)](following-experts-on-x-twitter.md)
+- [Local communities and Meetup; Dutch community examples](local-communities-and-meetup.md)
+- [myCUGC: the Citrix User Group Community](mycugc-citrix-user-group-community.md)
+- [Bas on the value of IT communities](value-of-it-communities.md)

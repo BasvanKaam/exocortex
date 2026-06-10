@@ -25,3 +25,24 @@ DaaS (Desktop as a Service) is one of the best-known ways to deliver a modern cl
 - *App management & uptime:* VDI gives full control over installed/configured apps; DaaS depends on the provider, but large DaaS providers often offer higher uptime guarantees via advanced redundant datacenters.
 
 Summary: VDI gives more control and customisation but higher costs and complexity; DaaS gives lower initial costs, ideal for fast scaling without large investment.
+
+## Verwante notities
+
+- [Capex vs Opex in IT and Cloud](capex-vs-opex-in-it.md)
+- [Cloud delivery models: IaaS, PaaS, SaaS and DaaS](cloud-delivery-models-iaas-paas-saas-daas.md)
+- [Cloud service models: SaaS, PaaS, IaaS, DaaS](cloud-service-models-saas-paas-iaas-daas.md)
+- [CWC as a near-DaaS workaround for Microsoft desktop-OS licensing](cwc-desktop-os-daas-licensing.md)
+- [Start a DaaS Business Case 'High-Over' First](daas-business-case-high-over-first.md)
+- [DaaS Takes Roughly 60% Off Your Hands](daas-takes-60-percent-off-your-hands.md)
+- [Bas's 2018 reframe: true VDI from the cloud and Microsoft licensing](daas-true-vdi-licensing-evolution.md)
+- [DaaS / VDI Additions to the Technical Design](daas-vdi-technical-design-considerations.md)
+- [DaaS provider takes roughly 60% of the management off the IT department](daas-vendor-takes-60-percent-of-management.md)
+- [FlexCast delivery technology, worker types and delivery models](flexcast-delivery-models-and-worker-types.md)
+- [From Terminal Services to AVD - The Multi-User History](history-terminal-services-to-avd.md)
+- [Hybrid cloud: best of both worlds via ExpressRoute and low latency](hybrid-cloud-best-of-both-worlds.md)
+- [Bas's reframe: is AVD and/or Windows 365 Cloud PC really DaaS?](is-avd-and-windows-365-really-daas.md)
+- [Bas on cloud, hybrid and the future of on-premises VDI](is-cloud-vdi-still-relevant-takeaways.md)
+- [Microsoft SPLA and why true DaaS is restricted](microsoft-spla-daas-licensing-restriction.md)
+- [Microsoft VDA licenses and Software Assurance](microsoft-vda-license-software-assurance.md)
+- [Single-User vs Multi-User VDI/DaaS](single-user-vs-multi-user-vdi-daas.md)
+- [VDI and DaaS Are Now Practically Synonymous](vdi-daas-now-synonymous.md)

@@ -20,3 +20,13 @@ The important questions, assignments and AANTEKENINGEN (note) spaces in the book
 ## Bron-citaten (NL, verbatim)
 
 > de combinatie van nieuwe technologieën en old-school technieken een verrassend krachtige aanpak kan zijn, geloof me, ik kan het weten.
+
+## Verwante notities
+
+- [Bas's deliberate typography choices for the book](bas-book-typography-choices.md)
+- [Bas on why he likes Citrix printing](bas-likes-printing.md)
+- [Bas's reading habit: the 10-pages-a-morning method](bas-reading-habit-and-method.md)
+- [Bas's teaching philosophy: action and presenting beat passive reading](bas-teaching-philosophy-action-and-presenting.md)
+- [Per-chapter references and QR-code glossaries](glossary-via-qr-codes.md)
+- [The Learning Pyramid (National Training Laboratories)](learning-pyramid.md)
+- [Why the book uses a fictional case](why-a-fictional-case.md)

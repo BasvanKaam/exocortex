@@ -18,3 +18,13 @@ If the environment isn't set up for autoscaling, or there are limits on resource
 Mitigations Azure offers: Scale Sets for 'normal' virtual machines, and Scaling Plans for Azure Virtual Desktop hosts, to auto scale VM counts up/down by load and time of day. Third-party solutions can start/stop/build/delete VMs based on actual VM load through the day. Load balancers distribute traffic evenly across systems to keep performance stable at peaks.
 
 Bas notes the book doesn't deep-dive into architecture design (other good books exist), but mapping these issues IS part of his Step-Cloud Adoptie Framework (SCAF), specifically the Inzicht (Insight) and Uitvoering (Execution) chapters. His mantra: a good preparation is half the work — the right knowledge and expertise in the right place.
+
+## Verwante notities
+
+- [Azure high-availability building blocks](azure-high-availability-building-blocks.md)
+- [Cloud-Native: Designed for the Cloud from the Start](cloud-native-definition.md)
+- [DaaS / VDI Additions to the Technical Design](daas-vdi-technical-design-considerations.md)
+- [FaaS / Serverless Computing Explained](faas-serverless-explained.md)
+- [Bas on cloud, hybrid and the future of on-premises VDI](is-cloud-vdi-still-relevant-takeaways.md)
+- [Physical and software performance limits of the cloud](physical-and-software-cloud-performance-limits.md)
+- [SCAF Insight Phase: Actions and the Waves Approach](scaf-insight-actions-and-waves.md)

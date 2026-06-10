@@ -18,3 +18,11 @@ When auto-update is disabled or wrong, the VDA checks (in order): configured pol
 If a VDA cannot register or communication fails, you cannot connect to it. Bas calls out from experience that **VDA registration is the number-one issue reported to Citrix support** and deserves extra attention.
 
 The Citrix Desktop service (part of the installed VDA) communicates directly with the Broker service on the Controller and handles the initial registration via the **Connection Brokering Protocol (CBP)**, a collection of WCF endpoints. Restarting the Citrix Desktop service on the VDA triggers (forces) re-registration.
+
+## Verwante notities
+
+- [Desktop VDA core services: Citrix Desktop Service and Citrix ICA Service](desktop-vda-two-main-services.md)
+- [FMA Zones VDA registration and Controller failover](fma-zones-vda-registration-and-failover.md)
+- [VDA high-availability mode (direct ICA, last resort)](vda-high-availability-mode.md)
+- [The VDA: client-side component, services and registration](vda-overview-services-and-registration.md)
+- [VDA registration and how to verify it](vda-registration-and-verification.md)

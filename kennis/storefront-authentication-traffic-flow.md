@@ -22,3 +22,18 @@ Users authenticate to StoreFront via username/password, Domain pass-through, Net
 6. StoreFront generates a web page showing the resource icons.
 
 Web Interface (EOL June 2018) works differently: it has NO internal authentication service and immediately forwards credentials as an XML query to a Controller. Citrix recommends StoreFront for new and existing deployments. As of StoreFront 3.0, XML-based authentication was reintroduced (a few PowerShell scripts make auth fall back to the XML service like Web Interface), useful when StoreFront is in a different domain or no AD trust is possible; disabled by default.
+
+## Verwante notities
+
+- [Bas's distinction: authentication versus verification](authentication-vs-verification-distinction.md)
+- [Bas's distinction between authentication and verification](authentication-vs-verification-distinction-2.md)
+- [Beacon-based Receiver connection routing](beacon-based-receiver-connection-routing.md)
+- [Broker Service: XML, STA and the Principal Broker](broker-service-xml-sta-principal.md)
+- [Desktop Appliance sites for non-domain-joined machines](desktop-appliance-sites.md)
+- [External user authentication through NetScaler](external-authentication-through-netscaler.md)
+- [Internal launch process: pooled VDI VM via StoreFront](internal-launch-process-pooled-vdi.md)
+- [Securing StoreFront connections with SSL and NetScaler](securing-storefront-connections-with-ssl.md)
+- [StoreFront over Web Interface, and StoreFront design notes](storefront-over-web-interface.md)
+- [StoreFront vs Web Interface user authentication](storefront-vs-web-interface-authentication.md)
+- [Launching a VDI desktop from a trusted internal network](vdi-desktop-launch-sequence.md)
+- [XenApp Services URLs for legacy Receiver access](xenapp-services-urls-legacy-access.md)

@@ -16,3 +16,7 @@ Bas tells the story of Check Point Software Technologies, a global cybersecurity
 The war story: a few years ago, after earlier going after WhatsApp, TikTok and Zoom, Check Point's turn came for Microsoft Azure. Companies like Microsoft, Google and AWS offer 'bug bounties' to researchers for finding vulnerabilities, and Check Point can join such programs at the company's request for a financial reward. The Azure test had far-reaching consequences: the isolation between tenants could be broken, making it possible to intercept, view and even modify code from other tenants. The severity was rated a perfect 10.0 on the security-risk scale.
 
 A key nuance: Check Point ran the tests not on the live Azure cloud but on the offline Azure Stack (HCI), a near-identical replica of Microsoft's cloud environment. After the vulnerabilities were found, Microsoft confirmed they would also be present in the cloud, patched them, and rewarded Check Point with a bug bounty. Bas's takeaway: this underscores the importance of collaboration between security researchers and cloud providers to find and fix threats before malicious actors can exploit them.
+
+## Verwante notities
+
+- [Hyperscaler security investments and certifications](cloud-provider-security-investments.md)

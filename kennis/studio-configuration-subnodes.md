@@ -20,3 +20,14 @@ Under the Configuration node:
 - StoreFront: add an existing StoreFront deployment to configure Receiver on Delivery Group machines (does not enable StoreFront management from Studio).
 - App-V Publishing: add/remove Microsoft App-V Management and Publishing servers. As of 7.8 you can add App-V packages directly via a UNC path; Ctxappvlauncher.exe handles it.
 - AppDNA: integrated into Studio as of 7.8 but still installed as a separate product. Simplifies application management (Discover, Model, Automate, Manage); reports compatibility and remediation, can auto-create MSI packages (Platinum only).
+
+## Verwante notities
+
+- [App-V management from Citrix Studio (XenDesktop 7.8)](app-v-in-xendesktop-7-8.md)
+- [Application delivery: layering vs virtualisation, and AppDisks](application-delivery-layering-vs-virtualisation.md)
+- [Citrix Host Connection](citrix-host-connection.md)
+- [Citrix Licensing components and FlexNet](citrix-licensing-components-and-flexnet.md)
+- [Citrix Site policies: Entitlement, Assignment, Site Access](citrix-site-policies-powershell.md)
+- [Citrix Studio: the central management console](citrix-studio-overview.md)
+- [Microsoft App-V components and licensing with Citrix](microsoft-app-v-with-citrix.md)
+- [Citrix Studio console root nodes](studio-console-root-nodes.md)

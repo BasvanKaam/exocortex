@@ -16,3 +16,10 @@ CDF stands for Citrix Diagnostic Facility. CDF Control is an event tracing contr
 Each Citrix component is split into categories (trace providers) such as USB, ICA traffic, printing, FMA services, profile management, and provisioning services. Categories are divided into modules, which consist of trace messages. A running trace reads the trace messages, which respond with their current state (possibly an error code). A Delivery Controller holds far more modules/trace messages than a VDI VM.
 
 CDF traces are saved with the .etl extension under `AppData\Local\Temp\Scout\`. Because logged data is partly in GUID form, .etl files must be parsed with TMF (Trace Message Format) files before being readable. TMF files come in public (for personal parsing) and private (CTX Support only) variants. Public TMF files can be downloaded via CDF Control or used live from an online TMF server; Bas advises always downloading them, because online parsing fails on high-latency lines, offline TMF servers, or large traces. Parsing .etl files is relatively easy, but reading them to find the actual fault requires special skills.
+
+## Verwante notities
+
+- [Citrix Scout: the aggregating troubleshooting tool](citrix-scout-aggregator.md)
+- [Citrix Diagnostic Toolkit and Supportability Pack collections](citrix-toolset-collections.md)
+- [PortICA / picaSvc2.exe: the critical VDA ICA service](portica-picasvc2-service.md)
+- [Service logging in XenDesktop (command-line vs Scout)](xendesktop-service-logging.md)

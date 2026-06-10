@@ -16,3 +16,13 @@ Citrix Insight Services (cis.citrix.com) is described by Bas as 'the glue bindin
 When it discovers known issues it suggests hotfixes, patches and updates with red/yellow/green prioritisation, analyses configuration, and gives best-practice advice with links to relevant articles/white papers. It is also useful as a quick infrastructure Health Check. Reference: CTX131233.
 
 Call Home and CIS in Director: Citrix Call Home periodically collects system/product configuration plus performance and error info. As of XenDesktop 7.8 this can be automatically (scheduled) sent to Citrix Insight Services for proactive analysis, and CIS can be accessed instantly from Director via a drop-down menu.
+
+## Verwante notities
+
+- [Citrix print troubleshooting tools](citrix-print-troubleshooting-tools.md)
+- [Citrix printing troubleshooting and verification tools](citrix-printing-troubleshooting-tools.md)
+- [Citrix Scout: the aggregating troubleshooting tool](citrix-scout-aggregator.md)
+- [Citrix Diagnostic Toolkit and Supportability Pack collections](citrix-toolset-collections.md)
+- [Director and built-in EdgeSight](director-monitoring-tool.md)
+- [Director SCOM and Insight Services integration](director-scom-and-insight-services-integration.md)
+- [HDX Monitor: HDX diagnostics tool](hdx-monitor-tool.md)

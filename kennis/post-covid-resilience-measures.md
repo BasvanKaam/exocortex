@@ -17,3 +17,13 @@ After COVID, organisations focused on being better prepared for a future event o
 - Supply-chain diversification: moving away from dependence on specific suppliers or regions by adding alternative, more local or regional partners, reducing the risk of disruption from a single location. This proved valuable during COVID when international supply routes came under pressure, and applies to other large-scale disruptive events too.
 - Stronger integration of digital collaboration tools (Microsoft Teams, Zoom, Slack), now indispensable and seamlessly embedded, enabling fast switching between hybrid and fully remote work without major productivity loss.
 - Heavy investment in automation and AI to reduce reliance on manual processes, since automated processes are more stable and less error-prone, used for tasks like answering customer questions, data management and even personnel management, boosting continuity and resilience during crises.
+
+## Verwante notities
+
+- [Bas on disaster recovery: no blueprint, and don't forget the BUDGET](bas-on-disaster-recovery-and-budget.md)
+- [COVID-19 as a cloud accelerant: the key statistics](covid-19-cloud-acceleration-stats.md)
+- [The less-obvious challenges of building datacenters](datacenter-hidden-challenges.md)
+- [Standard components of a disaster recovery (DR) plan](disaster-recovery-plan-components.md)
+- [Bas opens the COVID chapter with a Nostradamus quatrain](nostradamus-pandemic-quatrain.md)
+- [Post-COVID work models and continued cloud growth](post-covid-work-and-cloud-trends.md)
+- [Why high availability and DR matter: ransomware and data hostage](ransomware-data-hostage.md)

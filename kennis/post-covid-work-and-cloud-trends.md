@@ -24,3 +24,17 @@ Unchanging benefits organisations experience: scalability, cost efficiency, flex
 ## Bron-citaten (NL, verbatim)
 
 > mits goed gemanaged en ingericht, uiteraard
+
+## Verwante notities
+
+- [Bas's COVID-era asides and skepticism on the stats](bas-covid-asides-and-skepticism.md)
+- [Bas on digital nomads: living while you work](bas-on-digital-nomads-freedom.md)
+- [Cloud as the backbone of the digital-nomad life](cloud-as-backbone-of-nomad-life.md)
+- [Cloud ideas for the modern, attractive employer](cloud-ideas-for-the-modern-attractive-employer.md)
+- [Cloud Market Statistics (2024)](cloud-market-statistics-2024.md)
+- [COVID-19 as a cloud accelerant: the key statistics](covid-19-cloud-acceleration-stats.md)
+- [Why people choose nomad life — and its downsides](digital-nomad-reasons-and-downsides.md)
+- [Digital-nomad visas and the future of work](digital-nomad-visas-and-future-of-work.md)
+- [Bas opens the COVID chapter with a Nostradamus quatrain](nostradamus-pandemic-quatrain.md)
+- [Obvious cloud trends (multi-cloud, edge, zero trust, serverless, green)](obvious-cloud-trends-list.md)
+- [Post-COVID resilience: BCPs, redundancy, supply chains, automation](post-covid-resilience-measures.md)

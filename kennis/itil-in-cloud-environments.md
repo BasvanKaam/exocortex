@@ -16,3 +16,13 @@ ITIL is one of the most widely used frameworks for IT service delivery and is we
 Cloud strongly affects IT service management. Its dynamic nature means service portfolios change more often, and organisations must manage a growing number of contracts and SLAs from different providers, all of which must be presented to the business as one uniform set of services. Incident, problem and change management run differently depending on the type of cloud service and its SLAs. To succeed in a cloud environment, service management must be (or become) mature, which usually requires revising and strengthening existing processes.
 
 This is especially relevant when the internal IT department takes on the role of service broker (regie).
+
+## Verwante notities
+
+- [Bas on the helpdesk as first point of contact](bas-on-the-helpdesk-experience.md)
+- [Cloud Cultural Shifts: DevOps, Automation, New Roles](cloud-cultural-shifts-overview.md)
+- [SLA pitfalls to analyse for a cloud exit strategy](cloud-sla-pitfalls-exit.md)
+- [Enterprise Architecture (EA) and TOGAF](enterprise-architecture-togaf.md)
+- [From Beheer to Regie: The Regieorganisatie Model](from-beheer-to-regie-organisation.md)
+- [IT as Internal Broker and the Regie-Organisatie](it-as-internal-broker-regie-organisatie.md)
+- [ITIL Processes That Need Attention When Introducing Cloud](itil-process-changes-for-cloud.md)

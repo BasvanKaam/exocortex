@@ -21,3 +21,15 @@ Bas notes that when the modern workplace based on Cloud technology is in play, D
 - Security measures for virtual desktops: antivirus, endpoint security, data encryption, settings to prevent data sharing/leaking between desktops and protect user privacy.
 - Monitoring and management: monitoring performance/availability with failure and performance alerts; tools/reports for resource use (CPU, RAM, storage), network performance and user experience.
 - Cost management and optimisation: tracking costs per user and per desktop, optimising via a tagging strategy, cost centres per subscription, switching off desktops when not in use, budget and alerts, periodic evaluation to prevent cost overruns.
+
+## Verwante notities
+
+- [Autoscaling and the Black Friday Scenario](autoscaling-black-friday-scenario.md)
+- [Azure Files: a cloud NAS, plus Azure File Sync for hybrid](azure-files-cloud-nas.md)
+- [DaaS Takes Roughly 60% Off Your Hands](daas-takes-60-percent-off-your-hands.md)
+- [DaaS versus VDI](daas-vs-vdi.md)
+- [Functional Design with Functional Tests](functional-design-and-functional-tests.md)
+- [Bas's mini business case: the current-vs-possible mapping table](mini-business-case-current-vs-hybrid-table.md)
+- [Single-User vs Multi-User VDI/DaaS](single-user-vs-multi-user-vdi-daas.md)
+- [Technical/Functional Design as Cloud Blueprint](technical-functional-design-blueprint.md)
+- [Windows 365 Cloud PC](windows-365-cloud-pc.md)

@@ -20,3 +20,16 @@ The level of detail in a service catalog varies per organisation. IT manages thi
 Bas predicts the traditional IT organisation will step by step change into a so-called regie-organisatie (orchestration/governance organisation): the traditional management role becomes a director/orchestration role, and where the focus once lay on the own organisation, it now lies on the customer- and supplier relationship.
 
 Definition: A Shared Service Center (SSC) is a central organisational unit that delivers specific business functions (IT, HR, finance, administration) for multiple departments or business units; municipalities (gemeenten) are a good example.
+
+## Verwante notities
+
+- [The 'Cloud because of the Cloud' syndrome and poor migration planning](cloud-because-of-cloud-syndrome.md)
+- [From Beheer to Regie: The Regieorganisatie Model](from-beheer-to-regie-organisation.md)
+- [ITIL Service Management in Cloud Environments](itil-in-cloud-environments.md)
+- [ITIL Processes That Need Attention When Introducing Cloud](itil-process-changes-for-cloud.md)
+- [Key Takeaways Chapter 4: Cloud Transformation Beyond Technology](key-takeaways-chapter-4-cloud-transformation.md)
+- [Opdracht 3: Beheer-to-Regie Self-Assessment](opdracht-3-beheer-naar-regie-self-assessment.md)
+- [Opdracht 3: Result Interpretation Bands](opdracht-3-result-interpretation.md)
+- [The Beheer-to-Regie Transition Is About People](regie-transition-is-about-people.md)
+- [Shadow IT: The Business User in the Driver's Seat](shadow-it-business-user-in-driver-seat.md)
+- [The Gap Between IT and 'The Business'](the-gap-between-it-and-the-business.md)

@@ -25,3 +25,12 @@ Limitations while Connection Leasing is active:
 - A 2-minute brokering gap exists when the database becomes unavailable or is restored.
 - Users must have logged on within the default 14-day period.
 - Connection Leasing only works for assigned resources, not pooled desktops, and does not support anonymous users.
+
+## Verwante notities
+
+- [The Central Site database in the FMA](central-site-database-fma.md)
+- [High-availability options for the Central Site database](central-site-database-ha-options.md)
+- [Connection Leasing mechanism](connection-leasing-mechanism.md)
+- [FMA Local Host Cache: Principal Broker, Secondary Broker (HA) and CSS](fma-local-host-cache-services.md)
+- [IMA Zones vs. FMA Zones comparison](ima-zones-vs-fma-zones-comparison.md)
+- [The 'one is none' rule and Delivery Controller high availability](one-is-none-delivery-controller-ha.md)

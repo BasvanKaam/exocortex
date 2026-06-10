@@ -24,3 +24,12 @@ Tools to calculate current load or predict needed configuration/IOPS:
 4. The Cloud Calculator - disk RAID and IOPS calculator
 5. Process Monitor - general IOPS analysis
 6. Login VSI - VDI workload generator to simulate user activity
+
+## Verwante notities
+
+- [Bas on IOPS, latency and storage sizing](iops-and-latency-fundamentals.md)
+- [IOPS fundamentals: latency is king](iops-fundamentals-latency.md)
+- [Not all IOPS are the same: the three golden parameters](iops-not-all-the-same.md)
+- [MCS IOPS profile: ~1.6x PVS average, ~1.2x steady state](mcs-iops-vs-pvs.md)
+- [The RAID write penalty](raid-write-penalty.md)
+- [The five VDI workload phases and boot/logon storms](vdi-five-phases-storms.md)

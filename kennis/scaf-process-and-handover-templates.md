@@ -20,3 +20,14 @@ Further SCAF toolkit templates described by Bas:
 - **Proces flowchart template**: to visually map workflows, process steps, decision points and activity order.
 - **Procesvastlegging template**: to document business processes in detail (name, purpose, owner, roles/responsibilities, steps, control mechanisms, input/output, process boundaries, and references to flowcharts).
 - **Cloudadoptie-migratie-implementatie planning template**: planning template describing steps, roles, responsibilities, resources, communication requirements, an execution schedule and expected impact/risks. (Not in toolkit.)
+
+## Verwante notities
+
+- [Bas's Lessons Learned document: a living continuous-learning tool](bas-lessons-learned-document-method.md)
+- [Bas on documentation: the 'undervalued child' of IT](bas-on-documentation-the-undervalued-child.md)
+- [Bas on handover: 'simple is better'](bas-on-simplicity-handover-checklist.md)
+- [SCAF Cloud governance: putting the dots on the i](scaf-cloud-governance-checklist.md)
+- [SCAF Cloud Governance Roles](scaf-cloud-governance-roles.md)
+- [SCAF Execution Phase Supporting Documentation](scaf-execution-supporting-documentation.md)
+- [SCAF management-summary 'palet' templates per phase](scaf-management-summary-templates.md)
+- [SCAF supporting templates: RACI, Risk Register, Skill Readiness](scaf-supporting-templates-overview.md)

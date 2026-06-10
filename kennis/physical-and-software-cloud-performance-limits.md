@@ -22,3 +22,15 @@ Two concrete examples:
 ## Bron-citaten (NL, verbatim)
 
 > Dat kan niet de bedoeling van Cloud zijn, toch?
+
+## Verwante notities
+
+- [Autoscaling and the Black Friday Scenario](autoscaling-black-friday-scenario.md)
+- [Bas: forcing the client printing pathway (and its exception)](bas-forcing-client-printing-pathway.md)
+- [Bas's list of reasons companies stay (partly) on-premises](bas-objections-to-full-cloud-migration.md)
+- [Hybrid cloud: best of both worlds via ExpressRoute and low latency](hybrid-cloud-best-of-both-worlds.md)
+- [Hybrid Latency and the Region-Choice Pitfall](hybrid-latency-region-choice-pitfall.md)
+- [Bas on cloud, hybrid and the future of on-premises VDI](is-cloud-vdi-still-relevant-takeaways.md)
+- [Bas's warning: Cloud apps with on-premises backends invite latency trouble](latency-cloud-app-onprem-backend.md)
+- [Performance and Stability: You Trade Control for Provider Scale](performance-stability-and-provider-scale.md)
+- [Comparing a Physical Server to Cloud Isn't Fair](physical-vs-cloud-server-not-fair-comparison.md)

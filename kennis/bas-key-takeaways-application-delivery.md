@@ -25,3 +25,13 @@ Bas's closing takeaways for the application-layering chapter:
 > Just don't go nuts: keep the number of images to manage to a minimum. Less is more.
 >
 > another tool in the toolbox to make life a little easier
+
+## Verwante notities
+
+- [Application delivery: layering vs virtualisation, and AppDisks](application-delivery-layering-vs-virtualisation.md)
+- [Three flavours of application delivery in XenDesktop/XenApp](application-delivery-three-flavours.md)
+- [Bas's questions before choosing a layering solution](bas-layering-questions-to-ask.md)
+- [Bas on the pros of application layering](bas-pros-of-application-layering.md)
+- [Bas on the 'big, bad image' problem](bas-the-big-bad-base-image.md)
+- [Citrix AppDisks: application layering for golden images](citrix-appdisks-application-layering.md)
+- [How application layering works (filter drivers)](how-application-layering-works.md)

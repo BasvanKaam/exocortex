@@ -18,3 +18,11 @@ Bas's view of the future: it probably lies somewhere between fully remote and tr
 ## Bron-citaten (NL, verbatim)
 
 > Minder controle, meer vertrouwen. Zoals het zou moeten zijn, als je het mij vraagt.
+
+## Verwante notities
+
+- [Bas on digital nomads: living while you work](bas-on-digital-nomads-freedom.md)
+- [The human factor: loss of control and trust](bas-on-the-human-factor-and-loss-of-control.md)
+- [Cloud as the backbone of the digital-nomad life](cloud-as-backbone-of-nomad-life.md)
+- [Why people choose nomad life — and its downsides](digital-nomad-reasons-and-downsides.md)
+- [Post-COVID work models and continued cloud growth](post-covid-work-and-cloud-trends.md)

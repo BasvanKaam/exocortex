@@ -20,3 +20,14 @@ On a personal note, after three years as a CTP, Bas decided it was time to move 
 ## Bron-citaten (NL, verbatim)
 
 > After being a CTP for three years I’ve decided it’s time to move on and make room for others. I voluntarily gave up my CTP seat and internally applied to become a CTA instead.
+
+## Verwante notities
+
+- [Bas van Kaam: experience, character and the people behind the book](bas-van-kaam-bio-and-character.md)
+- [E2EVC (Expert to Expert Virtualization Congress)](e2evc-community.md)
+- [E2EVC: the Experts-2-Experts Virtualization Conference](e2evc-conference.md)
+- [E2EVC traditions: grandfathers and the networking game](e2evc-grandfathers-and-networking-game.md)
+- [Community resources: Team RGE and Marius Sandbu's NetScaler e-Book](euc-community-resources-teamrge-msandbu.md)
+- [The Microsoft MVP program](microsoft-mvp-program.md)
+- [myCUGC: the Citrix User Group Community](mycugc-citrix-user-group-community.md)
+- [Bas on the value of IT communities](value-of-it-communities.md)

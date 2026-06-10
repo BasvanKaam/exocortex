@@ -28,3 +28,12 @@ He sums up his troubleshooting philosophy: 'if you don't know or understand the 
 ## Bron-citaten (NL, verbatim)
 
 > if you don't know or understand the basics of what you are dealing with, then you're bound to get lost, fast.
+
+## Verwante notities
+
+- [Bas's distinction: authentication versus verification](authentication-vs-verification-distinction.md)
+- [Bas's distinction between authentication and verification](authentication-vs-verification-distinction-2.md)
+- [Bas's troubleshooting philosophy: prepare in times of peace](bas-troubleshooting-philosophy-prepare-in-peace.md)
+- [Broker Service: XML, STA and the Principal Broker](broker-service-xml-sta-principal.md)
+- [Delivery Controller vs Data Collector differences](delivery-controller-vs-data-collector.md)
+- [External user authentication through NetScaler](external-authentication-through-netscaler.md)

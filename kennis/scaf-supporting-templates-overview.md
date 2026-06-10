@@ -20,3 +20,16 @@ Bas's Step-Cloud Adoptie Framework (SCAF) ships a toolkit of supporting template
 ## Bron-citaten (NL, verbatim)
 
 > RACI staat voor Responsible (verantwoordelijk voor uitvoering), Accountable (eindverantwoordelijk), Consulted (geconsulteerd voor input), en Informed (geïnformeerd over de voortgang en resultaten).
+
+## Verwante notities
+
+- [Ambassadors and skill readiness in the execution phase](ambassadors-skill-readiness.md)
+- [Risk Register (Risicoregister)](risk-register-risicoregister.md)
+- [SCAF Documentation and Templates](scaf-documentation-templates.md)
+- [SCAF Execution Phase Supporting Documentation](scaf-execution-supporting-documentation.md)
+- [SCAF GAP-analysis and Impact-analysis templates](scaf-gap-and-impact-analysis-templates.md)
+- [SCAF: Knowledge, Teams, Roles and Responsibilities](scaf-knowledge-teams-raci-gap.md)
+- [SCAF process, governance, communication and handover templates](scaf-process-and-handover-templates.md)
+- [SCAF strategy-phase templates: Summary Palet, Strategy Map, SWOT](scaf-strategy-phase-templates.md)
+- [SCAF Toolkit: 20 downloadable templates and what's excluded](scaf-toolkit-download-and-templates.md)
+- [Bas: use the SCAF toolkit as inspiration, not a checklist](scaf-toolkit-use-it-as-inspiration.md)

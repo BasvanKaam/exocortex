@@ -18,3 +18,14 @@ A **service object** represents an application running on a back-end system (e.g
 Chain: vServer (VIP, name, protocol, port) → bound to service object → bound to server object → points to the real back-end server.
 
 **Monitors:** load balancing happens at the vServer/service-object level. A monitor is a logical object bound to the service object that continuously checks back-end health. When a back-end or its service becomes unresponsive, the monitor marks the service down in the console and stops sending traffic, preventing 404 errors from being load-balanced to dead services.
+
+## Verwante notities
+
+- [NetScaler ADC vs NetScaler Gateway](netscaler-adc-vs-gateway.md)
+- [NetScaler appliance models: VPX, MPX, SDX, CPX](netscaler-appliance-models-vpx-mpx-sdx-cpx.md)
+- [NetScaler high availability and clustering](netscaler-high-availability-clustering.md)
+- [NetScaler IP addresses: NSIP, SNIP and MIP](netscaler-ip-addresses-nsip-snip-mip.md)
+- [NetScaler static routes](netscaler-static-routes.md)
+- [NetScaler Unified Gateway](netscaler-unified-gateway.md)
+- [Optimal NetScaler Gateway routing](optimal-netscaler-gateway-routing.md)
+- [StoreFront high availability and Delivery Controller load balancing](storefront-ha-and-load-balancing.md)

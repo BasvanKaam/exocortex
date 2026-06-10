@@ -19,3 +19,14 @@ Bas's guidance on the human side of cloud transformation:
 - **Work anywhere** — needs clear remote-work policy with strong authentication, encryption, and mobile-device monitoring.
 - **The provider sets the rules** — you must adapt to provider terms/updates (price, feature, availability changes). A multi-cloud strategy reduces vendor lock-in but adds complexity.
 - **Cloud exit strategy** — always have a plan B to switch provider or return on-premises: plan data migrations, map dependencies on specific cloud services, identify alternative suppliers. Chapter 12 covers this deeper.
+
+## Verwante notities
+
+- [Bas's War Story: The IaC Dependency Trap](bas-iac-dependency-trap.md)
+- [The human factor: loss of control and trust](bas-on-the-human-factor-and-loss-of-control.md)
+- [Why have a cloud exit strategy - the exit comes before onboarding](cloud-exit-strategy-rationale.md)
+- [Bas: the cloud doesn't make people redundant, it frees them for better work](cloud-frees-people-for-better-work.md)
+- [Cultural Shift: Communicate, Communicate, Communicate](cultural-shift-communicate-communicate.md)
+- [Bas on 'Angst': the human side of cloud adoption](fear-and-the-human-side-of-cloud-adoption.md)
+- [The Beheer-to-Regie Transition Is About People](regie-transition-is-about-people.md)
+- [Resistance: cloud is more than technology](resistance-to-change-in-cloud-adoption.md)

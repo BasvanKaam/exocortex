@@ -18,3 +18,13 @@ Exception: non-Windows machines such as Linux thin clients still need separate V
 **Roaming rights:** a user with a corporate VDA-licensed device may use their home PC to access the corporate VM under the same VDA license, but a personally owned non-corporate device brought into the office needs its own VDA license. Per Microsoft, roaming rights only apply while roaming outside the corporate domain.
 
 Important scope: VDA licenses do not apply to Citrix XenApp — if you access a Windows desktop OS VM from a physical PC (not on a server), no VDA license is needed. SA benefits allow up to four VMs (VDI) or one physical machine running a Windows desktop OS.
+
+## Verwante notities
+
+- [CWC as a near-DaaS workaround for Microsoft desktop-OS licensing](cwc-desktop-os-daas-licensing.md)
+- [Bas's 2018 reframe: true VDI from the cloud and Microsoft licensing](daas-true-vdi-licensing-evolution.md)
+- [DaaS versus VDI](daas-vs-vdi.md)
+- [Microsoft CDL (Companion Desktop License)](microsoft-cdl-companion-device-license.md)
+- [Microsoft RDS CALs and the XenApp vs XenDesktop split](microsoft-rds-cals-with-xenapp.md)
+- [Microsoft SPLA and why true DaaS is restricted](microsoft-spla-daas-licensing-restriction.md)
+- [VDA license rules and Microsoft licensing nuances](vda-license-rules-microsoft-licensing.md)

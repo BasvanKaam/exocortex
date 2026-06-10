@@ -31,3 +31,13 @@ He also quips that remote/hybrid work is now embedded in company policy "behalve
 > Gartner voorspelt dat tegen 2025 ongeveer 85 procent van de bedrijfsapplicaties in de Cloud zal draaien (dit lijkt me niet juist, hierover later meer)
 >
 > Behalve als je voor Tesla werkt, blijkbaar.
+
+## Verwante notities
+
+- [Bas deconstructs the cloud promises](bas-deconstructs-the-cloud-promises.md)
+- [Cloud Market Statistics (2024)](cloud-market-statistics-2024.md)
+- [COVID-19 as a cloud accelerant: the key statistics](covid-19-cloud-acceleration-stats.md)
+- [Choosing a CSP: Azure as the Default for Microsoft Shops](csp-platform-choice-azure-default.md)
+- [Bas Disagrees With Gartner on Co-location's Demise](gartner-colocation-prediction-disagreement.md)
+- [Bas opens the COVID chapter with a Nostradamus quatrain](nostradamus-pandemic-quatrain.md)
+- [Post-COVID work models and continued cloud growth](post-covid-work-and-cloud-trends.md)

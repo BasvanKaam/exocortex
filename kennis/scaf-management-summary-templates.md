@@ -18,3 +18,14 @@ In the SCAF, each phase closes with a final report and/or summary that feeds the
 - **Eindrapportage management samenvatting palet**: guideline for the overall final report, more varied in topics, covering drivers for Cloud migration, strategic goals, risks and identified gaps, financial and operational impact, implementation/transition progress, involved teams and a summary of modernisation activities.
 
 The per-phase **handleiding templates** (Strategie, Inzicht, Uitvoering, Adoptie) that explain how to walk a phase are NOT included in the toolkit.
+
+## Verwante notities
+
+- [SCAF Adoption result: the end goal of the Cloud transition](scaf-adoption-phase-result.md)
+- [SCAF Documentation and Templates](scaf-documentation-templates.md)
+- [SCAF Go/NoGo: The Insight-Phase Business Case](scaf-go-nogo-business-case.md)
+- [SCAF Insight Phase: Results and Supporting Documentation](scaf-insight-results-and-documentation.md)
+- [SCAF process, governance, communication and handover templates](scaf-process-and-handover-templates.md)
+- [SCAF strategy-phase templates: Summary Palet, Strategy Map, SWOT](scaf-strategy-phase-templates.md)
+- [SCAF Toolkit: 20 downloadable templates and what's excluded](scaf-toolkit-download-and-templates.md)
+- [SCAF visual timeline and Bas's preference for visual artifacts](scaf-visual-timeline.md)

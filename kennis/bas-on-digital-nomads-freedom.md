@@ -24,3 +24,13 @@ Bas notes the lifestyle is growing among older generations too (fifties and sixt
 > Niet ‘werken om te leven’, maar leven terwijl je werkt.
 >
 > Niet omdat het moet, maar omdat het kan.
+
+## Verwante notities
+
+- [Bas's reading habit: the 10-pages-a-morning method](bas-reading-habit-and-method.md)
+- [Cloud as the backbone of the digital-nomad life](cloud-as-backbone-of-nomad-life.md)
+- [Cloud ideas for the modern, attractive employer](cloud-ideas-for-the-modern-attractive-employer.md)
+- [Why people choose nomad life — and its downsides](digital-nomad-reasons-and-downsides.md)
+- [Digital-nomad visas and the future of work](digital-nomad-visas-and-future-of-work.md)
+- [War story: the Friday-afternoon Unreal Tournament community](friday-afternoon-unreal-tournament-community.md)
+- [Post-COVID work models and continued cloud growth](post-covid-work-and-cloud-trends.md)

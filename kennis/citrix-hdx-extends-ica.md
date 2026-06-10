@@ -16,3 +16,16 @@ HDX (High Definition Experience) is more than 'just' the ICA protocol and is oft
 Per Citrix, HDX delivers a high-definition experience for centralised apps and desktops on any device over any network. It optimises user experience, decreases bandwidth consumption, and increases user density per server. ICA remains the number-one remoting protocol in the industry.
 
 Examples of HDX technologies: Flash and Windows media redirection, 4K monitor support, HDX 3D Pro GPU acceleration and sharing (separate VDA), acceleration of printing and scanning, optimisation of USB traffic, and more.
+
+## Verwante notities
+
+- [Framehawk: ICA over lossy, high-latency networks](framehawk.md)
+- [HDX is not a replacement for ICA](hdx-not-a-replacement-for-ica.md)
+- [The origin of Citrix and the ICA protocol](history-of-citrix-and-ica.md)
+- [What the ICA protocol does and its default ports](ica-protocol-fundamentals.md)
+- [ICA protocol origin and the birth of Microsoft RDP](ica-protocol-origin-and-rdp.md)
+- [ICA virtual channel priorities (0-3) and how to change them](ica-virtual-channel-priorities.md)
+- [ICA virtual channels: 32 total, 17 reserved by Citrix](ica-virtual-channels.md)
+- [Receiver communications, ICA handshake and virtual channels](receiver-ica-handshake-and-virtual-channels.md)
+- [Remote Display Analyzer: a community HDX codec tool](remote-display-analyzer.md)
+- [ThinWire compatibility mode: the low-footprint fallback for H.264](thinwire-compatibility-mode.md)

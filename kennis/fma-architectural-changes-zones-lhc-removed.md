@@ -25,3 +25,13 @@ When XenApp joined the FMA in 2013, Bas notes fundamental architectural changes,
 ## Bron-citaten (NL, verbatim)
 
 > Oh, and did I mention that Worker Groups were taken from us as well?
+
+## Verwante notities
+
+- [Delivery Controller vs Data Collector differences](delivery-controller-vs-data-collector.md)
+- [The evolution of the FlexCast Management Architecture](evolution-of-the-fma.md)
+- [FMA Local Host Cache: Principal Broker, Secondary Broker (HA) and CSS](fma-local-host-cache-services.md)
+- [FMA Zones: architecture and purpose](fma-zones-architecture-and-purpose.md)
+- [Local Host Cache in XenApp 6.5 (IMA)](local-host-cache-ima.md)
+- [XenApp folded into the FMA: the Excalibur / XenDesktop 7.0 moment](xenapp-joins-fma-excalibur-2013.md)
+- [Zones in the FMA are not the same as IMA 6.5 Zones](zones-fma-vs-ima.md)

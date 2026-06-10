@@ -16,3 +16,10 @@ VDI Like a Pro is an independent research initiative focused on End User Computi
 Since 2013 it has run the annual 'End User Computing - State of the Union' survey, today better known as 'DaaS Like a Pro State of EUC', gathering data on trends, implementations and use of EUC technologies in both on-premises and public-cloud environments. Results are published in an extensive report made freely available to the community (also to non-participants, via their website). Anyone can take part for free and results are shared afterward.
 
 Over the years the focus expanded to DaaS and Cloud PC, leading to the launch of 'DaaS Like a Pro', which runs tests, finds insights and shares deep technical best practices and performance analyses in the DaaS industry, reported in whitepapers free to download after registration. The research is independent and impartial: sponsors have no influence on questions, answers or content and get no access to raw data or participants' personal information.
+
+## Verwante notities
+
+- [Citrix/EUC community podcasts](euc-citrix-community-podcasts.md)
+- [Community resources: Team RGE and Marius Sandbu's NetScaler e-Book](euc-community-resources-teamrge-msandbu.md)
+- [Gartner Magic Quadrants and the cloud-relevant ones](gartner-magic-quadrants.md)
+- [myCUGC: the Citrix User Group Community](mycugc-citrix-user-group-community.md)

@@ -14,3 +14,12 @@ bron: van-de-basis-tot-meester-in-de-cloud
 A Bas anecdote illustrating that 'community' works inside company walls too. At his first IT job many years ago - without realising he was organising a 'community' - he proposed staying a bit later on Friday afternoons: order a pizza, have a beer, talk about all sorts of things, and play Unreal Tournament against each other. He arranged it with some help from others, and for well over a year those were great Friday afternoons where they often stopped work early (with thanks to the boss, Ton G).
 
 His point: this community form was less about knowledge sharing, but that happened too - and above all it improved collaboration and bonding, which he calls not unimportant.
+
+## Verwante notities
+
+- [Bas on digital nomads: living while you work](bas-on-digital-nomads-freedom.md)
+- [Bas's 'van proberen kun je leren' philosophy](bas-van-proberen-kun-je-leren.md)
+- [Hey... Biiieeerrrrrtje? — Early Team Bonding](biertje-team-bonding-aside.md)
+- [Bas's tip: bring cake to the stand-up](bring-cake-to-the-standup.md)
+- [Local communities and Meetup; Dutch community examples](local-communities-and-meetup.md)
+- [Bas on the value of IT communities](value-of-it-communities.md)

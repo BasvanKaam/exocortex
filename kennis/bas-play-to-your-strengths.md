@@ -20,3 +20,13 @@ To grow: read a book, articles, listen to a podcast, talk to an experienced pers
 > Besteed een groot deel van je tijd in waar je al goed in bent en zorg dat je daar nog beter in wordt.
 >
 > Wie vraagt, is een dwaas voor even, wie niet vraagt, blijft een dwaas voor het leven.
+
+## Verwante notities
+
+- [Bas's Closing Reflection: Good Questions Always Move You Forward](bas-closing-reflection-good-questions.md)
+- [Bas on continuous study and self-investment](bas-on-continuous-study-and-self-investment.md)
+- [Bas's comfort-zone war story: the presentation training](bas-on-stepping-out-of-comfort-zone.md)
+- [Bas's reading habit: the 10-pages-a-morning method](bas-reading-habit-and-method.md)
+- [Bas's recommended reading list](bas-recommended-booklist.md)
+- [Bas's year as a competence manager](bas-year-as-competence-manager.md)
+- [The IT (Cloud) Professional 2.0: from geek to strategic generalist](it-cloud-professional-2-0.md)

@@ -26,3 +26,15 @@ Key takeaway quote: 'Mochten er grote zorgen zijn of ontstaan, ga dit niet uit d
 > communiceer, communiceer, communiceer
 >
 > Mochten er grote zorgen zijn of ontstaan, ga dit niet uit de weg, maar praat erover.
+
+## Verwante notities
+
+- [Hey... Biiieeerrrrrtje? — Early Team Bonding](biertje-team-bonding-aside.md)
+- [Cloud Cultural Shifts: DevOps, Automation, New Roles](cloud-cultural-shifts-overview.md)
+- [Bas: the cloud doesn't make people redundant, it frees them for better work](cloud-frees-people-for-better-work.md)
+- [Creative Communication and Putting Responsibility on Staff](creative-communication-and-feedback-loop.md)
+- [Bas on 'Angst': the human side of cloud adoption](fear-and-the-human-side-of-cloud-adoption.md)
+- [Key Takeaways Chapter 4: Cloud Transformation Beyond Technology](key-takeaways-chapter-4-cloud-transformation.md)
+- [Handling Resistance and Fear of the Unknown](resistance-and-fear-of-the-unknown.md)
+- [Resistance: cloud is more than technology](resistance-to-change-in-cloud-adoption.md)
+- [The Gap Between IT and 'The Business'](the-gap-between-it-and-the-business.md)

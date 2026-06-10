@@ -22,3 +22,12 @@ Core principles:
 - Use intelligent software for real-time threat analysis and detection.
 - Automation and response: e.g. automatic blocking of suspicious activity or alerting security teams.
 - Regular evaluation and improvement: Zero Trust is not static and must adapt to new threats and technologies.
+
+## Verwante notities
+
+- [Gartner: 99% of security issues are caused by people](gartner-99-percent-security-issues-are-people.md)
+- [The Security Operations Center (SOC)](soc-security-operations-center.md)
+- [Voorzorg: Assume You Will Be Breached](voorzorg-assume-breach.md)
+- [Zero Trust Security Model](zero-trust-model.md)
+- [Zero Trust Works From the Outside In (Building Analogy)](zero-trust-outside-in-building-analogy.md)
+- [Ten-Category Security Portfolio for Zero Trust](zero-trust-ten-category-portfolio.md)

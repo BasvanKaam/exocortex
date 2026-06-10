@@ -20,3 +20,13 @@ His claim: this approach not only delivered better results but also produced a t
 > een product dat echt waarde toevoegde
 >
 > niet alleen voldoet, maar verwachtingen overtreft
+
+## Verwante notities
+
+- [Bas on feedback as a continuous process from the insight phase](bas-feedback-continuous-process.md)
+- [Bas's contrarian tip: get feedback from prospects you lost, not just customers](bas-learn-from-lost-prospects.md)
+- [Bas's Lessons Learned document: a living continuous-learning tool](bas-lessons-learned-document-method.md)
+- [Bas's Roadmap Is Driven by Reader Feedback](bas-reader-feedback-as-roadmap.md)
+- [Bas's 'van proberen kun je leren' philosophy](bas-van-proberen-kun-je-leren.md)
+- [Hey... Biiieeerrrrrtje? — Early Team Bonding](biertje-team-bonding-aside.md)
+- [Creative Communication and Putting Responsibility on Staff](creative-communication-and-feedback-loop.md)

@@ -24,3 +24,15 @@ Comparison of Zones between IMA (6.5) and FMA (7.x):
 - Zone-based policies: IMA has Zone Preference and Load Balancing; FMA has no specific Zone-based policies.
 - Best-practice max: 5 Zones (IMA) vs. 10 Zones (FMA).
 - Scope: IMA Zones for XenApp only; FMA Zones for both XenApp and XenDesktop.
+
+## Verwante notities
+
+- [Connection Leasing failover behavior and limitations](connection-leasing-failover-behavior.md)
+- [Connection Leasing mechanism](connection-leasing-mechanism.md)
+- [Delivery Controller vs Data Collector differences](delivery-controller-vs-data-collector.md)
+- [FMA Zones: architecture and purpose](fma-zones-architecture-and-purpose.md)
+- [IMA-to-FMA terminology mapping table](ima-vs-fma-terminology-mapping.md)
+- [Local Host Cache in XenApp 6.5 (IMA)](local-host-cache-ima.md)
+- [Bas's Studio and Zones chapter key takeaways](studio-zones-chapter-key-takeaways.md)
+- [Zone connection quality limits (bandwidth and RTT)](zone-connection-quality-limits.md)
+- [Zones in the FMA are not the same as IMA 6.5 Zones](zones-fma-vs-ima.md)

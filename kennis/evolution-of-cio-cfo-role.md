@@ -22,3 +22,14 @@ Bas frames this with a quote: 'Cloud in al haar vormen is een manier van IT-bedr
 ## Bron-citaten (NL, verbatim)
 
 > Cloud in al haar vormen is een manier van IT-bedrijven, geen strategie op zich.
+
+## Verwante notities
+
+- [Cloud Cultural Shifts: DevOps, Automation, New Roles](cloud-cultural-shifts-overview.md)
+- [CTO vs Field CTO: internal strategy vs external customer translation](cto-vs-field-cto.md)
+- [From Beheer to Regie: The Regieorganisatie Model](from-beheer-to-regie-organisation.md)
+- [Where to 'park' innovation: Innovation/Technology Board, Solutions Board, Office of the CTO](innovation-board-technology-board-office-of-cto.md)
+- [The IT (Cloud) Professional 2.0: from geek to strategic generalist](it-cloud-professional-2-0.md)
+- [Key Takeaways Chapter 4: Cloud Transformation Beyond Technology](key-takeaways-chapter-4-cloud-transformation.md)
+- [Transformation: From Product to Service, Ownership to Usage](product-to-service-ownership-to-usage.md)
+- [The Gap Between IT and 'The Business'](the-gap-between-it-and-the-business.md)

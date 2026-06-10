@@ -20,3 +20,17 @@ Client printing pathway: typically used when a printer is locally attached to th
 Network printing pathway: with network-provisioned printers (print server), Citrix tries to use this pathway by default. Output is sent to the print server's spooler, spooled/rendered, then sent to the device. Only the XenApp server has Receiver/ICA; the print server can't use ICA, so traffic between XenApp server and print server is unmanageable/uncompressed, and the print server-to-device traffic is also uncompressed. Placement matters: a print server far from the XenApp server (e.g. in a branch office while XenApp is in the datacenter) can cause problems. If the XenApp server and print server can't communicate or aren't in the same domain, the client printing pathway is used (forced) instead, and with thin clients printing may then fail entirely.
 
 FMA fact: it's not one thing but everything combined that makes or breaks a print architecture: endpoint types, configured policies, and the physical placement of machines and printers.
+
+## Verwante notities
+
+- [Bas: forcing the client printing pathway (and its exception)](bas-forcing-client-printing-pathway.md)
+- [Bas on why he likes Citrix printing](bas-likes-printing.md)
+- [Citrix Print Management Service](citrix-print-management-service.md)
+- [Citrix printing pathways: client vs network](citrix-printing-pathways.md)
+- [Citrix proximity printing](citrix-proximity-printing.md)
+- [Citrix Universal Print Server (UPS)](citrix-universal-print-server.md)
+- [EMF vs XPS print file formats](emf-vs-xps-print-formats.md)
+- [ICA virtual channel priorities (0-3) and how to change them](ica-virtual-channel-priorities.md)
+- [Microsoft print file formats: EMF vs XPS](microsoft-print-formats-emf-xps.md)
+- [Print spooling: local vs remote](print-spooling-local-vs-remote.md)
+- [Universal Print Driver, Universal Printer and Universal Print Server](universal-print-driver-server-printer.md)

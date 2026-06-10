@@ -20,3 +20,15 @@ It's deeply community-driven, with free coffee, lunch sandwiches, sponsored beer
 ## Bron-citaten (NL, verbatim)
 
 > it will be hard, near to impossible even, to find a former attendee who isn’t taken by the E2E virus. Once it’s done: they all keep coming back for more.
+
+## Verwante notities
+
+- [Hey... Biiieeerrrrrtje? — Early Team Bonding](biertje-team-bonding-aside.md)
+- [Citrix Technology Professionals (CTP) and Citrix Technology Advocates (CTA)](citrix-technology-professionals-and-advocates.md)
+- [E2EVC (Expert to Expert Virtualization Congress)](e2evc-community.md)
+- [E2EVC traditions: grandfathers and the networking game](e2evc-grandfathers-and-networking-game.md)
+- [Citrix/EUC community podcasts](euc-citrix-community-podcasts.md)
+- [Community resources: Team RGE and Marius Sandbu's NetScaler e-Book](euc-community-resources-teamrge-msandbu.md)
+- [The Microsoft MVP program](microsoft-mvp-program.md)
+- [myCUGC: the Citrix User Group Community](mycugc-citrix-user-group-community.md)
+- [Bas on the value of IT communities](value-of-it-communities.md)

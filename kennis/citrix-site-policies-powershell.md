@@ -20,3 +20,12 @@ Assignment policies do the same but apply to dedicated private desktops: BrokerA
 Entitlement gotcha: when you create a Delivery Group with delivery type Desktops and Applications, Studio creates one Desktop and one App Entitlement Policy Rule, each entitling one session, but doesn't expose the user filter, so both are available to all group users. Use `Set-BrokerEntitlementPolicyRule` to set `IncludeUserFilterEnabled` to True and add an AD security group, limiting access to just that group.
 
 Site Access policies are about connections in general and the conditions to meet once established (client IP, protocol, Smart Access filters, hostnames), and can exclude or deny connections. When a Delivery Group is created, two access rules are added by default: one for direct connections and one for connections through NetScaler. Inspect with `Get-BrokerAccessPolicyRule -DesktopGroupName ...` and edit with `Set-BrokerAccessPolicyRule`.
+
+## Verwante notities
+
+- [Citrix Studio: the central management console](citrix-studio-overview.md)
+- [The Delivery Controller as the heart of the FMA](delivery-controller-heart-of-fma.md)
+- [External user authentication through NetScaler](external-authentication-through-netscaler.md)
+- [FMA Broker Service (XML/STA) and its responsibilities](fma-broker-service.md)
+- [Citrix Studio Configuration sub-nodes](studio-configuration-subnodes.md)
+- [Citrix Studio console root nodes](studio-console-root-nodes.md)

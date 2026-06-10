@@ -22,3 +22,17 @@ Bas lists the powerful promises that made the Cloud attractive, but explicitly i
 - Direct beschikbaar (instantly available): immediate access instead of waiting weeks for hardware installation.
 - Eenvoudig in gebruik (easy to use): intuitive interfaces simplify complex infrastructure management.
 - Oneindige schaalbaarheid (infinite scalability): scale capacity up or down with demand, ideal for variable workloads.
+
+## Verwante notities
+
+- [Bas's challenge: can you do cloud security better yourself?](bas-can-you-do-security-better-yourself.md)
+- [Bas deconstructs the cloud promises](bas-deconstructs-the-cloud-promises.md)
+- [Bas's paper: Cloud Only? No. Cloud First or Hybrid? Yes.](bas-paper-cloud-only-no-cloud-first-yes.md)
+- [Common Cloud Concerns: Cost, Migration, Loss of Control](cloud-concerns-cost-and-control.md)
+- [Bas's rule: define the Cloud before debating its pros and cons](define-cloud-before-debating-it.md)
+- [Fundamental principles of the Cloud (per NIST)](fundamental-cloud-principles-nist.md)
+- [The five NIST cloud characteristics](nist-cloud-characteristics.md)
+- [NIST and its definition of Cloud computing](nist-cloud-definition.md)
+- [No universal Cloud standard, and the vendor lock-in problem](no-universal-cloud-standard-vendor-lock-in.md)
+- [Opdracht 1 - Cloud promises critically examined (XYZ-Care)](opdracht-1-cloud-promises-xyz-care.md)
+- [When the Cloud is a good solution - and when it is not](when-cloud-is-and-isnt-a-good-fit.md)

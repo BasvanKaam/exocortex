@@ -18,3 +18,13 @@ Bas's hard-won advice: PVS can seem complicated at first — take it step by ste
 ## Bron-citaten (NL, verbatim)
 
 > While PvDs have their use, apply them wisely: it's not for everyone.
+
+## Verwante notities
+
+- [Bas's PVS recommendation: hybrid versioning approach](bas-pvs-hybrid-versioning-recommendation.md)
+- [Bas's PVS key takeaways and best-practice asides](provisioning-services-key-takeaways.md)
+- [Citrix Provisioning Services (PVS) overview](provisioning-services-overview.md)
+- [PVS boot mechanism: Bootstrap, TFTP and BDM](pvs-boot-mechanism-bootstrap-tftp-bdm.md)
+- [PVS high availability](pvs-high-availability.md)
+- [PVS terminology: Farm, Site, Store, Device Collection, Target Device](pvs-terminology-farm-site-store-collection.md)
+- [PVS write cache options](pvs-write-cache-options.md)

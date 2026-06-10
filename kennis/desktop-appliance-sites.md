@@ -16,3 +16,11 @@ Users with non-domain-joined desktop machines can access their desktops through 
 Like the XenApp Services URL, when you create a new store for a XenDesktop deployment using Citrix Studio, a Desktop Appliance site is created for the store by default.
 
 Important: if you are connecting through a NetScaler Gateway you cannot access a Desktop Appliance site. External connections from outside the network are not supported, period. Also ensure the right version of Receiver is installed.
+
+## Verwante notities
+
+- [External user authentication through NetScaler](external-authentication-through-netscaler.md)
+- [Receiver platforms and the Receiver X1](receiver-platforms-and-x1.md)
+- [StoreFront authentication and resource enumeration traffic flow](storefront-authentication-traffic-flow.md)
+- [StoreFront over Web Interface, and StoreFront design notes](storefront-over-web-interface.md)
+- [XenApp Services URLs for legacy Receiver access](xenapp-services-urls-legacy-access.md)

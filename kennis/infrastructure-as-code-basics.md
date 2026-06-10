@@ -20,3 +20,13 @@ Benefits the book lists:
 - **New skills and platforms**: IaC often demands new skills such as PowerShell, Python, JSON, YAML, Terraform and Kubernetes.
 
 This modern way of managing infrastructure is also called **Beheer 2.0** ("Management 2.0"), enabling teams to deliver faster and more reliably. The catch: the learning curve is steep.
+
+## Verwante notities
+
+- [Bas's War Story: The IaC Dependency Trap](bas-iac-dependency-trap.md)
+- [Bas: IaC Creates Dangerous Key-Person Dependency](bas-iac-key-person-risk.md)
+- [Cloud Cultural Shifts: DevOps, Automation, New Roles](cloud-cultural-shifts-overview.md)
+- [Cloud-Native: Designed for the Cloud from the Start](cloud-native-definition.md)
+- [Citrix Lifecycle Management Services and blueprints](cwc-lifecycle-management-services.md)
+- [Bas: Saying You're Cloud-Native vs Actually Being It](saying-cloud-native-vs-being-it.md)
+- [Introducing Agile and Plan-Do-Check-Act in Execution](scaf-execution-agile-pdca-intro.md)

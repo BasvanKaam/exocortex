@@ -24,3 +24,12 @@ Supported (tested) operating systems for StoreFront:
 - Windows Server 2008 R2 SP1 Datacenter, Enterprise and Standard
 
 When running XenDesktop/XenApp 7.8 you need at least StoreFront 2.6 or higher.
+
+## Verwante notities
+
+- [Delivery Controller server sizing and supported OS](delivery-controller-sizing.md)
+- [FMA database sizing numbers](fma-database-sizing-numbers.md)
+- [Bas on sizing: there is no 'one size fits all', and don't overdo it](sizing-no-one-size-fits-all.md)
+- [Sizing resources: XenDesktop Design Handbook and community calculators](sizing-resources-and-handbook.md)
+- [Bas's StoreFront chapter key takeaways](storefront-chapter-key-takeaways.md)
+- [StoreFront high availability and Delivery Controller load balancing](storefront-ha-and-load-balancing.md)

@@ -16,3 +16,11 @@ Bas recounts that he previously built several 'Cheat Sheets' listing commonly us
 ## Bron-citaten (NL, verbatim)
 
 > Ik daag je uit om een soortgelijk overzicht samen te stellen.
+
+## Verwante notities
+
+- [Bas on why he likes Citrix printing](bas-likes-printing.md)
+- [Bas's teaching philosophy: action and presenting beat passive reading](bas-teaching-philosophy-action-and-presenting.md)
+- [No real standards across cloud providers; identical services, different names](cloud-providers-no-standards-naming.md)
+- [Cloud service models: SaaS, PaaS, IaaS, DaaS](cloud-service-models-saas-paas-iaas-daas.md)
+- [No universal Cloud standard, and the vendor lock-in problem](no-universal-cloud-standard-vendor-lock-in.md)

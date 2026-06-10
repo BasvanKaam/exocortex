@@ -22,3 +22,14 @@ This ties into Bas's recurring point that, as in life, asking the right question
 > Een goed plan is als een navigatiesysteem dat je helpt om stap voor stap dichter bij je doel te komen, zonder omwegen, de snelste route en zonder verspilling.
 >
 > Uiteindelijk ben je uren verder, heb je brandstof verspild en sta je ergens in the middle of nowhere.
+
+## Verwante notities
+
+- [Atomic Habits as a Lens on the Strategy Phase](atomic-habits-implementation-intention-strategy.md)
+- [Bas's Closing Reflection: Good Questions Always Move You Forward](bas-closing-reflection-good-questions.md)
+- [Bas on the Cloud roadmap as a strategic tool](bas-cloud-roadmap-as-strategic-tool.md)
+- [The 'Cloud because of the Cloud' syndrome and poor migration planning](cloud-because-of-cloud-syndrome.md)
+- [Bas's rule: define the Cloud before debating its pros and cons](define-cloud-before-debating-it.md)
+- [EA: Working with Principles (Top-Down and Bottom-Up Balance)](ea-working-with-principles.md)
+- [SCAF: The Step-Cloud Adoptie Framework Overview](scaf-step-cloud-adoption-framework-overview.md)
+- [SCAF Strategie: The Foundation Questions](scaf-strategie-fundament-questions.md)

@@ -26,3 +26,14 @@ Trivia from Bas: before AVD was named AVD it had other names — WVD (Windows Vi
 > “Oorspronkelijk werd deze technologie stack Terminal Services genoemd. In 1998 kocht Microsoft de licentierechten van Citrix om de multi-user-technologie te gebruiken.”
 >
 > gaven ze het project een interne naan, namelijk, Cowbell
+
+## Verwante notities
+
+- [AVD - The Only Cloud Service That Runs Windows Client Multi-User](avd-windows-client-multi-user.md)
+- [DaaS provider takes roughly 60% of the management off the IT department](daas-vendor-takes-60-percent-of-management.md)
+- [DaaS versus VDI](daas-vs-vdi.md)
+- [The origin of Citrix and the ICA protocol](history-of-citrix-and-ica.md)
+- [ICA protocol origin and the birth of Microsoft RDP](ica-protocol-origin-and-rdp.md)
+- [Bas's reframe: is AVD and/or Windows 365 Cloud PC really DaaS?](is-avd-and-windows-365-really-daas.md)
+- [Microsoft RDS CALs and the XenApp vs XenDesktop split](microsoft-rds-cals-with-xenapp.md)
+- [Windows 365 Cloud PC](windows-365-cloud-pc.md)

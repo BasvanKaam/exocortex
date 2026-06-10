@@ -20,3 +20,14 @@ Beyond that: change management, long-term impact on organisational culture, cust
 ## Bron-citaten (NL, verbatim)
 
 > “Een succesvolle businesscase maakt een allesomvattende afweging tussen deze elementen en helpt de organisatie om weloverwogen keuzes te maken die verder gaan dan alleen de ‘harde’ kosten.”
+
+## Verwante notities
+
+- [Additional Topics to Weigh in a Cloud Business Case](additional-businesscase-topics.md)
+- [Bas on cost management: cost vs. value and ROI/TCO](bas-on-cost-management-roi-tco.md)
+- [Start a DaaS Business Case 'High-Over' First](daas-business-case-high-over-first.md)
+- [Bas: frame the business case with an executive summary and added-value story](executive-summary-and-added-value-framing.md)
+- [Bas's mini business case: the current-vs-possible mapping table](mini-business-case-current-vs-hybrid-table.md)
+- [Comparing a Physical Server to Cloud Isn't Fair](physical-vs-cloud-server-not-fair-comparison.md)
+- [SCAF Go/NoGo: The Insight-Phase Business Case](scaf-go-nogo-business-case.md)
+- [SCAF TCO / Business-case template](scaf-tco-business-case-template.md)

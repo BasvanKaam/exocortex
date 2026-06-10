@@ -23,3 +23,15 @@ In Bas's SCAF Adoption phase, earlier documentation again plays a central role, 
 - **Optimisation of agile working and lifecycle management** based on the Plan-Do-Check-Act cycle, embracing both a new way of working and a mindset of flexibility and continuous improvement.
 
 Supporting templates for this phase: the SCAF-Adoptie template and the SCAF Eindrapportage (final report) template. Supporting documentation includes a combined PDCA/DMAIC cycle, skill-readiness progress, a cost-awareness strategy overview (tooling), and a communication model with names and contact details.
+
+## Verwante notities
+
+- [Ambassadors and skill readiness in the execution phase](ambassadors-skill-readiness.md)
+- [Bas's Lessons Learned document: a living continuous-learning tool](bas-lessons-learned-document-method.md)
+- [Bas on documentation: the 'undervalued child' of IT](bas-on-documentation-the-undervalued-child.md)
+- [Key Takeaways: the adoption phase is a beginning, not an end](chapter14-adoption-phase-key-takeaways.md)
+- [Opdracht 11: the human side of cloud transformation (XYZ-Care)](opdracht-11-adoption-human-side.md)
+- [SCAF Adoption phase: finishing what you started](scaf-adoption-phase-purpose.md)
+- [SCAF Adoption result: the end goal of the Cloud transition](scaf-adoption-phase-result.md)
+- [SCAF Cloud governance: putting the dots on the i](scaf-cloud-governance-checklist.md)
+- [KPIs in the SCAF Adoption phase: making success measurable](scaf-kpis-in-adoption-phase.md)

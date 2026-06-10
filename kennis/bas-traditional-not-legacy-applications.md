@@ -26,3 +26,13 @@ Definition of a Windows application: software installed on the Windows OS that i
 > After a nuclear war the only things left will be cockroaches and Windows applications. - Shwan Bass
 >
 > Cloud only? Nee. Cloud first of Hybride? Ja!
+
+## Verwante notities
+
+- [AVD - The Only Cloud Service That Runs Windows Client Multi-User](avd-windows-client-multi-user.md)
+- [Bas: only ~50-60% of apps can be virtualised](bas-on-virtualisation-coverage-50-60-percent.md)
+- [Bas's paper: Cloud Only? No. Cloud First or Hybrid? Yes.](bas-paper-cloud-only-no-cloud-first-yes.md)
+- [Bas's reframe: is AVD and/or Windows 365 Cloud PC really DaaS?](is-avd-and-windows-365-really-daas.md)
+- [Bas's warning: Cloud apps with on-premises backends invite latency trouble](latency-cloud-app-onprem-backend.md)
+- [Why traditional Windows applications won't disappear](traditional-windows-applications-wont-disappear.md)
+- [Survey figures on Windows-app persistence (2019)](windows-app-survey-figures-2019.md)

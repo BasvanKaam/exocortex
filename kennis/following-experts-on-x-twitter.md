@@ -16,3 +16,12 @@ Bas has for years followed industry experts on Twitter (now X) and lays out why 
 - Diverse perspectives from a broad network across the industry, not limited to a single source, helping form a more complete picture.
 - Short, valuable tips and links to resources experts share (new whitepapers, cases, tools, technical articles), often directly usable in daily practice.
 - Insight into the personal side of experts: their daily thoughts, opinions and experiences reveal their thought processes and priorities, which can inspire and create a deeper bond than formal content. Followers also learn of events, webinars and exclusive sessions early, often first via social media, helping them jump on networking or learning opportunities.
+
+## Verwante notities
+
+- [Bas's take on Twitter/X and Bluesky for following experts](bas-on-twitter-x-and-bluesky.md)
+- [Citrix/EUC community podcasts](euc-citrix-community-podcasts.md)
+- [Local communities and Meetup; Dutch community examples](local-communities-and-meetup.md)
+- [The Microsoft MVP program](microsoft-mvp-program.md)
+- [Podcasts as a learning channel for Cloud and EUC](podcasts-for-cloud-euc.md)
+- [Bas on the value of IT communities](value-of-it-communities.md)

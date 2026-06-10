@@ -20,3 +20,14 @@ Once a resource is launched, the ICA handshake takes place: the client (Receiver
 Much client-server communication goes over virtual channels (max 32 total). Each channel has a client-side virtual driver (part of Receiver) talking to a server-side application (part of the VDA). Virtual channels are used for bigger features like client drive mapping, smart cards, clipboard, printing, audio and video. New channels arrive with new versions/Feature Packs (e.g. Framehawk and ThinWire Plus in Feature Pack 3 for XenDesktop 7.6, with Receiver 4.3).
 
 FMA fact: ThinWire is not new; it is a core component of the ICA virtual display channel stack (for over twenty years). The latest addition was rebranded ThinWire Plus.
+
+## Verwante notities
+
+- [Citrix HDX: an extension to ICA, not a replacement](citrix-hdx-extends-ica.md)
+- [HDX is not a replacement for ICA](hdx-not-a-replacement-for-ica.md)
+- [Receiver for HTML5 as a fallback](html5-receiver-fallback.md)
+- [ICA ports, virtual channels and priorities](ica-ports-and-virtual-channels.md)
+- [What the ICA protocol does and its default ports](ica-protocol-fundamentals.md)
+- [ICA virtual channels: 32 total, 17 reserved by Citrix](ica-virtual-channels.md)
+- [Bas's Citrix Receiver chapter key takeaways](receiver-chapter-key-takeaways.md)
+- [ThinWire compatibility mode: the low-footprint fallback for H.264](thinwire-compatibility-mode.md)

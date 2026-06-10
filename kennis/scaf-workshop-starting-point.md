@@ -22,3 +22,12 @@ Useful opening workshop questions:
 - Besides monitoring/inventory tooling, what other software is used for management, process guidance, etc.?
 - What is the current knowledge level around Cloud services/products/technologies, and how do we safeguard it?
 - Which teams are active and for what purpose (not limited to technical)?
+
+## Verwante notities
+
+- [SCAF: Application, Data and System Inventory via Waves](scaf-application-data-system-inventory.md)
+- [SCAF Insight Phase: Actions and the Waves Approach](scaf-insight-actions-and-waves.md)
+- [SCAF Chapter 8: The Insight (Inzicht) Phase Foundation](scaf-insight-phase-foundation.md)
+- [SCAF Insight Phase: Stakeholders to Involve](scaf-insight-stakeholders.md)
+- [SCAF Insight Phase: Security Topics to Surface](scaf-security-insight-phase.md)
+- [SCAF Workshop Startpunt Questions](scaf-workshop-startpunt-questions.md)

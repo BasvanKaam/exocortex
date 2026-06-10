@@ -18,3 +18,11 @@ Up to Windows XP / Server 2003, EMF was all that existed, so many applications s
 Differences: XPS zips/compresses print data; EMF uses no compression. EMF redraws each image even if reused; XPS can reference a single image multiple times, so EMF print jobs are bigger. XPS suits graphic-rich documents; EMF is perceived as 'faster' because printing can begin after the first page is spooled, whereas XPS waits for all pages.
 
 For XPS to be used, both the print driver (drivers are EMF- or XPS-specific) and the physical device must support XPS (GDI/EMF is the standard). Otherwise an XPS file printed to a GDI device is converted to EMF via the XPS to GDI Conversion Module; conversely EMF output to an XPS device is converted via the GDI to XPS conversion component. The XPS spool markup is compatible with XAML in WPF, so XPS documents render natively in WPF without data/fidelity loss.
+
+## Verwante notities
+
+- [Citrix printing pathways: client vs network](citrix-printing-pathways-client-vs-network.md)
+- [Citrix Universal Print Driver (UPD)](citrix-universal-print-driver.md)
+- [EMF vs XPS print file formats](emf-vs-xps-print-formats.md)
+- [Print driver versions and Print Driver Isolation](print-driver-history-and-modes.md)
+- [Print spooling: local vs remote](print-spooling-local-vs-remote.md)

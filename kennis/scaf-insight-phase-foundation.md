@@ -27,3 +27,17 @@ The goal is a complete picture, including the team's knowledge level and experie
 - What are the costs? A compact business case must be assembled at the end of this phase or start of the next (execution).
 
 New roles may be introduced (e.g. Chief Innovation Officer), and a Cloud Center of Excellence (CCoE) can add value by bringing different forms of expertise together.
+
+## Verwante notities
+
+- [CCoE Role in the Inzicht and Uitvoering Phases](ccoe-role-in-insight-and-execution-phases.md)
+- [SCAF: Application, Data and System Inventory via Waves](scaf-application-data-system-inventory.md)
+- [SCAF Execution Phase (Uitvoeringsfase) Overview](scaf-execution-phase-overview.md)
+- [SCAF Go/NoGo: The Insight-Phase Business Case](scaf-go-nogo-business-case.md)
+- [SCAF Insight Phase: Actions and the Waves Approach](scaf-insight-actions-and-waves.md)
+- [SCAF Insight Phase: Results and Supporting Documentation](scaf-insight-results-and-documentation.md)
+- [SCAF Insight Phase: Stakeholders to Involve](scaf-insight-stakeholders.md)
+- [SCAF: Knowledge, Teams, Roles and Responsibilities](scaf-knowledge-teams-raci-gap.md)
+- [SCAF Insight Phase: Security Topics to Surface](scaf-security-insight-phase.md)
+- [SCAF: The Step-Cloud Adoptie Framework Overview](scaf-step-cloud-adoption-framework-overview.md)
+- [SCAF Insight: Workshop as Starting Point](scaf-workshop-starting-point.md)

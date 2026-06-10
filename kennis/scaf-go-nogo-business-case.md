@@ -16,3 +16,18 @@ Chapter 8 closes the SCAF Insight step with a Go/NoGo decision. Building on the 
 Using SCAF templates, you list all relevant components, describe the current situation, sketch migration and refactoring costs, and estimate the new situation. This more detailed business case feeds the initial investment requirements (financial and organizational) and forms the basis for a go/no-go moment, helping decision-makers make a well-founded decision and showing the organizational and technical changes needed (new roles, responsibilities, processes).
 
 Bas notes that a full business case (with all details of the current situation, costs, migration planning, technical requirements and long-term benefits) often runs about **ten to fifteen pages**, and serves not only initial decision-making but also as a reference and guide for the implementation team.
+
+## Verwante notities
+
+- [Why Write a Business Case, and Its Key Elements](business-case-value-and-elements.md)
+- [A Business Case Is More Than 'Hard' Costs Alone](businesscase-more-than-hard-costs.md)
+- [Start a DaaS Business Case 'High-Over' First](daas-business-case-high-over-first.md)
+- [Opdracht 5: build your own business case (the method)](opdracht-5-business-case-exercise.md)
+- [SCAF Insight Phase: Actions and the Waves Approach](scaf-insight-actions-and-waves.md)
+- [SCAF Chapter 8: The Insight (Inzicht) Phase Foundation](scaf-insight-phase-foundation.md)
+- [SCAF Insight Phase: Results and Supporting Documentation](scaf-insight-results-and-documentation.md)
+- [SCAF management-summary 'palet' templates per phase](scaf-management-summary-templates.md)
+- [SCAF Strategie Pillar: Summary of Steps](scaf-strategie-pillar-step-summary.md)
+- [SCAF TCO / Business-case template](scaf-tco-business-case-template.md)
+- [SCAF visual timeline and Bas's preference for visual artifacts](scaf-visual-timeline.md)
+- [Bas: build buy-in with a small PoV or PoC and free resources](start-small-with-pov-or-poc.md)

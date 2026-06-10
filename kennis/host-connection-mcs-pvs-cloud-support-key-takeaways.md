@@ -19,3 +19,13 @@ Key points about Host Connections in XenDesktop/XenApp 7.x:
 - You can add multiple Host Connections, combining cloud and on-premises hypervisors.
 - Hypervisor Host Connections use the addresses of your SCVMM, Virtual Center or XenCenter.
 - When using **Zones**, make sure a Zone's Host Connection is close to, or physically located within, that Zone.
+
+## Verwante notities
+
+- [Citrix Host Connection](citrix-host-connection.md)
+- [FMA Hypervisor Communications Library (HCL) abstraction layer](fma-hypervisor-communications-library.md)
+- [FMA Zones: architecture and purpose](fma-zones-architecture-and-purpose.md)
+- [FMA Zones VDA registration and Controller failover](fma-zones-vda-registration-and-failover.md)
+- [Host Connections now support cloud, not just hypervisors](host-connections-cloud-support.md)
+- [Machine Creation Services (MCS): integrated single-image delivery](machine-creation-services-overview.md)
+- [Citrix Provisioning Services (PVS) overview](provisioning-services-overview.md)

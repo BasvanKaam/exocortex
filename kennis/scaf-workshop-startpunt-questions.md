@@ -25,3 +25,12 @@ Bas provides a 'Workshop Startpunt' — how a SCAF strategy workshop can begin a
 - Do business objectives steer or contribute to the strategic IT plan (or should they)?
 - Do IT and the business collaborate well? Often IT doesn't know what the business is doing or expects, and vice versa.
 - Who composes a Cloud Center of Excellence?
+
+## Verwante notities
+
+- [Cloud Center of Excellence (CCoE): Definition and Why Early](cloud-center-of-excellence-definition.md)
+- [SCAF Strategie: The Foundation Questions](scaf-strategie-fundament-questions.md)
+- [SCAF Strategie Pillar: Summary of Steps](scaf-strategie-pillar-step-summary.md)
+- [SCAF Insight: Workshop as Starting Point](scaf-workshop-starting-point.md)
+- [SWOT Analysis in SCAF](swot-analysis-in-scaf.md)
+- [The Gap Between IT and 'The Business'](the-gap-between-it-and-the-business.md)

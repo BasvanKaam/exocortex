@@ -18,3 +18,12 @@ He chose this for two reasons: first, it works very well and is a cool concept; 
 ## Bron-citaten (NL, verbatim)
 
 > en ten tweede heb ik op deze manier het boek bijna 40 pagina's dunner kunnen maken.
+
+## Verwante notities
+
+- [How AI was used in writing the book](ai-use-in-the-book.md)
+- [Bas's deliberate typography choices for the book](bas-book-typography-choices.md)
+- [Scope of the book: Azure-leaning, business-plus-tech, durable basics](book-scope-azure-focus-and-durability.md)
+- [Old School: why Bas insists on pen and paper in a cloud book](old-school-pen-and-paper-method.md)
+- [SCAF Toolkit: 20 downloadable templates and what's excluded](scaf-toolkit-download-and-templates.md)
+- [Why the book uses a fictional case](why-a-fictional-case.md)

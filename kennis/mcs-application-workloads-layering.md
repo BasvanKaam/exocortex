@@ -20,3 +20,15 @@ His FMA fact / takeaway: application layering and containerisation can help over
 ## Bron-citaten (NL, verbatim)
 
 > As we all know, virtualising 100% of your application workload is not going to happen anytime soon.
+
+## Verwante notities
+
+- [Application delivery: layering vs virtualisation, and AppDisks](application-delivery-layering-vs-virtualisation.md)
+- [Three flavours of application delivery in XenDesktop/XenApp](application-delivery-three-flavours.md)
+- [Bas: only ~50-60% of apps can be virtualised](bas-on-virtualisation-coverage-50-60-percent.md)
+- [Bas on the 'big, bad image' problem](bas-the-big-bad-base-image.md)
+- [Citrix AppDisks: application layering for golden images](citrix-appdisks-application-layering.md)
+- [How application layering works (filter drivers)](how-application-layering-works.md)
+- [Machine Creation Services essentials](machine-creation-services-essentials.md)
+- [Why MCS image updates matter: every master VM is re-copied to every datastore](mcs-image-update-repeats-full-copy.md)
+- [Microsoft App-V components and licensing with Citrix](microsoft-app-v-with-citrix.md)

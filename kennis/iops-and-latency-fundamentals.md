@@ -22,3 +22,15 @@ Practical fixes: if IOPS are limited, (pre-)boot machines at night and prevent u
 > Latency is king: the less you have, the faster your infrastructure will be!
 >
 > A high number of IOPS is useless unless latency is low!
+
+## Verwante notities
+
+- [Bas on CPU over-commit and user baselines (light/medium/heavy)](cpu-overcommit-and-user-baselines.md)
+- [In-memory write caching: reducing IOPS needed (PVS RAM Cache with Overflow to Disk)](in-memory-caching-ram-cache-pvs.md)
+- [IOPS fundamentals: latency is king](iops-fundamentals-latency.md)
+- [Not all IOPS are the same: the three golden parameters](iops-not-all-the-same.md)
+- [MCS IOPS profile: ~1.6x PVS average, ~1.2x steady state](mcs-iops-vs-pvs.md)
+- [Tools and PerfMon counters for measuring IOPS](measuring-iops-tools-and-counters.md)
+- [The RAID write penalty](raid-write-penalty.md)
+- [Bas on sizing: there is no 'one size fits all', and don't overdo it](sizing-no-one-size-fits-all.md)
+- [The five VDI workload phases and boot/logon storms](vdi-five-phases-storms.md)

@@ -31,3 +31,14 @@ Bas argues collecting and using feedback begins in the **insight (inzicht) phase
 > Ik denk dat...
 >
 > die het gesprek onnodig onpersoonlijk maken
+
+## Verwante notities
+
+- [Bas's experience: feedback from early phases builds tighter teams](bas-experience-feedback-from-early-phases.md)
+- [Bas's contrarian tip: get feedback from prospects you lost, not just customers](bas-learn-from-lost-prospects.md)
+- [Bas's Lessons Learned document: a living continuous-learning tool](bas-lessons-learned-document-method.md)
+- [Bas's Roadmap Is Driven by Reader Feedback](bas-reader-feedback-as-roadmap.md)
+- [Bas's 'van proberen kun je leren' philosophy](bas-van-proberen-kun-je-leren.md)
+- [Bas's terminology: "gebruiker", "business gebruiker" and "de business"](business-user-and-the-business-definitions.md)
+- [Bas: the cloud doesn't make people redundant, it frees them for better work](cloud-frees-people-for-better-work.md)
+- [Creative Communication and Putting Responsibility on Staff](creative-communication-and-feedback-loop.md)

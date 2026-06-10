@@ -26,3 +26,16 @@ He closes with a quote from Chris Hoff: "If you think you suck now, you'll be pl
 > “If you think you suck now, you’ll be pleasantly surprised when you move to the Cloud.” – Chris Hoff
 >
 > Ken je die uitdrukking garbage in, garbage out?
+
+## Verwante notities
+
+- [Bas: The 6 R's for Application Rationalization](bas-6-rs-cloud-migration.md)
+- [The 'Cloud because of the Cloud' syndrome and poor migration planning](cloud-because-of-cloud-syndrome.md)
+- [Cloud-Native: Designed for the Cloud from the Start](cloud-native-definition.md)
+- [FaaS / Serverless Computing Explained](faas-serverless-explained.md)
+- [Selecting the First Migration Workload (Simple to Complex)](first-migration-workload-selection.md)
+- [Bas's warning: Cloud apps with on-premises backends invite latency trouble](latency-cloud-app-onprem-backend.md)
+- [Opdracht 7: Cloud Migration Compass (XYZ-Care Health Group)](opdracht-7-cloud-migration-compass.md)
+- [Definitive Cloud and Refactor Choice (Rationalisation)](rationalisation-refactor-choice-execution.md)
+- [Bas: Saying You're Cloud-Native vs Actually Being It](saying-cloud-native-vs-being-it.md)
+- [SCAF Design Principles and Why It Exists](scaf-design-principles.md)

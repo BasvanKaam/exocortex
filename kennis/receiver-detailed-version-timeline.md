@@ -23,3 +23,13 @@ bron: inside-citrix-fma
 - Receiver v4.4 launched December 2015 (most recent at time of writing).
 
 Note: there are separate version-numbering schemes for the ICA Client software and the Citrix Receiver.
+
+## Verwante notities
+
+- [Citrix company history: from Citrus to WinFrame](citrix-company-history.md)
+- [Citrix Receiver: purpose and naming history](citrix-receiver-history-and-purpose.md)
+- [The origin of Citrix and the ICA protocol](history-of-citrix-and-ica.md)
+- [Bas's Citrix Receiver chapter key takeaways](receiver-chapter-key-takeaways.md)
+- [Receiver Clean-Up utility](receiver-cleanup-utility.md)
+- [Receiver platforms and the Receiver X1](receiver-platforms-and-x1.md)
+- [XenApp Services URLs for legacy Receiver access](xenapp-services-urls-legacy-access.md)

@@ -16,3 +16,11 @@ NetScalers come as physical (MPX, SDX), virtual (VPX), virtual-on-physical (VPX 
 Capacity: the virtual VPX handles up to 1500 concurrent ICA connections (Citrix-supported); for more you move to a physical MPX, which depending on model handles 10,000 to 35,000 concurrent ICA connections.
 
 There are three ADC platform licenses (Standard, Enterprise, Platinum) plus a separate NetScaler Gateway license and a universal license; every normal ADC license already includes Gateway functionality. A free NetScaler VPX Express edition exists (same features as VPX standard, but no SSL Offload, max 5 Mbps, licensed per year). HA (2 nodes) is active-passive via heartbeat with failover; both appliances must be the same make/model, software version and licenses. Clustering (active/active using ECMP) scales up to 32 nodes.
+
+## Verwante notities
+
+- [NetScaler edition licenses and Pay-as-you-Grow](netscaler-adc-edition-licenses-pay-as-you-grow.md)
+- [NetScaler ADC vs NetScaler Gateway](netscaler-adc-vs-gateway.md)
+- [NetScaler appliance models: VPX, MPX, SDX, CPX](netscaler-appliance-models-vpx-mpx-sdx-cpx.md)
+- [NetScaler high availability and clustering](netscaler-high-availability-clustering.md)
+- [NetScaler SSL offloading and DMZ placement](netscaler-ssl-offload-dmz.md)

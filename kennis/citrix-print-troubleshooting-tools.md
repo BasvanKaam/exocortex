@@ -21,3 +21,14 @@ Useful print/diagnostic tools Bas lists:
 - CtxAdmTools: a collection of Citrix troubleshooting/diagnostic tools.
 
 Also, XenApp/XenDesktop 7.6 FP3 added an Always-On logging feature for the print server and printing subsystem on the VDA; use the Start-TelemetryUpload PowerShell cmdlet to zip logs for email or upload to Citrix Insight Services.
+
+## Verwante notities
+
+- [Bas's checklist to speed up and clean up Citrix printing](bas-citrix-printing-optimization-checklist.md)
+- [Citrix Insight Services: automated log analysis and health checks](citrix-insight-services.md)
+- [Citrix Print Management Service](citrix-print-management-service.md)
+- [Citrix printing troubleshooting and verification tools](citrix-printing-troubleshooting-tools.md)
+- [Citrix Scout: the aggregating troubleshooting tool](citrix-scout-aggregator.md)
+- [Citrix Diagnostic Toolkit and Supportability Pack collections](citrix-toolset-collections.md)
+- [Bas's print driver best practices](print-driver-best-practices.md)
+- [Print-related troubleshooting tools (Print Detective, UPS Cert Tool, StressPrinters)](print-troubleshooting-tools.md)

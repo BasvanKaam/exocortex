@@ -18,3 +18,11 @@ Bas calls the United States 'the (pink) elephant in the room' when discussing da
 > Toch vaak de (roze) olifant in de kamer.
 >
 > Ik kan je vertellen, dat was geen eenvoudig proces.
+
+## Verwante notities
+
+- [AVG / GDPR: purpose and benefits](avg-gdpr-overview.md)
+- [The six legal bases (grondslagen) for processing under the AVG](avg-six-legal-bases-grondslag.md)
+- [DPIA, FG appointment and controller obligations under the AVG](dpia-fg-and-controller-obligations.md)
+- [EU, EER and data transfers to third countries](eu-eer-and-third-country-transfers.md)
+- [Privacy Shield, Schrems II and EU-US data transfers](privacy-shield-schrems-ii-and-us-transfers.md)

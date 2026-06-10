@@ -18,3 +18,17 @@ Bas's overview of foundational cloud components:
 - A cloud needs storage: VMs, monitoring, applications and user data must be persistently storable.
 - Applications need a database: many apps need a database for structured and unstructured data.
 - Elasticity and scalability: the (preferably automated) scaling of VMs and/or other components is a must.
+
+## Verwante notities
+
+- [Azure Files: a cloud NAS, plus Azure File Sync for hybrid](azure-files-cloud-nas.md)
+- [Bas's war story: SAN/NAS data migrations were weeks of nightmares](bas-san-nas-nightmares.md)
+- [Cloud delivery models: IaaS, PaaS, SaaS and DaaS](cloud-delivery-models-iaas-paas-saas-daas.md)
+- [Cloud providers build their own servers and hypervisors](cloud-providers-build-own-servers-hypervisor.md)
+- [Data unit hierarchy from bit to Geopbyte](data-unit-hierarchy-bit-to-geopbyte.md)
+- [The less-obvious challenges of building datacenters](datacenter-hidden-challenges.md)
+- [Edge computing and Edge-nodes](edge-computing.md)
+- [FaaS / Serverless Computing Explained](faas-serverless-explained.md)
+- [Fundamental principles of the Cloud (per NIST)](fundamental-cloud-principles-nist.md)
+- [The five NIST cloud characteristics](nist-cloud-characteristics.md)
+- [Semantic technologies and data science in the cloud](semantic-technologies-and-data-science.md)

@@ -32,3 +32,16 @@ He punctuates the section with the maxim "If it's not documented, it didn't happ
 > het is dan ook niet de vraag of er iets fout zal gaan, maar wanneer dat gebeurt
 >
 > If it's not documented, it didn't happen.
+
+## Verwante notities
+
+- [Bas's reframe: governance is just a fancy word](bas-governance-is-just-a-fancy-word.md)
+- [Bas: Pragmatism on Governance and Process Documentation](bas-governance-processes-pragmatism.md)
+- [Bas's Lessons Learned document: a living continuous-learning tool](bas-lessons-learned-document-method.md)
+- [Bas on handover: 'simple is better'](bas-on-simplicity-handover-checklist.md)
+- [The CCoE's role in AVG compliance and governance](ccoe-role-in-avg-compliance.md)
+- [Key Takeaways: the adoption phase is a beginning, not an end](chapter14-adoption-phase-key-takeaways.md)
+- [Risk Register (Risicoregister)](risk-register-risicoregister.md)
+- [SCAF Adoption phase: activities and deliverables](scaf-adoption-phase-activities.md)
+- [SCAF process, governance, communication and handover templates](scaf-process-and-handover-templates.md)
+- [Shadow IT: The Business User in the Driver's Seat](shadow-it-business-user-in-driver-seat.md)

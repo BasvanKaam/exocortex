@@ -20,3 +20,13 @@ Throughout the book Bas references documents and overviews, and each SCAF phase 
 > misschien gebruik je maar 30, 40 of 60 procent van de informatie uit dit boek, het is eigenlijk allemaal prima
 >
 > een deel 2 is in de maak, zullen we maar zeggen
+
+## Verwante notities
+
+- [Bas: Pragmatism on Governance and Process Documentation](bas-governance-processes-pragmatism.md)
+- [Bas on handover: 'simple is better'](bas-on-simplicity-handover-checklist.md)
+- [SCAF Design Principles and Why It Exists](scaf-design-principles.md)
+- [SCAF Documentation and Templates](scaf-documentation-templates.md)
+- [The Step-Cloud Adoptie Framework (SCAF) as the book's backbone](scaf-the-red-thread-of-the-book.md)
+- [SCAF Toolkit: 20 downloadable templates and what's excluded](scaf-toolkit-download-and-templates.md)
+- [Bas: use the SCAF toolkit as inspiration, not a checklist](scaf-toolkit-use-it-as-inspiration.md)

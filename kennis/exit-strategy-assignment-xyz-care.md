@@ -21,3 +21,13 @@ The tasks:
 - Analyse a provider's SLAs (e.g. Azure) and flag points needing extra attention in the exit plan: availability definitions, data retention after termination, compensation arrangements - and describe how XYZ-Care ensures these don't threaten business continuity.
 
 He notes the exercise also pushes participants to present findings clearly and convincingly to management to build support.
+
+## Verwante notities
+
+- [Fictional case: XYZ-Care Health Group](case-xyz-care-health-group.md)
+- [Exit flexibility depends on the cloud service model (IaaS/SaaS/PaaS)](cloud-exit-flexibility-by-service-model.md)
+- [Key Takeaways - cloud exit strategy (Chapter 12)](cloud-exit-key-takeaways.md)
+- [Bas's checklist of points of attention for a cloud exit](cloud-exit-points-of-attention.md)
+- [The six-step process for building a cloud exit strategy](cloud-exit-strategy-steps.md)
+- [SLA pitfalls to analyse for a cloud exit strategy](cloud-sla-pitfalls-exit.md)
+- [Opdracht 9: Migration Mastery - Strategy to Execution (XYZ-Care)](migration-mastery-assignment-xyz-care.md)

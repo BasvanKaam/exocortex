@@ -18,3 +18,13 @@ When a user launches an aggregated resource, StoreFront picks the most appropria
 Multi-Site also enables HA deployments: load balancing, failover, or a non-active disaster-recovery Site. User Mapping grants access to a specific deployment based on AD group membership (like the old Zone preference policies), letting you offer different resources per Site while aggregating through one Store; users see only what their permissions allow. Without user mapping a multi-Site setup is active/passive (active/active needs 2+ StoreFront servers plus a NetScaler). A Recovery Site is another XenDesktop/XenApp Site that sits idle (passive) until all primary Sites become unreachable.
 
 Prior to StoreFront 3.5 all of this was configured manually in web.config; as of 3.5 options such as User Mapping and resource aggregation are available directly from the GUI.
+
+## Verwante notities
+
+- [FMA Zones: architecture and purpose](fma-zones-architecture-and-purpose.md)
+- [Optimal NetScaler Gateway routing](optimal-netscaler-gateway-routing.md)
+- [Bas's StoreFront chapter key takeaways](storefront-chapter-key-takeaways.md)
+- [StoreFront high availability and Delivery Controller load balancing](storefront-ha-and-load-balancing.md)
+- [StoreFront over Web Interface, and StoreFront design notes](storefront-over-web-interface.md)
+- [StoreFront subscription storage, server groups and synchronization](storefront-subscription-storage-and-sync.md)
+- [StoreFront vs Web Interface user authentication](storefront-vs-web-interface-authentication.md)

@@ -18,3 +18,13 @@ His summary of the trade-off: the choice between Capex and Opex depends heavily 
 ## Bron-citaten (NL, verbatim)
 
 > Het is geen eerlijke vergelijking om te zeggen dat als ik een fysieke server aanschaf dat mij minder kost dan dat ik een dergelijk systeem virtueel in Azure afneem over een periode van bijvoorbeeld drie jaar.
+
+## Verwante notities
+
+- [Bas on cost management: cost vs. value and ROI/TCO](bas-on-cost-management-roi-tco.md)
+- [Scope of the book: Azure-leaning, business-plus-tech, durable basics](book-scope-azure-focus-and-durability.md)
+- [A Business Case Is More Than 'Hard' Costs Alone](businesscase-more-than-hard-costs.md)
+- [Capex and Opex - Pros and Cons](capex-opex-pros-cons.md)
+- [Capex vs Opex in IT and Cloud](capex-vs-opex-in-it.md)
+- [Opex Is Harder for the Provider Than the Customer](opex-challenge-for-providers.md)
+- [Physical and software performance limits of the cloud](physical-and-software-cloud-performance-limits.md)

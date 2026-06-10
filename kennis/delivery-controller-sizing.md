@@ -25,3 +25,15 @@ Officially supported/tested Delivery Controller operating systems:
 - Windows Server 2012 R2, Standard and Datacenter
 - Windows Server 2012, Standard and Datacenter
 - Windows Server 2008 R2 SP1, Standard, Enterprise and Datacenter
+
+## Verwante notities
+
+- [The XenDesktop Central Site database](central-site-database-role.md)
+- [Bas on CPU over-commit and user baselines (light/medium/heavy)](cpu-overcommit-and-user-baselines.md)
+- [The Delivery Controller as the heart of the FMA](delivery-controller-heart-of-fma.md)
+- [Delivery Controller as the heart of the FMA](delivery-controller-is-heart-of-fma.md)
+- [FMA database sizing numbers](fma-database-sizing-numbers.md)
+- [The 'one is none' rule and Delivery Controller high availability](one-is-none-delivery-controller-ha.md)
+- [Sizing resources: XenDesktop Design Handbook and community calculators](sizing-resources-and-handbook.md)
+- [StoreFront server sizing and supported OSes](storefront-server-sizing.md)
+- [VDA install options and supported operating systems](vda-install-options-and-supported-os.md)

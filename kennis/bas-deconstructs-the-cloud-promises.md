@@ -31,3 +31,21 @@ Bas's summary: using cloud just to use cloud is not a valid reason, nor is using
 > Cloud gebruiken om het Cloudgebruik is geen valide reden.
 >
 > De use-case moet kloppen en onderbouwd zijn.
+
+## Verwante notities
+
+- [Bas's challenge: can you do cloud security better yourself?](bas-can-you-do-security-better-yourself.md)
+- [Bas's COVID-era asides and skepticism on the stats](bas-covid-asides-and-skepticism.md)
+- [Bas's paper: Cloud Only? No. Cloud First or Hybrid? Yes.](bas-paper-cloud-only-no-cloud-first-yes.md)
+- [Paper conclusion: Cloud only? Maybe never](bas-paper-conclusion-cloud-only-never.md)
+- [Bas's war story: writing book sections and key takeaways with ChatGPT](bas-writing-with-chatgpt-and-prompt.md)
+- [The 'Cloud because of the Cloud' syndrome and poor migration planning](cloud-because-of-cloud-syndrome.md)
+- [Common Cloud Concerns: Cost, Migration, Loss of Control](cloud-concerns-cost-and-control.md)
+- [Hyperscaler security investments and certifications](cloud-provider-security-investments.md)
+- [Bas's rule: define the Cloud before debating its pros and cons](define-cloud-before-debating-it.md)
+- [Fundamental principles of the Cloud (per NIST)](fundamental-cloud-principles-nist.md)
+- [The five NIST cloud characteristics](nist-cloud-characteristics.md)
+- [NIST and its definition of Cloud computing](nist-cloud-definition.md)
+- [No universal Cloud standard, and the vendor lock-in problem](no-universal-cloud-standard-vendor-lock-in.md)
+- [Opdracht 1 - Cloud promises critically examined (XYZ-Care)](opdracht-1-cloud-promises-xyz-care.md)
+- [The promises of the Cloud (and Bas's invitation to challenge them)](the-promises-of-the-cloud.md)

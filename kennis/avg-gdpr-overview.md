@@ -23,3 +23,15 @@ Stated benefits of the AVG:
 - A level playing field.
 
 If your organization determines the purpose for which personal data is processed and how, the AVG sees you as the 'verwerkingsverantwoordelijke' (data controller).
+
+## Verwante notities
+
+- [AVG security: organizational and technical measures](avg-security-organizational-and-technical-measures.md)
+- [The six legal bases (grondslagen) for processing under the AVG](avg-six-legal-bases-grondslag.md)
+- [Bas's friend's right-to-be-forgotten test on Facebook](bas-facebook-right-to-be-forgotten-test.md)
+- [The CCoE's role in AVG compliance and governance](ccoe-role-in-avg-compliance.md)
+- [DPIA, FG appointment and controller obligations under the AVG](dpia-fg-and-controller-obligations.md)
+- [EU, EER and data transfers to third countries](eu-eer-and-third-country-transfers.md)
+- [NIS and NIS 2 directive](nis-and-nis-2-directive.md)
+- [Opdracht 8: AVG in healthcare (XYZ-Care)](opdracht-8-avg-in-healthcare-xyz-care.md)
+- [Privacy Shield, Schrems II and EU-US data transfers](privacy-shield-schrems-ii-and-us-transfers.md)

@@ -22,3 +22,8 @@ Why the roles matter (Bas's four reasons): collaboration of IT with the business
 > “Een CCoE klinkt groot en alleen toepasbaar voor (grote) Enterprise omgevingen, maar dat is ONJUIST.”
 >
 > Je bent nooit te klein voor een CCoE.
+
+## Verwante notities
+
+- [Bas's reframe: governance is just a fancy word](bas-governance-is-just-a-fancy-word.md)
+- [Promoting the CCoE: the 'kindergarten' war story and strategies](bas-promoting-the-ccoe-kindergarten-war-story.md)

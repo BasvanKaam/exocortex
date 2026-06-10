@@ -24,3 +24,9 @@ Bas's promise: although cloud develops fast, the basics remain unchanged, so mos
 > Het grootste deel van dit boek zal over 5 of 10 jaar nog steeds relevant en behulpzaam zijn, beloofd.
 >
 > Hoe bouw ik een valide Cloud businesscase (en dat gaat niet alleen over geld).
+
+## Verwante notities
+
+- [Choosing a CSP: Azure as the Default for Microsoft Shops](csp-platform-choice-azure-default.md)
+- [Per-chapter references and QR-code glossaries](glossary-via-qr-codes.md)
+- [Comparing a Physical Server to Cloud Isn't Fair](physical-vs-cloud-server-not-fair-comparison.md)

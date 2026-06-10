@@ -20,3 +20,26 @@ He stresses a community is not one-way traffic - by sharing knowledge you help o
 ## Bron-citaten (NL, verbatim)
 
 > Het maakt niet uit of je al tien jaar presenteert of pas tien dagen, je krijgt daar de kans om je te laten zien en te verbeteren.
+
+## Verwante notities
+
+- [Bas's comfort-zone war story: the presentation training](bas-on-stepping-out-of-comfort-zone.md)
+- [Bas's take on Twitter/X and Bluesky for following experts](bas-on-twitter-x-and-bluesky.md)
+- [Bas's Roadmap Is Driven by Reader Feedback](bas-reader-feedback-as-roadmap.md)
+- [Bas's year as a competence manager](bas-year-as-competence-manager.md)
+- [Citrix Technology Professionals (CTP) and Citrix Technology Advocates (CTA)](citrix-technology-professionals-and-advocates.md)
+- [Cloud ideas for the modern, attractive employer](cloud-ideas-for-the-modern-attractive-employer.md)
+- [E2EVC (Expert to Expert Virtualization Congress)](e2evc-community.md)
+- [E2EVC: the Experts-2-Experts Virtualization Conference](e2evc-conference.md)
+- [E2EVC traditions: grandfathers and the networking game](e2evc-grandfathers-and-networking-game.md)
+- [Citrix/EUC community podcasts](euc-citrix-community-podcasts.md)
+- [Community resources: Team RGE and Marius Sandbu's NetScaler e-Book](euc-community-resources-teamrge-msandbu.md)
+- [Following Cloud and EUC experts on X (Twitter)](following-experts-on-x-twitter.md)
+- [War story: the Friday-afternoon Unreal Tournament community](friday-afternoon-unreal-tournament-community.md)
+- [Key Takeaways Ch.15: the modern IT professional](key-takeaways-it-professional-and-cloud.md)
+- [The Learning Pyramid (National Training Laboratories)](learning-pyramid.md)
+- [Local communities and Meetup; Dutch community examples](local-communities-and-meetup.md)
+- [The Microsoft MVP program](microsoft-mvp-program.md)
+- [myCUGC: the Citrix User Group Community](mycugc-citrix-user-group-community.md)
+- [Podcasts as a learning channel for Cloud and EUC](podcasts-for-cloud-euc.md)
+- [Second brain als cognitieve infrastructuur](second-brain-cognitive-infrastructure.md)

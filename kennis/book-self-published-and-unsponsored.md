@@ -20,3 +20,8 @@ Crucially, the book is free of any form of sponsoring. Every company, brand, pro
 > Dit boek is vrij van enige vorm van sponsoring. Alle onderwerpen zijn door mij gekozen en uitgewerkt. Dit zijn mijn ervaringen, successen, mislukkingen en tips.
 >
 > Ik heb mijn best gedaan, zoveel is zeker.
+
+## Verwante notities
+
+- [Bas's deliberate typography choices for the book](bas-book-typography-choices.md)
+- [Bas van Kaam: experience, character and the people behind the book](bas-van-kaam-bio-and-character.md)

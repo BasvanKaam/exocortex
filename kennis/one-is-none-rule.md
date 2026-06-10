@@ -20,3 +20,15 @@ He applies it across the FMA: deploy at least two Delivery Controllers per Site 
 > Your environment is as strong as its weakest link. Make sure to apply the 'one is none' rule wherever and whenever it makes sense.
 >
 > Remember the one is none rule? Well, it applies to NetScalers as well.
+
+## Verwante notities
+
+- [Bas: IaC Creates Dangerous Key-Person Dependency](bas-iac-key-person-risk.md)
+- [Bas's take on application-aware HA alternatives for SQL](bas-on-application-aware-ha-alternatives.md)
+- [High-availability options for the Central Site database](central-site-database-ha-options.md)
+- [Standard components of a disaster recovery (DR) plan](disaster-recovery-plan-components.md)
+- [FMA service high availability via peer service groups](fma-services-high-availability.md)
+- [NetScaler high availability and clustering](netscaler-high-availability-clustering.md)
+- [The 'one is none' rule and Delivery Controller high availability](one-is-none-delivery-controller-ha.md)
+- [PVS high availability](pvs-high-availability.md)
+- [Universal Print Server load balancing and HA (7.9)](ups-load-balancing-ha.md)

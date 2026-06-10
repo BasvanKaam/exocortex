@@ -22,3 +22,15 @@ Bas is explicit that not every detail can be worked out for every organisation b
 > Daarnaast maken we gebruik van een door mij samengesteld en in de praktijk geteste Step-Cloud Adoptie Framework. Het is de rode draad in het boek.
 >
 > Dit framework helpt je om een doordacht, stapsgewijs implementatie- en adoptieproces te ontwikkelen, van de voorbereiding tot uitvoering en optimalisatie van Cloudstrategieën in je organisatie.
+
+## Verwante notities
+
+- [Atomic Habits as a Lens on the Strategy Phase](atomic-habits-implementation-intention-strategy.md)
+- [Fictional case: XYZ-Care Health Group](case-xyz-care-health-group.md)
+- [SCAF Adoption phase: finishing what you started](scaf-adoption-phase-purpose.md)
+- [SCAF Design Principles and Why It Exists](scaf-design-principles.md)
+- [SCAF Key Takeaways - The Four Phases and Strategy](scaf-four-phases-key-takeaways.md)
+- [SCAF: The Step-Cloud Adoptie Framework Overview](scaf-step-cloud-adoption-framework-overview.md)
+- [SCAF Toolkit: Bas's 'keep it simple' philosophy and applicability](scaf-toolkit-philosophy-and-applicability.md)
+- [SCAF visual timeline and Bas's preference for visual artifacts](scaf-visual-timeline.md)
+- [Why the book uses a fictional case](why-a-fictional-case.md)

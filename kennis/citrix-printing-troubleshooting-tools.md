@@ -27,3 +27,13 @@ Citrix tools useful for print (and general) troubleshooting:
 - Citrix Health Assistant: focuses on VDA registration issues (XenDesktop and XenApp), running automated health checks; GUI and command-line based (CTX207624).
 
 Note: Always-On logging for the print server and VDA printing subsystem can collate logs as a ZIP or auto-upload to Citrix Insight Services via the Start-TelemetryUpload PowerShell cmdlet. Bas expects CIS to be slowly phased out in favour of Citrix Smart Check (his educated guess).
+
+## Verwante notities
+
+- [Citrix Director: monitoring and troubleshooting tool](citrix-director-overview.md)
+- [Citrix Insight Services: automated log analysis and health checks](citrix-insight-services.md)
+- [Citrix print troubleshooting tools](citrix-print-troubleshooting-tools.md)
+- [Citrix Scout: the aggregating troubleshooting tool](citrix-scout-aggregator.md)
+- [Citrix Diagnostic Toolkit and Supportability Pack collections](citrix-toolset-collections.md)
+- [Print-related troubleshooting tools (Print Detective, UPS Cert Tool, StressPrinters)](print-troubleshooting-tools.md)
+- [Troubleshooting the VDA registration process and Citrix Health Assistant](vda-registration-troubleshooting.md)

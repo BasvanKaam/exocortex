@@ -30,3 +30,17 @@ Not all questions need answering, and that is fine — together you reach as det
 ## Bron-citaten (NL, verbatim)
 
 > Tegenwoordig wordt er vaak al snel geroepen: “We moeten naar de Cloud”, zonder dat er een goed plan achter zit
+
+## Verwante notities
+
+- [Atomic Habits as a Lens on the Strategy Phase](atomic-habits-implementation-intention-strategy.md)
+- [The 'Cloud because of the Cloud' syndrome and poor migration planning](cloud-because-of-cloud-syndrome.md)
+- [Bas's navigation metaphor: a cloud journey needs a destination](cloud-journey-navigation-metaphor.md)
+- [EA: Working with Principles (Top-Down and Bottom-Up Balance)](ea-working-with-principles.md)
+- [Opdracht 2 - Tailored Cloud strategy: the puzzle of models and goals](opdracht-2-cloud-strategy-models-and-goals.md)
+- [SCAF Strategie Pillar: Summary of Steps](scaf-strategie-pillar-step-summary.md)
+- [SCAF Strategie: Stakeholders, Actions and Results](scaf-strategie-stakeholders-and-actions.md)
+- [SCAF Workshop Startpunt Questions](scaf-workshop-startpunt-questions.md)
+- [Strategy Map (Kaplan & Norton) in SCAF](strategy-map-kaplan-norton.md)
+- [SWOT Analysis in SCAF](swot-analysis-in-scaf.md)
+- [The Gap Between IT and 'The Business'](the-gap-between-it-and-the-business.md)

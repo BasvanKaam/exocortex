@@ -18,3 +18,16 @@ VDI and DaaS can be set up two ways: a VM per user (generally considered the bas
 **Multi-user (multiple users on one VM):** best compared to a non-persistent machine; enabled via a shared session-hosting architecture like **Remote Desktop Session Host (RDSH)**, called Remote Desktop Services in Windows. Users share a common VM with the same apps and resources. Generally more cost-efficient (less compute/storage per user), best where users don't need extensive personalisation and use similar apps. Downsides: per-user performance can vary (shared resources) and less customisation/isolation. Usually paired with a user-profile solution like **FSLogix** so personal settings (browser favourites, wallpaper, app settings) are stored separately and loaded at login.
 
 Bas from the field: multi-user solutions are by far the most deployed, mainly for cost-efficiency, though it depends heavily on the use case — you often see a mix of both. Exceptions where single-user wins: a developer needs more compute, must install/test apps and reset the VM to its original state (impossible on multi-user without affecting others); and graphics apps for complex design/calculations like CAD software, which need an above-average GPU (Graphical Processing Unit). GPUs increasingly appear in multi-user systems too (compute shared per session) to support common apps like the Office suite — which, though seen as simple, increasingly consume compute, so a GPU relieves the central system.
+
+## Verwante notities
+
+- [AVD - The Only Cloud Service That Runs Windows Client Multi-User](avd-windows-client-multi-user.md)
+- [DaaS / VDI Additions to the Technical Design](daas-vdi-technical-design-considerations.md)
+- [DaaS versus VDI](daas-vs-vdi.md)
+- [FlexCast delivery technology, worker types and delivery models](flexcast-delivery-models-and-worker-types.md)
+- [MCS desktop types: Pooled-Random, Pooled-Static, Dedicated](mcs-desktop-types.md)
+- [Server VDA vs Desktop VDA: the often-overlooked new component](server-vda-vs-desktop-vda.md)
+- [Two VDA types and the single-user vs multi-user ICA stack](two-vda-types-ica-stack-difference.md)
+- [VDA install options and supported operating systems](vda-install-options-and-supported-os.md)
+- [VDI and DaaS Are Now Practically Synonymous](vdi-daas-now-synonymous.md)
+- [Windows 365 Cloud PC](windows-365-cloud-pc.md)

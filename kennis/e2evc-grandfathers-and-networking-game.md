@@ -17,3 +17,12 @@ Two distinctive E2EVC traditions Bas describes:
 - The networking game: Alex, who is big on networking, gives the audience five minutes to meet as many new people as possible (walk up, shake hands, introduce yourself). Then he asks who can recall ten names, counting down (nine, eight, seven...) until someone can list, say, seven names. First prize (usually a free ticket to the next event including transportation) goes to that person; everyone they named gets 50% off the next registration.
 
 Some E2EVC facts/figures Bas collected: ~25-30 MVPs, vExperts and CTPs at any event; max 150 attendees per event to keep quality and networking easy; 15-20 countries per event; the combined audience has ~65,000 Twitter followers reaching ~700,000 people worldwide; a YouTube channel with 40,000+ views.
+
+## Verwante notities
+
+- [Bas's comfort-zone war story: the presentation training](bas-on-stepping-out-of-comfort-zone.md)
+- [Citrix Technology Professionals (CTP) and Citrix Technology Advocates (CTA)](citrix-technology-professionals-and-advocates.md)
+- [E2EVC (Expert to Expert Virtualization Congress)](e2evc-community.md)
+- [E2EVC: the Experts-2-Experts Virtualization Conference](e2evc-conference.md)
+- [The Microsoft MVP program](microsoft-mvp-program.md)
+- [Bas on the value of IT communities](value-of-it-communities.md)

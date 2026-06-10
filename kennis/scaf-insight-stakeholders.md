@@ -21,3 +21,13 @@ In the SCAF Insight phase, although there is overlap with the strategy phase, ad
 - **External parties** (IT partner or software vendor) for insight into Cloud compatibility, licenses and configurations.
 
 Involving this broader group lets you draw up a plan that is both technically feasible and strategically fitting.
+
+## Verwante notities
+
+- [SCAF Execution Phase Stakeholders](scaf-execution-stakeholders.md)
+- [SCAF Insight Phase: Actions and the Waves Approach](scaf-insight-actions-and-waves.md)
+- [SCAF Chapter 8: The Insight (Inzicht) Phase Foundation](scaf-insight-phase-foundation.md)
+- [SCAF: Knowledge, Teams, Roles and Responsibilities](scaf-knowledge-teams-raci-gap.md)
+- [SCAF Insight Phase: Security Topics to Surface](scaf-security-insight-phase.md)
+- [SCAF Strategie: Stakeholders, Actions and Results](scaf-strategie-stakeholders-and-actions.md)
+- [SCAF Insight: Workshop as Starting Point](scaf-workshop-starting-point.md)

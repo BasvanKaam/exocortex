@@ -20,3 +20,17 @@ He welcomes all ideas: specific additions, an online extension of the book, thin
 > Zie het als het creëren van mijn eigen roadmap waarbij de input van mijn publiek (jij/jullie dus) het allerbelangrijkste is, daar luister ik naar.
 >
 > Ik wens je heel veel succes en plezier op jouw/jullie Cloudavontuur!
+
+## Verwante notities
+
+- [Bas's Closing Reflection: Good Questions Always Move You Forward](bas-closing-reflection-good-questions.md)
+- [Bas on the Cloud roadmap as a strategic tool](bas-cloud-roadmap-as-strategic-tool.md)
+- [Bas's experience: feedback from early phases builds tighter teams](bas-experience-feedback-from-early-phases.md)
+- [Bas on feedback as a continuous process from the insight phase](bas-feedback-continuous-process.md)
+- [Bas's contrarian tip: get feedback from prospects you lost, not just customers](bas-learn-from-lost-prospects.md)
+- [Bas's take on Twitter/X and Bluesky for following experts](bas-on-twitter-x-and-bluesky.md)
+- [Bas's 'van proberen kun je leren' philosophy](bas-van-proberen-kun-je-leren.md)
+- [Byte-Sized: Bas's crowdsourced community Cloud-tips book](byte-sized-cloud-tips-book.md)
+- [Creative Communication and Putting Responsibility on Staff](creative-communication-and-feedback-loop.md)
+- [Innovation Comes From Outside the Firewall](innovation-comes-from-outside-the-firewall.md)
+- [Bas on the value of IT communities](value-of-it-communities.md)

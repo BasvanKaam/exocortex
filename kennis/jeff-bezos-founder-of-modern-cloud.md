@@ -16,3 +16,13 @@ Bas argues you could say Jeff Bezos is the true founder of the modern Cloud. Bez
 Amazon went live on 16 July 1995. From the start the customer was central ("De klant is koning"), with sharp prices, broad assortment, fast delivery and the then-revolutionary idea of customer reviews. Bezos expanded from books into music, films, toys, electronics and clothing, aiming for an 'everything store'. He launched Amazon Prime in 2005 and AWS in 2006, which became one of Amazon's most profitable parts. Later milestones include the Kindle, global distribution centres, Amazon Fresh and drone delivery.
 
 Amazon has drawn criticism over harsh warehouse working conditions (highlighted in a Netflix documentary, with employees feeling treated like machines) and over sustainability - large packaging waste and a huge CO2 footprint, despite the 2020 'Bezos Earth Fund' pledging 10 billion dollars for climate solutions. Groups like Amazon Employees for Climate Justice keep up the pressure. Bas's verdict: whatever you think of him, what Bezos built in a relatively short period is at the very least impressive.
+
+## Verwante notities
+
+- [ARPANET (1969): the birth of networking](arpanet-birth-of-networks.md)
+- [AWS EC2 (2006): birth of the commercial Cloud](aws-ec2-commercial-cloud-birth.md)
+- [AWS Profile and Strengths](aws-profile-strengths.md)
+- [Milestones in the development of Cloud computing](cloud-computing-milestones-timeline.md)
+- [Cloud's origin around 2006 (Bas's paper, written 2020)](cloud-origin-around-2006-paper.md)
+- [Evolution of Cloud architectures (timesharing to hybrid)](evolution-of-cloud-architectures.md)
+- [Tom Siebel's scepticism that the Cloud survived](tom-siebel-cloud-scepticism.md)

@@ -25,3 +25,10 @@ He acknowledges he sounds negative about cloud but insists that is not his inten
 > on-premises RDSH and VDI infrastructures are here to stay for at least another five to ten years, if not longer (my guess is longer)
 >
 > So that is why I say, YES all this is still relevant!
+
+## Verwante notities
+
+- [Citrix Workspace Cloud (CWC): a managed control plane over the FMA](citrix-workspace-cloud-overview.md)
+- [Bas on cloud, hybrid and the future of on-premises VDI](is-cloud-vdi-still-relevant-takeaways.md)
+- [The nine main FMA components and the XenDesktop Site definition](nine-main-fma-components.md)
+- [Bas's troubleshooting philosophy: master the basics before reaching for tools](troubleshooting-know-the-basics-first.md)

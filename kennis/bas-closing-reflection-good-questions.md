@@ -24,3 +24,13 @@ He reminds the reader, as he wrote at the start, that the book is grounded in hi
 > Geloof me, dat is niet alleen waardevol, maar ook onwijs leuk om te doen.
 >
 > Gebruik de lessen en ideeën in dit boek als een fundament, maar voel je vrij om er je eigen draai aan te geven.
+
+## Verwante notities
+
+- [Bas on continuous study and self-investment](bas-on-continuous-study-and-self-investment.md)
+- [Bas on growth: lean into strengths, nudge weaknesses, and ask questions](bas-play-to-your-strengths.md)
+- [Bas's Roadmap Is Driven by Reader Feedback](bas-reader-feedback-as-roadmap.md)
+- [Bas's teaching philosophy: action and presenting beat passive reading](bas-teaching-philosophy-action-and-presenting.md)
+- [Bas's 'van proberen kun je leren' philosophy](bas-van-proberen-kun-je-leren.md)
+- [Byte-Sized: Bas's crowdsourced community Cloud-tips book](byte-sized-cloud-tips-book.md)
+- [Bas's navigation metaphor: a cloud journey needs a destination](cloud-journey-navigation-metaphor.md)

@@ -27,3 +27,15 @@ Bas's example list of fixed elements a DR plan should contain (not cloud-specifi
 - Responsibilities: contacts and their roles, including who must do what during a disaster.
 - Regular tests: periodic (e.g. yearly or after major changes) to ensure the plan stays effective and up to date.
 - Evaluation and improvement: post-incident evaluation and continuous improvement, applying lessons from practice.
+
+## Verwante notities
+
+- [Azure high-availability building blocks](azure-high-availability-building-blocks.md)
+- [Bas's take on application-aware HA alternatives for SQL](bas-on-application-aware-ha-alternatives.md)
+- [Bas on disaster recovery: no blueprint, and don't forget the BUDGET](bas-on-disaster-recovery-and-budget.md)
+- [The six-step process for building a cloud exit strategy](cloud-exit-strategy-steps.md)
+- [SLA pitfalls to analyse for a cloud exit strategy](cloud-sla-pitfalls-exit.md)
+- [Global cloud scale: regions, zones, and which continent has no datacenters](global-scale-regions-zones-datacenters.md)
+- [Bas's 'one is none' rule for resilience](one-is-none-rule.md)
+- [Post-COVID resilience: BCPs, redundancy, supply chains, automation](post-covid-resilience-measures.md)
+- [Why high availability and DR matter: ransomware and data hostage](ransomware-data-hostage.md)

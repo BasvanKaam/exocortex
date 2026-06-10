@@ -19,3 +19,19 @@ The cultural shifts Bas lists when moving to the cloud:
 - **New ways of IT-business collaboration** — IT becomes a strategic partner, requiring soft skills to work with non-technical colleagues.
 - **Adaptability** — culture must allow experimentation and innovation, correcting mistakes fast.
 - **Changed roles** — new roles emerge such as cloud architects, DevOps specialists, and cloud security experts.
+
+## Verwante notities
+
+- [Agile and PDCA as the unwritten cloud standard](agile-pdca-cloud-default.md)
+- [Capex vs Opex in IT and Cloud](capex-vs-opex-in-it.md)
+- [Bas: the cloud doesn't make people redundant, it frees them for better work](cloud-frees-people-for-better-work.md)
+- [Cloud ideas for the modern, attractive employer](cloud-ideas-for-the-modern-attractive-employer.md)
+- [Cultural Shift: Communicate, Communicate, Communicate](cultural-shift-communicate-communicate.md)
+- [The Evolution of the CIO and CFO Role](evolution-of-cio-cfo-role.md)
+- [From Beheer to Regie: The Regieorganisatie Model](from-beheer-to-regie-organisation.md)
+- [Infrastructure as Code (IaC) and Its Benefits](infrastructure-as-code-basics.md)
+- [The IT (Cloud) Professional 2.0: from geek to strategic generalist](it-cloud-professional-2-0.md)
+- [ITIL Service Management in Cloud Environments](itil-in-cloud-environments.md)
+- [Key Takeaways Chapter 4: Cloud Transformation Beyond Technology](key-takeaways-chapter-4-cloud-transformation.md)
+- [Transformation: From Product to Service, Ownership to Usage](product-to-service-ownership-to-usage.md)
+- [Resistance: cloud is more than technology](resistance-to-change-in-cloud-adoption.md)

@@ -20,3 +20,8 @@ The web's evolution across generations:
 - **Web 3.0 (2020-2025):** The Semantic Web; AI and data analysis let computers better interpret the meaning of data, enabling more personalized and intelligent interaction.
 - **Web 4.0 (2025-2030):** The WebOS phase; the internet integrates seamlessly with our environment and devices (smart homes, IoT, connected ecosystems), using semantic technologies to optimize and automate human-web interaction.
 - **Beyond:** A theoretical line above Web 4.0 sketches an even more semantic and socially integrated web, possibly a WebOS woven into all aspects of our environment.
+
+## Verwante notities
+
+- [ARPANET (1969): the birth of networking](arpanet-birth-of-networks.md)
+- [Evolution of Cloud architectures (timesharing to hybrid)](evolution-of-cloud-architectures.md)

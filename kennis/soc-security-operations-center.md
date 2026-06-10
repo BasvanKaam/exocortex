@@ -16,3 +16,14 @@ Bas describes a Security Operations Center (SOC) as a kind of digital guard serv
 In the Cloud a SOC is just as important. Large players (Azure, AWS, Google Cloud) secure their infrastructure, but protecting data, applications, access, identity, network access and more remains your responsibility (shared responsibility model: the closer you sit to a SaaS service, the greater the provider's responsibility). A SOC helps keep your Cloud environment secure by detecting suspicious activity and responding directly, often with smart automated tools that can block unwanted access before something goes wrong.
 
 Within the Step-Cloud Adoptie Framework, a SOC is relevant in all phases: Strategy (advises on risks, helps develop a security strategy), Insight/Inzicht (input for risk analyses, determines needed measures), Execution/Uitvoering (monitors transition old-to-new, validates Cloud security), and Adoption/Adoptie (continuous monitoring, responds to new threats).
+
+## Verwante notities
+
+- [Current cyber threats and 2025+ trends](current-cyber-threats-and-2025-trends.md)
+- [Risk analysis process steps](risk-analysis-process-steps.md)
+- [SCAF Insight Phase: Security Topics to Surface](scaf-security-insight-phase.md)
+- [Shared Responsibility Model (Restaurant Analogy)](shared-responsibility-model-restaurant-analogy.md)
+- [Voorzorg: Assume You Will Be Breached](voorzorg-assume-breach.md)
+- [Zero Trust Security Model](zero-trust-model.md)
+- [Zero Trust Principles](zero-trust-principles.md)
+- [Ten-Category Security Portfolio for Zero Trust](zero-trust-ten-category-portfolio.md)

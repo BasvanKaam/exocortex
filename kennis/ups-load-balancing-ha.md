@@ -20,3 +20,12 @@ Required policies: 'Universal Print Server for load balancing' and 'Universal Pr
 Installing UPS automatically enrolls you in the Citrix Experience Improvement Program (CEIP); data is anonymous and encrypted, first upload after 7 days. Opt out via registry HKLM\Software\Citrix\Universal Print Server\CEIPEnabled set to DWORD 0 (1 to opt back in).
 
 FMA fact: multithreading enhancements mean the UPS can now process 80+ print jobs per minute, with reduced resource consumption and improved printer data caching on the VDA.
+
+## Verwante notities
+
+- [Citrix LTSR vs Current Release](citrix-ltsr-vs-current-release.md)
+- [Citrix proximity printing](citrix-proximity-printing.md)
+- [Citrix Universal Print Server (UPS)](citrix-universal-print-server.md)
+- [Citrix Universal Printer (logical print object)](citrix-universal-printer.md)
+- [Bas's 'one is none' rule for resilience](one-is-none-rule.md)
+- [Universal Print Driver, Universal Printer and Universal Print Server](universal-print-driver-server-printer.md)

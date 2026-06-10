@@ -18,3 +18,12 @@ The Transaction-Log records all transactions and modifications. If the live Site
 - Bulk-Logged Recovery mode: an adjunct of full recovery permitting high-performance bulk copy operations; typically not used for Citrix databases.
 
 With daily (or multiple-weekly) backups, Simple Recovery mode is usually sufficient. If Site configuration changes are constant, Full Recovery may be desirable. Always use high-performance storage (preferably SSDs) for SQL.
+
+## Verwante notities
+
+- [High-availability options for the Central Site database](central-site-database-ha-options.md)
+- [Bas's Central Site database key takeaways](central-site-database-key-takeaways.md)
+- [The XenDesktop Central Site database](central-site-database-role.md)
+- [FMA database sizing numbers](fma-database-sizing-numbers.md)
+- [PVS high availability](pvs-high-availability.md)
+- [The three XenDesktop databases](xendesktop-three-databases.md)

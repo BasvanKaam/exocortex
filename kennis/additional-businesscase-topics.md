@@ -20,3 +20,14 @@ Beyond hard costs, Bas lists supplementary topics to consider (depending on your
 - **Financing options:** how the project is funded — loans, investors, internal budgets.
 - **Environmental impact (sustainability):** increasingly important; if applicable it can be a value-add.
 - **Scaling and extensibility:** what happens if demand grows — how scalable is the proposal and what are the cost/process implications?
+
+## Verwante notities
+
+- [Bas: The 6 R's for Application Rationalization](bas-6-rs-cloud-migration.md)
+- [Bas on cost management: cost vs. value and ROI/TCO](bas-on-cost-management-roi-tco.md)
+- [Why Write a Business Case, and Its Key Elements](business-case-value-and-elements.md)
+- [A Business Case Is More Than 'Hard' Costs Alone](businesscase-more-than-hard-costs.md)
+- [Bas: frame the business case with an executive summary and added-value story](executive-summary-and-added-value-framing.md)
+- [Opdracht 5: build your own business case (the method)](opdracht-5-business-case-exercise.md)
+- [Azure, AWS and Google sustainability targets](provider-sustainability-targets.md)
+- [KPIs in the SCAF Adoption phase: making success measurable](scaf-kpis-in-adoption-phase.md)

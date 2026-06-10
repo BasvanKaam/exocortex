@@ -18,3 +18,14 @@ Importantly, **not all referenced documents are part of the toolkit**. Excluded 
 ## Bron-citaten (NL, verbatim)
 
 > Deel deze aub niet met iemand anders, dat zou zonde zijn, je hebt er niet voor niets voor betaald.
+
+## Verwante notities
+
+- [Per-chapter references and QR-code glossaries](glossary-via-qr-codes.md)
+- [SCAF Cloud Exit Strategy Template (On Bas's Backlog)](scaf-cloud-exit-strategy-on-backlog.md)
+- [SCAF Documentation and Templates](scaf-documentation-templates.md)
+- [SCAF management-summary 'palet' templates per phase](scaf-management-summary-templates.md)
+- [SCAF strategy-phase templates: Summary Palet, Strategy Map, SWOT](scaf-strategy-phase-templates.md)
+- [SCAF supporting templates: RACI, Risk Register, Skill Readiness](scaf-supporting-templates-overview.md)
+- [SCAF Toolkit: Bas's 'keep it simple' philosophy and applicability](scaf-toolkit-philosophy-and-applicability.md)
+- [Bas: use the SCAF toolkit as inspiration, not a checklist](scaf-toolkit-use-it-as-inspiration.md)

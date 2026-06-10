@@ -18,3 +18,17 @@ For larger, complex IaaS-focused environments, Bas suggests limiting choices ini
 The same process runs for data, networks, hardware components, virtual systems and storage. Document everything carefully, including required (24/7) availability, contractual restrictions and special cases. For networks watch line type, up/download speed, bandwidth and redundancy needs; for storage, the type, throughput, etc. Specific dependencies to capture include: latency sensitivity; other network requirements; where data resides in the new Cloud situation; whether all data may/should go to the Cloud; data volumes; specific storage requirements (block, file, system); dependencies on hardware/dongles, OS, other applications; single vs multi-user certification; security requirements (encryption, authentication); and minimum/desired system requirements.
 
 Also don't forget: existing monitoring/tooling, an overview of current subscriptions and licenses, unused active resources, unexplained usage/consumption, permissions and rights, and lack of budget control.
+
+## Verwante notities
+
+- [Azure data migration and import tools](azure-data-migration-import-tools.md)
+- [Bas: The 6 R's for Application Rationalization](bas-6-rs-cloud-migration.md)
+- [Selecting the First Migration Workload (Simple to Complex)](first-migration-workload-selection.md)
+- [Opdracht 7: Cloud Migration Compass (XYZ-Care Health Group)](opdracht-7-cloud-migration-compass.md)
+- [Definitive Cloud and Refactor Choice (Rationalisation)](rationalisation-refactor-choice-execution.md)
+- [SCAF execution-phase templates and the migration waves](scaf-execution-phase-templates.md)
+- [SCAF Insight Phase: Actions and the Waves Approach](scaf-insight-actions-and-waves.md)
+- [SCAF Chapter 8: The Insight (Inzicht) Phase Foundation](scaf-insight-phase-foundation.md)
+- [SCAF Insight Phase: Results and Supporting Documentation](scaf-insight-results-and-documentation.md)
+- [SCAF Insight Phase: Security Topics to Surface](scaf-security-insight-phase.md)
+- [SCAF Insight: Workshop as Starting Point](scaf-workshop-starting-point.md)

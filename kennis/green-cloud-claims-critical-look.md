@@ -22,3 +22,12 @@ Bas's bottom line: offsetting and certificates are usually less direct than gene
 ## Bron-citaten (NL, verbatim)
 
 > Het is maar hoe je het bekijkt.
+
+## Verwante notities
+
+- [Cloud providers build their own servers and hypervisors](cloud-providers-build-own-servers-hypervisor.md)
+- [The less-obvious challenges of building datacenters](datacenter-hidden-challenges.md)
+- [Microsoft sustainability goal: carbon negative by 2030](microsoft-carbon-negative-2030.md)
+- [Obvious cloud trends (multi-cloud, edge, zero trust, serverless, green)](obvious-cloud-trends-list.md)
+- [Azure, AWS and Google sustainability targets](provider-sustainability-targets.md)
+- [Bas on the physical scale: subsea cables and an Azure datacenter tour](submarine-cables-and-datacenter-scale.md)

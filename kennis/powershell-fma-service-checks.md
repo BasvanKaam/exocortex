@@ -21,3 +21,12 @@ Example service-status cmdlets:
 - Get-ProvServiceStatus
 
 Both Studio and Director run on top of the PowerShell SDK, and everything in Studio (plus extra tweaks not exposed in the GUI) can be done via PowerShell. In Studio, the minutes value next to each Controller indicates when it last registered with the Central Site database and should always be 0; by default a Controller checks in every 20 seconds via heartbeat, valid (TTL) for another 40 seconds.
+
+## Verwante notities
+
+- [Citrix Studio: the central management console](citrix-studio-overview.md)
+- [Director dashboard, Trends view and alerts](director-dashboard-trends-and-alerts.md)
+- [FMA service high availability via peer service groups](fma-services-high-availability.md)
+- [The FlexCast Management Architecture and its thirteen core services](fma-thirteen-core-services-overview.md)
+- [VDA registration and how to verify it](vda-registration-and-verification.md)
+- [Service logging in XenDesktop (command-line vs Scout)](xendesktop-service-logging.md)

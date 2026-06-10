@@ -18,3 +18,12 @@ Organisations and people are categorised by how fast they adopt technology, base
 - **Early Majority** — adopt during the transition from Trough of Disillusionment to Slope of Enlightenment; wait until tech is more practical, tested and lower-risk.
 - **Late Majority** — adopt around the Plateau of Productivity; conservative, wait for broad acceptance and proof.
 - **Laggards** — wait longest, adopt only when tech is nearly standard and risk is minimal.
+
+## Verwante notities
+
+- [Bas's reframe: chase trends and innovation only in moderation](bas-innovation-with-moderation.md)
+- [Bas on 'Angst': the human side of cloud adoption](fear-and-the-human-side-of-cloud-adoption.md)
+- [The Gartner Hype Cycle and its five stages](gartner-hype-cycle.md)
+- [The Learning Pyramid (National Training Laboratories)](learning-pyramid.md)
+- [Resistance: cloud is more than technology](resistance-to-change-in-cloud-adoption.md)
+- [Bas: build buy-in with a small PoV or PoC and free resources](start-small-with-pov-or-poc.md)

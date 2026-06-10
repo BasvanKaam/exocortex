@@ -19,3 +19,13 @@ Advantages:
 - Triple-A (AAA) support, allowing integration with Office 365 and SSO against existing NetScaler load-balance servers.
 
 You can configure as many Unified Gateway vServers as needed. Bas advises considering it for larger, more complex environments.
+
+## Verwante notities
+
+- [External user authentication through NetScaler](external-authentication-through-netscaler.md)
+- [NetScaler ADC vs NetScaler Gateway](netscaler-adc-vs-gateway.md)
+- [NetScaler IP addresses: NSIP, SNIP and MIP](netscaler-ip-addresses-nsip-snip-mip.md)
+- [NetScaler SSL certificates and certificate trust](netscaler-ssl-certificates-and-trust.md)
+- [NetScaler SSL offloading and DMZ placement](netscaler-ssl-offload-dmz.md)
+- [NetScaler vServers, service objects and server objects](netscaler-virtual-server-service-server-objects.md)
+- [Optimal NetScaler Gateway routing](optimal-netscaler-gateway-routing.md)

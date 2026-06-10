@@ -22,3 +22,14 @@ Bas's assignment 'AVG In De Zorg: Inzicht, Grondslagen En Beveiliging.' His stan
 - **Perform a risk analysis:** on current practices, e.g. unencrypted laptops, manual updates, lack of multi-factor authentication; name the biggest risks and propose improvements.
 
 **The method behind it (Uitwerking):** the exercise gives a structured way to make data protection concrete by identifying personal data and choosing the right legal basis; the risk analysis exposes current vulnerabilities (outdated hardware, missing baseline controls). Drafting a proposal and preparing a presentation helps formulate a clear vision and build management buy-in (draagvlak), emphasizing measures like MFA, processing registers and DPIAs. The outcome is greater awareness plus concrete steps to make IT processes safer and more efficient, while developing strategic-choice and presentation skills.
+
+## Verwante notities
+
+- [AVG / GDPR: purpose and benefits](avg-gdpr-overview.md)
+- [AVG security: organizational and technical measures](avg-security-organizational-and-technical-measures.md)
+- [The six legal bases (grondslagen) for processing under the AVG](avg-six-legal-bases-grondslag.md)
+- [Fictional case: XYZ-Care Health Group](case-xyz-care-health-group.md)
+- [DPIA, FG appointment and controller obligations under the AVG](dpia-fg-and-controller-obligations.md)
+- [Opdracht 7: Cloud Migration Compass (XYZ-Care Health Group)](opdracht-7-cloud-migration-compass.md)
+- [Risk Analysis: Control Measures and Decision-Making](risk-analysis-control-measures.md)
+- [Risk analysis process steps](risk-analysis-process-steps.md)

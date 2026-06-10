@@ -16,3 +16,16 @@ A vDisk starts on a **Master Target Device** — a physical or virtual machine w
 Two assignment modes:
 - **Standard Image Mode** (read-only): the vDisk is shared by multiple devices simultaneously. Each machine has its own **Write Cache** for writes to the read-only vDisk.
 - **Private Image Mode** (one-to-one): the user can read and write to the vDisk, and all changes are saved persistently.
+
+## Verwante notities
+
+- [Bas's PVS recommendation: hybrid versioning approach](bas-pvs-hybrid-versioning-recommendation.md)
+- [MCS Differencing Disk and Identity Disk](mcs-differencing-and-identity-disk.md)
+- [Citrix Provisioning Services (PVS) overview](provisioning-services-overview.md)
+- [PVS boot mechanism: Bootstrap, TFTP and BDM](pvs-boot-mechanism-bootstrap-tftp-bdm.md)
+- [PVS high availability](pvs-high-availability.md)
+- [Personal vDisks (PvD)](pvs-personal-vdisks-pvd.md)
+- [PVS provisioning wizards: streamed VM and XenDesktop setup](pvs-provisioning-wizards.md)
+- [PVS terminology: Farm, Site, Store, Device Collection, Target Device](pvs-terminology-farm-site-store-collection.md)
+- [PVS vDisk versioning and lifecycle](pvs-vdisk-versioning-lifecycle.md)
+- [PVS write cache options](pvs-write-cache-options.md)

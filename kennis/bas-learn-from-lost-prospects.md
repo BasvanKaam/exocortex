@@ -16,3 +16,14 @@ While describing how an Innovation Board gathers external feedback, Bas offers a
 ## Bron-citaten (NL, verbatim)
 
 > Waarom niet de bedrijven die (net) niet klant zijn geworden benaderen en vragen om feedback, daar leer je naar mijns inziens meer van.
+
+## Verwante notities
+
+- [Bas's experience: feedback from early phases builds tighter teams](bas-experience-feedback-from-early-phases.md)
+- [Bas on feedback as a continuous process from the insight phase](bas-feedback-continuous-process.md)
+- [Bas's reframe: chase trends and innovation only in moderation](bas-innovation-with-moderation.md)
+- [Bas's Roadmap Is Driven by Reader Feedback](bas-reader-feedback-as-roadmap.md)
+- [Bas's 'van proberen kun je leren' philosophy](bas-van-proberen-kun-je-leren.md)
+- [Creative Communication and Putting Responsibility on Staff](creative-communication-and-feedback-loop.md)
+- [How an Innovation Board operates, end to end](innovation-board-in-detail.md)
+- [Innovation Comes From Outside the Firewall](innovation-comes-from-outside-the-firewall.md)

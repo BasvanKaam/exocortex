@@ -19,3 +19,15 @@ Bas argues for composing a CCoE early, for several reasons:
 - **Risk control:** mapping risks early so security, compliance and risk management are built into the strategy, minimising later problems.
 - **Guiding the organisation:** facilitating training and knowledge sharing to prevent a fragmented migration.
 - **Stimulating innovation:** introducing new cloud technologies for accelerated innovation.
+
+## Verwante notities
+
+- [Bas's reframe: governance is just a fancy word](bas-governance-is-just-a-fancy-word.md)
+- [Promoting the CCoE: the 'kindergarten' war story and strategies](bas-promoting-the-ccoe-kindergarten-war-story.md)
+- [A CCoE Is Not Just for Large Enterprises](ccoe-not-just-for-enterprise.md)
+- [The CCoE's role in AVG compliance and governance](ccoe-role-in-avg-compliance.md)
+- [CCoE Role in the Inzicht and Uitvoering Phases](ccoe-role-in-insight-and-execution-phases.md)
+- [CCoE Roles and Responsibilities](ccoe-roles-and-responsibilities.md)
+- [SCAF Cloud Governance Roles](scaf-cloud-governance-roles.md)
+- [SCAF Design Principles and Why It Exists](scaf-design-principles.md)
+- [SCAF Workshop Startpunt Questions](scaf-workshop-startpunt-questions.md)

@@ -30,3 +30,17 @@ Key takeaways he attaches: leverage the cloud for Burst Capacity and backup; don
 ## Bron-citaten (NL, verbatim)
 
 > The bigger cloud providers are not more secure by default. Sure, on average they invest more when it comes to security, but the bigger you are the more interesting you become. And eventually they will find a way.
+
+## Verwante notities
+
+- [Bas's challenge: can you do cloud security better yourself?](bas-can-you-do-security-better-yourself.md)
+- [The human factor: loss of control and trust](bas-on-the-human-factor-and-loss-of-control.md)
+- [Bas's paper: Cloud Only? No. Cloud First or Hybrid? Yes.](bas-paper-cloud-only-no-cloud-first-yes.md)
+- [Paper conclusion: Cloud only? Maybe never](bas-paper-conclusion-cloud-only-never.md)
+- [Bas on the future limits of self-hosting your own data growth](bas-self-hosting-data-growth-limit.md)
+- [Common Cloud Concerns: Cost, Migration, Loss of Control](cloud-concerns-cost-and-control.md)
+- [Bas Disagrees With Gartner on Co-location's Demise](gartner-colocation-prediction-disagreement.md)
+- [Hybrid cloud: best of both worlds via ExpressRoute and low latency](hybrid-cloud-best-of-both-worlds.md)
+- [Physical and software performance limits of the cloud](physical-and-software-cloud-performance-limits.md)
+- [Why traditional Windows applications won't disappear](traditional-windows-applications-wont-disappear.md)
+- [When the Cloud is a good solution - and when it is not](when-cloud-is-and-isnt-a-good-fit.md)

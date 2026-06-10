@@ -23,3 +23,12 @@ Before implementing any application-layering solution, Bas offers a checklist of
 - What else is in the vendor's portfolio that might combine well with layering?
 - Do they offer a persistent personal data / app disk solution, and would you want it?
 - A user-profile solution (also layering-based) perhaps?
+
+## Verwante notities
+
+- [Application delivery: layering vs virtualisation, and AppDisks](application-delivery-layering-vs-virtualisation.md)
+- [Bas's key takeaways on application delivery and layering](bas-key-takeaways-application-delivery.md)
+- [Bas on the pros of application layering](bas-pros-of-application-layering.md)
+- [Citrix AppDisks: application layering for golden images](citrix-appdisks-application-layering.md)
+- [How application layering works (filter drivers)](how-application-layering-works.md)
+- [Personal vDisks (PvD)](pvs-personal-vdisks-pvd.md)

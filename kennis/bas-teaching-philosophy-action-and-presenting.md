@@ -20,3 +20,13 @@ He goes a step further and leans on the pyramid's top method, teaching others (9
 > een betere manier van leren is er niet
 >
 > Meer actie = een beter resultaat!
+
+## Verwante notities
+
+- [Bas's Closing Reflection: Good Questions Always Move You Forward](bas-closing-reflection-good-questions.md)
+- [Bas's Cloud 'Cheat Sheets' mapping provider service names](bas-cloud-cheat-sheets.md)
+- [Bas's comfort-zone war story: the presentation training](bas-on-stepping-out-of-comfort-zone.md)
+- [Bas's reading habit: the 10-pages-a-morning method](bas-reading-habit-and-method.md)
+- [The Learning Pyramid (National Training Laboratories)](learning-pyramid.md)
+- [Old School: why Bas insists on pen and paper in a cloud book](old-school-pen-and-paper-method.md)
+- [Why the book uses a fictional case](why-a-fictional-case.md)

@@ -20,3 +20,15 @@ He frames the planning questions you must answer to gauge storage and administra
 - How many datastores will you use?
 - How often (per week/month/year) will master VMs be updated? (always a hard question to answer)
 - Does your storage support thin provisioning? If not, every provisioned VM is as big as the master VM it is based on.
+
+## Verwante notities
+
+- [Machine Creation Services essentials](machine-creation-services-essentials.md)
+- [Bas on MCS, workloads and the case for application layering](mcs-application-workloads-layering.md)
+- [MCS Differencing Disk and Identity Disk](mcs-differencing-and-identity-disk.md)
+- [MCS supported hypervisor storage and thin provisioning limits](mcs-hypervisor-storage-support.md)
+- [MCS IOPS profile: ~1.6x PVS average, ~1.2x steady state](mcs-iops-vs-pvs.md)
+- [MCS rollbacks and reboot considerations (boot storms, disconnect policies)](mcs-rollbacks-and-reboot-considerations.md)
+- [Bas's MCS storage implications checklist](mcs-storage-implications.md)
+- [MCS updating: persistent vs non-persistent VM behaviour](mcs-updating-persistent-vs-nonpersistent.md)
+- [PVS vDisk versioning and lifecycle](pvs-vdisk-versioning-lifecycle.md)

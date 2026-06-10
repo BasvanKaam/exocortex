@@ -16,3 +16,15 @@ First introduced at Citrix Synergy in 2009, the Citrix Receiver was formerly kno
 When Receiver was introduced, Citrix renamed existing clients (ICA Client to Online Plugin, Access Gateway client to Secure Access Plugin) and added an Offline Plugin and Web Plugin. These would 'plug in' to Receiver. To deliver and manage the plug-ins, Citrix introduced the Merchandising Server with Citrix Receiver 1.0, providing the admin interface to configure, deliver and upgrade plug-ins.
 
 Receiver matured from version 1.0 (2009) to 4.4 (GA December 2015). Only as of version 3.0 was it actually a complete 'Citrix Receiver' package; before that it was a placeholder accompanied by the Merchandising Server. As of version 3.2, it moved away from the Merchandising Server toward Citrix.com for updates. 2018 update: the Workspace App will replace Receiver, again functioning as a placeholder for connectors and agents, plus doing much more.
+
+## Verwante notities
+
+- [Beacon-based Receiver connection routing](beacon-based-receiver-connection-routing.md)
+- [Citrix company history: from Citrus to WinFrame](citrix-company-history.md)
+- [The origin of Citrix and the ICA protocol](history-of-citrix-and-ica.md)
+- [Receiver for HTML5 as a fallback](html5-receiver-fallback.md)
+- [Bas's Citrix Receiver chapter key takeaways](receiver-chapter-key-takeaways.md)
+- [Receiver Clean-Up utility](receiver-cleanup-utility.md)
+- [Configuring Receiver connection information](receiver-connection-configuration-methods.md)
+- [Citrix Receiver / ICA Client detailed version timeline](receiver-detailed-version-timeline.md)
+- [Receiver platforms and the Receiver X1](receiver-platforms-and-x1.md)

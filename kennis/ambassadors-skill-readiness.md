@@ -14,3 +14,15 @@ bron: van-de-basis-tot-meester-in-de-cloud
 In Bas's execution phase, a team of ambassadors (with a possible project leader) works to build support (draagvlak) for the new services and products being built and delivered. This can take the form of digital or classroom training, organising working groups, enthusing colleagues, sharing information, and acting as a point of contact. They are also called champions or sponsors. He stresses keeping the organisation informed throughout (and earlier where possible) about what is changing, what is happening and what the benefits are.
 
 Skill readiness planning is the parallel track: the plan drawn up earlier (insight phase) is finalised and internally approved, and the first colleagues are sent to training. His key point: employees must not only be technically prepared for the new cloud environment but also made enthusiastic for the change - internal ambassadors are essential here, bridging the cloud strategy and daily practice.
+
+## Verwante notities
+
+- [Promoting the CCoE: the 'kindergarten' war story and strategies](bas-promoting-the-ccoe-kindergarten-war-story.md)
+- [Bas's year as a competence manager](bas-year-as-competence-manager.md)
+- [Key Takeaways: the adoption phase is a beginning, not an end](chapter14-adoption-phase-key-takeaways.md)
+- [Bas: the cloud doesn't make people redundant, it frees them for better work](cloud-frees-people-for-better-work.md)
+- [Bas on 'Angst': the human side of cloud adoption](fear-and-the-human-side-of-cloud-adoption.md)
+- [Opdracht 11: the human side of cloud transformation (XYZ-Care)](opdracht-11-adoption-human-side.md)
+- [SCAF Adoption phase: activities and deliverables](scaf-adoption-phase-activities.md)
+- [SCAF: Knowledge, Teams, Roles and Responsibilities](scaf-knowledge-teams-raci-gap.md)
+- [SCAF supporting templates: RACI, Risk Register, Skill Readiness](scaf-supporting-templates-overview.md)

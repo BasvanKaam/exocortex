@@ -24,3 +24,11 @@ This is a useful pointer: the SCAF (Step-Cloud Adoptie Framework) toolkit is int
 > Een Cloud Exit strategie template (als onderdeel van de SCAF toolkit) en vragenlijst, bijvoorbeeld, of security in de context van AI
 >
 > Ik heb al bijna voldoende materiaal voor deel 2 :)
+
+## Verwante notities
+
+- [Bas's checklist of points of attention for a cloud exit](cloud-exit-points-of-attention.md)
+- [Why have a cloud exit strategy - the exit comes before onboarding](cloud-exit-strategy-rationale.md)
+- [The six-step process for building a cloud exit strategy](cloud-exit-strategy-steps.md)
+- [SCAF Design Principles and Why It Exists](scaf-design-principles.md)
+- [SCAF Toolkit: 20 downloadable templates and what's excluded](scaf-toolkit-download-and-templates.md)

@@ -26,3 +26,16 @@ Bas's moral: do something you are not comfortable with, take on the challenge, s
 > Doe iets waar je je niet comfortabel bij voelt
 >
 > Je krijgt er geen spijt van!
+
+## Verwante notities
+
+- [Bas on continuous study and self-investment](bas-on-continuous-study-and-self-investment.md)
+- [Bas on growth: lean into strengths, nudge weaknesses, and ask questions](bas-play-to-your-strengths.md)
+- [Bas's recommended reading list](bas-recommended-booklist.md)
+- [Bas's teaching philosophy: action and presenting beat passive reading](bas-teaching-philosophy-action-and-presenting.md)
+- [Bas's 'van proberen kun je leren' philosophy](bas-van-proberen-kun-je-leren.md)
+- [Bas: the cloud doesn't make people redundant, it frees them for better work](cloud-frees-people-for-better-work.md)
+- [Why people choose nomad life — and its downsides](digital-nomad-reasons-and-downsides.md)
+- [E2EVC traditions: grandfathers and the networking game](e2evc-grandfathers-and-networking-game.md)
+- [Bas on the value of IT communities](value-of-it-communities.md)
+- [Where The Magic Happens and Het Laaghangend Fruit](where-the-magic-happens-laaghangend-fruit.md)

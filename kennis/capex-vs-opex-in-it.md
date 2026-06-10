@@ -16,3 +16,18 @@ Two key factors in financial decisions. **Capex** (capital expenditure) refers t
 **Opex** (operational expenditure) is recurring spend to keep the business running — salaries, maintenance, rental contracts. These costs are fully tax-deductible in the same year, attractive for companies with limited liquidity. The Opex model is popular in the cloud world, where companies (usually) only pay for what they use. This 'pay-as-you-go' model offers flexibility: switch off resources you no longer need and the costs stop immediately.
 
 Capex-focused companies invest heavily up front betting on future benefits (opinions differ on this); Opex models such as cloud give fast access to technology without large initial investment. Opex can be more expensive long-term for short usage, but providers often offer discounts for longer commitments — Azure Reserved Instances being a good example, with one-to-three-year contracts lowering cloud costs.
+
+## Verwante notities
+
+- [AWS cost management and optimisation tools](aws-cost-management-tools.md)
+- [Azure cost management and optimisation tools](azure-cost-management-tools.md)
+- [Bas's war story: SAN/NAS data migrations were weeks of nightmares](bas-san-nas-nightmares.md)
+- [Cloud Cultural Shifts: DevOps, Automation, New Roles](cloud-cultural-shifts-overview.md)
+- [DaaS versus VDI](daas-vs-vdi.md)
+- [Google Cloud cost management and optimisation tools](gcp-cost-management-tools.md)
+- [ITIL Processes That Need Attention When Introducing Cloud](itil-process-changes-for-cloud.md)
+- [Key Takeaways Chapter 4: Cloud Transformation Beyond Technology](key-takeaways-chapter-4-cloud-transformation.md)
+- [Opex Is Harder for the Provider Than the Customer](opex-challenge-for-providers.md)
+- [Comparing a Physical Server to Cloud Isn't Fair](physical-vs-cloud-server-not-fair-comparison.md)
+- [Transformation: From Product to Service, Ownership to Usage](product-to-service-ownership-to-usage.md)
+- [SCAF TCO / Business-case template](scaf-tco-business-case-template.md)

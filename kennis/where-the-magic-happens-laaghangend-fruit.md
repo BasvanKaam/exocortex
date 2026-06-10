@@ -22,3 +22,12 @@ He deliberately calls it 'low-hanging fruit' because while reading you think 'of
 > Stel gezamenlijke doelen en… heb lol, boek een uitje, ga bowlen
 >
 > Vaak is succes gebaseerd op toepassen van iets wat we allang weten, we moeten er alleen aan herinnerd worden
+
+## Verwante notities
+
+- [Bas's comfort-zone war story: the presentation training](bas-on-stepping-out-of-comfort-zone.md)
+- [Opdracht 9: Migration Mastery - Strategy to Execution (XYZ-Care)](migration-mastery-assignment-xyz-care.md)
+- [Mind The Gap: Shadow IT as Enabler and the Entry Point](mind-the-gap-shadow-it-as-enabler.md)
+- [Bas: the order of execution barely matters - just have fun](order-of-execution-doesnt-matter.md)
+- [Bas: build buy-in with a small PoV or PoC and free resources](start-small-with-pov-or-poc.md)
+- [The Technology / Innovation Board](technology-innovation-board.md)

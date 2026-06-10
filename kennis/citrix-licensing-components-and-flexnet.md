@@ -24,3 +24,12 @@ Citrix Licensing components:
 - Product-side settings in Citrix products associated with the License Server.
 
 At least one license server is required. The role is light, so it can be co-hosted with other tasks, or even shared with other license servers such as Microsoft Licensing.
+
+## Verwante notities
+
+- [Citrix license types: user, device and concurrent](citrix-license-types-user-device-concurrent.md)
+- [Citrix licensing key facts (Flexera, capacity, NetScaler)](citrix-licensing-key-facts-flexera.md)
+- [Citrix licensing: user, device and concurrent](citrix-licensing-models.md)
+- [Startup license and the license checkout process](citrix-startup-license-and-checkout.md)
+- [How the license server reassigns user/device licenses](license-server-user-device-reassignment-logic.md)
+- [Citrix Studio Configuration sub-nodes](studio-configuration-subnodes.md)

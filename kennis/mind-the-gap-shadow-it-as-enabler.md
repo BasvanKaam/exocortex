@@ -22,3 +22,12 @@ Bas's 'Mind The Gap' tactic for when the business is hard to convince. Use an ex
 > gebruik Shadow IT als enabler
 >
 > Entry point: Begin klein en simpel. Het gaat om het laten zien van de toegevoegde waarde. Denk aan audio, video, web-conferencing, SaaS, testomgeving, etc.
+
+## Verwante notities
+
+- [Creative Communication and Putting Responsibility on Staff](creative-communication-and-feedback-loop.md)
+- [Lack of overview, knowledge, governance and Shadow IT](lack-of-overview-knowledge-governance-shadow-it.md)
+- [Shadow IT: The Business User in the Driver's Seat](shadow-it-business-user-in-driver-seat.md)
+- [Shadow IT Examples: Trello/Asana and WhatsApp](shadow-it-examples-trello-whatsapp.md)
+- [Bas: build buy-in with a small PoV or PoC and free resources](start-small-with-pov-or-poc.md)
+- [Where The Magic Happens and Het Laaghangend Fruit](where-the-magic-happens-laaghangend-fruit.md)

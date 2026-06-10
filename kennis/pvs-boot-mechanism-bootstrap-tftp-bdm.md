@@ -22,3 +22,12 @@ PVS has its own built-in TFTP server (you can use any). Because the TFTP server 
 **BDM (Boot Device Manager):** two methods. (1) PVS generates a small ~300 KB .ISO; target boots from it (e.g. CDROM/DVD) at a shared network location. Uses a two-stage boot where the PVS location is hardcoded into the bootstrap and the rest (PVS drivers) downloads via a proprietary TFTP-based protocol (UDP port 6969). (2) As of XenDesktop 7.0, the XenDesktop setup wizard creates a small **BDM hard disk partition** attached as a separate virtual disk containing all PVS drivers — no two-stage approach, and no PXE/TFTP/DHCP needed (advised for VMs only). BDM also cuts boot times by about **5–10 seconds**.
 
 Full PVS logon/boot sequence: target boots and gets an IP → identifies a TFTP server → downloads and boots from the Bootstrap → logs onto a PVS server → the logon server names the streaming server → target streams the vDisk.
+
+## Verwante notities
+
+- [Provisioning Services essentials and Bas's advice](provisioning-services-essentials.md)
+- [Citrix Provisioning Services (PVS) overview](provisioning-services-overview.md)
+- [PVS high availability](pvs-high-availability.md)
+- [PVS provisioning wizards: streamed VM and XenDesktop setup](pvs-provisioning-wizards.md)
+- [PVS terminology: Farm, Site, Store, Device Collection, Target Device](pvs-terminology-farm-site-store-collection.md)
+- [PVS vDisk creation, Standard vs Private Image Mode](pvs-vdisk-standard-vs-private-image-mode.md)

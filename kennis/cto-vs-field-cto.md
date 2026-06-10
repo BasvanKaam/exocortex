@@ -16,3 +16,12 @@ Bas distinguishes two technology-leadership roles. A regular **CTO** has an inte
 A **Field CTO** has an external focus: supporting customers and partners outside the organisation rather than building internal strategy. The Field CTO is a bridge between the company's technical capabilities and external customer needs — deep product knowledge, working with customers so they apply the tech correctly to reach business goals, providing technical expertise and strategic advice, and guiding implementations. In short, they translate a business question into a technical solution, often across borders, and represent the company at technical presentations and strategic discussions — the technical voice and face of the company at the customer. They also act as a feedback channel back to internal teams.
 
 Bas observes the roles increasingly overlap: Field CTOs are more often involved internally (especially knowledge-sharing and supporting sales teams), and a CTO can also be a sponsor/champion of cloud implementation. Both roles are essential but have different objectives.
+
+## Verwante notities
+
+- [Bas van Kaam: experience, character and the people behind the book](bas-van-kaam-bio-and-character.md)
+- [The Evolution of the CIO and CFO Role](evolution-of-cio-cfo-role.md)
+- [Where to 'park' innovation: Innovation/Technology Board, Solutions Board, Office of the CTO](innovation-board-technology-board-office-of-cto.md)
+- [Innovation Comes From Outside the Firewall](innovation-comes-from-outside-the-firewall.md)
+- [The IT (Cloud) Professional 2.0: from geek to strategic generalist](it-cloud-professional-2-0.md)
+- [The Technology / Innovation Board](technology-innovation-board.md)

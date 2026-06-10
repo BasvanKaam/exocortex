@@ -26,3 +26,7 @@ Bas's caveat: all of this applies at time of writing (early 2025); given Microso
 > Met andere woorden, het is geen Pay as you Go.
 >
 > Vergeet niet, dit alles is van toepassing ten tijde van schrijven (begin 2025)
+
+## Verwante notities
+
+- [Bas's reframe: is AVD and/or Windows 365 Cloud PC really DaaS?](is-avd-and-windows-365-really-daas.md)

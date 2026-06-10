@@ -20,3 +20,12 @@ This section sits under the chapter quote: 'The role of IT is to enable the busi
 > Het voornaamste is dat het gebeurt, er goed e samenwerking en communicatie zijn en probeer vooral een beetje lol te hebben.
 >
 > The role of IT is to enable the business, not to be the business.
+
+## Verwante notities
+
+- [Agile and PDCA as the unwritten cloud standard](agile-pdca-cloud-default.md)
+- [Key Takeaways - the execution phase (Chapter 11)](execution-phase-key-takeaways.md)
+- [SCAF Execution Phase (Uitvoeringsfase) Overview](scaf-execution-phase-overview.md)
+- [SCAF Execution Phase Stakeholders](scaf-execution-stakeholders.md)
+- [The Gap Between IT and 'The Business'](the-gap-between-it-and-the-business.md)
+- [Where The Magic Happens and Het Laaghangend Fruit](where-the-magic-happens-laaghangend-fruit.md)

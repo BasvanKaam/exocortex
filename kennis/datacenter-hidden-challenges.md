@@ -30,3 +30,20 @@ Under "Minder voor de hand liggend" Bas catalogues the under-discussed constrain
 ## Bron-citaten (NL, verbatim)
 
 > Hier wordt vaak veel te makkelijk over gedacht.
+
+## Verwante notities
+
+- [Paper conclusion: Cloud only? Maybe never](bas-paper-conclusion-cloud-only-never.md)
+- [Bas on the future limits of self-hosting your own data growth](bas-self-hosting-data-growth-limit.md)
+- [Cloud's origin around 2006 (Bas's paper, written 2020)](cloud-origin-around-2006-paper.md)
+- [Cloud providers build their own servers and hypervisors](cloud-providers-build-own-servers-hypervisor.md)
+- [Core cloud building blocks: datacenter, virtualization, APIs, storage, databases, elasticity](core-cloud-components-and-concepts.md)
+- [Global cloud scale: regions, zones, and which continent has no datacenters](global-scale-regions-zones-datacenters.md)
+- [Bas: look critically at 'green' datacenter claims](green-cloud-claims-critical-look.md)
+- [The 'Internet Minute' and global data growth](internet-minute-and-data-growth.md)
+- [Microsoft sustainability goal: carbon negative by 2030](microsoft-carbon-negative-2030.md)
+- [NIS 2 vs the rest of the world](nis-2-vs-rest-of-world.md)
+- [Performance and Stability: You Trade Control for Provider Scale](performance-stability-and-provider-scale.md)
+- [Post-COVID resilience: BCPs, redundancy, supply chains, automation](post-covid-resilience-measures.md)
+- [Azure, AWS and Google sustainability targets](provider-sustainability-targets.md)
+- [Bas on the physical scale: subsea cables and an Azure datacenter tour](submarine-cables-and-datacenter-scale.md)

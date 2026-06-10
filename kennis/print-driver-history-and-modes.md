@@ -23,3 +23,13 @@ Windows Server 2008 R2 added a mechanism that automatically blocks installation 
 Version 4 mode drivers arrived with Windows Server 2012: user-based, isolatable, designed for Metro-style apps, XPS-exclusive, support more printer types, more stable, with enhanced sharing and easier install/maintenance.
 
 FMA fact / Bas's advice: print driver isolation is often used for troubleshooting and testing; consider using None and Shared in production and Isolated only for troubleshooting (which can be in production, only temporarily). He also says to question why a driver needs isolation at all before putting it into production.
+
+## Verwante notities
+
+- [Bas's checklist to speed up and clean up Citrix printing](bas-citrix-printing-optimization-checklist.md)
+- [Citrix Universal Print Driver (UPD)](citrix-universal-print-driver.md)
+- [EMF vs XPS print file formats](emf-vs-xps-print-formats.md)
+- [Microsoft print file formats: EMF vs XPS](microsoft-print-formats-emf-xps.md)
+- [Bas's print driver best practices](print-driver-best-practices.md)
+- [Print spooling: local vs remote](print-spooling-local-vs-remote.md)
+- [Print-related troubleshooting tools (Print Detective, UPS Cert Tool, StressPrinters)](print-troubleshooting-tools.md)

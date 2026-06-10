@@ -22,3 +22,12 @@ FMA fact: as of version 7.7 Director can use integrated Windows authentication s
 Alerts: critical alerts and warnings on the main dashboard (updated every minute by default). An orange triangle means a minimum threshold was reached; a red circle means the maximum was reached. You can configure Citrix Alerts policies with email notifications and over ten policy conditions.
 
 Director also supports different views tailored to administrative roles, with delegated administration based on administrators, roles and scopes (matching Studio).
+
+## Verwante notities
+
+- [Citrix Director: monitoring and troubleshooting tool](citrix-director-overview.md)
+- [Director, EdgeSight and historical data licensing](director-edgesight-and-licensing.md)
+- [Director and built-in EdgeSight](director-monitoring-tool.md)
+- [Director SCOM and Insight Services integration](director-scom-and-insight-services-integration.md)
+- [Using PowerShell to check FMA service states](powershell-fma-service-checks.md)
+- [The three XenDesktop databases](xendesktop-three-databases.md)

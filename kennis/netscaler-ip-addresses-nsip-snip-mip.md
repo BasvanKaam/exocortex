@@ -18,3 +18,11 @@ bron: inside-citrix-fma
 **MIP (Mapped IP):** comes into play when USNIP is disabled or no SNIP is available, acting as the source IP. When a MIP and SNIP share a subnet, the MIP may also be used as source IP, but only if the MIP is the first address on the subnet does a route get added to the routing table.
 
 **Default route:** functions as the NetScaler's default gateway; without known internal routes (SNIP/MIP) it sends all traffic back out the default route. **Net profiles** (optional) predefine which SNIP to use for back-end communication, which simplifies firewall ACL rules.
+
+## Verwante notities
+
+- [NetScaler SNIP, STA tickets and certificate practice](netscaler-snip-and-sta.md)
+- [NetScaler SSL offloading and DMZ placement](netscaler-ssl-offload-dmz.md)
+- [NetScaler static routes](netscaler-static-routes.md)
+- [NetScaler Unified Gateway](netscaler-unified-gateway.md)
+- [NetScaler vServers, service objects and server objects](netscaler-virtual-server-service-server-objects.md)

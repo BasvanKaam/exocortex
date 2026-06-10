@@ -21,3 +21,13 @@ When a vendor claims a crazy-high IOPS number, ask how they tested. At minimum d
 - The data block sizes used.
 
 Also note that storage throughput (GB/sec bandwidth) is not the same as IOPS, though they overlap.
+
+## Verwante notities
+
+- [In-memory write caching: reducing IOPS needed (PVS RAM Cache with Overflow to Disk)](in-memory-caching-ram-cache-pvs.md)
+- [Bas on IOPS, latency and storage sizing](iops-and-latency-fundamentals.md)
+- [IOPS fundamentals: latency is king](iops-fundamentals-latency.md)
+- [MCS IOPS profile: ~1.6x PVS average, ~1.2x steady state](mcs-iops-vs-pvs.md)
+- [Bas's MCS storage implications checklist](mcs-storage-implications.md)
+- [Tools and PerfMon counters for measuring IOPS](measuring-iops-tools-and-counters.md)
+- [The RAID write penalty](raid-write-penalty.md)

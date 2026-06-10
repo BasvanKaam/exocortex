@@ -18,3 +18,14 @@ He reiterates that 'true' VDI/DaaS from the cloud (one-to-one desktop-OS VMs) re
 ## Bron-citaten (NL, verbatim)
 
 > on-premises RDSH and VDI infrastructures are here to stay for at least another five to ten years, if not longer (my guess is longer).
+
+## Verwante notities
+
+- [Autoscaling and the Black Friday Scenario](autoscaling-black-friday-scenario.md)
+- [Bas's paper: Cloud Only? No. Cloud First or Hybrid? Yes.](bas-paper-cloud-only-no-cloud-first-yes.md)
+- [Citrix Workspace Cloud as the hybrid bridge](citrix-workspace-cloud-hybrid-model.md)
+- [DaaS versus VDI](daas-vs-vdi.md)
+- [Hybrid cloud: best of both worlds via ExpressRoute and low latency](hybrid-cloud-best-of-both-worlds.md)
+- [Physical and software performance limits of the cloud](physical-and-software-cloud-performance-limits.md)
+- [VDI and DaaS Are Now Practically Synonymous](vdi-daas-now-synonymous.md)
+- [Bas's case for why deep FMA knowledge still matters in the cloud era](why-fma-knowledge-still-matters-relevance.md)

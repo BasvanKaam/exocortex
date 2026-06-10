@@ -20,3 +20,14 @@ Back up the Site database regularly (daily). For HA:
 Supported SQL Server versions: SQL Server 2014 (Express/Standard/Enterprise); SQL Server 2012 SP1/SP2 (Express/Standard/Enterprise; SP2 Express is installed by default with the Controller if no supported SQL is detected); SQL Server 2008 R2 SP2 (Express/Standard/Enterprise/Datacenter).
 
 Combine HA with regular backups and a SQL Maintenance Plan to keep the database optimized, backed up and free of inconsistencies.
+
+## Verwante notities
+
+- [Bas's take on application-aware HA alternatives for SQL](bas-on-application-aware-ha-alternatives.md)
+- [Connection Leasing failover behavior and limitations](connection-leasing-failover-behavior.md)
+- [The 'one is none' rule and Delivery Controller high availability](one-is-none-delivery-controller-ha.md)
+- [Bas's 'one is none' rule for resilience](one-is-none-rule.md)
+- [PVS high availability](pvs-high-availability.md)
+- [SQL Transaction-Log recovery modes for Citrix databases](sql-transaction-log-recovery-modes.md)
+- [The three XenDesktop databases](xendesktop-three-databases.md)
+- [Zone connection quality limits (bandwidth and RTT)](zone-connection-quality-limits.md)

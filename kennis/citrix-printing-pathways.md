@@ -17,3 +17,12 @@ A printing pathway defines how print traffic is routed and where it is processed
 - Network printing pathway: output goes from the XenApp server to a print server where it is spooled/rendered remotely, then to the physical device. Traffic between XenApp and print server is uncompressed/unmanaged (non-ICA) unless the Universal Print Server is used. Used automatically for network-provisioned printers (and required for thin clients via session printers).
 
 If the print server and XenApp server cannot communicate (e.g. different domains), Citrix falls back to the client printing pathway. Disabling the 'Direct connection to print servers' policy forces the client pathway even with network printers. This applies to both XenApp and XenDesktop and is neither IMA- nor FMA-specific.
+
+## Verwante notities
+
+- [Bas: forcing the client printing pathway (and its exception)](bas-forcing-client-printing-pathway.md)
+- [Citrix Print Management Service](citrix-print-management-service.md)
+- [Citrix printing pathways: client vs network](citrix-printing-pathways-client-vs-network.md)
+- [Citrix proximity printing](citrix-proximity-printing.md)
+- [Citrix Universal Print Driver (UPD)](citrix-universal-print-driver.md)
+- [Citrix Universal Print Server (UPS)](citrix-universal-print-server.md)

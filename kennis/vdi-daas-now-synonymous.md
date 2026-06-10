@@ -20,3 +20,10 @@ He also notes that nearly all well-known VDI developers/publishers (single- and 
 > VDI staat voor Virtual Desktop Infrastructure, in het Nederlands virtuele desktop infrastructuur, dat klinkt best Cloudachtig, vind je niet?
 >
 > ik gebruik nog even de oude namen van voor de overnames, dan begrijpt iedereen over wie ik het heb
+
+## Verwante notities
+
+- [DaaS versus VDI](daas-vs-vdi.md)
+- [Bas's reframe: is AVD and/or Windows 365 Cloud PC really DaaS?](is-avd-and-windows-365-really-daas.md)
+- [Bas on cloud, hybrid and the future of on-premises VDI](is-cloud-vdi-still-relevant-takeaways.md)
+- [Single-User vs Multi-User VDI/DaaS](single-user-vs-multi-user-vdi-daas.md)

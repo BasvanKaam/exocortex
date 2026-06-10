@@ -18,3 +18,7 @@ When one service needs to talk to another it first contacts the Configuration Se
 The Configuration Service directory stores the AD machine account identifier (SID) for each registered service (also stored in the Central Site database). Only services whose machine SID is listed can communicate; an unregistered machine account gets access denied, except the 'Network service' account which is always allowed.
 
 Validate registration via PowerShell: `Get-ConfigRegisteredServiceInstance -InterfaceType sdk | select serviceaccount, interfacetype, servicetype | format-table`. To refresh a service's cache, simply restart the accompanying Windows Service (the listing is retrieved at start-up). The Configuration Service also stores configuration metadata for all services, relieving Active Directory.
+
+## Verwante notities
+
+- [FMA services: Network Service account and service isolation](fma-services-network-account-and-isolation.md)

@@ -22,3 +22,11 @@ Key learning stance: while doing the assignments there are no wrong answers or o
 > Onthoud dat tijdens het maken van de opdrachten ... er geen foute antwoorden of uitkomsten zijn.
 >
 > De reis naar de Cloud is nooit lineair, maar stap voor stap leer je wat werkt in jouw specifieke situatie.
+
+## Verwante notities
+
+- [Bas's teaching philosophy: action and presenting beat passive reading](bas-teaching-philosophy-action-and-presenting.md)
+- [Per-chapter references and QR-code glossaries](glossary-via-qr-codes.md)
+- [Old School: why Bas insists on pen and paper in a cloud book](old-school-pen-and-paper-method.md)
+- [Opdracht 1 - Cloud promises critically examined (XYZ-Care)](opdracht-1-cloud-promises-xyz-care.md)
+- [The Step-Cloud Adoptie Framework (SCAF) as the book's backbone](scaf-the-red-thread-of-the-book.md)

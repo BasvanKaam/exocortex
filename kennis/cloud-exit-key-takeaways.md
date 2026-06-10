@@ -24,3 +24,12 @@ Core points:
 ## Bron-citaten (NL, verbatim)
 
 > de exit komt voor de onboarding
+
+## Verwante notities
+
+- [Exit flexibility depends on the cloud service model (IaaS/SaaS/PaaS)](cloud-exit-flexibility-by-service-model.md)
+- [Bas's checklist of points of attention for a cloud exit](cloud-exit-points-of-attention.md)
+- [Why have a cloud exit strategy - the exit comes before onboarding](cloud-exit-strategy-rationale.md)
+- [The six-step process for building a cloud exit strategy](cloud-exit-strategy-steps.md)
+- [SLA pitfalls to analyse for a cloud exit strategy](cloud-sla-pitfalls-exit.md)
+- [Opdracht 10: Exit Strategy (XYZ-Care)](exit-strategy-assignment-xyz-care.md)

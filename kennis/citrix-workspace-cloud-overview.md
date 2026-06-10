@@ -19,3 +19,15 @@ Architecture:
 - Resource Locations connect to the CWC services platform via Cloud Connectors.
 
 The model: take a normal XenDesktop/XenApp deployment and 'cloudify' the infrastructural/management pieces. Delivery Controllers, SQL database, License Server, Studio, Director and/or StoreFront live up in CWC as part of the Apps and Desktops service; Citrix sets up, configures, manages and maintains them. The customer is left with only VDAs and NetScaler, hosted anywhere they like. Bas calls it the ultimate hybrid cloud model and 'the way forward'. There was also an AppDisks Tech Preview for CWC.
+
+## Verwante notities
+
+- [Citrix Service Provider (CSP) program](citrix-service-provider-program.md)
+- [Citrix Workspace Cloud as the hybrid bridge](citrix-workspace-cloud-hybrid-model.md)
+- [Cloud service models: SaaS, PaaS, IaaS, DaaS](cloud-service-models-saas-paas-iaas-daas.md)
+- [CWC authentication and credential handling security](cwc-authentication-credential-handling.md)
+- [The CWC Cloud Connector](cwc-cloud-connector.md)
+- [CWC as a near-DaaS workaround for Microsoft desktop-OS licensing](cwc-desktop-os-daas-licensing.md)
+- [Citrix Lifecycle Management Services and blueprints](cwc-lifecycle-management-services.md)
+- [CWC StoreFront hosting options](cwc-storefront-options.md)
+- [Bas's case for why deep FMA knowledge still matters in the cloud era](why-fma-knowledge-still-matters-relevance.md)

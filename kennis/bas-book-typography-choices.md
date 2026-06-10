@@ -16,3 +16,12 @@ Bas explains a design decision as a reader-comfort choice, not padding. He likes
 ## Bron-citaten (NL, verbatim)
 
 > Dat leest lekker relaxed en heeft niets te maken met de dikte van het boek (het dikker laten lijken).
+
+## Verwante notities
+
+- [How AI was used in writing the book](ai-use-in-the-book.md)
+- [Bas's reading habit: the 10-pages-a-morning method](bas-reading-habit-and-method.md)
+- [Bas's recommended reading list](bas-recommended-booklist.md)
+- [The book is self-published, unsponsored, built on 25 years of experience](book-self-published-and-unsponsored.md)
+- [Per-chapter references and QR-code glossaries](glossary-via-qr-codes.md)
+- [Old School: why Bas insists on pen and paper in a cloud book](old-school-pen-and-paper-method.md)

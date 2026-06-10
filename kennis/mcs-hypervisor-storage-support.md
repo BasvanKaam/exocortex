@@ -16,3 +16,12 @@ For MCS you can use NFS for XenServer and ESXi, or Clustered Shared Volumes for 
 MCS with Hyper-V local storage is also an option: configure a cluster without shared storage and a copy of the master image is placed on a local drive (C:\, D:\, etc.).
 
 Citrix used to recommend NFS exclusively with MCS, but that was geared toward XenServer's inability to thin provision block-based storage rather than anything else. NFS is more straightforward to configure and maintain, but block-based storage with MCS is also supported and used in many production environments.
+
+## Verwante notities
+
+- [Citrix Host Connection](citrix-host-connection.md)
+- [Machine Creation Services (MCS): integrated single-image delivery](machine-creation-services-overview.md)
+- [Why MCS image updates matter: every master VM is re-copied to every datastore](mcs-image-update-repeats-full-copy.md)
+- [MCS IOPS profile: ~1.6x PVS average, ~1.2x steady state](mcs-iops-vs-pvs.md)
+- [Bas's MCS storage implications checklist](mcs-storage-implications.md)
+- [The RAID write penalty](raid-write-penalty.md)

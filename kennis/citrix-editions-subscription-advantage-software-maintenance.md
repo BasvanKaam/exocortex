@@ -18,3 +18,8 @@ XenDesktop ships in VDI, Enterprise and Platinum editions; XenApp in Advanced, E
 **Software Maintenance** combines 24x7 unlimited worldwide technical support with version updates (it includes SA). It allows unlimited incidents, access to support tools and a discount on Citrix Synergy tickets. Citrix runs six support centres worldwide offering 'follow the sun' support in eight languages.
 
 Citrix also offers **Appliance Maintenance** for hardware support and replacement of malfunctioning appliances. Note: all licenses within a programme must be either on call-in support or not — they cannot be mixed; different support levels require separate licensing subscriptions and separate license servers.
+
+## Verwante notities
+
+- [Bas's take: the Current Release isn't really new](bas-current-release-not-really-new.md)
+- [Citrix LTSR vs Current Release](citrix-ltsr-vs-current-release.md)

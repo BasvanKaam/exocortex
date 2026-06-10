@@ -26,3 +26,12 @@ Bas singles out the Azure Global Administrator as a role to handle carefully.
 ## Bron-citaten (NL, verbatim)
 
 > Wist je trouwens dat je een aangemaakte Azure resource, ongeacht het type niet van naam kunt veranderen?
+
+## Verwante notities
+
+- [Azure Files: a cloud NAS, plus Azure File Sync for hybrid](azure-files-cloud-nas.md)
+- [Azure high-availability building blocks](azure-high-availability-building-blocks.md)
+- [Microsoft Azure Profile and Strengths](azure-profile-strengths.md)
+- [Cloud providers build their own servers and hypervisors](cloud-providers-build-own-servers-hypervisor.md)
+- [Global cloud scale: regions, zones, and which continent has no datacenters](global-scale-regions-zones-datacenters.md)
+- [Tenant vs Account vs Project: the top-level boundary across Azure, AWS, Google](tenant-account-project-across-providers.md)

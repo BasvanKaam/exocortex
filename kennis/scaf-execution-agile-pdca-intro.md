@@ -16,3 +16,14 @@ As part of the Execution phase results, Bas starts introducing agile working, wi
 The Cloud governance model is adjusted/supplemented/implemented, and existing processes such as change, incident, problem and configuration management are adapted, set up or implemented. On security, per item it is noted whether there are special considerations and how to handle them, focusing on identity and access, data protection, encryption and classification, infrastructure security, and the deployment of firewalls and scanners, all without losing sight of the AVG (GDPR).
 
 Ambassadors begin building support for the new services/products via digital or classroom training, work groups, enthusing colleagues, handing out information and acting as a point of contact, often as part of the adoption plan. Throughout, the organisation is kept informed of what is changing and what the benefits are.
+
+## Verwante notities
+
+- [Agile and PDCA as the unwritten cloud standard](agile-pdca-cloud-default.md)
+- [Bas's Lessons Learned document: a living continuous-learning tool](bas-lessons-learned-document-method.md)
+- [Key Takeaways - the execution phase (Chapter 11)](execution-phase-key-takeaways.md)
+- [Infrastructure as Code (IaC) and Its Benefits](infrastructure-as-code-basics.md)
+- [SCAF Adoption phase: finishing what you started](scaf-adoption-phase-purpose.md)
+- [SCAF Cloud governance: putting the dots on the i](scaf-cloud-governance-checklist.md)
+- [SCAF Cloud Governance Roles](scaf-cloud-governance-roles.md)
+- [SCAF Execution Phase (Uitvoeringsfase) Overview](scaf-execution-phase-overview.md)

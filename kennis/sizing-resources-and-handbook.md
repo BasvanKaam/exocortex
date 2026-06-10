@@ -19,3 +19,13 @@ Resources Bas recommends for compute/storage sizing:
 - mycugc.org (search for server/machine sizing threads).
 
 Bas's sizing Key Takeaways also stress: when load testing, always incorporate any exotic applications you have - those are the ones to be most curious about.
+
+## Verwante notities
+
+- [Citrix Project Accelerator: web-based design guidance](citrix-project-accelerator.md)
+- [Bas on CPU over-commit and user baselines (light/medium/heavy)](cpu-overcommit-and-user-baselines.md)
+- [Delivery Controller server sizing and supported OS](delivery-controller-sizing.md)
+- [myCUGC: the Citrix User Group Community](mycugc-citrix-user-group-community.md)
+- [Bas on sizing: there is no 'one size fits all', and don't overdo it](sizing-no-one-size-fits-all.md)
+- [StoreFront server sizing and supported OSes](storefront-server-sizing.md)
+- [Bas's troubleshooting and sizing philosophy](troubleshooting-and-sizing-philosophy.md)

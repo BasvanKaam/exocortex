@@ -24,3 +24,17 @@ Other benefits: protection of data and applications via a solid migration plan (
 > “Institutions should create exit strategies and supporting plans for their Cloud deployments to establish a risk mitigation plan for scenarios where, for whatever reason, a termination of the relationship with the Cloud serviceprovider is necessary.” — Microsoft
 >
 > “Door te anticiperen op mogelijke risico’s, zoals beveiligingsincidenten, faillissementen of andere kritieke problemen bij een Cloudprovider, kan een exitstrategie ervoor zorgen dat de bedrijfscontinuïteit gewaarborgd blijft.”
+
+## Verwante notities
+
+- [Bas on disaster recovery: no blueprint, and don't forget the BUDGET](bas-on-disaster-recovery-and-budget.md)
+- [Exit flexibility depends on the cloud service model (IaaS/SaaS/PaaS)](cloud-exit-flexibility-by-service-model.md)
+- [Key Takeaways - cloud exit strategy (Chapter 12)](cloud-exit-key-takeaways.md)
+- [Bas's checklist of points of attention for a cloud exit](cloud-exit-points-of-attention.md)
+- [The six-step process for building a cloud exit strategy](cloud-exit-strategy-steps.md)
+- [Key Takeaways - the execution phase (Chapter 11)](execution-phase-key-takeaways.md)
+- [No universal Cloud standard, and the vendor lock-in problem](no-universal-cloud-standard-vendor-lock-in.md)
+- [Why high availability and DR matter: ransomware and data hostage](ransomware-data-hostage.md)
+- [The Beheer-to-Regie Transition Is About People](regie-transition-is-about-people.md)
+- [Handling Resistance and Fear of the Unknown](resistance-and-fear-of-the-unknown.md)
+- [SCAF Cloud Exit Strategy Template (On Bas's Backlog)](scaf-cloud-exit-strategy-on-backlog.md)

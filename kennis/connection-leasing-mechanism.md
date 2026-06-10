@@ -23,3 +23,17 @@ By default each Controller synchronizes up to 1000 leases every 10 seconds until
 - Leases\Enumeration: one file per user listing all available resources.
 - Leases\Launch: one entry per successfully launched resource, with the machine it started on.
 - Workers: one entry per VDA.
+
+## Verwante notities
+
+- [The Central Site database in the FMA](central-site-database-fma.md)
+- [Connection Leasing failover behavior and limitations](connection-leasing-failover-behavior.md)
+- [The Delivery Controller as the heart of the FMA](delivery-controller-heart-of-fma.md)
+- [Delivery Controller vs Data Collector differences](delivery-controller-vs-data-collector.md)
+- [Delivery Controller vs. Data Collector (FMA vs. IMA)](delivery-controller-vs-data-collector-2.md)
+- [FMA Local Host Cache: Principal Broker, Secondary Broker (HA) and CSS](fma-local-host-cache-services.md)
+- [IMA Zones vs. FMA Zones comparison](ima-zones-vs-fma-zones-comparison.md)
+- [Local Host Cache in XenApp 6.5 (IMA)](local-host-cache-ima.md)
+- [StoreFront vs Web Interface user authentication](storefront-vs-web-interface-authentication.md)
+- [VDA high-availability mode (direct ICA, last resort)](vda-high-availability-mode.md)
+- [Zones in the FMA are not the same as IMA 6.5 Zones](zones-fma-vs-ima.md)

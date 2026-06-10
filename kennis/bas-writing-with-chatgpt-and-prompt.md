@@ -24,3 +24,11 @@ Bas's honest verdict afterwards: "Niet slecht, toch?" but there is room for impr
 > Niet slecht, toch?
 >
 > Mocht je bepaalde onderwerpen op deze manier verder uitwerken dan is het wel noodzakelijk om de gegenereerde data te controleren op de feitelijke inhoud.
+
+## Verwante notities
+
+- [How AI was used in writing the book](ai-use-in-the-book.md)
+- [Bas deconstructs the cloud promises](bas-deconstructs-the-cloud-promises.md)
+- [How an LLM works: tokens, transformers, pre-training and fine-tuning](how-llms-work-tokens-and-training.md)
+- [Origin of GPT and OpenAI](origin-of-gpt-and-openai.md)
+- [Second brain als cognitieve infrastructuur](second-brain-cognitive-infrastructure.md)

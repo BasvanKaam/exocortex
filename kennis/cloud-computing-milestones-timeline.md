@@ -29,3 +29,13 @@ Key milestones in Cloud computing history as listed by Bas:
 - 2021 Companies massively embrace hybrid Cloud solutions (Azure Stack HCI).
 - 2022 AI and ML become more accessible via the Cloud; rise of NVIDIA.
 - 2024 Serverless computing becomes the standard.
+
+## Verwante notities
+
+- [ARPANET (1969): the birth of networking](arpanet-birth-of-networks.md)
+- [AWS EC2 (2006): birth of the commercial Cloud](aws-ec2-commercial-cloud-birth.md)
+- [Cloud's origin around 2006 (Bas's paper, written 2020)](cloud-origin-around-2006-paper.md)
+- [Evolution of Cloud architectures (timesharing to hybrid)](evolution-of-cloud-architectures.md)
+- [Jeff Bezos as the founder of the modern Cloud](jeff-bezos-founder-of-modern-cloud.md)
+- [Tom Siebel's scepticism that the Cloud survived](tom-siebel-cloud-scepticism.md)
+- [Tim Berners-Lee and the World Wide Web](world-wide-web-berners-lee.md)

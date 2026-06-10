@@ -18,3 +18,16 @@ Key strengths:
 - Strong focus on hybrid cloud via Azure Arc and Azure Local, letting companies combine on-premises infrastructure (nearly) seamlessly with cloud services. Ideal for sectors with high data/compliance priorities such as healthcare and financial services.
 - Proven enterprise solutions with a wide datacenter and points-of-presence network for low latency and high availability.
 - Innovation in AI (Bas notes 'OpenAI gekocht'), machine learning, and IoT, e.g. Azure Cognitive Services and Azure IoT Hub.
+
+## Verwante notities
+
+- [AWS Profile and Strengths](aws-profile-strengths.md)
+- [The Azure cloud hierarchy: tenant down to resources](azure-cloud-hierarchy.md)
+- [Azure cost management and optimisation tools](azure-cost-management-tools.md)
+- [Azure Stack HCI (renamed Azure Local): cloud in your own datacenter](azure-stack-hci-azure-local.md)
+- [Cloud providers build their own servers and hypervisors](cloud-providers-build-own-servers-hypervisor.md)
+- [Choosing a CSP: Azure as the Default for Microsoft Shops](csp-platform-choice-azure-default.md)
+- [Google Cloud Platform Profile and Strengths](gcp-profile-strengths.md)
+- [Microsoft sustainability goal: carbon negative by 2030](microsoft-carbon-negative-2030.md)
+- [Tenant vs Account vs Project: the top-level boundary across Azure, AWS, Google](tenant-account-project-across-providers.md)
+- [The Big Three Cloud Providers (AWS, Azure, GCP)](the-big-three-cloud-providers.md)

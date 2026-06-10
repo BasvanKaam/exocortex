@@ -18,3 +18,11 @@ W365 Cloud PC offers a virtual desktop that functions like a traditional PC on a
 **Windows 365 Frontline:** a variant for organisations with shift work or part-time staff. One Cloud PC license can be shared by up to three users (and three Cloud PCs), but only one user can be active at a time. Bas stresses this is NOT multi-user — that variant does not exist in the W365 Cloud PC world. Data is kept per user. Cost-efficient for shift-based staff. For true multi-user (multiple users simultaneously on the same VM/apps), AVD remains the designated solution.
 
 Bas: there's no 'silver bullet' — in practice both are often combined, with valid use cases for each. Companies with smaller IT teams more often use Windows 365 Cloud PC. Importantly, W365 Cloud PC comes much closer to a DaaS service than AVD does, whereas AVD could form a component of a DaaS offering.
+
+## Verwante notities
+
+- [AVD - The Only Cloud Service That Runs Windows Client Multi-User](avd-windows-client-multi-user.md)
+- [DaaS / VDI Additions to the Technical Design](daas-vdi-technical-design-considerations.md)
+- [From Terminal Services to AVD - The Multi-User History](history-terminal-services-to-avd.md)
+- [Bas's reframe: is AVD and/or Windows 365 Cloud PC really DaaS?](is-avd-and-windows-365-really-daas.md)
+- [Single-User vs Multi-User VDI/DaaS](single-user-vs-multi-user-vdi-daas.md)

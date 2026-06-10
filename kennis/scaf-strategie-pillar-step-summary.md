@@ -20,3 +20,16 @@ Bas summarises determining the initial cloud strategy as a sequence of steps. He
 5. **Roadmap and Planning:** detailed IT roadmap with milestones (evaluate current architecture, run PoCs, migrate first workloads — across Inzicht and Uitvoering); identify people for a CCoE; plan regular evaluation moments.
 6. **Communication and Alignment (stakeholder management):** a visual strategy map with goals, KPIs and success factors; periodic progress/risk/results reports.
 7. **Initiating the Execution Phase:** start a Proof of Concept (Uitvoering); make the technology/platform choice (e.g. Azure, AWS, Google Cloud) based on the business case (Uitvoering); organise training and upskilling (Inzicht).
+
+## Verwante notities
+
+- [Atomic Habits as a Lens on the Strategy Phase](atomic-habits-implementation-intention-strategy.md)
+- [Bas on the Cloud roadmap as a strategic tool](bas-cloud-roadmap-as-strategic-tool.md)
+- [SCAF Key Takeaways - The Four Phases and Strategy](scaf-four-phases-key-takeaways.md)
+- [SCAF Go/NoGo: The Insight-Phase Business Case](scaf-go-nogo-business-case.md)
+- [SCAF Strategie: The Foundation Questions](scaf-strategie-fundament-questions.md)
+- [SCAF Strategie: Stakeholders, Actions and Results](scaf-strategie-stakeholders-and-actions.md)
+- [SCAF strategy-phase templates: Summary Palet, Strategy Map, SWOT](scaf-strategy-phase-templates.md)
+- [SCAF Workshop Startpunt Questions](scaf-workshop-startpunt-questions.md)
+- [Strategy Map (Kaplan & Norton) in SCAF](strategy-map-kaplan-norton.md)
+- [SWOT Analysis in SCAF](swot-analysis-in-scaf.md)

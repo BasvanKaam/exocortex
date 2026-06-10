@@ -23,3 +23,11 @@ The Citrix Health Assistant (version one) focuses on VDA registration issues for
 7. VDA time sync with each DDC
 
 Reference and download: CTX207624.
+
+## Verwante notities
+
+- [Citrix printing troubleshooting and verification tools](citrix-printing-troubleshooting-tools.md)
+- [Don't forget old-school tools (NetStat, Ping, Tracert, Telnet)](old-school-troubleshooting-tools.md)
+- [The VDA: client-side component, services and registration](vda-overview-services-and-registration.md)
+- [VDA registration and how to verify it](vda-registration-and-verification.md)
+- [Service logging in XenDesktop (command-line vs Scout)](xendesktop-service-logging.md)

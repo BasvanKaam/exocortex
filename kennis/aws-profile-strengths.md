@@ -18,3 +18,15 @@ Key facts:
 - Hundreds of products/services. Core services: Amazon S3 (storage) and Amazon EC2 (compute). Advanced tools: Amazon SageMaker (AI) and AWS Glue (big-data analytics).
 - Example customers: Netflix runs entirely on AWS for global streaming; Airbnb uses AWS scalability to grow fast; healthcare uses AI tools to speed diagnoses; banks analyse data and meet complex regulation.
 - Forward-looking with Quantum Computing and advanced AI tools.
+
+## Verwante notities
+
+- [AWS cost management and optimisation tools](aws-cost-management-tools.md)
+- [AWS EC2 (2006): birth of the commercial Cloud](aws-ec2-commercial-cloud-birth.md)
+- [Microsoft Azure Profile and Strengths](azure-profile-strengths.md)
+- [Choosing a CSP: Azure as the Default for Microsoft Shops](csp-platform-choice-azure-default.md)
+- [Gartner Magic Quadrants and the cloud-relevant ones](gartner-magic-quadrants.md)
+- [Google Cloud Platform Profile and Strengths](gcp-profile-strengths.md)
+- [Jeff Bezos as the founder of the modern Cloud](jeff-bezos-founder-of-modern-cloud.md)
+- [Tenant vs Account vs Project: the top-level boundary across Azure, AWS, Google](tenant-account-project-across-providers.md)
+- [The Big Three Cloud Providers (AWS, Azure, GCP)](the-big-three-cloud-providers.md)

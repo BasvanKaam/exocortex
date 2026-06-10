@@ -18,3 +18,7 @@ Typically they can run an RDSH (RDS-protocol) based solution in the background, 
 Surveys show strongly rising interest. On the question of interest in a "Unified Workspace Portal" (van Kaam & Brinkhoff 2019), 70.5% answered yes and 20.5% found it at least worth investigating. From EUC State of the Union 2019 (Spruijt, Plettenberg & Brinkhoff), of 580 participants 39.94% said it's something they're interested in and investigating, while 21.04% are introducing or already using one.
 
 Bas's framing: this is again an example of how traditional IT solutions get kept alive and, when it comes to cloud, strongly slow things down.
+
+## Verwante notities
+
+- [Receiver platforms and the Receiver X1](receiver-platforms-and-x1.md)

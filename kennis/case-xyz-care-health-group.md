@@ -24,3 +24,14 @@ Future vision: XYZ-Care is considering Azure Virtual Desktop (AVD) for uniform a
 ## Bron-citaten (NL, verbatim)
 
 > XYZ-Care Health Group is een toonaangevende zorgorganisatie in Nederland die jaarlijks zorg verleent aan meer dan 100.000 patiënten.
+
+## Verwante notities
+
+- [Opdracht 10: Exit Strategy (XYZ-Care)](exit-strategy-assignment-xyz-care.md)
+- [Opdracht 9: Migration Mastery - Strategy to Execution (XYZ-Care)](migration-mastery-assignment-xyz-care.md)
+- [Opdracht 1 - Cloud promises critically examined (XYZ-Care)](opdracht-1-cloud-promises-xyz-care.md)
+- [Opdracht 2 - Tailored Cloud strategy: the puzzle of models and goals](opdracht-2-cloud-strategy-models-and-goals.md)
+- [Opdracht 7: Cloud Migration Compass (XYZ-Care Health Group)](opdracht-7-cloud-migration-compass.md)
+- [Opdracht 8: AVG in healthcare (XYZ-Care)](opdracht-8-avg-in-healthcare-xyz-care.md)
+- [Opdracht 4 - Cloudkompas (XYZ-Care Health Group)](opdracht-cloudkompas-xyz-care.md)
+- [The Step-Cloud Adoptie Framework (SCAF) as the book's backbone](scaf-the-red-thread-of-the-book.md)

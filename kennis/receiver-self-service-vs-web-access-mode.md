@@ -22,3 +22,13 @@ Shortcut configuration examples (manual Receiver config):
 - PutShortcutsOnDesktop=true places all shortcuts on the desktop.
 
 FMA fact: disabling SelfServiceMode (enabled by default) means subscribed apps are only accessible via Start menu and desktop shortcuts, also called shortcut-only mode.
+
+## Verwante notities
+
+- [Bas's caution on pre-configured Start menus and desktops](bas-on-preconfigured-shortcuts-warning.md)
+- [Bas's Citrix Receiver chapter key takeaways](receiver-chapter-key-takeaways.md)
+- [Configuring Receiver connection information](receiver-connection-configuration-methods.md)
+- [Three ways to reach resources via Receiver, including HTML5 clientless access](receiver-three-ways-and-html5-clientless.md)
+- [Self Service Store vs Mandatory Store and shortcut-only mode](self-service-vs-mandatory-store.md)
+- [StoreFront resource subscription and Keywords](storefront-resource-subscription-keywords.md)
+- [StoreFront subscriptions, Self Service Store and Keywords](storefront-subscriptions-and-keywords.md)

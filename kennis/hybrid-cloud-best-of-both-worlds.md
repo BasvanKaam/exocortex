@@ -18,3 +18,16 @@ Bas notes he regularly deals with companies that want to keep part on-premises a
 ## Bron-citaten (NL, verbatim)
 
 > De hybride Cloud biedt bedrijven het beste van beide werelden.
+
+## Verwante notities
+
+- [Bas's list of reasons companies stay (partly) on-premises](bas-objections-to-full-cloud-migration.md)
+- [Bas's paper: Cloud Only? No. Cloud First or Hybrid? Yes.](bas-paper-cloud-only-no-cloud-first-yes.md)
+- [Bas on the future limits of self-hosting your own data growth](bas-self-hosting-data-growth-limit.md)
+- [Cloud deployment models (public, private, hybrid, community)](cloud-deployment-models.md)
+- [DaaS versus VDI](daas-vs-vdi.md)
+- [Hybrid Latency and the Region-Choice Pitfall](hybrid-latency-region-choice-pitfall.md)
+- [Bas on cloud, hybrid and the future of on-premises VDI](is-cloud-vdi-still-relevant-takeaways.md)
+- [Bas's warning: Cloud apps with on-premises backends invite latency trouble](latency-cloud-app-onprem-backend.md)
+- [Bas's mini business case: the current-vs-possible mapping table](mini-business-case-current-vs-hybrid-table.md)
+- [Physical and software performance limits of the cloud](physical-and-software-cloud-performance-limits.md)

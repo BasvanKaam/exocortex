@@ -20,3 +20,13 @@ The assignment tasks:
 - Make a reverse timeline starting from the 'Go-Live' date, working back through the key events and milestones (compelling events).
 
 Worked solution method: use a PM tool like Microsoft Project; categorise risks by impact and probability; assign teams (IT infrastructure, application management, security, care managers, end users) to mitigate them; run a joint IT/business workshop prioritising core EPD functionality, easy-to-migrate apps with minimal dependencies, and systems delivering direct cost savings or process improvement; design the template for reuse (architecture, security requirements, performance criteria, test procedures); and schedule backwards acceptance tests (incl. AVG/GDPR security tests), data validation, training moments and communication events.
+
+## Verwante notities
+
+- [Fictional case: XYZ-Care Health Group](case-xyz-care-health-group.md)
+- [Opdracht 10: Exit Strategy (XYZ-Care)](exit-strategy-assignment-xyz-care.md)
+- [Selecting the First Migration Workload (Simple to Complex)](first-migration-workload-selection.md)
+- [Opdracht 7: Cloud Migration Compass (XYZ-Care Health Group)](opdracht-7-cloud-migration-compass.md)
+- [Reverse Timeline planning around a compelling event](reverse-timeline-planning.md)
+- [Technical/Functional Design as Cloud Blueprint](technical-functional-design-blueprint.md)
+- [Where The Magic Happens and Het Laaghangend Fruit](where-the-magic-happens-laaghangend-fruit.md)

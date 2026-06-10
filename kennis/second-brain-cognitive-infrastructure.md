@@ -28,4 +28,10 @@ Confirms our foundation (files in git, instructions-for-myself in the repo, lear
 
 ## Verwante notities
 
-- [Brein-onderhoud (standaard)](../standaarden/brein-onderhoud.md)
+- [How AI was used in writing the book](ai-use-in-the-book.md)
+- [Bas's Lessons Learned document: a living continuous-learning tool](bas-lessons-learned-document-method.md)
+- [Bas's war story: writing book sections and key takeaways with ChatGPT](bas-writing-with-chatgpt-and-prompt.md)
+- [How an LLM works: tokens, transformers, pre-training and fine-tuning](how-llms-work-tokens-and-training.md)
+- [Origin of GPT and OpenAI](origin-of-gpt-and-openai.md)
+- [Semantic technologies and data science in the cloud](semantic-technologies-and-data-science.md)
+- [Bas on the value of IT communities](value-of-it-communities.md)

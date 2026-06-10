@@ -23,3 +23,9 @@ bron: van-de-basis-tot-meester-in-de-cloud
 - Provides technical expertise (configuring cloud services, optimising infrastructure, safeguarding security).
 - Ensures governance and compliance alignment.
 - Monitors progress, intervenes on bottlenecks and continuously optimises the cloud infrastructure for efficiency and stability.
+
+## Verwante notities
+
+- [Cloud Center of Excellence (CCoE): Definition and Why Early](cloud-center-of-excellence-definition.md)
+- [The project manager's role across migration phases](project-manager-role-cloud-migration.md)
+- [SCAF Chapter 8: The Insight (Inzicht) Phase Foundation](scaf-insight-phase-foundation.md)

@@ -22,3 +22,14 @@ His prescribed order for any internal meeting or client conversation: first defi
 > Een interne bespreking of klantgesprek? Dan eerst definiëren over wat voor type Cloud en/of-dienst of oplossing het gaat, daarna pas discussiëren over de voor- en nadelen, eventueel gevolgd door wat wel en niet mogelijk is.
 >
 > We zoeken namelijk geen probleem voor onze oplossing, maar een oplossing voor het probleem.
+
+## Verwante notities
+
+- [Bas deconstructs the cloud promises](bas-deconstructs-the-cloud-promises.md)
+- [The 'Cloud because of the Cloud' syndrome and poor migration planning](cloud-because-of-cloud-syndrome.md)
+- [Bas's navigation metaphor: a cloud journey needs a destination](cloud-journey-navigation-metaphor.md)
+- [Cloud service models: SaaS, PaaS, IaaS, DaaS](cloud-service-models-saas-paas-iaas-daas.md)
+- [Lack of overview, knowledge, governance and Shadow IT](lack-of-overview-knowledge-governance-shadow-it.md)
+- [NIST and its definition of Cloud computing](nist-cloud-definition.md)
+- [The promises of the Cloud (and Bas's invitation to challenge them)](the-promises-of-the-cloud.md)
+- [When the Cloud is a good solution - and when it is not](when-cloud-is-and-isnt-a-good-fit.md)

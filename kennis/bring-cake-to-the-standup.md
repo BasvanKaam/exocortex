@@ -18,3 +18,9 @@ The underlying point: small gestures build team rapport and a relaxed working cl
 ## Bron-citaten (NL, verbatim)
 
 > Tip: neem af en toe een lekker stuk gebak mee, saucijzenbroodjes of zoiets, koffie van de Star Bucks, het kan van alles zijn. Het zal erg worden gewaardeerd en je creëert een gemoedelijke sfeer. Eet en drink smakelijk.
+
+## Verwante notities
+
+- [Hey... Biiieeerrrrrtje? — Early Team Bonding](biertje-team-bonding-aside.md)
+- [War story: the Friday-afternoon Unreal Tournament community](friday-afternoon-unreal-tournament-community.md)
+- [Bas's general troubleshooting tips (facts, not guesses)](troubleshooting-general-tips-bas.md)

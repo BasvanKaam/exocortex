@@ -25,3 +25,13 @@ Even with good handover and documentation, Bas argues the material is simply too
 > De partner verdwijnt langzaam uit beeld en dan begint de ellende.
 >
 > “Zint voor ge begint.”
+
+## Verwante notities
+
+- [Bas: IaC Creates Dangerous Key-Person Dependency](bas-iac-key-person-risk.md)
+- [Bas on handover: 'simple is better'](bas-on-simplicity-handover-checklist.md)
+- [The human factor: loss of control and trust](bas-on-the-human-factor-and-loss-of-control.md)
+- [Infrastructure as Code (IaC) and Its Benefits](infrastructure-as-code-basics.md)
+- [No universal Cloud standard, and the vendor lock-in problem](no-universal-cloud-standard-vendor-lock-in.md)
+- [Handling Resistance and Fear of the Unknown](resistance-and-fear-of-the-unknown.md)
+- [Bas: Saying You're Cloud-Native vs Actually Being It](saying-cloud-native-vs-being-it.md)

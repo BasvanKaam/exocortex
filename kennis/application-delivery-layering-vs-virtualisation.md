@@ -20,3 +20,16 @@ His nuance: application layering is not a direct replacement for application vir
 ## Bron-citaten (NL, verbatim)
 
 > Remember that, although a single master image is great to have, it is also a utopia in most cases. Just don't go nuts: keep the number of images to manage to a minimum. Less is more.
+
+## Verwante notities
+
+- [App-V management from Citrix Studio (XenDesktop 7.8)](app-v-in-xendesktop-7-8.md)
+- [Three flavours of application delivery in XenDesktop/XenApp](application-delivery-three-flavours.md)
+- [Bas's key takeaways on application delivery and layering](bas-key-takeaways-application-delivery.md)
+- [Bas's questions before choosing a layering solution](bas-layering-questions-to-ask.md)
+- [Bas on the pros of application layering](bas-pros-of-application-layering.md)
+- [Bas on the 'big, bad image' problem](bas-the-big-bad-base-image.md)
+- [Citrix AppDisks: application layering for golden images](citrix-appdisks-application-layering.md)
+- [How application layering works (filter drivers)](how-application-layering-works.md)
+- [Bas on MCS, workloads and the case for application layering](mcs-application-workloads-layering.md)
+- [Citrix Studio Configuration sub-nodes](studio-configuration-subnodes.md)

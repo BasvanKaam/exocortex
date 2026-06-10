@@ -17,3 +17,12 @@ The main concerns:
 - **Cost management** — one of the biggest worries. Organisations face unexpected costs (storage/data usage); flexible scaling can cost more than expected, and spend stays hard to predict and manage.
 - **Migration is hard** — technical challenges, compatibility issues, redesigning apps for the cloud. It needs specialised knowledge, causing delays and higher costs — and that's before the impact on internal processes, ways of working, and cultural shifts.
 - **We lose control** — fear of losing control over data and infrastructure because you depend on an external provider for both infrastructure and security. Bas adds a 'feeling' dimension: he has more than once seen that being able to see, touch, and personally operate the systems is itself a key reason to keep everything in-house.
+
+## Verwante notities
+
+- [Bas deconstructs the cloud promises](bas-deconstructs-the-cloud-promises.md)
+- [Bas's list of reasons companies stay (partly) on-premises](bas-objections-to-full-cloud-migration.md)
+- [Bas on cost management: cost vs. value and ROI/TCO](bas-on-cost-management-roi-tco.md)
+- [The human factor: loss of control and trust](bas-on-the-human-factor-and-loss-of-control.md)
+- [Opdracht 1 - Cloud promises critically examined (XYZ-Care)](opdracht-1-cloud-promises-xyz-care.md)
+- [The promises of the Cloud (and Bas's invitation to challenge them)](the-promises-of-the-cloud.md)

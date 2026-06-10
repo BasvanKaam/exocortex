@@ -22,3 +22,14 @@ Assuming governance (small or large) is described and applied in practice, the a
 - A strict security policy is applied, enforced and monitored.
 - Ambassadors go into the field to promote, run workshops/trainings and gather questions/feedback.
 - A communication plan (possibly from the ambassadors) is drawn up to regularly communicate which phase the Cloud adoption is in.
+
+## Verwante notities
+
+- [Bas's reframe: governance is just a fancy word](bas-governance-is-just-a-fancy-word.md)
+- [The CCoE's role in AVG compliance and governance](ccoe-role-in-avg-compliance.md)
+- [SCAF Adoption phase: activities and deliverables](scaf-adoption-phase-activities.md)
+- [SCAF Adoption result: the end goal of the Cloud transition](scaf-adoption-phase-result.md)
+- [SCAF Cloud Governance Roles](scaf-cloud-governance-roles.md)
+- [Introducing Agile and Plan-Do-Check-Act in Execution](scaf-execution-agile-pdca-intro.md)
+- [KPIs in the SCAF Adoption phase: making success measurable](scaf-kpis-in-adoption-phase.md)
+- [SCAF process, governance, communication and handover templates](scaf-process-and-handover-templates.md)

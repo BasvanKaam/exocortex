@@ -20,3 +20,13 @@ Bas recounts the pain of his early years: enormous time spent (temporarily) movi
 > Ik heb er nog nachtmerries van.
 >
 > Lekker hoor, die overuren, maar liever niet.
+
+## Verwante notities
+
+- [Azure data migration and import tools](azure-data-migration-import-tools.md)
+- [Azure Files: a cloud NAS, plus Azure File Sync for hybrid](azure-files-cloud-nas.md)
+- [Bas on the future limits of self-hosting your own data growth](bas-self-hosting-data-growth-limit.md)
+- [Capex vs Opex in IT and Cloud](capex-vs-opex-in-it.md)
+- [Core cloud building blocks: datacenter, virtualization, APIs, storage, databases, elasticity](core-cloud-components-and-concepts.md)
+- [Data unit hierarchy from bit to Geopbyte](data-unit-hierarchy-bit-to-geopbyte.md)
+- [Fundamental principles of the Cloud (per NIST)](fundamental-cloud-principles-nist.md)

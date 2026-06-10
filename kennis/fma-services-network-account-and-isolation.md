@@ -20,3 +20,12 @@ All services run under the NT AUTHORITY\Network Service account and authenticate
 ## Bron-citaten (NL, verbatim)
 
 > This is a big deal, as service accounts are usually very dangerous.
+
+## Verwante notities
+
+- [FMA Configuration Service: the glue holding the FMA together](fma-configuration-service.md)
+- [FMA foundation: .NET, WCF, CLR and just-in-time compilation](fma-foundation-dotnet-wcf-clr.md)
+- [The four most prominent FMA core services](fma-four-prominent-core-services.md)
+- [FMA internal communication over WCF endpoints (port 80)](fma-internal-communication-wcf.md)
+- [FMA service high availability via peer service groups](fma-services-high-availability.md)
+- [The FlexCast Management Architecture and its thirteen core services](fma-thirteen-core-services-overview.md)

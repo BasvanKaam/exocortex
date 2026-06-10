@@ -25,3 +25,13 @@ Manual install options (defaults shown):
 - Personal vDisk (off by default, desktop OS only): usable with a master image.
 
 FMA fact: a separate HDX 3D Pro VDA exists for GPU acceleration (3D OpenGL and DirectX; standard VDA does DirectX only). Resources can be assigned one-to-one (Passthrough) or shared across VMs (vGPU).
+
+## Verwante notities
+
+- [Delivery Controller server sizing and supported OS](delivery-controller-sizing.md)
+- [Personal vDisks (PvD)](pvs-personal-vdisks-pvd.md)
+- [Server VDA vs Desktop VDA: the often-overlooked new component](server-vda-vs-desktop-vda.md)
+- [Single-User vs Multi-User VDI/DaaS](single-user-vs-multi-user-vdi-daas.md)
+- [Two VDA types and the single-user vs multi-user ICA stack](two-vda-types-ica-stack-difference.md)
+- [VDA license rules and Microsoft licensing nuances](vda-license-rules-microsoft-licensing.md)
+- [The VDA: client-side component, services and registration](vda-overview-services-and-registration.md)

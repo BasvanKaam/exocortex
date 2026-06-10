@@ -18,3 +18,15 @@ Bas distinguishes application *delivery* (the mechanism used after an app is pub
 - **Citrix AppDisks**: Citrix's application-layering technology, introduced with XenDesktop/XenApp 7.8 and available in all editions. Other application-layering vendors are also options.
 
 FMA fact: Bas deliberately says 'true' application virtualisation because solutions like XenApp are also often called application virtualisation, so it is a matter of perspective.
+
+## Verwante notities
+
+- [App-V management from Citrix Studio (XenDesktop 7.8)](app-v-in-xendesktop-7-8.md)
+- [Application delivery: layering vs virtualisation, and AppDisks](application-delivery-layering-vs-virtualisation.md)
+- [Bas's key takeaways on application delivery and layering](bas-key-takeaways-application-delivery.md)
+- [Bas: only ~50-60% of apps can be virtualised](bas-on-virtualisation-coverage-50-60-percent.md)
+- [Bas on the 'big, bad image' problem](bas-the-big-bad-base-image.md)
+- [Citrix AppDisks: application layering for golden images](citrix-appdisks-application-layering.md)
+- [How application layering works (filter drivers)](how-application-layering-works.md)
+- [Bas on MCS, workloads and the case for application layering](mcs-application-workloads-layering.md)
+- [Microsoft App-V components and licensing with Citrix](microsoft-app-v-with-citrix.md)

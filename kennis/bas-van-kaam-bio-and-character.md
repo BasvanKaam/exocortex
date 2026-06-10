@@ -24,3 +24,12 @@ The book is dedicated to his late mother-in-law Loes Schellekens (a "powervrouw,
 > Er is geen projecttype dat ik niet eerder heb gezien
 >
 > Love you babe X
+
+## Verwante notities
+
+- [Bas on continuous study and self-investment](bas-on-continuous-study-and-self-investment.md)
+- [Bas's recommended reading list](bas-recommended-booklist.md)
+- [The book is self-published, unsponsored, built on 25 years of experience](book-self-published-and-unsponsored.md)
+- [Citrix Technology Professionals (CTP) and Citrix Technology Advocates (CTA)](citrix-technology-professionals-and-advocates.md)
+- [CTO vs Field CTO: internal strategy vs external customer translation](cto-vs-field-cto.md)
+- [The Microsoft MVP program](microsoft-mvp-program.md)

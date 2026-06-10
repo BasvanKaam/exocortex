@@ -20,3 +20,7 @@ bron: inside-citrix-fma
 - **Monitor Service**: monitors the FMA and raises alerts/warnings in Studio or Director (but tells you something is wrong, not what or where).
 - **StoreFront Service**: manages your StoreFront deployment from Studio.
 - **Analytics Service**: collects analytical data for Director/Studio; leveraged by CEIP and Citrix Call Home (enabled by default, data shared anonymously and encrypted).
+
+## Verwante notities
+
+- [The FlexCast Management Architecture and its thirteen core services](fma-thirteen-core-services-overview.md)

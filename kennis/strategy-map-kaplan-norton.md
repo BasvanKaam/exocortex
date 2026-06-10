@@ -19,3 +19,12 @@ The model was devised by professors Robert S. Kaplan and David P. Norton (1992) 
 - **Klanten (Customers):** how the company adds value for customers — product leadership, customer focus, operational excellence.
 - **Interne processen (Internal processes):** efficiency and effectiveness of internal processes — innovation, customer relations, operational excellence, stakeholder relations.
 - **Organisatie, leren en groei (Learning & growth):** developing the organisation, improving skills and growing knowledge so it has the right competencies.
+
+## Verwante notities
+
+- [Why Write a Business Case, and Its Key Elements](business-case-value-and-elements.md)
+- [SCAF Strategie: The Foundation Questions](scaf-strategie-fundament-questions.md)
+- [SCAF Strategie Pillar: Summary of Steps](scaf-strategie-pillar-step-summary.md)
+- [SCAF Strategie: Stakeholders, Actions and Results](scaf-strategie-stakeholders-and-actions.md)
+- [SCAF strategy-phase templates: Summary Palet, Strategy Map, SWOT](scaf-strategy-phase-templates.md)
+- [SWOT Analysis in SCAF](swot-analysis-in-scaf.md)

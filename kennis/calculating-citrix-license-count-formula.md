@@ -16,3 +16,7 @@ To estimate the number of user/device licenses needed: **A - C + B = number of u
 Example from the book: 800 users (A), 300 shared devices (B), 400 users who only use shared devices (C) gives 800 - 400 + 300 = **700 licenses**.
 
 The same formula helps you work out the break-even point where concurrent licenses make more financial sense — concurrent licenses cost roughly **twice** the price of a user/device license.
+
+## Verwante notities
+
+- [How the license server reassigns user/device licenses](license-server-user-device-reassignment-logic.md)

@@ -25,3 +25,13 @@ Beyond native SQL HA, Bas walks through four alternatives for protecting the Sit
 > One of my favorites.
 >
 > think big, one of my former colleagues always used to say
+
+## Verwante notities
+
+- [Bas on disaster recovery: no blueprint, and don't forget the BUDGET](bas-on-disaster-recovery-and-budget.md)
+- [The Central Site database in the FMA](central-site-database-fma.md)
+- [High-availability options for the Central Site database](central-site-database-ha-options.md)
+- [Standard components of a disaster recovery (DR) plan](disaster-recovery-plan-components.md)
+- [Bas's 'one is none' rule for resilience](one-is-none-rule.md)
+- [PVS high availability](pvs-high-availability.md)
+- [Why high availability and DR matter: ransomware and data hostage](ransomware-data-hostage.md)

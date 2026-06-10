@@ -26,3 +26,14 @@ FMA facts he emphasises: a high IOPS number is useless unless latency is low - e
 > Latency is king: the less you have, the faster your infrastructure will be!
 >
 > 20 – 25 milliseconds – Get your pen and paper out and shut it all down.
+
+## Verwante notities
+
+- [In-memory write caching: reducing IOPS needed (PVS RAM Cache with Overflow to Disk)](in-memory-caching-ram-cache-pvs.md)
+- [Bas on IOPS, latency and storage sizing](iops-and-latency-fundamentals.md)
+- [Not all IOPS are the same: the three golden parameters](iops-not-all-the-same.md)
+- [Tools and PerfMon counters for measuring IOPS](measuring-iops-tools-and-counters.md)
+- [PVS write cache options](pvs-write-cache-options.md)
+- [The RAID write penalty](raid-write-penalty.md)
+- [RAM Cache with Overflow to Disk slashes IOPS](ram-cache-overflow-to-disk.md)
+- [The five VDI workload phases and boot/logon storms](vdi-five-phases-storms.md)

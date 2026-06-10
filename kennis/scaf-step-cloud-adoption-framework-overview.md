@@ -19,3 +19,17 @@ The Step-Cloud Adoptie Framework (SCAF) is Bas's own framework for adopting clou
 4. **Adoptie:** the most crucial phase — ensuring the whole organisation embraces the new ways of working and maximises cloud benefits. Training, communication and change management are key.
 
 Chapter 5 begins the deep dive, starting with Strategie.
+
+## Verwante notities
+
+- [The 'Cloud because of the Cloud' syndrome and poor migration planning](cloud-because-of-cloud-syndrome.md)
+- [Bas's navigation metaphor: a cloud journey needs a destination](cloud-journey-navigation-metaphor.md)
+- [Enterprise Architecture (EA) and TOGAF](enterprise-architecture-togaf.md)
+- [SCAF Adoption phase: finishing what you started](scaf-adoption-phase-purpose.md)
+- [SCAF Design Principles and Why It Exists](scaf-design-principles.md)
+- [SCAF Execution Phase (Uitvoeringsfase) Overview](scaf-execution-phase-overview.md)
+- [SCAF Key Takeaways - The Four Phases and Strategy](scaf-four-phases-key-takeaways.md)
+- [SCAF Chapter 8: The Insight (Inzicht) Phase Foundation](scaf-insight-phase-foundation.md)
+- [The Step-Cloud Adoptie Framework (SCAF) as the book's backbone](scaf-the-red-thread-of-the-book.md)
+- [SCAF visual timeline and Bas's preference for visual artifacts](scaf-visual-timeline.md)
+- [SWOT Analysis in SCAF](swot-analysis-in-scaf.md)

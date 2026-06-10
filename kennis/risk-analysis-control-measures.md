@@ -18,3 +18,13 @@ Monitoring and reporting: document findings in a risk register, regularly monito
 Decision-making: based on the risk analysis results, management can decide on acceptance, reduction, transfer or elimination of risks, which feeds an action plan to manage them.
 
 Example rows from the book's table: Data loss (likelihood High, impact 8/very high) → regular back-ups, owner IT department; Cyberattack (medium, 10/high) → enable firewall and antivirus, owner IT security; Compliance (low, 7/medium) → compliance trainings, owner Legal.
+
+## Verwante notities
+
+- [AVG security: organizational and technical measures](avg-security-organizational-and-technical-measures.md)
+- [Bas: Pragmatism on Governance and Process Documentation](bas-governance-processes-pragmatism.md)
+- [Opdracht 8: AVG in healthcare (XYZ-Care)](opdracht-8-avg-in-healthcare-xyz-care.md)
+- [Risk analysis process steps](risk-analysis-process-steps.md)
+- [Risk management focus areas and attention points](risk-management-focus-areas-and-attention-points.md)
+- [Risk Register (Risicoregister)](risk-register-risicoregister.md)
+- [SCAF GAP-analysis and Impact-analysis templates](scaf-gap-and-impact-analysis-templates.md)

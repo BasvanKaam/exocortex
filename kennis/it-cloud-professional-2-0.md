@@ -28,3 +28,16 @@ Why it matters: technology now touches every layer of a business, so communicati
 ## Bron-citaten (NL, verbatim)
 
 > als je denkt, dit ben ik niet, je kunt het leren!
+
+## Verwante notities
+
+- [Bas: IaC Creates Dangerous Key-Person Dependency](bas-iac-key-person-risk.md)
+- [Bas on continuous study and self-investment](bas-on-continuous-study-and-self-investment.md)
+- [Bas on growth: lean into strengths, nudge weaknesses, and ask questions](bas-play-to-your-strengths.md)
+- [Cloud Cultural Shifts: DevOps, Automation, New Roles](cloud-cultural-shifts-overview.md)
+- [CTO vs Field CTO: internal strategy vs external customer translation](cto-vs-field-cto.md)
+- [The Evolution of the CIO and CFO Role](evolution-of-cio-cfo-role.md)
+- [From Beheer to Regie: The Regieorganisatie Model](from-beheer-to-regie-organisation.md)
+- [Key Takeaways Chapter 4: Cloud Transformation Beyond Technology](key-takeaways-chapter-4-cloud-transformation.md)
+- [Key Takeaways Ch.15: the modern IT professional](key-takeaways-it-professional-and-cloud.md)
+- [Opdracht 3: Beheer-to-Regie Self-Assessment](opdracht-3-beheer-naar-regie-self-assessment.md)

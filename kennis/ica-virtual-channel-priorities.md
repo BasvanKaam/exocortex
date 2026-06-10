@@ -18,3 +18,12 @@ The four levels map to: very high (real-time, e.g. webcam), high (interactive: s
 Changing priorities manually is uncommon: giving more bandwidth to one channel takes it from another. If needed, edit `HKLM\System\CurrentControlSet\Control\Terminal Server\Wds\icawd\Priority`, which lists abbreviations (CTXCAM, CTXTWI, CTXFLASH, etc.) each with a number 0-3. Change the number to change priority. Always back up the key first.
 
 Other ways to accelerate ICA traffic: Citrix policies (per user, per server, or whole Site) or a physical accelerator like Citrix CloudBridge (formerly Branch Repeater).
+
+## Verwante notities
+
+- [Citrix HDX: an extension to ICA, not a replacement](citrix-hdx-extends-ica.md)
+- [Citrix Print Management Service](citrix-print-management-service.md)
+- [Citrix printing pathways: client vs network](citrix-printing-pathways-client-vs-network.md)
+- [ICA ports, virtual channels and priorities](ica-ports-and-virtual-channels.md)
+- [ICA virtual channels: 32 total, 17 reserved by Citrix](ica-virtual-channels.md)
+- [Multi-Stream ICA: true network-level QoS via separate TCP/IP ports](multi-stream-ica.md)

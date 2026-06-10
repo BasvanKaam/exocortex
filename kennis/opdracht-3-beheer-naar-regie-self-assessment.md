@@ -27,3 +27,12 @@ Bas insists the assessment is not only about the organisation: you must also ref
 ## Bron-citaten (NL, verbatim)
 
 > Laten we onszelf eens een spiegel voorhouden.
+
+## Verwante notities
+
+- [From Beheer to Regie: The Regieorganisatie Model](from-beheer-to-regie-organisation.md)
+- [IT as Internal Broker and the Regie-Organisatie](it-as-internal-broker-regie-organisatie.md)
+- [The IT (Cloud) Professional 2.0: from geek to strategic generalist](it-cloud-professional-2-0.md)
+- [Opdracht 3: Result Interpretation Bands](opdracht-3-result-interpretation.md)
+- [Opdracht 6: The Mirror of Enterprise Architecture (EA Self-Assessment)](opdracht-6-mirror-of-enterprise-architecture.md)
+- [The Beheer-to-Regie Transition Is About People](regie-transition-is-about-people.md)

@@ -18,3 +18,17 @@ UPS has a server and a client component. The server component (UpsServer) is ins
 Flow: after the user clicks print, output (EMF/XPS) goes to the local Windows print subsystem (UPD) on the XenApp server (GDI still intervenes for EMF). Since UPS has no client-side rendering, output is sent to the Citrix UPClient, forwarded to the UPServer (where data can be compressed) instead of straight to the print server spooler, and the Windows print subsystem on the UPS handles rendering/spooling.
 
 UPS is disabled by default; enable it via the 'Universal Print Server Enable' policy. With native drivers paired, it tries the native driver first and falls back to UPD (or can be configured to use UPD directly). Configured network printers leverage UPS automatically via Auto discovery.
+
+## Verwante notities
+
+- [Bas's checklist to speed up and clean up Citrix printing](bas-citrix-printing-optimization-checklist.md)
+- [Citrix Print Management Service](citrix-print-management-service.md)
+- [Citrix printing pathways: client vs network](citrix-printing-pathways.md)
+- [Citrix printing pathways: client vs network](citrix-printing-pathways-client-vs-network.md)
+- [Citrix proximity printing](citrix-proximity-printing.md)
+- [Citrix Universal Print Driver (UPD)](citrix-universal-print-driver.md)
+- [Citrix Universal Printer (logical print object)](citrix-universal-printer.md)
+- [Print spooling: local vs remote](print-spooling-local-vs-remote.md)
+- [Print-related troubleshooting tools (Print Detective, UPS Cert Tool, StressPrinters)](print-troubleshooting-tools.md)
+- [Universal Print Driver, Universal Printer and Universal Print Server](universal-print-driver-server-printer.md)
+- [Universal Print Server load balancing and HA (7.9)](ups-load-balancing-ha.md)

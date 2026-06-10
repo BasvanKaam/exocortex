@@ -18,3 +18,12 @@ Training has two stages: **pre-training** (learning general language patterns fr
 LLMs need massive compute (billions of parameters) on specialised hardware (GPUs, TPUs) and huge storage, all enabled by cloud infrastructure from Azure, AWS and Google Cloud, which auto-scales at peak load.
 
 **AI-agents** go beyond LLMs: autonomous systems performing specific tasks with minimal human intervention, combining NLP, machine learning and integration with external systems (databases, IoT). Examples: optimising supply chains, early disease diagnosis, virtual customer-service assistants handling returns/reservations, and proactively managing a building's energy use. Their value is acting proactively and automating repetitive work — while raising questions of ethics, oversight and the human role.
+
+## Verwante notities
+
+- [How AI was used in writing the book](ai-use-in-the-book.md)
+- [Bas's war story: writing book sections and key takeaways with ChatGPT](bas-writing-with-chatgpt-and-prompt.md)
+- [Current cyber threats and 2025+ trends](current-cyber-threats-and-2025-trends.md)
+- [Origin of GPT and OpenAI](origin-of-gpt-and-openai.md)
+- [Second brain als cognitieve infrastructuur](second-brain-cognitive-infrastructure.md)
+- [Semantic technologies and data science in the cloud](semantic-technologies-and-data-science.md)

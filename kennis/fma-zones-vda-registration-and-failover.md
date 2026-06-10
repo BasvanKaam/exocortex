@@ -22,3 +22,13 @@ Controller failover:
 Keep Machine Catalogs close to any host connection they use; one or multiple host connections can be added per Zone.
 
 Brokering requests from a satellite Zone can be limited via the Registry key HKLM\Software\Citrix\DesktopServer\ThrottledRequestAddressMaxConcurrentTransactions, set per Delivery Controller. If the key does not exist, no limit is enforced.
+
+## Verwante notities
+
+- [FMA service high availability via peer service groups](fma-services-high-availability.md)
+- [FMA Zones: architecture and purpose](fma-zones-architecture-and-purpose.md)
+- [Host Connection key takeaways: MCS/PVS and cloud support](host-connection-mcs-pvs-cloud-support-key-takeaways.md)
+- [VDA high-availability mode (direct ICA, last resort)](vda-high-availability-mode.md)
+- [VDA registration: auto-update, fallback locations and the CBP](vda-registration-process.md)
+- [Zone connection quality limits (bandwidth and RTT)](zone-connection-quality-limits.md)
+- [Zones in the FMA are not the same as IMA 6.5 Zones](zones-fma-vs-ima.md)

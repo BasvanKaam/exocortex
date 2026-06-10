@@ -25,3 +25,13 @@ His recurring point: by preparing yourself in times of 'peace' you save valuable
 ## Bron-citaten (NL, verbatim)
 
 > By preparing yourself in times of 'peace' you can and will save yourself valuable time when things start to go wrong.
+
+## Verwante notities
+
+- [Bas's troubleshooting philosophy: prepare in times of peace](bas-troubleshooting-philosophy-prepare-in-peace.md)
+- [FMA Controllers differ fundamentally from IMA Data Collectors](fma-vs-ima-controller-differences.md)
+- [Don't forget old-school tools (NetStat, Ping, Tracert, Telnet)](old-school-troubleshooting-tools.md)
+- [Bas's troubleshooting and sizing philosophy](troubleshooting-and-sizing-philosophy.md)
+- [Bas's general troubleshooting tips (facts, not guesses)](troubleshooting-general-tips-bas.md)
+- [Investigate, Analyse, Implement: Bas's structured troubleshooting approach](troubleshooting-investigate-analyse-implement.md)
+- [Bas's case for why deep FMA knowledge still matters in the cloud era](why-fma-knowledge-still-matters-relevance.md)

@@ -31,3 +31,15 @@ Bas ends the chapter with a list of books he recommends, a mix of Dutch and Engl
 - Gedoe komt er toch — Joop Swieringa & Jacqueline Jansen
 - Miracle Morning — Hal Elrod
 - Atomic Habits — James Clear
+
+## Verwante notities
+
+- [How AI was used in writing the book](ai-use-in-the-book.md)
+- [Atomic Habits as a Lens on the Strategy Phase](atomic-habits-implementation-intention-strategy.md)
+- [Bas's deliberate typography choices for the book](bas-book-typography-choices.md)
+- [Bas on continuous study and self-investment](bas-on-continuous-study-and-self-investment.md)
+- [Bas on cost management: cost vs. value and ROI/TCO](bas-on-cost-management-roi-tco.md)
+- [Bas's comfort-zone war story: the presentation training](bas-on-stepping-out-of-comfort-zone.md)
+- [Bas on growth: lean into strengths, nudge weaknesses, and ask questions](bas-play-to-your-strengths.md)
+- [Bas's reading habit: the 10-pages-a-morning method](bas-reading-habit-and-method.md)
+- [Bas van Kaam: experience, character and the people behind the book](bas-van-kaam-bio-and-character.md)

@@ -27,3 +27,15 @@ Bas frames the broader purpose: it develops sharp insight into IT-transformation
 > Oefening baart immers kunst.
 >
 > Het is de bedoeling je aan te zetten tot actie, iets wat uiteraard verder gaat dan alleen het lezen van dit boek.
+
+## Verwante notities
+
+- [Additional Topics to Weigh in a Cloud Business Case](additional-businesscase-topics.md)
+- [Bas on cost management: cost vs. value and ROI/TCO](bas-on-cost-management-roi-tco.md)
+- [Why Write a Business Case, and Its Key Elements](business-case-value-and-elements.md)
+- [Capex and Opex - Pros and Cons](capex-opex-pros-cons.md)
+- [Start a DaaS Business Case 'High-Over' First](daas-business-case-high-over-first.md)
+- [Bas: early business-case documents are deliberately rough and inconsistent](deliberate-inconsistency-in-early-drafts.md)
+- [SCAF Go/NoGo: The Insight-Phase Business Case](scaf-go-nogo-business-case.md)
+- [SCAF TCO / Business-case template](scaf-tco-business-case-template.md)
+- [Bas: build buy-in with a small PoV or PoC and free resources](start-small-with-pov-or-poc.md)

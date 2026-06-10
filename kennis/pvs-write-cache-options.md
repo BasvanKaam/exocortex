@@ -21,3 +21,16 @@ A read-only Standard Image vDisk can't store the writes a booting/running machin
 - **Cache in device RAM with overflow on HDD:** writes go to RAM first; when RAM fills, least-recently-used blocks spill to local disk (VHDX differencing format). The RAM used is non-paged kernel memory. More RAM = better experience. Together with plain 'cache in device RAM', this is the preferred way to implement PVS write cache.
 
 Bas's view on persistent desktops via PVS or MCS (PvD): not a common approach — he'd recommend full VMs instead.
+
+## Verwante notities
+
+- [In-memory write caching: reducing IOPS needed (PVS RAM Cache with Overflow to Disk)](in-memory-caching-ram-cache-pvs.md)
+- [IOPS fundamentals: latency is king](iops-fundamentals-latency.md)
+- [Provisioning Services essentials and Bas's advice](provisioning-services-essentials.md)
+- [Bas's PVS key takeaways and best-practice asides](provisioning-services-key-takeaways.md)
+- [Citrix Provisioning Services (PVS) overview](provisioning-services-overview.md)
+- [PVS high availability](pvs-high-availability.md)
+- [Personal vDisks (PvD)](pvs-personal-vdisks-pvd.md)
+- [PVS vDisk creation, Standard vs Private Image Mode](pvs-vdisk-standard-vs-private-image-mode.md)
+- [PVS vDisk versioning and lifecycle](pvs-vdisk-versioning-lifecycle.md)
+- [RAM Cache with Overflow to Disk slashes IOPS](ram-cache-overflow-to-disk.md)

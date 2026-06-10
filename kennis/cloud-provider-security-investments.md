@@ -23,3 +23,16 @@ Common security standards and certifications these providers meet:
 - **PCI-DSS** – for businesses processing card payments (payment data security).
 
 Providers also keep strict internal standards and publish transparency reports and compliance documentation.
+
+## Verwante notities
+
+- [AVG security: organizational and technical measures](avg-security-organizational-and-technical-measures.md)
+- [Bas's challenge: can you do cloud security better yourself?](bas-can-you-do-security-better-yourself.md)
+- [Bas deconstructs the cloud promises](bas-deconstructs-the-cloud-promises.md)
+- [Key Takeaways Chapter 10 (Cloud Security)](chapter-10-security-key-takeaways.md)
+- [Check Point and the Azure tenant-isolation bug bounty](check-point-azure-bug-bounty-war-story.md)
+- [Cloud providers build their own servers and hypervisors](cloud-providers-build-own-servers-hypervisor.md)
+- [NIS 2 vs the rest of the world](nis-2-vs-rest-of-world.md)
+- [NIST vs ISO as security reference frameworks](nist-vs-iso-as-security-references.md)
+- [Performance and Stability: You Trade Control for Provider Scale](performance-stability-and-provider-scale.md)
+- [Shared Responsibility Model (Restaurant Analogy)](shared-responsibility-model-restaurant-analogy.md)

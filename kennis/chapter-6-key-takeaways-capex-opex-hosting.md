@@ -19,3 +19,8 @@ Bas's summary of Chapter 6:
 - Single-user vs multi-user adds another layer of options: single-user offers more customisation and isolation, multi-user is often cheaper and more efficient, especially for standard environments.
 
 Bas's overarching point: the Capex/Opex choice and the choice between infrastructure/desktop models depend strongly on an organisation's needs and goals; a clear business case plus modern tech (DaaS, multi-user) lets companies optimise IT strategy and be ready for the future.
+
+## Verwante notities
+
+- [DaaS provider takes roughly 60% of the management off the IT department](daas-vendor-takes-60-percent-of-management.md)
+- [Four Hosting Models - On-Prem, Co-location, Managed, Cloud](hosting-models-onprem-colo-managed-cloud.md)

@@ -21,3 +21,14 @@ The strategy phase of Bas's Step-Cloud Adoptie Framework (SCAF) is supported by 
 ## Bron-citaten (NL, verbatim)
 
 > De kaart is zo opgebouwd dat het leest van beneden naar boven en opbouwt van boven naar beneden.
+
+## Verwante notities
+
+- [Opdracht 4 - Cloudkompas (XYZ-Care Health Group)](opdracht-cloudkompas-xyz-care.md)
+- [SCAF Documentation and Templates](scaf-documentation-templates.md)
+- [SCAF management-summary 'palet' templates per phase](scaf-management-summary-templates.md)
+- [SCAF Strategie Pillar: Summary of Steps](scaf-strategie-pillar-step-summary.md)
+- [SCAF supporting templates: RACI, Risk Register, Skill Readiness](scaf-supporting-templates-overview.md)
+- [SCAF Toolkit: 20 downloadable templates and what's excluded](scaf-toolkit-download-and-templates.md)
+- [Strategy Map (Kaplan & Norton) in SCAF](strategy-map-kaplan-norton.md)
+- [SWOT Analysis in SCAF](swot-analysis-in-scaf.md)

@@ -20,3 +20,12 @@ His advice: the list contains some very well-known names but almost certainly al
 > sorry, ik vind X niet erg prettig klinken
 >
 > daar zou ik mee beginnen als ik jou was
+
+## Verwante notities
+
+- [Bas's Roadmap Is Driven by Reader Feedback](bas-reader-feedback-as-roadmap.md)
+- [Following Cloud and EUC experts on X (Twitter)](following-experts-on-x-twitter.md)
+- [Local communities and Meetup; Dutch community examples](local-communities-and-meetup.md)
+- [The Microsoft MVP program](microsoft-mvp-program.md)
+- [Podcasts as a learning channel for Cloud and EUC](podcasts-for-cloud-euc.md)
+- [Bas on the value of IT communities](value-of-it-communities.md)

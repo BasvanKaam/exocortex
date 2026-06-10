@@ -18,3 +18,11 @@ User authentication and resource enumeration go hand-in-hand. He flags this dist
 ## Bron-citaten (NL, verbatim)
 
 > Note how I mention user authentication and user validation. There is a distinct difference.
+
+## Verwante notities
+
+- [Bas's distinction: authentication versus verification](authentication-vs-verification-distinction.md)
+- [Bas's key takeaways on the user login process](bas-key-takeaways-user-login-process.md)
+- [External user authentication through NetScaler](external-authentication-through-netscaler.md)
+- [StoreFront authentication and resource enumeration traffic flow](storefront-authentication-traffic-flow.md)
+- [StoreFront vs Web Interface user authentication](storefront-vs-web-interface-authentication.md)

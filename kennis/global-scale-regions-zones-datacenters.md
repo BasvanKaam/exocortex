@@ -18,3 +18,13 @@ Nearly every continent has datacenters from the big providers. Bas poses a riddl
 ## Bron-citaten (NL, verbatim)
 
 > Kun je raden welk continent niet? (Tip: het heeft te maken met extreme weeromstandigheden.)
+
+## Verwante notities
+
+- [The Azure cloud hierarchy: tenant down to resources](azure-cloud-hierarchy.md)
+- [Azure high-availability building blocks](azure-high-availability-building-blocks.md)
+- [Cloud providers build their own servers and hypervisors](cloud-providers-build-own-servers-hypervisor.md)
+- [The less-obvious challenges of building datacenters](datacenter-hidden-challenges.md)
+- [Standard components of a disaster recovery (DR) plan](disaster-recovery-plan-components.md)
+- [Hybrid Latency and the Region-Choice Pitfall](hybrid-latency-region-choice-pitfall.md)
+- [Bas on the physical scale: subsea cables and an Azure datacenter tour](submarine-cables-and-datacenter-scale.md)

@@ -20,3 +20,14 @@ His key warning: don't overdo the calculations. Even weeks of storage/compute ca
 ## Bron-citaten (NL, verbatim)
 
 > Real-world testing, as highlighted earlier, is the only true way of validating what you have built. See what happens and talk to your users.
+
+## Verwante notities
+
+- [Citrix Project Accelerator: web-based design guidance](citrix-project-accelerator.md)
+- [Bas on CPU over-commit and user baselines (light/medium/heavy)](cpu-overcommit-and-user-baselines.md)
+- [Bas on IOPS, latency and storage sizing](iops-and-latency-fundamentals.md)
+- [MCS IOPS profile: ~1.6x PVS average, ~1.2x steady state](mcs-iops-vs-pvs.md)
+- [Sizing resources: XenDesktop Design Handbook and community calculators](sizing-resources-and-handbook.md)
+- [StoreFront server sizing and supported OSes](storefront-server-sizing.md)
+- [Bas's troubleshooting and sizing philosophy](troubleshooting-and-sizing-philosophy.md)
+- [The five VDI workload phases and boot/logon storms](vdi-five-phases-storms.md)

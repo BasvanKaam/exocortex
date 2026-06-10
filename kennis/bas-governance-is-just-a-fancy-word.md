@@ -18,3 +18,17 @@ His signature deflation of the buzzword: 'governance is niets meer dan een duur 
 ## Bron-citaten (NL, verbatim)
 
 > En vergeet niet… governance is niets meer dan een duur woord voor alles gewoon goed in de gaten houden en aansturing geven waar en wanneer nodig.
+
+## Verwante notities
+
+- [Bas: Pragmatism on Governance and Process Documentation](bas-governance-processes-pragmatism.md)
+- [Bas on documentation: the 'undervalued child' of IT](bas-on-documentation-the-undervalued-child.md)
+- [Bas on handover: 'simple is better'](bas-on-simplicity-handover-checklist.md)
+- [Promoting the CCoE: the 'kindergarten' war story and strategies](bas-promoting-the-ccoe-kindergarten-war-story.md)
+- [A CCoE Is Not Just for Large Enterprises](ccoe-not-just-for-enterprise.md)
+- [You're Never Too Small for a CCoE](ccoe-not-just-for-enterprise-2.md)
+- [The CCoE's role in AVG compliance and governance](ccoe-role-in-avg-compliance.md)
+- [Cloud Center of Excellence (CCoE): Definition and Why Early](cloud-center-of-excellence-definition.md)
+- [Lack of overview, knowledge, governance and Shadow IT](lack-of-overview-knowledge-governance-shadow-it.md)
+- [SCAF Cloud governance: putting the dots on the i](scaf-cloud-governance-checklist.md)
+- [Bas: use the SCAF toolkit as inspiration, not a checklist](scaf-toolkit-use-it-as-inspiration.md)

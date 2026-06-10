@@ -18,3 +18,12 @@ Comtrade SCOM management packs: Citrix acquired the Comtrade SCOM management pac
 Insight Services: as of version 7.8, Citrix Insight Services (cis.citrix.com) is accessible from a Director drop-down, collecting data from Citrix Scout and Call Home services. Call Home periodically collects systems/product configuration plus performance, error and other info, sent to Insight Services for proactive analysis. The FMA analytics service plays a key role here.
 
 FMA fact: Director can also monitor IMA-based XenApp 6.5 architectures (shadow sessions, machine details pane, HDX panel, delegated administration, Activity Manager for 6.5).
+
+## Verwante notities
+
+- [Citrix Director: monitoring and troubleshooting tool](citrix-director-overview.md)
+- [Citrix Insight Services: automated log analysis and health checks](citrix-insight-services.md)
+- [Citrix Scout: the aggregating troubleshooting tool](citrix-scout-aggregator.md)
+- [Director dashboard, Trends view and alerts](director-dashboard-trends-and-alerts.md)
+- [Director, EdgeSight and historical data licensing](director-edgesight-and-licensing.md)
+- [Director and built-in EdgeSight](director-monitoring-tool.md)

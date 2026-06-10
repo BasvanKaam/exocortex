@@ -32,3 +32,14 @@ Key component/concept name changes from the IMA to the FMA (note: counterparts d
 - USB 2.0 to USB 3.0 support
 
 A XenApp Farm (6.5) or XenDesktop/XenApp Site (7.x) is also referred to by Citrix as a 'Deployment'.
+
+## Verwante notities
+
+- [Delivery Controller vs Data Collector differences](delivery-controller-vs-data-collector.md)
+- [Delivery Controller vs. Data Collector (FMA vs. IMA)](delivery-controller-vs-data-collector-2.md)
+- [The evolution of the FlexCast Management Architecture](evolution-of-the-fma.md)
+- [FMA multi-OS and mixed Machine Catalog support vs IMA](fma-multi-os-support-vs-ima.md)
+- [FMA Controllers differ fundamentally from IMA Data Collectors](fma-vs-ima-controller-differences.md)
+- [IMA Zones vs. FMA Zones comparison](ima-zones-vs-fma-zones-comparison.md)
+- [Local Host Cache in XenApp 6.5 (IMA)](local-host-cache-ima.md)
+- [XenApp folded into the FMA: the Excalibur / XenDesktop 7.0 moment](xenapp-joins-fma-excalibur-2013.md)

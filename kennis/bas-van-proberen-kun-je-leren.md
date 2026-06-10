@@ -20,3 +20,14 @@ He maps this onto business: a company can learn a lot from its users and employe
 > van proberen kun je leren
 >
 > deze uitspraak gebruikt hij soms ook tegen ons
+
+## Verwante notities
+
+- [Bas's Closing Reflection: Good Questions Always Move You Forward](bas-closing-reflection-good-questions.md)
+- [Bas's experience: feedback from early phases builds tighter teams](bas-experience-feedback-from-early-phases.md)
+- [Bas on feedback as a continuous process from the insight phase](bas-feedback-continuous-process.md)
+- [Bas's contrarian tip: get feedback from prospects you lost, not just customers](bas-learn-from-lost-prospects.md)
+- [Bas's comfort-zone war story: the presentation training](bas-on-stepping-out-of-comfort-zone.md)
+- [Bas's Roadmap Is Driven by Reader Feedback](bas-reader-feedback-as-roadmap.md)
+- [Creative Communication and Putting Responsibility on Staff](creative-communication-and-feedback-loop.md)
+- [War story: the Friday-afternoon Unreal Tournament community](friday-afternoon-unreal-tournament-community.md)

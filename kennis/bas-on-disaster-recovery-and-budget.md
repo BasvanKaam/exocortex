@@ -24,3 +24,15 @@ He also notes DR is mandatory for many sectors (financial, healthcare, critical 
 > Een ander aspect dat vaak wordt vergeten, is het BUDGET.
 >
 > een back-up van data of een systeem waarvan je niet zeker weet of deze terug te plaatsen is, heb je NIETS aan
+
+## Verwante notities
+
+- [Bas's take on application-aware HA alternatives for SQL](bas-on-application-aware-ha-alternatives.md)
+- [Bas's checklist of points of attention for a cloud exit](cloud-exit-points-of-attention.md)
+- [Why have a cloud exit strategy - the exit comes before onboarding](cloud-exit-strategy-rationale.md)
+- [The six-step process for building a cloud exit strategy](cloud-exit-strategy-steps.md)
+- [Current cyber threats and 2025+ trends](current-cyber-threats-and-2025-trends.md)
+- [Standard components of a disaster recovery (DR) plan](disaster-recovery-plan-components.md)
+- [Post-COVID resilience: BCPs, redundancy, supply chains, automation](post-covid-resilience-measures.md)
+- [Why high availability and DR matter: ransomware and data hostage](ransomware-data-hostage.md)
+- [Voorzorg: Assume You Will Be Breached](voorzorg-assume-breach.md)

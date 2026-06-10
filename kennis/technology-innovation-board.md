@@ -18,3 +18,13 @@ Definition: A Technology or Innovation Board is a strategic body responsible for
 ## Bron-citaten (NL, verbatim)
 
 > De kracht van vragen (blijven) stellen.
+
+## Verwante notities
+
+- [Bas on the Cloud roadmap as a strategic tool](bas-cloud-roadmap-as-strategic-tool.md)
+- [Creative Communication and Putting Responsibility on Staff](creative-communication-and-feedback-loop.md)
+- [CTO vs Field CTO: internal strategy vs external customer translation](cto-vs-field-cto.md)
+- [How an Innovation Board operates, end to end](innovation-board-in-detail.md)
+- [Where to 'park' innovation: Innovation/Technology Board, Solutions Board, Office of the CTO](innovation-board-technology-board-office-of-cto.md)
+- [Innovation Comes From Outside the Firewall](innovation-comes-from-outside-the-firewall.md)
+- [Where The Magic Happens and Het Laaghangend Fruit](where-the-magic-happens-laaghangend-fruit.md)

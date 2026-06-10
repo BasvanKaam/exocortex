@@ -17,3 +17,12 @@ The execution (uitvoering) phase of Bas's Step-Cloud Adoptie Framework (SCAF) is
 - **Execution template** (not in the toolkit): a detailed guide for planning and executing migration and modernisation of systems, applications and networks, with sections for the third-wave modernisation, definitive cloud choices, security options, network components and supplier selection. Governance model, technical designs and skill-readiness plan are further developed here; agile and PDCA are introduced as working methods, supported by teams of ambassadors who inform and engage the organisation.
 
 Migration is organised in waves. **Wave 1 & 2 inventory** catalogues all applications, datasets and systems going to the cloud first, identifying technical dependencies and migration strategies (rehost, refactor, retire). **Wave 3 inventory palet** is a deeper assessment — licences, organisational and financial impact, operational dependencies, risk profile — with strategies Retain/Refactor/Rehost/Repurchase/Retire and the matching cloud technology (IaaS, PaaS, DaaS, SaaS). Bas notes the Wave 3 deep-dive is only needed for a handful of applications/systems.
+
+## Verwante notities
+
+- [Bas: The 6 R's for Application Rationalization](bas-6-rs-cloud-migration.md)
+- [Definitive Cloud and Refactor Choice (Rationalisation)](rationalisation-refactor-choice-execution.md)
+- [SCAF: Application, Data and System Inventory via Waves](scaf-application-data-system-inventory.md)
+- [SCAF Execution Phase (Uitvoeringsfase) Overview](scaf-execution-phase-overview.md)
+- [SCAF Execution Phase Supporting Documentation](scaf-execution-supporting-documentation.md)
+- [SCAF Insight Phase: Actions and the Waves Approach](scaf-insight-actions-and-waves.md)

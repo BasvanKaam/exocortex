@@ -20,3 +20,13 @@ Key points he flags:
 - The governance model from the previous phase is refined and implemented (cost management, security, automation, continuity).
 - Agile with iterative sprints/MVPs and PDCA fits the flexibility required.
 - Skill readiness and internal ambassadors prepare and enthuse staff for the change.
+
+## Verwante notities
+
+- [Agile and PDCA as the unwritten cloud standard](agile-pdca-cloud-default.md)
+- [Bas's Lessons Learned document: a living continuous-learning tool](bas-lessons-learned-document-method.md)
+- [Why have a cloud exit strategy - the exit comes before onboarding](cloud-exit-strategy-rationale.md)
+- [Selecting the First Migration Workload (Simple to Complex)](first-migration-workload-selection.md)
+- [Bas: the order of execution barely matters - just have fun](order-of-execution-doesnt-matter.md)
+- [Introducing Agile and Plan-Do-Check-Act in Execution](scaf-execution-agile-pdca-intro.md)
+- [SCAF Execution Phase (Uitvoeringsfase) Overview](scaf-execution-phase-overview.md)

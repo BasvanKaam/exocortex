@@ -18,3 +18,18 @@ Knowledge, roles and responsibilities come together in **teams**. With Cloud-bas
 **Team-composition questions**: who is responsible for executing technical tasks during adoption/migration; who is ultimately responsible for infrastructure/product changes; who is responsible for implementing Cloud governance and defining governance controls; who are the process owners; who acts as **ambassadors** promoting the upcoming Cloud services (collecting/answering questions, organizing group trainings); who handles the actual implementation/migration; what gets outsourced; and who is responsible for management including daily 'run' activities.
 
 **Skill Readiness**: no decision needed yet, but a first proposal of trainings to follow can be summarized in tables.
+
+## Verwante notities
+
+- [Ambassadors and skill readiness in the execution phase](ambassadors-skill-readiness.md)
+- [Bas's year as a competence manager](bas-year-as-competence-manager.md)
+- [CCoE Roles and Responsibilities](ccoe-roles-and-responsibilities.md)
+- [The project manager's role across migration phases](project-manager-role-cloud-migration.md)
+- [SCAF Cloud Governance Roles](scaf-cloud-governance-roles.md)
+- [SCAF Execution Phase Stakeholders](scaf-execution-stakeholders.md)
+- [SCAF Execution Phase Supporting Documentation](scaf-execution-supporting-documentation.md)
+- [SCAF GAP-analysis and Impact-analysis templates](scaf-gap-and-impact-analysis-templates.md)
+- [SCAF Chapter 8: The Insight (Inzicht) Phase Foundation](scaf-insight-phase-foundation.md)
+- [SCAF Insight Phase: Results and Supporting Documentation](scaf-insight-results-and-documentation.md)
+- [SCAF Insight Phase: Stakeholders to Involve](scaf-insight-stakeholders.md)
+- [SCAF supporting templates: RACI, Risk Register, Skill Readiness](scaf-supporting-templates-overview.md)

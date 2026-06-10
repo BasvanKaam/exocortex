@@ -18,3 +18,13 @@ On the first step, the strategy phase: the success of cloud adoption depends on 
 Stakeholder involvement is part of the strategy phase: by involving directors, IT managers and other key people early, broad support (draagvlak) emerges. Strategy workshops and interviews are central — they gather insights AND get IT and business to develop a shared vision, bridging (or at least narrowing) the IT/business gap discussed in the previous chapter.
 
 SCAF also offers an extensive set of ready-made templates so information is captured and shared in a structured, results-oriented way. And crucially: the strategy phase is not an endpoint — cloud adoption requires ongoing evaluation and continuous monitoring/optimisation, so the cloud is not just a technological choice but a strategic instrument.
+
+## Verwante notities
+
+- [Bas on the Cloud roadmap as a strategic tool](bas-cloud-roadmap-as-strategic-tool.md)
+- [SCAF Design Principles and Why It Exists](scaf-design-principles.md)
+- [SCAF: The Step-Cloud Adoptie Framework Overview](scaf-step-cloud-adoption-framework-overview.md)
+- [SCAF Strategie Pillar: Summary of Steps](scaf-strategie-pillar-step-summary.md)
+- [The Step-Cloud Adoptie Framework (SCAF) as the book's backbone](scaf-the-red-thread-of-the-book.md)
+- [SCAF visual timeline and Bas's preference for visual artifacts](scaf-visual-timeline.md)
+- [The Gap Between IT and 'The Business'](the-gap-between-it-and-the-business.md)

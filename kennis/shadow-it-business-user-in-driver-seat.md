@@ -26,3 +26,14 @@ Key quote: 'Selfservice IT gaat over verantwoordelijkheid.'
 > De businessuser zit nu zelf in de driver seat.
 >
 > Selfservice IT gaat over verantwoordelijkheid.
+
+## Verwante notities
+
+- [Bas on documentation: the 'undervalued child' of IT](bas-on-documentation-the-undervalued-child.md)
+- [Bas's terminology: "gebruiker", "business gebruiker" and "de business"](business-user-and-the-business-definitions.md)
+- [IT as Internal Broker and the Regie-Organisatie](it-as-internal-broker-regie-organisatie.md)
+- [Key Takeaways Chapter 4: Cloud Transformation Beyond Technology](key-takeaways-chapter-4-cloud-transformation.md)
+- [Lack of overview, knowledge, governance and Shadow IT](lack-of-overview-knowledge-governance-shadow-it.md)
+- [Mind The Gap: Shadow IT as Enabler and the Entry Point](mind-the-gap-shadow-it-as-enabler.md)
+- [Shadow IT Examples: Trello/Asana and WhatsApp](shadow-it-examples-trello-whatsapp.md)
+- [The Gap Between IT and 'The Business'](the-gap-between-it-and-the-business.md)

@@ -20,3 +20,18 @@ Bas defines **'the business'**: the people, processes, and products needed to se
 ## Bron-citaten (NL, verbatim)
 
 > Een veelvoorkomende klacht van de 'business' is dat er beslissingen worden genomen zonder betrokkenheid van IT.
+
+## Verwante notities
+
+- [Bas's terminology: "gebruiker", "business gebruiker" and "de business"](business-user-and-the-business-definitions.md)
+- [Cultural Shift: Communicate, Communicate, Communicate](cultural-shift-communicate-communicate.md)
+- [EA: Working with Principles (Top-Down and Bottom-Up Balance)](ea-working-with-principles.md)
+- [Enterprise Architecture (EA) and TOGAF](enterprise-architecture-togaf.md)
+- [The Evolution of the CIO and CFO Role](evolution-of-cio-cfo-role.md)
+- [From Beheer to Regie: The Regieorganisatie Model](from-beheer-to-regie-organisation.md)
+- [IT as Internal Broker and the Regie-Organisatie](it-as-internal-broker-regie-organisatie.md)
+- [Bas: the order of execution barely matters - just have fun](order-of-execution-doesnt-matter.md)
+- [SCAF Key Takeaways - The Four Phases and Strategy](scaf-four-phases-key-takeaways.md)
+- [SCAF Strategie: The Foundation Questions](scaf-strategie-fundament-questions.md)
+- [SCAF Workshop Startpunt Questions](scaf-workshop-startpunt-questions.md)
+- [Shadow IT: The Business User in the Driver's Seat](shadow-it-business-user-in-driver-seat.md)

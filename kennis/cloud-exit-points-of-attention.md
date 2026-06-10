@@ -29,3 +29,16 @@ Bas offers a self-authored 'points of attention' list for a cloud exit - explici
 ## Bron-citaten (NL, verbatim)
 
 > Testen, testen, testen. Met name gedurende de voorbereidingsfase.
+
+## Verwante notities
+
+- [Azure data migration and import tools](azure-data-migration-import-tools.md)
+- [Bas on disaster recovery: no blueprint, and don't forget the BUDGET](bas-on-disaster-recovery-and-budget.md)
+- [Exit flexibility depends on the cloud service model (IaaS/SaaS/PaaS)](cloud-exit-flexibility-by-service-model.md)
+- [Key Takeaways - cloud exit strategy (Chapter 12)](cloud-exit-key-takeaways.md)
+- [Why have a cloud exit strategy - the exit comes before onboarding](cloud-exit-strategy-rationale.md)
+- [The six-step process for building a cloud exit strategy](cloud-exit-strategy-steps.md)
+- [No real standards across cloud providers; identical services, different names](cloud-providers-no-standards-naming.md)
+- [SLA pitfalls to analyse for a cloud exit strategy](cloud-sla-pitfalls-exit.md)
+- [Opdracht 10: Exit Strategy (XYZ-Care)](exit-strategy-assignment-xyz-care.md)
+- [SCAF Cloud Exit Strategy Template (On Bas's Backlog)](scaf-cloud-exit-strategy-on-backlog.md)

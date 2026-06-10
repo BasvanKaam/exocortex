@@ -22,3 +22,13 @@ Key method: don't wait until you're halfway through the project. The sooner the 
 > Hey… Biiieeerrrrrtje?
 >
 > Ken je hem nog? De fameuze skileraar-uitspraak.
+
+## Verwante notities
+
+- [Bas's experience: feedback from early phases builds tighter teams](bas-experience-feedback-from-early-phases.md)
+- [Bas's tip: bring cake to the stand-up](bring-cake-to-the-standup.md)
+- [Creative Communication and Putting Responsibility on Staff](creative-communication-and-feedback-loop.md)
+- [Cultural Shift: Communicate, Communicate, Communicate](cultural-shift-communicate-communicate.md)
+- [E2EVC: the Experts-2-Experts Virtualization Conference](e2evc-conference.md)
+- [War story: the Friday-afternoon Unreal Tournament community](friday-afternoon-unreal-tournament-community.md)
+- [Bas opens the COVID chapter with a Nostradamus quatrain](nostradamus-pandemic-quatrain.md)

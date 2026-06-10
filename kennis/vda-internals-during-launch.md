@@ -20,3 +20,12 @@ Assuming Session Reliability is enabled and a desktop-OS VDA launches:
 5. PortICA hands the 'pre-logon' ticket data (received from the ICA stack) up to the Desktop service and back to the Controller in exchange for real credentials.
 6. The Desktop service receives the user's credentials and sends them back to PortICA.
 7. PortICA contacts the authentication service to log on the user.
+
+## Verwante notities
+
+- [Desktop VDA core services: Citrix Desktop Service and Citrix ICA Service](desktop-vda-two-main-services.md)
+- [Internal launch process: pooled VDI VM via StoreFront](internal-launch-process-pooled-vdi.md)
+- [PortICA / picaSvc2.exe: the critical VDA ICA service](portica-picasvc2-service.md)
+- [Session Reliability, Auto Client Reconnect and ICA Keep-Alive](session-reliability-and-auto-reconnect.md)
+- [Two VDA types and the single-user vs multi-user ICA stack](two-vda-types-ica-stack-difference.md)
+- [Launching a VDI desktop from a trusted internal network](vdi-desktop-launch-sequence.md)

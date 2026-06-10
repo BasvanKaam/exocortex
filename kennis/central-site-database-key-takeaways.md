@@ -23,3 +23,7 @@ Bas's own summary list for the database chapter:
 - SQL (server or Express) must be installed before creating a Site. SQL Express is mainly for PoC/testing but can serve small production environments (no HA).
 - You must be a local administrator and domain user to create/initialize databases. Required roles: dbcreator, securityadmin, db_owner. Using Studio, the account must be a sysadmin server role member.
 - As of version 7.12 the LHC got renewed and re-introduced.
+
+## Verwante notities
+
+- [SQL Transaction-Log recovery modes for Citrix databases](sql-transaction-log-recovery-modes.md)

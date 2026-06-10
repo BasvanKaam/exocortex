@@ -24,3 +24,14 @@ SLA Extra notes: resources must meet certain conditions; don't forget supporting
 ## Bron-citaten (NL, verbatim)
 
 > “Never get so busy with the Cloud that you forget to make an exit plan.” – Dolly Parton (sort of)
+
+## Verwante notities
+
+- [Key Takeaways - cloud exit strategy (Chapter 12)](cloud-exit-key-takeaways.md)
+- [Bas's checklist of points of attention for a cloud exit](cloud-exit-points-of-attention.md)
+- [The six-step process for building a cloud exit strategy](cloud-exit-strategy-steps.md)
+- [Standard components of a disaster recovery (DR) plan](disaster-recovery-plan-components.md)
+- [Opdracht 10: Exit Strategy (XYZ-Care)](exit-strategy-assignment-xyz-care.md)
+- [ITIL Service Management in Cloud Environments](itil-in-cloud-environments.md)
+- [ITIL Processes That Need Attention When Introducing Cloud](itil-process-changes-for-cloud.md)
+- [Performance and Stability: You Trade Control for Provider Scale](performance-stability-and-provider-scale.md)

@@ -23,3 +23,12 @@ Citrix's recommended connection quality limits (supported sessions / session lau
 - > 3000: 60 / 8 Mbps / 5 ms
 
 Zone naming: a primary Zone always exists (named 'primary' by default, changeable) plus optional satellite Zones. Names must be unique within the Site; spaces are allowed but special characters are not. Delegated administration can be scoped to managing Zones. Studio (and Director) is configured only in the primary Zone and can be published to other Zones.
+
+## Verwante notities
+
+- [High-availability options for the Central Site database](central-site-database-ha-options.md)
+- [FMA Zones: architecture and purpose](fma-zones-architecture-and-purpose.md)
+- [FMA Zones VDA registration and Controller failover](fma-zones-vda-registration-and-failover.md)
+- [IMA Zones vs. FMA Zones comparison](ima-zones-vs-fma-zones-comparison.md)
+- [Bas's Studio and Zones chapter key takeaways](studio-zones-chapter-key-takeaways.md)
+- [Zones in the FMA are not the same as IMA 6.5 Zones](zones-fma-vs-ima.md)

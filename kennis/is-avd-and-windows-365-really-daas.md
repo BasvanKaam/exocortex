@@ -23,3 +23,16 @@ Bas adds that it doesn't really matter much which label you use, but the discuss
 ## Bron-citaten (NL, verbatim)
 
 > AVD wordt vaak gezien als een "Infrastructure-as-a-Service (IaaS) variant van DaaS".
+
+## Verwante notities
+
+- [AVD - The Only Cloud Service That Runs Windows Client Multi-User](avd-windows-client-multi-user.md)
+- [Bas's reframe: call them 'traditional' applications, not 'Legacy'](bas-traditional-not-legacy-applications.md)
+- [DaaS Takes Roughly 60% Off Your Hands](daas-takes-60-percent-off-your-hands.md)
+- [Bas's 2018 reframe: true VDI from the cloud and Microsoft licensing](daas-true-vdi-licensing-evolution.md)
+- [DaaS provider takes roughly 60% of the management off the IT department](daas-vendor-takes-60-percent-of-management.md)
+- [DaaS versus VDI](daas-vs-vdi.md)
+- [From Terminal Services to AVD - The Multi-User History](history-terminal-services-to-avd.md)
+- [VDI and DaaS Are Now Practically Synonymous](vdi-daas-now-synonymous.md)
+- [Windows 365 Cloud PC](windows-365-cloud-pc.md)
+- [Windows 365 Cloud PC - Pros, Cons and Cost Control vs AVD](windows-365-pros-cons.md)

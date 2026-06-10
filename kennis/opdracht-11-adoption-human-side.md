@@ -18,3 +18,12 @@ Bas's Assignment 11 drives home that a successful cloud migration does not end a
 **Worked solution** highlights: a training plan tailored to different user groups (care providers, IT, managers have different digital skill levels) delivered via a mix of e-learning, short physical workshops and guided hands-on training. KPIs include adoption rate of new tools (e.g. the planning tool and AVD), employee satisfaction scores via surveys and drop-in sessions, and a *drop* in incident reports/support requests for new systems. Feedback runs through an online portal and monthly check-ins. The communication campaign uses infographics, lunch sessions with live demos, and newsletter/intranet updates. The workshop surfaces pain points (e.g. EPD/EHR accessibility, tool usability) that are folded straight into the plan, ending with a roadmap.
 
 All Bas's exercises share the framing: "Het is de bedoeling je aan te zetten tot actie" — do extra research and act, not just read.
+
+## Verwante notities
+
+- [Ambassadors and skill readiness in the execution phase](ambassadors-skill-readiness.md)
+- [Bas: the cloud doesn't make people redundant, it frees them for better work](cloud-frees-people-for-better-work.md)
+- [Bas on 'Angst': the human side of cloud adoption](fear-and-the-human-side-of-cloud-adoption.md)
+- [Opdracht 4 - Cloudkompas (XYZ-Care Health Group)](opdracht-cloudkompas-xyz-care.md)
+- [SCAF Adoption phase: activities and deliverables](scaf-adoption-phase-activities.md)
+- [KPIs in the SCAF Adoption phase: making success measurable](scaf-kpis-in-adoption-phase.md)

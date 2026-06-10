@@ -18,3 +18,11 @@ He wrote a more detailed blog post on what is and isn't new about the LTSR vs CR
 ## Bron-citaten (NL, verbatim)
 
 > CR is basically the way it has always been before the LTSR was introduced. They just had to come up with a second name to make a clear distinction between the two.
+
+## Verwante notities
+
+- [Citrix company history: from Citrus to WinFrame](citrix-company-history.md)
+- [Citrix editions, Subscription Advantage and Software Maintenance](citrix-editions-subscription-advantage-software-maintenance.md)
+- [Citrix LTSR vs Current Release](citrix-ltsr-vs-current-release.md)
+- [The evolution of the FlexCast Management Architecture](evolution-of-the-fma.md)
+- [FMA evolution key dates](fma-evolution-key-dates.md)

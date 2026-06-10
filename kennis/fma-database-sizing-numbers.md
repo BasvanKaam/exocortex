@@ -26,3 +26,10 @@ Monitoring data retention: non-Platinum customers can store data up to 7 days; a
 Configuration Logging database: relatively small without MCS (around 30-40 MB), but with MCS it can easily grow beyond a few hundred MB depending on machines provisioned.
 
 Citrix released the Database Sizing Tool for XenDesktop 7.x (CTX139508) to estimate sizes over time.
+
+## Verwante notities
+
+- [Delivery Controller server sizing and supported OS](delivery-controller-sizing.md)
+- [SQL Transaction-Log recovery modes for Citrix databases](sql-transaction-log-recovery-modes.md)
+- [StoreFront server sizing and supported OSes](storefront-server-sizing.md)
+- [The three XenDesktop databases](xendesktop-three-databases.md)

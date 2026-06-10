@@ -16,3 +16,12 @@ If the License Server cannot be contacted, users and products are protected by a
 As of version 7.6 Citrix added a **supplemental grace period**: when all licenses are in use it lets users keep connecting for a default of **15 days** with no connection limit, after which normal limits are enforced and new connections are refused. It is granted per product, per edition and per Subscription Advantage Eligibility date, and only for Retail licenses. This replaced the old model of granting roughly 10% overdrafts above the license count.
 
 Making the license server highly available is optional (the grace period covers outages by default), but if you already run a NetScaler you can load balance two license servers in an active/passive setup.
+
+## Verwante notities
+
+- [Citrix license types: user, device and concurrent](citrix-license-types-user-device-concurrent.md)
+- [Citrix licensing key facts (Flexera, capacity, NetScaler)](citrix-licensing-key-facts-flexera.md)
+- [Citrix licensing: user, device and concurrent](citrix-licensing-models.md)
+- [Citrix LTSR vs Current Release](citrix-ltsr-vs-current-release.md)
+- [Startup license and the license checkout process](citrix-startup-license-and-checkout.md)
+- [How the license server reassigns user/device licenses](license-server-user-device-reassignment-logic.md)

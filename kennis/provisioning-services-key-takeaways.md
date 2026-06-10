@@ -22,3 +22,14 @@ From Bas's PVS chapter wrap-up, with his characteristic practical framing:
 - On Personal vDisks (PvDs): apply them wisely, it's not for everyone. And, somewhat off topic, in many cases where VDI is considered, **RDSH might make more sense**.
 - On the physical-vs-virtual debate: it used to be best practice to use physical machines for Provisioning Servers, but today Citrix almost always recommends virtual machines, thanks to networking enhancements. The same applies to isolating PVS traffic, now mainly only justified by security considerations. "Keep it simple."
 - Reference articles he cites: CTX117372 (PVS networking best practices), CTX131611 (known hardware-related PVS issues), CTX124185 (antivirus best practices on PVS vDisks).
+
+## Verwante notities
+
+- [Bas's PVS recommendation: hybrid versioning approach](bas-pvs-hybrid-versioning-recommendation.md)
+- [MCS rollbacks and reboot considerations (boot storms, disconnect policies)](mcs-rollbacks-and-reboot-considerations.md)
+- [Provisioning Services essentials and Bas's advice](provisioning-services-essentials.md)
+- [Citrix Provisioning Services (PVS) overview](provisioning-services-overview.md)
+- [PVS high availability](pvs-high-availability.md)
+- [Personal vDisks (PvD)](pvs-personal-vdisks-pvd.md)
+- [PVS vDisk versioning and lifecycle](pvs-vdisk-versioning-lifecycle.md)
+- [PVS write cache options](pvs-write-cache-options.md)

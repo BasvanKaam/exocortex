@@ -21,3 +21,13 @@ During login the Delivery Controller plays a role in both, a process also called
 ## Bron-citaten (NL, verbatim)
 
 > Note how I mention user authentication and user validation. There is a difference. Authentication is to make sure that somebody is who he or she claims to be. Verification is done to find out which resources are assigned (permissions) to the user.
+
+## Verwante notities
+
+- [Bas's distinction between authentication and verification](authentication-vs-verification-distinction-2.md)
+- [Bas's key takeaways on the user login process](bas-key-takeaways-user-login-process.md)
+- [Broker Service: XML, STA and the Principal Broker](broker-service-xml-sta-principal.md)
+- [The Delivery Controller as the heart of the FMA](delivery-controller-heart-of-fma.md)
+- [StoreFront authentication and resource enumeration traffic flow](storefront-authentication-traffic-flow.md)
+- [StoreFront vs Web Interface user authentication](storefront-vs-web-interface-authentication.md)
+- [Zero Trust Security Model](zero-trust-model.md)

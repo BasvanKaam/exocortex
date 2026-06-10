@@ -18,3 +18,19 @@ Key points:
 - New workshops and one-on-one talks may be planned to make final choices. Much of the application landscape needs no drastic change (or can be revisited later), while a number of business-critical applications need real attention to work in the Cloud.
 - A definitive Cloud vendor / CSP choice is made if not already done (Azure, AWS, etc.). Often this direction was already clear in the Insight phase.
 - Deliverables/decisions formalised here include: choosing a Cloud platform per workload, a Cloud exit strategy, modernisation decisions, network and security component choices, a migration/implementation plan with timelines and responsibilities, a functional and technical design/test plan, final team composition, adjusting or introducing a governance model, knowledge-building/skill-readiness plans, the actual migration/build start, and communication to the user organisation.
+
+## Verwante notities
+
+- [Key Takeaways - the execution phase (Chapter 11)](execution-phase-key-takeaways.md)
+- [Functional Design with Functional Tests](functional-design-and-functional-tests.md)
+- [Bas: the order of execution barely matters - just have fun](order-of-execution-doesnt-matter.md)
+- [The project manager's role across migration phases](project-manager-role-cloud-migration.md)
+- [Definitive Cloud and Refactor Choice (Rationalisation)](rationalisation-refactor-choice-execution.md)
+- [Reverse Timeline planning around a compelling event](reverse-timeline-planning.md)
+- [Introducing Agile and Plan-Do-Check-Act in Execution](scaf-execution-agile-pdca-intro.md)
+- [SCAF execution-phase templates and the migration waves](scaf-execution-phase-templates.md)
+- [SCAF Execution Phase Stakeholders](scaf-execution-stakeholders.md)
+- [SCAF Execution Phase Supporting Documentation](scaf-execution-supporting-documentation.md)
+- [SCAF Chapter 8: The Insight (Inzicht) Phase Foundation](scaf-insight-phase-foundation.md)
+- [SCAF: The Step-Cloud Adoptie Framework Overview](scaf-step-cloud-adoption-framework-overview.md)
+- [Technical/Functional Design as Cloud Blueprint](technical-functional-design-blueprint.md)

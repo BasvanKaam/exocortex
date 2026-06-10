@@ -16,3 +16,9 @@ Bas pushes back on a common misconception: a CCoE sounds big and seems applicabl
 ## Bron-citaten (NL, verbatim)
 
 > een CCoE klinkt groot en lijkt alleen toepasbaar voor (grote) Enterprise omgevingen, maar dat is ONJUIST. Ga voor een naam die past, het aantal personen doet er weinig toe
+
+## Verwante notities
+
+- [Bas's reframe: governance is just a fancy word](bas-governance-is-just-a-fancy-word.md)
+- [Promoting the CCoE: the 'kindergarten' war story and strategies](bas-promoting-the-ccoe-kindergarten-war-story.md)
+- [Cloud Center of Excellence (CCoE): Definition and Why Early](cloud-center-of-excellence-definition.md)

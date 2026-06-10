@@ -20,3 +20,13 @@ FlexCast desktop delivery models:
 - Streamed VHD, PVS.
 - Local (existing) virtual machines.
 - On-demand (published) applications.
+
+## Verwante notities
+
+- [Citrix Project Accelerator: web-based design guidance](citrix-project-accelerator.md)
+- [DaaS versus VDI](daas-vs-vdi.md)
+- [The evolution of the FlexCast Management Architecture](evolution-of-the-fma.md)
+- [MCS desktop types: Pooled-Random, Pooled-Static, Dedicated](mcs-desktop-types.md)
+- [Citrix Provisioning Services (PVS) overview](provisioning-services-overview.md)
+- [Single-User vs Multi-User VDI/DaaS](single-user-vs-multi-user-vdi-daas.md)
+- [The five VDI workload phases and boot/logon storms](vdi-five-phases-storms.md)

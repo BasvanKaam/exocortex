@@ -23,3 +23,15 @@ Bas's own summary list for the Receiver chapter:
 - Receiver can be configured via command-line, registry, StoreFront account settings, or per-application using Studio and GPOs.
 - Not all features appear on the Receiver Feature Matrix.
 - The HTML5-based built-in (StoreFront) Receiver is not enabled by default; enable it manually.
+
+## Verwante notities
+
+- [Bas's caution on pre-configured Start menus and desktops](bas-on-preconfigured-shortcuts-warning.md)
+- [Citrix Receiver: purpose and naming history](citrix-receiver-history-and-purpose.md)
+- [Receiver Clean-Up utility](receiver-cleanup-utility.md)
+- [Configuring Receiver connection information](receiver-connection-configuration-methods.md)
+- [Citrix Receiver / ICA Client detailed version timeline](receiver-detailed-version-timeline.md)
+- [Receiver communications, ICA handshake and virtual channels](receiver-ica-handshake-and-virtual-channels.md)
+- [Receiver platforms and the Receiver X1](receiver-platforms-and-x1.md)
+- [Receiver Self Service Mode vs. Web Access Mode](receiver-self-service-vs-web-access-mode.md)
+- [Three ways to reach resources via Receiver, including HTML5 clientless access](receiver-three-ways-and-html5-clientless.md)

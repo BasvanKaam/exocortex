@@ -22,3 +22,8 @@ Bas frames this as another perfect example of the power of community. The book i
 > Een deel van de opbrengst ging naar het goede doel: One Laptop per Child.
 >
 > Opnieuw een perfect voorbeeld van de kracht van community.
+
+## Verwante notities
+
+- [Bas's Closing Reflection: Good Questions Always Move You Forward](bas-closing-reflection-good-questions.md)
+- [Bas's Roadmap Is Driven by Reader Feedback](bas-reader-feedback-as-roadmap.md)

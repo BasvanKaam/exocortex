@@ -22,3 +22,14 @@ A characteristic national aside: in his view the Netherlands is far ahead of oth
 > Nederland ligt ver voor als je het vergelijkt met andere Europese landen.
 >
 > Hoewel vernieuwing belangrijk is, kan te veel nadruk op nieuwe dingen afleiden van de dagelijkse focus op een goed functionerende Cloudomgeving, ondersteunen van gebruikers en doorvoeren van praktische verbeteringen.
+
+## Verwante notities
+
+- [Bas on the Cloud roadmap as a strategic tool](bas-cloud-roadmap-as-strategic-tool.md)
+- [Bas's contrarian tip: get feedback from prospects you lost, not just customers](bas-learn-from-lost-prospects.md)
+- [The Gartner Hype Cycle and its five stages](gartner-hype-cycle.md)
+- [How an Innovation Board operates, end to end](innovation-board-in-detail.md)
+- [Where to 'park' innovation: Innovation/Technology Board, Solutions Board, Office of the CTO](innovation-board-technology-board-office-of-cto.md)
+- [Innovation Comes From Outside the Firewall](innovation-comes-from-outside-the-firewall.md)
+- [Obvious cloud trends (multi-cloud, edge, zero trust, serverless, green)](obvious-cloud-trends-list.md)
+- [Everett Rogers' technology-adoption categories mapped to the hype cycle](rogers-technology-adoption-categories.md)

@@ -18,3 +18,12 @@ Beyond the standard lifecycle policy (Mainstream Maintenance, Extended Maintenan
 **CR** benefits: rapid innovation with the latest security, productivity and collaboration features; ability to address new business challenges and more use cases; faster delivery of enhancement requests via shorter release cycles.
 
 Bas's note: the CR isn't really new — it's basically the way things always were before the LTSR was introduced; Citrix just needed a second name to distinguish the two.
+
+## Verwante notities
+
+- [Bas's take: the Current Release isn't really new](bas-current-release-not-really-new.md)
+- [Citrix editions, Subscription Advantage and Software Maintenance](citrix-editions-subscription-advantage-software-maintenance.md)
+- [Citrix license grace periods and supplemental grace period](citrix-license-grace-periods.md)
+- [Citrix licensing: user, device and concurrent](citrix-licensing-models.md)
+- [FMA evolution key dates](fma-evolution-key-dates.md)
+- [Universal Print Server load balancing and HA (7.9)](ups-load-balancing-ha.md)

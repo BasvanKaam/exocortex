@@ -24,3 +24,12 @@ Reference ladder of data units (each step is 1024 of the previous):
 - 1024 Zettabytes = 1 Yottabyte
 - 1024 Yottabytes = 1 Brontobyte (= 10 quadrillion Terabytes)
 - 1024 Brontobytes = 1 Geopbyte
+
+## Verwante notities
+
+- [Bas's war story: SAN/NAS data migrations were weeks of nightmares](bas-san-nas-nightmares.md)
+- [Bas on the future limits of self-hosting your own data growth](bas-self-hosting-data-growth-limit.md)
+- [Cloud Market Statistics (2024)](cloud-market-statistics-2024.md)
+- [Core cloud building blocks: datacenter, virtualization, APIs, storage, databases, elasticity](core-cloud-components-and-concepts.md)
+- [Edge computing and Edge-nodes](edge-computing.md)
+- [The 'Internet Minute' and global data growth](internet-minute-and-data-growth.md)

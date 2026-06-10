@@ -20,3 +20,12 @@ He then quotes a Nostradamus quatrain about a great plague in the sea of the gre
 > Geen boek over Cloud zonder een stuk tekst over covid-19, oftewel corona.
 >
 > Ik denk dat we dat wel als een vast onderdeel van het 'nieuwe normaal' mogen beschouwen, wat dat ook precies mag betekenen.
+
+## Verwante notities
+
+- [Bas's COVID-era asides and skepticism on the stats](bas-covid-asides-and-skepticism.md)
+- [Hey... Biiieeerrrrrtje? — Early Team Bonding](biertje-team-bonding-aside.md)
+- [COVID-19 as a cloud accelerant: the key statistics](covid-19-cloud-acceleration-stats.md)
+- [Post-COVID resilience: BCPs, redundancy, supply chains, automation](post-covid-resilience-measures.md)
+- [Post-COVID work models and continued cloud growth](post-covid-work-and-cloud-trends.md)
+- [Tom Siebel's scepticism that the Cloud survived](tom-siebel-cloud-scepticism.md)

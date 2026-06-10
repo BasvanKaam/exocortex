@@ -23,3 +23,15 @@ Worked answer highlights: internal stakeholders = CIO (strategic IT goals), the 
 Example SWOT for the case: Strengths = technical expertise in the infra team, clear need for scalability and improved security. Weaknesses = limited experience with complex migrations, dependency on legacy systems (the EPD/electronic patient record and the financial management system). Opportunities = cost savings by reducing local IT maintenance, better system access for home-care workers, improved AVG (GDPR) compliance via modern cloud security. Threats = service disruption during migration, vendor lock-in, data-loss risk from incomplete preparation.
 
 Strategic factors to consider: a hybrid cloud solution to safeguard AVG compliance, mapping application/data dependencies, and a plan to minimise operational impact. A final step is re-aligning the organisation's mission and vision in light of the cloud transition (better patient care, lower costs, a more flexible organisation).
+
+## Verwante notities
+
+- [Bas's terminology: "gebruiker", "business gebruiker" and "de business"](business-user-and-the-business-definitions.md)
+- [Fictional case: XYZ-Care Health Group](case-xyz-care-health-group.md)
+- [Opdracht 11: the human side of cloud transformation (XYZ-Care)](opdracht-11-adoption-human-side.md)
+- [Opdracht 2 - Tailored Cloud strategy: the puzzle of models and goals](opdracht-2-cloud-strategy-models-and-goals.md)
+- [Opdracht 3: Result Interpretation Bands](opdracht-3-result-interpretation.md)
+- [Opdracht 6: The Mirror of Enterprise Architecture (EA Self-Assessment)](opdracht-6-mirror-of-enterprise-architecture.md)
+- [SCAF Strategie: Stakeholders, Actions and Results](scaf-strategie-stakeholders-and-actions.md)
+- [SCAF strategy-phase templates: Summary Palet, Strategy Map, SWOT](scaf-strategy-phase-templates.md)
+- [SWOT Analysis in SCAF](swot-analysis-in-scaf.md)

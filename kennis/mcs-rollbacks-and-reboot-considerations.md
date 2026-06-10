@@ -20,3 +20,12 @@ When an updated master VM is assigned, the VMs must be rebooted to use it. Bas f
 - And, although off topic, all of this applies to Provisioning Services as well.
 
 Key takeaway: give your idle and disconnect session policies some thought, it makes night-time rebooting easier depending on company policy.
+
+## Verwante notities
+
+- [Bas on CPU over-commit and user baselines (light/medium/heavy)](cpu-overcommit-and-user-baselines.md)
+- [Why MCS image updates matter: every master VM is re-copied to every datastore](mcs-image-update-repeats-full-copy.md)
+- [Bas's MCS storage implications checklist](mcs-storage-implications.md)
+- [MCS updating: persistent vs non-persistent VM behaviour](mcs-updating-persistent-vs-nonpersistent.md)
+- [Bas's PVS key takeaways and best-practice asides](provisioning-services-key-takeaways.md)
+- [The five VDI workload phases and boot/logon storms](vdi-five-phases-storms.md)

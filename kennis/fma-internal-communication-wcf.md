@@ -18,3 +18,7 @@ The endpoint address is represented by the EndpointAddress class, containing a U
 FMA fact: each service is configured to communicate to the Central Site database using its own individual DB connection string, so if one service fails it does not affect the others. Note: if you change something for one service (like the DB connection string) you must do it for all the other FMA services as well.
 
 All FMA services run under the NT AUTHORITY\Network service account; when authenticating to the Central Site database they use the local computer account of the machine they run on.
+
+## Verwante notities
+
+- [FMA services: Network Service account and service isolation](fma-services-network-account-and-isolation.md)

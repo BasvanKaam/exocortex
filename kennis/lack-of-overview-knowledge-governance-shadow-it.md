@@ -26,3 +26,14 @@ Bas's key reframe: ultimately cloud is just a way of doing IT — a tool in the 
 > het is een tool in de toolbox, een kruiwagen en meer niet
 >
 > Door de bomen het bos niet meer zien
+
+## Verwante notities
+
+- [Bas's reframe: governance is just a fancy word](bas-governance-is-just-a-fancy-word.md)
+- [Bas: Pragmatism on Governance and Process Documentation](bas-governance-processes-pragmatism.md)
+- [Bas's paper: Cloud Only? No. Cloud First or Hybrid? Yes.](bas-paper-cloud-only-no-cloud-first-yes.md)
+- [The 'Cloud because of the Cloud' syndrome and poor migration planning](cloud-because-of-cloud-syndrome.md)
+- [Bas's rule: define the Cloud before debating its pros and cons](define-cloud-before-debating-it.md)
+- [Mind The Gap: Shadow IT as Enabler and the Entry Point](mind-the-gap-shadow-it-as-enabler.md)
+- [Shadow IT: The Business User in the Driver's Seat](shadow-it-business-user-in-driver-seat.md)
+- [Shadow IT Examples: Trello/Asana and WhatsApp](shadow-it-examples-trello-whatsapp.md)

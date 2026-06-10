@@ -23,3 +23,12 @@ A collection of practical troubleshooting tips Bas picked up along the way:
 - Think out loud and share information.
 - Don't forget social media: even a single retweet can do the trick.
 - A BIG one: ask for help. Don't think you know it all, because you don't. When in doubt, ask, rather than making a big problem worse.
+
+## Verwante notities
+
+- [Bas's troubleshooting philosophy: prepare in times of peace](bas-troubleshooting-philosophy-prepare-in-peace.md)
+- [Bas's tip: bring cake to the stand-up](bring-cake-to-the-standup.md)
+- [Don't forget old-school tools (NetStat, Ping, Tracert, Telnet)](old-school-troubleshooting-tools.md)
+- [Bas's troubleshooting and sizing philosophy](troubleshooting-and-sizing-philosophy.md)
+- [Investigate, Analyse, Implement: Bas's structured troubleshooting approach](troubleshooting-investigate-analyse-implement.md)
+- [Bas's troubleshooting philosophy: master the basics before reaching for tools](troubleshooting-know-the-basics-first.md)

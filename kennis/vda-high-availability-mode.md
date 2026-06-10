@@ -22,3 +22,12 @@ Limitations: user roaming (an already-connected device blocks connecting from an
 ## Bron-citaten (NL, verbatim)
 
 > Use the VDA in HA mode as a last resort. Hopefully it will never come to this.
+
+## Verwante notities
+
+- [The Central Site database in the FMA](central-site-database-fma.md)
+- [Connection Leasing mechanism](connection-leasing-mechanism.md)
+- [FMA Local Host Cache: Principal Broker, Secondary Broker (HA) and CSS](fma-local-host-cache-services.md)
+- [FMA Zones VDA registration and Controller failover](fma-zones-vda-registration-and-failover.md)
+- [The 'one is none' rule and Delivery Controller high availability](one-is-none-delivery-controller-ha.md)
+- [VDA registration: auto-update, fallback locations and the CBP](vda-registration-process.md)

@@ -20,3 +20,16 @@ His design tips (key takeaways): virtualize Controllers for flexibility; keep th
 ## Bron-citaten (NL, verbatim)
 
 > Your environment is as strong as its weakest link. Make sure to apply the 'one is none' rule wherever and whenever it makes sense.
+
+## Verwante notities
+
+- [High-availability options for the Central Site database](central-site-database-ha-options.md)
+- [Connection Leasing failover behavior and limitations](connection-leasing-failover-behavior.md)
+- [The Delivery Controller as the heart of the FMA](delivery-controller-heart-of-fma.md)
+- [Delivery Controller as the heart of the FMA](delivery-controller-is-heart-of-fma.md)
+- [Delivery Controller server sizing and supported OS](delivery-controller-sizing.md)
+- [FMA service high availability via peer service groups](fma-services-high-availability.md)
+- [NetScaler high availability and clustering](netscaler-high-availability-clustering.md)
+- [Bas's 'one is none' rule for resilience](one-is-none-rule.md)
+- [StoreFront high availability and Delivery Controller load balancing](storefront-ha-and-load-balancing.md)
+- [VDA high-availability mode (direct ICA, last resort)](vda-high-availability-mode.md)

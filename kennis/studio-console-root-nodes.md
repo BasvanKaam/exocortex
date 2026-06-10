@@ -21,3 +21,13 @@ Walking Studio's console root top to bottom:
 - Policies: configure Citrix policies; seven predefined templates; comparison and modelling; RSOP only via GPMC; policies exportable.
 - Logging: track admin activities; custom reports in CSV/HTML.
 - Configuration: a placeholder node exposing advanced options (and the Customer Experience Improvement Programme toggle).
+
+## Verwante notities
+
+- [Citrix AppDisks: application layering for golden images](citrix-appdisks-application-layering.md)
+- [Citrix Site policies: Entitlement, Assignment, Site Access](citrix-site-policies-powershell.md)
+- [Citrix Studio: the central management console](citrix-studio-overview.md)
+- [Machine Creation Services (MCS): integrated single-image delivery](machine-creation-services-overview.md)
+- [StoreFront resource subscription and Keywords](storefront-resource-subscription-keywords.md)
+- [Citrix Studio Configuration sub-nodes](studio-configuration-subnodes.md)
+- [Bas's Studio and Zones chapter key takeaways](studio-zones-chapter-key-takeaways.md)

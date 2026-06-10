@@ -21,3 +21,16 @@ Key points:
 - Delivery Controllers in the primary Zone store leasing info for all Zones; satellite-Zone Controllers store leasing info only for the primary Zone and their own.
 - New features arrive first in CWC (Citrix Workspace Cloud, including XenApp and XenDesktop as the Applications and Desktops service) before on-premises; Zones were tested in CWC first.
 - Provisioning Services is not 'Zone aware'; configure Machine Catalogs by hand in Studio (otherwise PVS Catalogs default to the primary Zone).
+
+## Verwante notities
+
+- [The XenDesktop Central Site database](central-site-database-role.md)
+- [FMA architectural casualties: Zones, LHC and Worker Groups removed then re-added](fma-architectural-changes-zones-lhc-removed.md)
+- [FMA Zones VDA registration and Controller failover](fma-zones-vda-registration-and-failover.md)
+- [Host Connection key takeaways: MCS/PVS and cloud support](host-connection-mcs-pvs-cloud-support-key-takeaways.md)
+- [Host Connections now support cloud, not just hypervisors](host-connections-cloud-support.md)
+- [IMA Zones vs. FMA Zones comparison](ima-zones-vs-fma-zones-comparison.md)
+- [StoreFront multi-Site: aggregation, user mapping and recovery sites](storefront-multi-site-aggregation-and-user-mapping.md)
+- [Bas's Studio and Zones chapter key takeaways](studio-zones-chapter-key-takeaways.md)
+- [Zone connection quality limits (bandwidth and RTT)](zone-connection-quality-limits.md)
+- [Zones in the FMA are not the same as IMA 6.5 Zones](zones-fma-vs-ima.md)

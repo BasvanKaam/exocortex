@@ -26,3 +26,11 @@ Possible roles in a Cloud Center of Excellence:
 11. **Change Manager** — guides the organisation through change, ensuring acceptance of new technologies and a change-management plan.
 
 **Optional roles** (depending on size/complexity): Data Architect/Data Engineer (data and data-model migration), Application Architect (migrating and optimising cloud-native applications), Agile Coach/Scrum Master (applying agile/DevOps methods during migration).
+
+## Verwante notities
+
+- [Bas: Pragmatism on Governance and Process Documentation](bas-governance-processes-pragmatism.md)
+- [Promoting the CCoE: the 'kindergarten' war story and strategies](bas-promoting-the-ccoe-kindergarten-war-story.md)
+- [Cloud Center of Excellence (CCoE): Definition and Why Early](cloud-center-of-excellence-definition.md)
+- [SCAF Cloud Governance Roles](scaf-cloud-governance-roles.md)
+- [SCAF: Knowledge, Teams, Roles and Responsibilities](scaf-knowledge-teams-raci-gap.md)

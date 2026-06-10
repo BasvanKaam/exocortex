@@ -18,3 +18,13 @@ Conversely, the Cloud is sometimes the wrong choice: companies handling sensitiv
 ## Bron-citaten (NL, verbatim)
 
 > IT uit de kraan, zeggen 'ze' ook weleens.
+
+## Verwante notities
+
+- [Bas's list of reasons companies stay (partly) on-premises](bas-objections-to-full-cloud-migration.md)
+- [Bas's paper: Cloud Only? No. Cloud First or Hybrid? Yes.](bas-paper-cloud-only-no-cloud-first-yes.md)
+- [Paper conclusion: Cloud only? Maybe never](bas-paper-conclusion-cloud-only-never.md)
+- [The 'Cloud because of the Cloud' syndrome and poor migration planning](cloud-because-of-cloud-syndrome.md)
+- [Bas's rule: define the Cloud before debating its pros and cons](define-cloud-before-debating-it.md)
+- [Hybrid Latency and the Region-Choice Pitfall](hybrid-latency-region-choice-pitfall.md)
+- [The promises of the Cloud (and Bas's invitation to challenge them)](the-promises-of-the-cloud.md)

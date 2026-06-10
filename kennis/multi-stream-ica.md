@@ -19,3 +19,14 @@ The registry key (when enabled): `HKLM\SYSTEM\CurrentControlSet\Control\Terminal
 - **VirtualChannel** key binds VCs to streams, format `VirtualChannelName,Stream#` (e.g. `CTXCAM,1`).
 
 When not using a CloudBridge appliance, Session Reliability must be enabled for Multi-Stream ICA to work. After configuring streams and pairs, set up a multi-port Citrix policy assigning TCP/IP ports to the primary (one) and secondary (three) streams, then apply network-level QoS policies per port (on grouped channels rather than single channels).
+
+## Verwante notities
+
+- [Bas's checklist to speed up and clean up Citrix printing](bas-citrix-printing-optimization-checklist.md)
+- [Bas: forcing the client printing pathway (and its exception)](bas-forcing-client-printing-pathway.md)
+- [Framehawk: ICA over lossy, high-latency networks](framehawk.md)
+- [ICA ports, virtual channels and priorities](ica-ports-and-virtual-channels.md)
+- [What the ICA protocol does and its default ports](ica-protocol-fundamentals.md)
+- [ICA virtual channel priorities (0-3) and how to change them](ica-virtual-channel-priorities.md)
+- [ICA virtual channels: 32 total, 17 reserved by Citrix](ica-virtual-channels.md)
+- [Session Reliability, Auto Client Reconnect and ICA Keep-Alive](session-reliability-and-auto-reconnect.md)

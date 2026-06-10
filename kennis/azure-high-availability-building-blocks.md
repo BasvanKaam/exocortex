@@ -22,3 +22,13 @@ Combining these creates a robust, highly available environment resilient to both
 ## Bron-citaten (NL, verbatim)
 
 > De infrastructuur is er al, het is vaak een kwestie van de juiste checkboxen aanvinken, de Cloudprovider regelt de rest.
+
+## Verwante notities
+
+- [Autoscaling and the Black Friday Scenario](autoscaling-black-friday-scenario.md)
+- [The Azure cloud hierarchy: tenant down to resources](azure-cloud-hierarchy.md)
+- [Cloud providers build their own servers and hypervisors](cloud-providers-build-own-servers-hypervisor.md)
+- [Standard components of a disaster recovery (DR) plan](disaster-recovery-plan-components.md)
+- [Global cloud scale: regions, zones, and which continent has no datacenters](global-scale-regions-zones-datacenters.md)
+- [Why high availability and DR matter: ransomware and data hostage](ransomware-data-hostage.md)
+- [Technical/Functional Design as Cloud Blueprint](technical-functional-design-blueprint.md)

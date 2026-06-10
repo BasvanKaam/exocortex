@@ -22,3 +22,11 @@ His advice: ask about this at your current employer (e.g. via HR). If you are th
 > kennis- (of pizza-)sessies
 >
 > Persoonlijke opleidingsplannen zijn goud waard.
+
+## Verwante notities
+
+- [Ambassadors and skill readiness in the execution phase](ambassadors-skill-readiness.md)
+- [Bas on continuous study and self-investment](bas-on-continuous-study-and-self-investment.md)
+- [Bas on growth: lean into strengths, nudge weaknesses, and ask questions](bas-play-to-your-strengths.md)
+- [SCAF: Knowledge, Teams, Roles and Responsibilities](scaf-knowledge-teams-raci-gap.md)
+- [Bas on the value of IT communities](value-of-it-communities.md)

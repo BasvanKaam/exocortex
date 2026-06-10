@@ -27,3 +27,22 @@ It houses eleven primary FMA services (the well-known XML service is not counted
 11. StoreFront service
 
 The Controller has a direct, live connection with the Central Site database, which holds all static and dynamic info. None of this is stored locally (no LHC); heartbeat messages are exchanged every 20 seconds with a TTL of 40 seconds. It also manages registered machines for availability, load balancing and power management (starting/stopping VMs); power management is for virtual machines only, not physical. It maintains/optimizes connections using Session Reliability (Common Gateway Protocol), Auto Client Reconnect, ICA Keep-Alive and workspace control.
+
+## Verwante notities
+
+- [Bas's distinction: authentication versus verification](authentication-vs-verification-distinction.md)
+- [The Central Site database in the FMA](central-site-database-fma.md)
+- [Citrix Site policies: Entitlement, Assignment, Site Access](citrix-site-policies-powershell.md)
+- [Startup license and the license checkout process](citrix-startup-license-and-checkout.md)
+- [Citrix Studio: the central management console](citrix-studio-overview.md)
+- [Connection Leasing mechanism](connection-leasing-mechanism.md)
+- [The CWC Cloud Connector](cwc-cloud-connector.md)
+- [Delivery Controller as the heart of the FMA](delivery-controller-is-heart-of-fma.md)
+- [Delivery Controller server sizing and supported OS](delivery-controller-sizing.md)
+- [The eighteen Broker Service Site services (distributed housekeeping)](fma-broker-eighteen-site-services.md)
+- [FMA Broker Service (XML/STA) and its responsibilities](fma-broker-service.md)
+- [The four most prominent FMA core services](fma-four-prominent-core-services.md)
+- [The FlexCast Management Architecture and its thirteen core services](fma-thirteen-core-services-overview.md)
+- [FMA Controllers differ fundamentally from IMA Data Collectors](fma-vs-ima-controller-differences.md)
+- [The nine main FMA components and the XenDesktop Site definition](nine-main-fma-components.md)
+- [The 'one is none' rule and Delivery Controller high availability](one-is-none-delivery-controller-ha.md)

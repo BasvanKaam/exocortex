@@ -23,3 +23,14 @@ The Autoriteit Persoonsgegevens (AP) maintains a list of processing operations f
 - A processor agreement (verwerkersovereenkomst) is mandatory.
 - Appropriate technical and operational security.
 - Accountability (verantwoordingsplicht): FG accountability, maintaining a processing register, performing DPIAs, keeping a register of data breaches, evidence of consent, and optionally a code of conduct, certificate, etc.
+
+## Verwante notities
+
+- [AVG / GDPR: purpose and benefits](avg-gdpr-overview.md)
+- [AVG security: organizational and technical measures](avg-security-organizational-and-technical-measures.md)
+- [The six legal bases (grondslagen) for processing under the AVG](avg-six-legal-bases-grondslag.md)
+- [Bas's friend's right-to-be-forgotten test on Facebook](bas-facebook-right-to-be-forgotten-test.md)
+- [The CCoE's role in AVG compliance and governance](ccoe-role-in-avg-compliance.md)
+- [EU, EER and data transfers to third countries](eu-eer-and-third-country-transfers.md)
+- [Opdracht 8: AVG in healthcare (XYZ-Care)](opdracht-8-avg-in-healthcare-xyz-care.md)
+- [Privacy Shield, Schrems II and EU-US data transfers](privacy-shield-schrems-ii-and-us-transfers.md)

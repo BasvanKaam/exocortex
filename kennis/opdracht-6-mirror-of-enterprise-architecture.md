@@ -27,3 +27,12 @@ The six statements (sum gives a total score):
 - 25-30: give the EA team a leading role in researching and implementing Cloud solutions.
 
 Next steps: collect results, identify trends, map perception differences, run a workshop with broader stakeholders (IT, management, business), establish EA principles if none exist yet, and set up a monitoring/evaluation plan with assigned responsibilities.
+
+## Verwante notities
+
+- [EA: Working with Principles (Top-Down and Bottom-Up Balance)](ea-working-with-principles.md)
+- [Enterprise Architecture (EA) and TOGAF](enterprise-architecture-togaf.md)
+- [From Beheer to Regie: The Regieorganisatie Model](from-beheer-to-regie-organisation.md)
+- [Opdracht 3: Beheer-to-Regie Self-Assessment](opdracht-3-beheer-naar-regie-self-assessment.md)
+- [Opdracht 3: Result Interpretation Bands](opdracht-3-result-interpretation.md)
+- [Opdracht 4 - Cloudkompas (XYZ-Care Health Group)](opdracht-cloudkompas-xyz-care.md)

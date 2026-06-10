@@ -21,3 +21,12 @@ Vs NAS/SAN:
 Azure File Sync couples on-prem fileservers to Azure Files: files are kept locally for fast access while automatically syncing to Azure Files for back-up, scalability and disaster recovery - creating a hybrid environment.
 
 Azure Files can replace a NAS or SAN in many scenarios, especially when you no longer want to buy/manage physical storage or need scalable cloud storage. But for specific cases - very low latency or hardware integrations - companies may still need (or prefer) SAN solutions. Bas notes SAN technology has also not stood still and is no longer comparable to the picture he sketched from 20+ years ago.
+
+## Verwante notities
+
+- [The Azure cloud hierarchy: tenant down to resources](azure-cloud-hierarchy.md)
+- [Azure data migration and import tools](azure-data-migration-import-tools.md)
+- [Bas's war story: SAN/NAS data migrations were weeks of nightmares](bas-san-nas-nightmares.md)
+- [Bas on the future limits of self-hosting your own data growth](bas-self-hosting-data-growth-limit.md)
+- [Core cloud building blocks: datacenter, virtualization, APIs, storage, databases, elasticity](core-cloud-components-and-concepts.md)
+- [DaaS / VDI Additions to the Technical Design](daas-vdi-technical-design-considerations.md)

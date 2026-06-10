@@ -21,3 +21,15 @@ During the first weeks of the SCAF Insight phase, Bas schedules a set of actions
 - Optionally drafting a compact first business case, which can serve as a first Go/NoGo moment.
 
 **Key hard-won insight on waves**: experience shows this phase is almost never completed in one pass; IT organizations and their infrastructures are simply complex, so parts get forgotten or overlooked. Inventory is therefore done in **waves 1 through 3**, with waves 1 and 2 being the primary focus during the Insight phase. The goal and end result of each interview/workshop are clear in advance and decided collaboratively.
+
+## Verwante notities
+
+- [Autoscaling and the Black Friday Scenario](autoscaling-black-friday-scenario.md)
+- [SCAF: Application, Data and System Inventory via Waves](scaf-application-data-system-inventory.md)
+- [SCAF execution-phase templates and the migration waves](scaf-execution-phase-templates.md)
+- [SCAF Go/NoGo: The Insight-Phase Business Case](scaf-go-nogo-business-case.md)
+- [SCAF Chapter 8: The Insight (Inzicht) Phase Foundation](scaf-insight-phase-foundation.md)
+- [SCAF Insight Phase: Results and Supporting Documentation](scaf-insight-results-and-documentation.md)
+- [SCAF Insight Phase: Stakeholders to Involve](scaf-insight-stakeholders.md)
+- [SCAF Insight Phase: Security Topics to Surface](scaf-security-insight-phase.md)
+- [SCAF Insight: Workshop as Starting Point](scaf-workshop-starting-point.md)

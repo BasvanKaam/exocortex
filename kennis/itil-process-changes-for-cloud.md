@@ -29,3 +29,13 @@ Bas is candid that ITIL's added value can be hard to make visible for routine ma
 > Breng de Servicedesk in contact met het incident managementproces van de Cloudprovider(s).
 >
 > Streef naar een selfservice portal. Ontlast de Servicedesk.
+
+## Verwante notities
+
+- [Bas: Pragmatism on Governance and Process Documentation](bas-governance-processes-pragmatism.md)
+- [Capex vs Opex in IT and Cloud](capex-vs-opex-in-it.md)
+- [SLA pitfalls to analyse for a cloud exit strategy](cloud-sla-pitfalls-exit.md)
+- [Enterprise Architecture (EA) and TOGAF](enterprise-architecture-togaf.md)
+- [From Beheer to Regie: The Regieorganisatie Model](from-beheer-to-regie-organisation.md)
+- [IT as Internal Broker and the Regie-Organisatie](it-as-internal-broker-regie-organisatie.md)
+- [ITIL Service Management in Cloud Environments](itil-in-cloud-environments.md)

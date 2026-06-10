@@ -36,3 +36,17 @@ FMA fact (his caution): it isn't just about bandwidth; check for congestion and 
 > Limit the number of print drivers installed – less is more!
 >
 > always thoroughly test your print architecture set-up, no matter how convinced you may be that it will work
+
+## Verwante notities
+
+- [Bas: forcing the client printing pathway (and its exception)](bas-forcing-client-printing-pathway.md)
+- [Bas on why he likes Citrix printing](bas-likes-printing.md)
+- [Bas's caution on pre-configured Start menus and desktops](bas-on-preconfigured-shortcuts-warning.md)
+- [Bas on handover: 'simple is better'](bas-on-simplicity-handover-checklist.md)
+- [Citrix print troubleshooting tools](citrix-print-troubleshooting-tools.md)
+- [Citrix Universal Print Driver (UPD)](citrix-universal-print-driver.md)
+- [Citrix Universal Print Server (UPS)](citrix-universal-print-server.md)
+- [Citrix Universal Printer (logical print object)](citrix-universal-printer.md)
+- [Multi-Stream ICA: true network-level QoS via separate TCP/IP ports](multi-stream-ica.md)
+- [Bas's print driver best practices](print-driver-best-practices.md)
+- [Print driver versions and Print Driver Isolation](print-driver-history-and-modes.md)

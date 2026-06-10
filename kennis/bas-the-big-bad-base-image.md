@@ -23,3 +23,13 @@ Bas frames the core problem application layering solves as the 'big, bad image.'
 - It pushes you toward multiple images/silos per department, when the goal should be 'less is more.'
 
 Alternatives he considers non-ideal but worth weighing: fat clients / persistent desktops, and Reverse-Seamless technology (an app installed on the endpoint, made available inside the virtual session).
+
+## Verwante notities
+
+- [Application delivery: layering vs virtualisation, and AppDisks](application-delivery-layering-vs-virtualisation.md)
+- [Three flavours of application delivery in XenDesktop/XenApp](application-delivery-three-flavours.md)
+- [Bas's key takeaways on application delivery and layering](bas-key-takeaways-application-delivery.md)
+- [Bas: only ~50-60% of apps can be virtualised](bas-on-virtualisation-coverage-50-60-percent.md)
+- [Bas on the pros of application layering](bas-pros-of-application-layering.md)
+- [How application layering works (filter drivers)](how-application-layering-works.md)
+- [Bas on MCS, workloads and the case for application layering](mcs-application-workloads-layering.md)

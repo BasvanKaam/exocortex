@@ -26,3 +26,12 @@ Purpose: make risks visible to stakeholders, provide accountability over how ris
 ## Bron-citaten (NL, verbatim)
 
 > Een eenvoudig maar doeltreffend hulpmiddel.
+
+## Verwante notities
+
+- [Bas on documentation: the 'undervalued child' of IT](bas-on-documentation-the-undervalued-child.md)
+- [Risk Analysis: Control Measures and Decision-Making](risk-analysis-control-measures.md)
+- [Risk analysis process steps](risk-analysis-process-steps.md)
+- [Risk management focus areas and attention points](risk-management-focus-areas-and-attention-points.md)
+- [SCAF GAP-analysis and Impact-analysis templates](scaf-gap-and-impact-analysis-templates.md)
+- [SCAF supporting templates: RACI, Risk Register, Skill Readiness](scaf-supporting-templates-overview.md)

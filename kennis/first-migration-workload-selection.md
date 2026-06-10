@@ -23,3 +23,17 @@ Bas's practical advice ('Punten Van Aandacht' / 'Samengevat Advies') for startin
 ## Bron-citaten (NL, verbatim)
 
 > We werken van simpel naar complex.
+
+## Verwante notities
+
+- [Agile and PDCA as the unwritten cloud standard](agile-pdca-cloud-default.md)
+- [Bas: The 6 R's for Application Rationalization](bas-6-rs-cloud-migration.md)
+- [Bas on the Cloud roadmap as a strategic tool](bas-cloud-roadmap-as-strategic-tool.md)
+- [Bas: 'Wegwerp IT' and the Lift-and-Shift Caution](bas-wegwerp-it-and-lift-and-shift.md)
+- [The 'Cloud because of the Cloud' syndrome and poor migration planning](cloud-because-of-cloud-syndrome.md)
+- [Key Takeaways - the execution phase (Chapter 11)](execution-phase-key-takeaways.md)
+- [Opdracht 9: Migration Mastery - Strategy to Execution (XYZ-Care)](migration-mastery-assignment-xyz-care.md)
+- [Definitive Cloud and Refactor Choice (Rationalisation)](rationalisation-refactor-choice-execution.md)
+- [Reverse Timeline planning around a compelling event](reverse-timeline-planning.md)
+- [SCAF: Application, Data and System Inventory via Waves](scaf-application-data-system-inventory.md)
+- [Bas: build buy-in with a small PoV or PoC and free resources](start-small-with-pov-or-poc.md)

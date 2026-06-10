@@ -24,3 +24,13 @@ Characteristic attention points of the result:
 - **Teams and responsibilities** clearly defined.
 - **Addressing gaps**: previously identified gaps tackled, with a training plan so each role/team gets attention through the year.
 - **Final report (eindrapportage)**: the closing piece and reference work that formally ends the project.
+
+## Verwante notities
+
+- [Bas on handover: 'simple is better'](bas-on-simplicity-handover-checklist.md)
+- [Key Takeaways: the adoption phase is a beginning, not an end](chapter14-adoption-phase-key-takeaways.md)
+- [SCAF Adoption phase: activities and deliverables](scaf-adoption-phase-activities.md)
+- [SCAF Adoption phase: finishing what you started](scaf-adoption-phase-purpose.md)
+- [SCAF Cloud governance: putting the dots on the i](scaf-cloud-governance-checklist.md)
+- [KPIs in the SCAF Adoption phase: making success measurable](scaf-kpis-in-adoption-phase.md)
+- [SCAF management-summary 'palet' templates per phase](scaf-management-summary-templates.md)

@@ -21,3 +21,13 @@ Under the AVG, the 'grondslag' is the legal basis required to process personal d
 6. **Legitimate interest** (gerechtvaardigd belang): for the legitimate interests of the controller or a third party, unless the subject's interests or fundamental rights outweigh them.
 
 Choosing the right basis matters for lawful processing; without a valid basis, processing violates the AVG and can lead to sanctions.
+
+## Verwante notities
+
+- [AVG / GDPR: purpose and benefits](avg-gdpr-overview.md)
+- [AVG security: organizational and technical measures](avg-security-organizational-and-technical-measures.md)
+- [Bas's friend's right-to-be-forgotten test on Facebook](bas-facebook-right-to-be-forgotten-test.md)
+- [DPIA, FG appointment and controller obligations under the AVG](dpia-fg-and-controller-obligations.md)
+- [EU, EER and data transfers to third countries](eu-eer-and-third-country-transfers.md)
+- [Opdracht 8: AVG in healthcare (XYZ-Care)](opdracht-8-avg-in-healthcare-xyz-care.md)
+- [Privacy Shield, Schrems II and EU-US data transfers](privacy-shield-schrems-ii-and-us-transfers.md)

@@ -20,3 +20,13 @@ Design pointers he gives:
 - When editing the web.conf file, work on only one StoreFront server at a time (preferably the first one installed/configured), then propagate changes.
 - Multi-site lets you map user groups to a preferred site and configure a Recovery site that sits idle until all other deployments stop accepting connections.
 - If only a single desktop is published, StoreFront auto-launches it after login (changeable via web.conf, see CTX139058).
+
+## Verwante notities
+
+- [Desktop Appliance sites for non-domain-joined machines](desktop-appliance-sites.md)
+- [Configuring Receiver connection information](receiver-connection-configuration-methods.md)
+- [StoreFront authentication and resource enumeration traffic flow](storefront-authentication-traffic-flow.md)
+- [Bas's StoreFront chapter key takeaways](storefront-chapter-key-takeaways.md)
+- [StoreFront multi-Site: aggregation, user mapping and recovery sites](storefront-multi-site-aggregation-and-user-mapping.md)
+- [StoreFront vs Web Interface user authentication](storefront-vs-web-interface-authentication.md)
+- [XenApp Services URLs for legacy Receiver access](xenapp-services-urls-legacy-access.md)

@@ -26,3 +26,13 @@ Bas's exercise "Cloudmigratie Kompas: Inventariseren En Sturen" uses a fictional
 Extra attention goes to **dependencies** (e.g. integration between the EPD, planning tool and reporting tool); even if exact consequences aren't clear yet, they're written out explicitly for later analysis.
 
 **Governance challenges identified**: data security and AVG (GDPR) compliance for sensitive patient data (guidelines for encryption, access control, monitoring); **vendor lock-in** (advice: use open standards and export options so data/apps can migrate if needed); and cost management (guidelines/policy rules to monitor and optimize Cloud usage and costs). Finally the team builds a plan to improve governance: clear roles and responsibilities, monitoring/control processes, and continuous evaluation.
+
+## Verwante notities
+
+- [Azure data migration and import tools](azure-data-migration-import-tools.md)
+- [Bas: The 6 R's for Application Rationalization](bas-6-rs-cloud-migration.md)
+- [Bas: 'Wegwerp IT' and the Lift-and-Shift Caution](bas-wegwerp-it-and-lift-and-shift.md)
+- [Fictional case: XYZ-Care Health Group](case-xyz-care-health-group.md)
+- [Opdracht 9: Migration Mastery - Strategy to Execution (XYZ-Care)](migration-mastery-assignment-xyz-care.md)
+- [Opdracht 8: AVG in healthcare (XYZ-Care)](opdracht-8-avg-in-healthcare-xyz-care.md)
+- [SCAF: Application, Data and System Inventory via Waves](scaf-application-data-system-inventory.md)

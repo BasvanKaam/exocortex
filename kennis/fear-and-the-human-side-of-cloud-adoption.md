@@ -22,3 +22,17 @@ His war-story example: an IT department in a medium-sized company that, before c
 > Wat gebeurt er straks met ons?
 >
 > Kijk ook maar naar wat er vandaag de dag gebeurt rondom AI
+
+## Verwante notities
+
+- [Ambassadors and skill readiness in the execution phase](ambassadors-skill-readiness.md)
+- [The human factor: loss of control and trust](bas-on-the-human-factor-and-loss-of-control.md)
+- [Bas: the cloud doesn't make people redundant, it frees them for better work](cloud-frees-people-for-better-work.md)
+- [Creative Communication and Putting Responsibility on Staff](creative-communication-and-feedback-loop.md)
+- [Cultural Shift: Communicate, Communicate, Communicate](cultural-shift-communicate-communicate.md)
+- [Opdracht 11: the human side of cloud transformation (XYZ-Care)](opdracht-11-adoption-human-side.md)
+- [Role-Specific Security Training (Don't Call Staff the Weakest Link)](people-are-the-weakest-link-training.md)
+- [The Beheer-to-Regie Transition Is About People](regie-transition-is-about-people.md)
+- [Handling Resistance and Fear of the Unknown](resistance-and-fear-of-the-unknown.md)
+- [Resistance: cloud is more than technology](resistance-to-change-in-cloud-adoption.md)
+- [Everett Rogers' technology-adoption categories mapped to the hype cycle](rogers-technology-adoption-categories.md)

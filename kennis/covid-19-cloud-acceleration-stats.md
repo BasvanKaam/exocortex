@@ -28,3 +28,12 @@ Sources cited: Microsoft, Gartner, McKinsey, Flexera, Deloitte, Gallup, IDC, CBS
 ## Bron-citaten (NL, verbatim)
 
 > In de eerste drie maanden van 2020 verdrievoudigde het gebruik van deze dienst, wat neerkomt op een stijging van 200 procent.
+
+## Verwante notities
+
+- [Bas's COVID-era asides and skepticism on the stats](bas-covid-asides-and-skepticism.md)
+- [Cloud Market Statistics (2024)](cloud-market-statistics-2024.md)
+- [Why people choose nomad life — and its downsides](digital-nomad-reasons-and-downsides.md)
+- [Bas opens the COVID chapter with a Nostradamus quatrain](nostradamus-pandemic-quatrain.md)
+- [Post-COVID resilience: BCPs, redundancy, supply chains, automation](post-covid-resilience-measures.md)
+- [Post-COVID work models and continued cloud growth](post-covid-work-and-cloud-trends.md)

@@ -22,3 +22,14 @@ Bas's framing of EA's role in Cloud adoption:
 - It is possible to work outside the architecture principles.
 
 **Risk of a pure top-down approach**: it is often strongly focused on business results, which can endanger renewal of the rest of the IT and architecture systems. Many innovative developments may not yield immediate visible business benefit but are needed to make the IT environment Cloud-ready; ignoring them causes later problems. Bas advises a **balance** with a bottom-up approach where ideas and needs come from the IT department, within a defined framework so everything still aligns with business goals.
+
+## Verwante notities
+
+- [Bas on the Cloud roadmap as a strategic tool](bas-cloud-roadmap-as-strategic-tool.md)
+- [Bas's terminology: "gebruiker", "business gebruiker" and "de business"](business-user-and-the-business-definitions.md)
+- [Bas's navigation metaphor: a cloud journey needs a destination](cloud-journey-navigation-metaphor.md)
+- [Enterprise Architecture (EA) and TOGAF](enterprise-architecture-togaf.md)
+- [Opdracht 6: The Mirror of Enterprise Architecture (EA Self-Assessment)](opdracht-6-mirror-of-enterprise-architecture.md)
+- [SCAF Design Principles and Why It Exists](scaf-design-principles.md)
+- [SCAF Strategie: The Foundation Questions](scaf-strategie-fundament-questions.md)
+- [The Gap Between IT and 'The Business'](the-gap-between-it-and-the-business.md)

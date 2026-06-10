@@ -27,3 +27,18 @@ He closes with Henry Ford: "The only real mistake is the one from which we learn
 > wat gaat/ging er goed, wat gaat/ging er fout
 >
 > The only real mistake is the one from which we learn nothing. – Henry Ford
+
+## Verwante notities
+
+- [Agile and PDCA as the unwritten cloud standard](agile-pdca-cloud-default.md)
+- [Bas's experience: feedback from early phases builds tighter teams](bas-experience-feedback-from-early-phases.md)
+- [Bas on feedback as a continuous process from the insight phase](bas-feedback-continuous-process.md)
+- [Bas on documentation: the 'undervalued child' of IT](bas-on-documentation-the-undervalued-child.md)
+- [Key Takeaways: the adoption phase is a beginning, not an end](chapter14-adoption-phase-key-takeaways.md)
+- [Key Takeaways - the execution phase (Chapter 11)](execution-phase-key-takeaways.md)
+- [How an Innovation Board operates, end to end](innovation-board-in-detail.md)
+- [SCAF Adoption phase: activities and deliverables](scaf-adoption-phase-activities.md)
+- [Introducing Agile and Plan-Do-Check-Act in Execution](scaf-execution-agile-pdca-intro.md)
+- [SCAF Execution Phase Supporting Documentation](scaf-execution-supporting-documentation.md)
+- [SCAF process, governance, communication and handover templates](scaf-process-and-handover-templates.md)
+- [Second brain als cognitieve infrastructuur](second-brain-cognitive-infrastructure.md)

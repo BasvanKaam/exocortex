@@ -20,3 +20,11 @@ He flags that a major theme of the book is how these groups collaborate, or fail
 ## Bron-citaten (NL, verbatim)
 
 > het "gat" tussen de business en IT
+
+## Verwante notities
+
+- [Bas on feedback as a continuous process from the insight phase](bas-feedback-continuous-process.md)
+- [EA: Working with Principles (Top-Down and Bottom-Up Balance)](ea-working-with-principles.md)
+- [Opdracht 4 - Cloudkompas (XYZ-Care Health Group)](opdracht-cloudkompas-xyz-care.md)
+- [Shadow IT: The Business User in the Driver's Seat](shadow-it-business-user-in-driver-seat.md)
+- [The Gap Between IT and 'The Business'](the-gap-between-it-and-the-business.md)

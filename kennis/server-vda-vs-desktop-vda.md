@@ -24,3 +24,14 @@ Key differences:
 - Non-brokered RDP connections are allowed on both; non-brokered ICA connections are allowed on the Server VDA but not on the Desktop VDA (except in HA mode).
 
 The Server VDA is much more simplified and lightweight than earlier XA/ICA installs (though still over 300 MB), consisting only of components needed to host sessions. Bas thanks Mick Glover (his "FMA partner in crime") and Martin Zugec for answering his questions on this chapter.
+
+## Verwante notities
+
+- [Desktop VDA core services: Citrix Desktop Service and Citrix ICA Service](desktop-vda-two-main-services.md)
+- [Microsoft RDS CALs and the XenApp vs XenDesktop split](microsoft-rds-cals-with-xenapp.md)
+- [PortICA / picaSvc2.exe: the critical VDA ICA service](portica-picasvc2-service.md)
+- [Single-User vs Multi-User VDI/DaaS](single-user-vs-multi-user-vdi-daas.md)
+- [Two VDA types and the single-user vs multi-user ICA stack](two-vda-types-ica-stack-difference.md)
+- [VDA install options and supported operating systems](vda-install-options-and-supported-os.md)
+- [The VDA: client-side component, services and registration](vda-overview-services-and-registration.md)
+- [XenApp folded into the FMA: the Excalibur / XenDesktop 7.0 moment](xenapp-joins-fma-excalibur-2013.md)

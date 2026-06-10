@@ -24,3 +24,20 @@ The Cloud offers many advantages but without good overview and a solid plan cost
 > Men kijkt over het algemeen liever naar wat iets kost dan naar wat iets oplevert, helaas.
 >
 > de kosten de pan uit rijzen
+
+## Verwante notities
+
+- [Additional Topics to Weigh in a Cloud Business Case](additional-businesscase-topics.md)
+- [AWS cost management and optimisation tools](aws-cost-management-tools.md)
+- [Azure cost management and optimisation tools](azure-cost-management-tools.md)
+- [Bas's recommended reading list](bas-recommended-booklist.md)
+- [A Business Case Is More Than 'Hard' Costs Alone](businesscase-more-than-hard-costs.md)
+- [Common Cloud Concerns: Cost, Migration, Loss of Control](cloud-concerns-cost-and-control.md)
+- [Bas: frame the business case with an executive summary and added-value story](executive-summary-and-added-value-framing.md)
+- [Google Cloud cost management and optimisation tools](gcp-cost-management-tools.md)
+- [Hybrid Latency and the Region-Choice Pitfall](hybrid-latency-region-choice-pitfall.md)
+- [Opdracht 5: build your own business case (the method)](opdracht-5-business-case-exercise.md)
+- [Opex Is Harder for the Provider Than the Customer](opex-challenge-for-providers.md)
+- [Comparing a Physical Server to Cloud Isn't Fair](physical-vs-cloud-server-not-fair-comparison.md)
+- [KPIs in the SCAF Adoption phase: making success measurable](scaf-kpis-in-adoption-phase.md)
+- [SCAF TCO / Business-case template](scaf-tco-business-case-template.md)

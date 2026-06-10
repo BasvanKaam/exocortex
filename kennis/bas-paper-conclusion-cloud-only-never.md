@@ -28,3 +28,16 @@ Final line: "Cloud only? No, that won't happen soon, maybe never!" Bas notes he 
 > Cloud only? Nee, dat zal niet snel gebeuren, misschien wel nooit!
 >
 > Schijnveiligheid misschien, maar ook dat telt.
+
+## Verwante notities
+
+- [Azure Stack HCI (renamed Azure Local): cloud in your own datacenter](azure-stack-hci-azure-local.md)
+- [Bas deconstructs the cloud promises](bas-deconstructs-the-cloud-promises.md)
+- [Bas's list of reasons companies stay (partly) on-premises](bas-objections-to-full-cloud-migration.md)
+- [Bas's paper: Cloud Only? No. Cloud First or Hybrid? Yes.](bas-paper-cloud-only-no-cloud-first-yes.md)
+- [Bas on the future limits of self-hosting your own data growth](bas-self-hosting-data-growth-limit.md)
+- [The less-obvious challenges of building datacenters](datacenter-hidden-challenges.md)
+- [Bas Disagrees With Gartner on Co-location's Demise](gartner-colocation-prediction-disagreement.md)
+- [No universal Cloud standard, and the vendor lock-in problem](no-universal-cloud-standard-vendor-lock-in.md)
+- [Why traditional Windows applications won't disappear](traditional-windows-applications-wont-disappear.md)
+- [When the Cloud is a good solution - and when it is not](when-cloud-is-and-isnt-a-good-fit.md)

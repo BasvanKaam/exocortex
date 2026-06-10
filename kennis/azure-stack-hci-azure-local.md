@@ -20,3 +20,12 @@ As part of a hybrid strategy it lets companies run certain workloads on-prem whi
 ## Bron-citaten (NL, verbatim)
 
 > Met Azure Local haal je de kracht van de Azure Cloud in je datacenter.
+
+## Verwante notities
+
+- [Microsoft Azure Profile and Strengths](azure-profile-strengths.md)
+- [Paper conclusion: Cloud only? Maybe never](bas-paper-conclusion-cloud-only-never.md)
+- [Bas on the future limits of self-hosting your own data growth](bas-self-hosting-data-growth-limit.md)
+- [Cloud deployment models (public, private, hybrid, community)](cloud-deployment-models.md)
+- [Edge computing and Edge-nodes](edge-computing.md)
+- [No universal Cloud standard, and the vendor lock-in problem](no-universal-cloud-standard-vendor-lock-in.md)

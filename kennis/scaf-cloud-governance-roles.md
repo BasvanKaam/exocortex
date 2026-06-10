@@ -21,3 +21,14 @@ In the Execution phase the governance model analysed during Insight is applied, 
 - Incident, problem and change management: handling incidents/problems and implementing changes without disruption. Owner: service desk or IT management team.
 
 A visual governance overview helps show how roles, processes and interdependencies hang together. Supporting processes are documented with a process-flowchart template (Excel) and a process-description template (Word). Governance policy and risk analysis tie in via impact/risk analysis (likelihood and impact from very high to low) and policies are periodically revised under Plan-Do-Check-Act.
+
+## Verwante notities
+
+- [CCoE Roles and Responsibilities](ccoe-roles-and-responsibilities.md)
+- [Cloud Center of Excellence (CCoE): Definition and Why Early](cloud-center-of-excellence-definition.md)
+- [SCAF Cloud governance: putting the dots on the i](scaf-cloud-governance-checklist.md)
+- [Introducing Agile and Plan-Do-Check-Act in Execution](scaf-execution-agile-pdca-intro.md)
+- [SCAF Execution Phase Supporting Documentation](scaf-execution-supporting-documentation.md)
+- [SCAF GAP-analysis and Impact-analysis templates](scaf-gap-and-impact-analysis-templates.md)
+- [SCAF: Knowledge, Teams, Roles and Responsibilities](scaf-knowledge-teams-raci-gap.md)
+- [SCAF process, governance, communication and handover templates](scaf-process-and-handover-templates.md)

@@ -18,3 +18,14 @@ In most cases the choice about whether to move to the Cloud (and in what form) s
 Network and security components also need a Cloud-solution decision. Bas's focus areas: identity and access; data protection, encryption and classification; infrastructure security and antivirus (including physical access); firewalls and scanners; routers/gateways/switches/load balancers; and connection options (Internet, LAN, WAN). For each, a definitive choice is made where applicable, with detailed justification added so every decision is understandable and traceable.
 
 If the book's overview palet feels impractical or too small, Bas suggests just using a Word or Excel document, building your own template and dividing it as you see fit, keeping it as simple as possible.
+
+## Verwante notities
+
+- [Bas: The 6 R's for Application Rationalization](bas-6-rs-cloud-migration.md)
+- [Bas: 'Wegwerp IT' and the Lift-and-Shift Caution](bas-wegwerp-it-and-lift-and-shift.md)
+- [Cloud delivery models: IaaS, PaaS, SaaS and DaaS](cloud-delivery-models-iaas-paas-saas-daas.md)
+- [Selecting the First Migration Workload (Simple to Complex)](first-migration-workload-selection.md)
+- [SCAF: Application, Data and System Inventory via Waves](scaf-application-data-system-inventory.md)
+- [SCAF Execution Phase (Uitvoeringsfase) Overview](scaf-execution-phase-overview.md)
+- [SCAF execution-phase templates and the migration waves](scaf-execution-phase-templates.md)
+- [SCAF Insight Phase: Security Topics to Surface](scaf-security-insight-phase.md)

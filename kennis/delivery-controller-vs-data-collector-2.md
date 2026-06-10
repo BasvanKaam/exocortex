@@ -21,3 +21,12 @@ Key architectural differences in the FMA:
 - Connection Leasing replaces the role of the LHC (though it was never meant as a replacement).
 
 As of XenDesktop 7.7, Zones returned, but FMA Zones differ architecturally from IMA Zones.
+
+## Verwante notities
+
+- [Connection Leasing mechanism](connection-leasing-mechanism.md)
+- [Delivery Controller vs Data Collector differences](delivery-controller-vs-data-collector.md)
+- [The evolution of the FlexCast Management Architecture](evolution-of-the-fma.md)
+- [FMA Controllers differ fundamentally from IMA Data Collectors](fma-vs-ima-controller-differences.md)
+- [IMA-to-FMA terminology mapping table](ima-vs-fma-terminology-mapping.md)
+- [Zones in the FMA are not the same as IMA 6.5 Zones](zones-fma-vs-ima.md)

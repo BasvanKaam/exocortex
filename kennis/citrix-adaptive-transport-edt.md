@@ -12,3 +12,10 @@ bron: inside-citrix-fma
 # Citrix Adaptive Transport (Enlightened Data Transport / EDT)
 
 As of XenDesktop 7.13, Adaptive Transport (also known as Enlightened Data Transport, or EDT) is available for production. EDT also refers to the policy needed to enable Adaptive Transport. This new transport layer above UDP improves data throughput for all ICA virtual channels, including printing. It prefers the Citrix EDT protocol over TCP whenever possible, falling back to TCP when UDP is unavailable.
+
+## Verwante notities
+
+- [Framehawk: ICA over lossy, high-latency networks](framehawk.md)
+- [HDX is not a replacement for ICA](hdx-not-a-replacement-for-ica.md)
+- [Session Reliability, Auto Client Reconnect and ICA Keep-Alive](session-reliability-and-auto-reconnect.md)
+- [ThinWire compatibility mode: the low-footprint fallback for H.264](thinwire-compatibility-mode.md)

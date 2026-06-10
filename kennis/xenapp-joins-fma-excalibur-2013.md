@@ -24,3 +24,10 @@ His framing of the consequences:
 > XenApp became part of the FMA back in June 2013, the 26th to be exact
 >
 > the FMA was always known to be the next generation architecture, providing enhanced scalability, robustness and manageability over the IMA
+
+## Verwante notities
+
+- [The evolution of the FlexCast Management Architecture](evolution-of-the-fma.md)
+- [FMA architectural casualties: Zones, LHC and Worker Groups removed then re-added](fma-architectural-changes-zones-lhc-removed.md)
+- [IMA-to-FMA terminology mapping table](ima-vs-fma-terminology-mapping.md)
+- [Server VDA vs Desktop VDA: the often-overlooked new component](server-vda-vs-desktop-vda.md)

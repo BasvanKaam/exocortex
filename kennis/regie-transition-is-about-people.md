@@ -24,3 +24,14 @@ He also warns that orchestration includes regular (re)selection of suppliers —
 > je wilt ook niet gaandeweg in een spaghettiwestern terechtkomen na het onboarden van de zoveelste leverancier
 >
 > Al doende leert men.
+
+## Verwante notities
+
+- [Why have a cloud exit strategy - the exit comes before onboarding](cloud-exit-strategy-rationale.md)
+- [Bas on 'Angst': the human side of cloud adoption](fear-and-the-human-side-of-cloud-adoption.md)
+- [From Beheer to Regie: The Regieorganisatie Model](from-beheer-to-regie-organisation.md)
+- [IT as Internal Broker and the Regie-Organisatie](it-as-internal-broker-regie-organisatie.md)
+- [Opdracht 3: Beheer-to-Regie Self-Assessment](opdracht-3-beheer-naar-regie-self-assessment.md)
+- [Opdracht 3: Result Interpretation Bands](opdracht-3-result-interpretation.md)
+- [Handling Resistance and Fear of the Unknown](resistance-and-fear-of-the-unknown.md)
+- [Resistance: cloud is more than technology](resistance-to-change-in-cloud-adoption.md)

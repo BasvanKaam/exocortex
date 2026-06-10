@@ -25,3 +25,17 @@ Ways a Cloud roadmap contributes:
 > Een traject van een of meerdere jaren is niet ongewoon.
 >
 > Dit is overigens wel makkelijker gezegd dan gedaan
+
+## Verwante notities
+
+- [Bas's reframe: chase trends and innovation only in moderation](bas-innovation-with-moderation.md)
+- [Bas's paper: Cloud Only? No. Cloud First or Hybrid? Yes.](bas-paper-cloud-only-no-cloud-first-yes.md)
+- [Bas's Roadmap Is Driven by Reader Feedback](bas-reader-feedback-as-roadmap.md)
+- [Key Takeaways: the adoption phase is a beginning, not an end](chapter14-adoption-phase-key-takeaways.md)
+- [Bas's navigation metaphor: a cloud journey needs a destination](cloud-journey-navigation-metaphor.md)
+- [EA: Working with Principles (Top-Down and Bottom-Up Balance)](ea-working-with-principles.md)
+- [Selecting the First Migration Workload (Simple to Complex)](first-migration-workload-selection.md)
+- [Reverse Timeline planning around a compelling event](reverse-timeline-planning.md)
+- [SCAF Key Takeaways - The Four Phases and Strategy](scaf-four-phases-key-takeaways.md)
+- [SCAF Strategie Pillar: Summary of Steps](scaf-strategie-pillar-step-summary.md)
+- [The Technology / Innovation Board](technology-innovation-board.md)

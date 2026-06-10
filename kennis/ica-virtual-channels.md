@@ -18,3 +18,15 @@ There are 32 virtual channels in total; Citrix reserves 17. The remaining ones a
 Client session launch (the **handshake**): the client connects to the VDA, passes the virtual channels it supports (Receiver version + VDA version matter), the server obtains a channel handle and optionally queries the client, then closes the channel to free resources.
 
 Client-side virtual drivers live in the registry at `HKEY_LOCAL_MACHINE\SOFTWARE\Citrix\ICA Client\Engine\Configuration\Advanced\Modules\ICA 3.0`; remove entries like clipboard or ClientDrive to disable functionality. As a security best practice Citrix recommends disabling unused virtual channels. You can create your own via the Virtual Channel SDK (VCSDK) or the ICA Client Object (ICO) SDK.
+
+## Verwante notities
+
+- [Citrix HDX: an extension to ICA, not a replacement](citrix-hdx-extends-ica.md)
+- [Citrix Print Management Service](citrix-print-management-service.md)
+- [Framehawk: ICA over lossy, high-latency networks](framehawk.md)
+- [ICA ports, virtual channels and priorities](ica-ports-and-virtual-channels.md)
+- [What the ICA protocol does and its default ports](ica-protocol-fundamentals.md)
+- [ICA protocol origin and the birth of Microsoft RDP](ica-protocol-origin-and-rdp.md)
+- [ICA virtual channel priorities (0-3) and how to change them](ica-virtual-channel-priorities.md)
+- [Multi-Stream ICA: true network-level QoS via separate TCP/IP ports](multi-stream-ica.md)
+- [Receiver communications, ICA handshake and virtual channels](receiver-ica-handshake-and-virtual-channels.md)

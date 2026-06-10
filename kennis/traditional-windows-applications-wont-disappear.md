@@ -26,3 +26,13 @@ The "doesn't apply to start-ups" objection: true for a real start-up, but not al
 > “After a nuclear war, it'll be cockroaches and Windows apps” – Shawn Bass, CTO End User Computing, VMWare (Bass, 2017)
 >
 > legacy (traditioneel heeft de voorkeur)
+
+## Verwante notities
+
+- [Bas's list of reasons companies stay (partly) on-premises](bas-objections-to-full-cloud-migration.md)
+- [Bas: only ~50-60% of apps can be virtualised](bas-on-virtualisation-coverage-50-60-percent.md)
+- [Bas's paper: Cloud Only? No. Cloud First or Hybrid? Yes.](bas-paper-cloud-only-no-cloud-first-yes.md)
+- [Paper conclusion: Cloud only? Maybe never](bas-paper-conclusion-cloud-only-never.md)
+- [Bas's reframe: call them 'traditional' applications, not 'Legacy'](bas-traditional-not-legacy-applications.md)
+- [Bas's warning: Cloud apps with on-premises backends invite latency trouble](latency-cloud-app-onprem-backend.md)
+- [Survey figures on Windows-app persistence (2019)](windows-app-survey-figures-2019.md)

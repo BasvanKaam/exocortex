@@ -25,3 +25,13 @@ Bas provides a (deliberately non-exhaustive) list of products, technologies and 
 10. Monitoring, alerting, responding, reporting, audits (SIEM, SOC services, threat intelligence feeds, AI threat detection, Autonomous Cyber Reasoning Systems).
 
 Example vendors named include RSA Archer, ServiceNow, OneTrust, KnowBe4, CrowdStrike Falcon, Microsoft Defender, Intune, Okta, Azure AD, CyberArk, Proofpoint, Mimecast, Palo Alto, Fortinet, Zscaler, Cloudflare, Darktrace Antigena, Varonis, Veeam, Acronis, Zerto, Rubrik, CIS Benchmarks, Pentera, Mayhem (ForAllSecure), Microsoft Sentinel, IBM QRadar, Vectra AI.
+
+## Verwante notities
+
+- [Current cyber threats and 2025+ trends](current-cyber-threats-and-2025-trends.md)
+- [NIST vs ISO as security reference frameworks](nist-vs-iso-as-security-references.md)
+- [Risk management focus areas and attention points](risk-management-focus-areas-and-attention-points.md)
+- [The Security Operations Center (SOC)](soc-security-operations-center.md)
+- [Zero Trust Security Model](zero-trust-model.md)
+- [Zero Trust Works From the Outside In (Building Analogy)](zero-trust-outside-in-building-analogy.md)
+- [Zero Trust Principles](zero-trust-principles.md)

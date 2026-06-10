@@ -16,3 +16,16 @@ Bas's view on platform choice: on compute, networking and the like, the platform
 On multi-Cloud: a split across two or more providers is possible, but personally he rarely encounters it. It is marketed as 'flexibility', yet most organisations experience it as added complexity. This is why the book deliberately focuses on a single Cloud platform, the most popular for the 'modern workplace': Azure.
 
 War-tip on managed/smaller providers: beyond the big names there are many smaller Cloud parties offering supporting services. Watch out not to create a 'lock-in' for yourself; do your homework, consult colleagues and weigh all pros and cons together.
+
+## Verwante notities
+
+- [AWS Profile and Strengths](aws-profile-strengths.md)
+- [Microsoft Azure Profile and Strengths](azure-profile-strengths.md)
+- [Bas's COVID-era asides and skepticism on the stats](bas-covid-asides-and-skepticism.md)
+- [Scope of the book: Azure-leaning, business-plus-tech, durable basics](book-scope-azure-focus-and-durability.md)
+- [Cloud Market Statistics (2024)](cloud-market-statistics-2024.md)
+- [No real standards across cloud providers; identical services, different names](cloud-providers-no-standards-naming.md)
+- [Gartner Magic Quadrants and the cloud-relevant ones](gartner-magic-quadrants.md)
+- [Google Cloud Platform Profile and Strengths](gcp-profile-strengths.md)
+- [No universal Cloud standard, and the vendor lock-in problem](no-universal-cloud-standard-vendor-lock-in.md)
+- [The Big Three Cloud Providers (AWS, Azure, GCP)](the-big-three-cloud-providers.md)

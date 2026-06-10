@@ -26,3 +26,12 @@ Azure import/migration tooling Bas lists:
 - ExpressRoute: a private connection to Azure for large volumes or critical workloads, faster and lower-latency than ordinary internet.
 
 Each provider has its own toolset. As the AWS counterpart to Azure Data Box, Bas mentions the Snowball Mobile (he writes), a sea container full of storage units transported by truck - which he admits he has personally never seen in real life.
+
+## Verwante notities
+
+- [Azure Files: a cloud NAS, plus Azure File Sync for hybrid](azure-files-cloud-nas.md)
+- [Bas's war story: SAN/NAS data migrations were weeks of nightmares](bas-san-nas-nightmares.md)
+- [Bas's checklist of points of attention for a cloud exit](cloud-exit-points-of-attention.md)
+- [No real standards across cloud providers; identical services, different names](cloud-providers-no-standards-naming.md)
+- [Opdracht 7: Cloud Migration Compass (XYZ-Care Health Group)](opdracht-7-cloud-migration-compass.md)
+- [SCAF: Application, Data and System Inventory via Waves](scaf-application-data-system-inventory.md)

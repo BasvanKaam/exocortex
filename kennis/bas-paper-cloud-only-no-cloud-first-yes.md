@@ -26,3 +26,24 @@ The paper's core thesis: the cloud is not a silver bullet. A Cloud-only world is
 > De Cloud is geen silver bullet – de oplossing tot alles.
 >
 > een Cloud only wereld een Utopia is
+
+## Verwante notities
+
+- [Bas on the Cloud roadmap as a strategic tool](bas-cloud-roadmap-as-strategic-tool.md)
+- [Bas deconstructs the cloud promises](bas-deconstructs-the-cloud-promises.md)
+- [Bas's list of reasons companies stay (partly) on-premises](bas-objections-to-full-cloud-migration.md)
+- [The human factor: loss of control and trust](bas-on-the-human-factor-and-loss-of-control.md)
+- [Paper conclusion: Cloud only? Maybe never](bas-paper-conclusion-cloud-only-never.md)
+- [Bas on the future limits of self-hosting your own data growth](bas-self-hosting-data-growth-limit.md)
+- [Bas's reframe: call them 'traditional' applications, not 'Legacy'](bas-traditional-not-legacy-applications.md)
+- [The 'Cloud because of the Cloud' syndrome and poor migration planning](cloud-because-of-cloud-syndrome.md)
+- [Cloud deployment models (public, private, hybrid, community)](cloud-deployment-models.md)
+- [Cloud's origin around 2006 (Bas's paper, written 2020)](cloud-origin-around-2006-paper.md)
+- [Hybrid cloud: best of both worlds via ExpressRoute and low latency](hybrid-cloud-best-of-both-worlds.md)
+- [Bas on cloud, hybrid and the future of on-premises VDI](is-cloud-vdi-still-relevant-takeaways.md)
+- [Lack of overview, knowledge, governance and Shadow IT](lack-of-overview-knowledge-governance-shadow-it.md)
+- [Bas's mini business case: the current-vs-possible mapping table](mini-business-case-current-vs-hybrid-table.md)
+- [Opdracht 2 - Tailored Cloud strategy: the puzzle of models and goals](opdracht-2-cloud-strategy-models-and-goals.md)
+- [The promises of the Cloud (and Bas's invitation to challenge them)](the-promises-of-the-cloud.md)
+- [Why traditional Windows applications won't disappear](traditional-windows-applications-wont-disappear.md)
+- [When the Cloud is a good solution - and when it is not](when-cloud-is-and-isnt-a-good-fit.md)

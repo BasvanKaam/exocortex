@@ -20,3 +20,12 @@ Bas also has a strong, characteristic opinion on *who* can do IaC: just pointing
 > Wat gebeurt er als een of beide personen ziek zijn, voor langere tijd op vakantie gaan en zo verder? Ook hier, als je niet oppast, creëer je een (gevaarlijke) afhankelijkheid. Daar is natuurlijk iets aan te doen, maar het begint bij het besef van de situatie.
 >
 > IaC is niet voor iedereen weggelegd, je moet er een bepaalde passie voor bezitten.
+
+## Verwante notities
+
+- [Bas's War Story: The IaC Dependency Trap](bas-iac-dependency-trap.md)
+- [Bas on continuous study and self-investment](bas-on-continuous-study-and-self-investment.md)
+- [Cloud-Native: Designed for the Cloud from the Start](cloud-native-definition.md)
+- [Infrastructure as Code (IaC) and Its Benefits](infrastructure-as-code-basics.md)
+- [The IT (Cloud) Professional 2.0: from geek to strategic generalist](it-cloud-professional-2-0.md)
+- [Bas's 'one is none' rule for resilience](one-is-none-rule.md)

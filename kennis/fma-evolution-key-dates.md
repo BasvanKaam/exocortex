@@ -23,3 +23,9 @@ Bas's recap of the main FMA evolution milestones:
 - May 2018: XenDesktop and XenApp 7.18.
 
 Pre-history: the true birth of XenDesktop was 'Citrix Desktop Server' (basic VDI, not considered enterprise-worthy), quickly replaced around 2008 by XenDesktop 2.0 (IMA-based), which introduced Citrix's PortICA technology, a huge leap forward. Over time the FMA grew from 6 services (2010) to 13 services (2018).
+
+## Verwante notities
+
+- [Bas's take: the Current Release isn't really new](bas-current-release-not-really-new.md)
+- [Citrix LTSR vs Current Release](citrix-ltsr-vs-current-release.md)
+- [The evolution of the FlexCast Management Architecture](evolution-of-the-fma.md)

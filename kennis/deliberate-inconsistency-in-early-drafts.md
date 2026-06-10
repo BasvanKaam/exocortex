@@ -22,3 +22,13 @@ The takeaway: don't polish a first business case to perfection. Get something ta
 > dat is bewust. Het is een eerste stap, een startpunt.
 >
 > Dit betreft een eerste grove schatting.
+
+## Verwante notities
+
+- [Bas: Pragmatism on Governance and Process Documentation](bas-governance-processes-pragmatism.md)
+- [Why Write a Business Case, and Its Key Elements](business-case-value-and-elements.md)
+- [Start a DaaS Business Case 'High-Over' First](daas-business-case-high-over-first.md)
+- [Bas: frame the business case with an executive summary and added-value story](executive-summary-and-added-value-framing.md)
+- [Bas's mini business case: the current-vs-possible mapping table](mini-business-case-current-vs-hybrid-table.md)
+- [Opdracht 5: build your own business case (the method)](opdracht-5-business-case-exercise.md)
+- [Bas: use the SCAF toolkit as inspiration, not a checklist](scaf-toolkit-use-it-as-inspiration.md)

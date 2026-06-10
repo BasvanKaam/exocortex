@@ -16,3 +16,13 @@ Internal communication from a web browser or Citrix Receiver to StoreFront initi
 To set up SSL, trusted certificates must be installed on all StoreFront servers and on the NetScalers. Companies with high security standards can extend the same to traffic between StoreFront servers and Delivery Controllers, and even further to all installed VDAs (requiring extra planning and maintenance).
 
 As of version 7.6, SSL was integrated into the core of the Citrix VDA, making it much more straightforward to enable on all machines and connections. It works for XenDesktop as well as XenApp, and for persistent as well as non-persistent desktops. There may be a slight but negligible performance impact.
+
+## Verwante notities
+
+- [CWC authentication and credential handling security](cwc-authentication-credential-handling.md)
+- [CWC StoreFront hosting options](cwc-storefront-options.md)
+- [External user authentication through NetScaler](external-authentication-through-netscaler.md)
+- [NetScaler SSL certificates and certificate trust](netscaler-ssl-certificates-and-trust.md)
+- [NetScaler SSL offloading and DMZ placement](netscaler-ssl-offload-dmz.md)
+- [StoreFront authentication and resource enumeration traffic flow](storefront-authentication-traffic-flow.md)
+- [Wildcard and SAN certificates](wildcard-and-san-certificates.md)

@@ -18,3 +18,15 @@ Book example: an app where customers upload photos that are automatically resize
 Netflix uses this kind of technology (Lambda functions on AWS); Netflix runs its own tech blog on the topic.
 
 Bas notes FaaS is relatively rare in practice, usually less suited to smaller organizations or IT service providers, and even when used you typically don't notice it.
+
+## Verwante notities
+
+- [Autoscaling and the Black Friday Scenario](autoscaling-black-friday-scenario.md)
+- [Bas: 'Wegwerp IT' and the Lift-and-Shift Caution](bas-wegwerp-it-and-lift-and-shift.md)
+- [Reading the Hosting Spectrum - Capex Falls, Opex Rises](capex-opex-shift-across-hosting-spectrum.md)
+- [Cloud-Native: Designed for the Cloud from the Start](cloud-native-definition.md)
+- [Cloud service models: SaaS, PaaS, IaaS, DaaS](cloud-service-models-saas-paas-iaas-daas.md)
+- [Core cloud building blocks: datacenter, virtualization, APIs, storage, databases, elasticity](core-cloud-components-and-concepts.md)
+- [Edge computing and Edge-nodes](edge-computing.md)
+- [Google Cloud cost management and optimisation tools](gcp-cost-management-tools.md)
+- [Obvious cloud trends (multi-cloud, edge, zero trust, serverless, green)](obvious-cloud-trends-list.md)

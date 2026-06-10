@@ -18,3 +18,14 @@ Key differentiators:
 - GCP developed Kubernetes, the leading container-orchestration platform and now an industry standard, making GCP attractive for container and DevOps/microservices work.
 - Google's AI/ML expertise seeps into nearly all GCP products; also offers AI Platform for building/training ML models without heavy infrastructure.
 - Smaller global network than AWS/Azure but strong in strategic niches, leveraging infrastructure shared with Google Search and YouTube. Popular with fintech, e-commerce, and health-tech startups.
+
+## Verwante notities
+
+- [AWS Profile and Strengths](aws-profile-strengths.md)
+- [Microsoft Azure Profile and Strengths](azure-profile-strengths.md)
+- [Choosing a CSP: Azure as the Default for Microsoft Shops](csp-platform-choice-azure-default.md)
+- [Gartner Magic Quadrants and the cloud-relevant ones](gartner-magic-quadrants.md)
+- [Google Cloud cost management and optimisation tools](gcp-cost-management-tools.md)
+- [Semantic technologies and data science in the cloud](semantic-technologies-and-data-science.md)
+- [Tenant vs Account vs Project: the top-level boundary across Azure, AWS, Google](tenant-account-project-across-providers.md)
+- [The Big Three Cloud Providers (AWS, Azure, GCP)](the-big-three-cloud-providers.md)

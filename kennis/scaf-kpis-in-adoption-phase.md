@@ -26,3 +26,16 @@ Example benchmarks: 99.9% uptime, average response time under 200 ms, and a cost
 ## Bron-citaten (NL, verbatim)
 
 > A system is only as good as the satisfaction of its users.
+
+## Verwante notities
+
+- [Additional Topics to Weigh in a Cloud Business Case](additional-businesscase-topics.md)
+- [Bas on cost management: cost vs. value and ROI/TCO](bas-on-cost-management-roi-tco.md)
+- [Bas on the helpdesk as first point of contact](bas-on-the-helpdesk-experience.md)
+- [Promoting the CCoE: the 'kindergarten' war story and strategies](bas-promoting-the-ccoe-kindergarten-war-story.md)
+- [Key Takeaways: the adoption phase is a beginning, not an end](chapter14-adoption-phase-key-takeaways.md)
+- [Opdracht 11: the human side of cloud transformation (XYZ-Care)](opdracht-11-adoption-human-side.md)
+- [SCAF Adoption phase: activities and deliverables](scaf-adoption-phase-activities.md)
+- [SCAF Adoption phase: finishing what you started](scaf-adoption-phase-purpose.md)
+- [SCAF Adoption result: the end goal of the Cloud transition](scaf-adoption-phase-result.md)
+- [SCAF Cloud governance: putting the dots on the i](scaf-cloud-governance-checklist.md)

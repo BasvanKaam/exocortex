@@ -16,3 +16,12 @@ XenDesktop supports service logging, enabled either from the command-line or thr
 Example manual command-line: `Citrix.MachineCreation.SdkWcfEndpoint.exe -LogFile C:\XDLogs\Name.log`
 
 Key services to watch when troubleshooting connectivity: the Delivery Controller's Broker Service log, the VDA's Broker Agent log (CTX117452), and the PortICA service (the ICA Service), which handles nearly everything from an ICA/HDX perspective except direct communication with the Delivery Controller. PortICA logging is not enabled by default on the VDA (CTX118837).
+
+## Verwante notities
+
+- [CDF Control, trace providers, and TMF file parsing](cdf-control-and-tmf-files.md)
+- [Citrix Scout: the aggregating troubleshooting tool](citrix-scout-aggregator.md)
+- [The FlexCast Management Architecture and its thirteen core services](fma-thirteen-core-services-overview.md)
+- [PortICA / picaSvc2.exe: the critical VDA ICA service](portica-picasvc2-service.md)
+- [Using PowerShell to check FMA service states](powershell-fma-service-checks.md)
+- [Troubleshooting the VDA registration process and Citrix Health Assistant](vda-registration-troubleshooting.md)

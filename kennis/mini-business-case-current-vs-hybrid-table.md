@@ -33,3 +33,13 @@ Bas notes you probably haven't made final XaaS choices yet, but you're fairly su
 > je moet ergens beginnen
 >
 > Door dit soort overzichten en tabellen te creëren in PowerPoint kun je ze eenvoudig presenteren, wanneer nodig.
+
+## Verwante notities
+
+- [Bas: The 6 R's for Application Rationalization](bas-6-rs-cloud-migration.md)
+- [Bas's paper: Cloud Only? No. Cloud First or Hybrid? Yes.](bas-paper-cloud-only-no-cloud-first-yes.md)
+- [A Business Case Is More Than 'Hard' Costs Alone](businesscase-more-than-hard-costs.md)
+- [DaaS / VDI Additions to the Technical Design](daas-vdi-technical-design-considerations.md)
+- [Bas: early business-case documents are deliberately rough and inconsistent](deliberate-inconsistency-in-early-drafts.md)
+- [Bas: frame the business case with an executive summary and added-value story](executive-summary-and-added-value-framing.md)
+- [Hybrid cloud: best of both worlds via ExpressRoute and low latency](hybrid-cloud-best-of-both-worlds.md)
