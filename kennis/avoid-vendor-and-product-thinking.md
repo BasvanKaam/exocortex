@@ -23,5 +23,4 @@ Underlying argument: it is always wise to periodically ask whether earlier choic
 - [OS Migration Is More Than Swapping the OS](os-migration-is-more-than-the-os.md)
 - [SCAF Pillars and Design Principles](scaf-pillars-and-design-principles.md)
 - [Technology Should Never Be Leading](technology-should-never-be-leading.md)
-- [Vendor-Independent, Customer-Driven Advisory Model](vendor-independent-advisory-model.md)
 - [Cloud Advice Must Be Vendor-Independent](vendor-independent-cloud-advice.md)

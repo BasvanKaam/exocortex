@@ -26,6 +26,5 @@ Source: Bas van Kaam, Salomon IT blog, 2019-09-17.
 - [SCAF Pillars and Design Principles](scaf-pillars-and-design-principles.md)
 - [Technology choices and organizational change are inseparable](technology-and-organization-change-are-inseparable.md)
 - [Technology Should Never Be Leading](technology-should-never-be-leading.md)
-- [Vendor-Independent, Customer-Driven Advisory Model](vendor-independent-advisory-model.md)
 - [Cloud Advice Must Be Vendor-Independent](vendor-independent-cloud-advice.md)
 - [What an IT strategy actually contains](what-an-it-strategy-actually-contains.md)

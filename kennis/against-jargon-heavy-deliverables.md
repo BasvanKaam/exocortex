@@ -23,4 +23,3 @@ Source: Bas van Kaam, Salomon IT blog, 2019-09-17.
 - [SCAF Design Principles and Why It Exists](scaf-design-principles.md)
 - [SCAF Pillars and Design Principles](scaf-pillars-and-design-principles.md)
 - [SCAF Toolkit: Bas's 'keep it simple' philosophy and applicability](scaf-toolkit-philosophy-and-applicability.md)
-- [Vendor-Independent, Customer-Driven Advisory Model](vendor-independent-advisory-model.md)

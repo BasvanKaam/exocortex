@@ -24,4 +24,3 @@ The invitation is deliberately informal: evenings, breaks, phone, Skype, a confe
 - [Hey... Biiieeerrrrrtje? — Early Team Bonding](biertje-team-bonding-aside.md)
 - [Cloud ideas for the modern, attractive employer](cloud-ideas-for-the-modern-attractive-employer.md)
 - [Remote Work Is a Talent Requirement and an Opportunity](remote-work-as-opportunity-and-talent-magnet.md)
-- [Vendor-Independent, Customer-Driven Advisory Model](vendor-independent-advisory-model.md)

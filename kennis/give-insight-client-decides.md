@@ -29,5 +29,4 @@ This pairs with his preference for facts over assumptions and for not pushing th
 - [Quantify user experience objectively](quantify-user-experience-objectively.md)
 - [The Right Fix Can Come From an Unexpected Corner](right-fit-solutions-from-unexpected-corners.md)
 - [Begin at the beginning](start-from-where-you-are.md)
-- [Vendor-Independent, Customer-Driven Advisory Model](vendor-independent-advisory-model.md)
 - [Vulnerability assessment with dual reporting](vulnerability-assessment-two-reports.md)

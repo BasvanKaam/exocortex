@@ -23,4 +23,3 @@ Source: Bas van Kaam, Salomon IT blog, 2019-08-28.
 - [Why have a cloud exit strategy - the exit comes before onboarding](cloud-exit-strategy-rationale.md)
 - [SCAF Pillars and Design Principles](scaf-pillars-and-design-principles.md)
 - [SCAF: Salomon Cloud Adoptie Framework (Origin)](scaf-salomon-cloud-adoptie-framework.md)
-- [Vendor-Independent, Customer-Driven Advisory Model](vendor-independent-advisory-model.md)
