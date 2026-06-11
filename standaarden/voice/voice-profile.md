@@ -334,6 +334,19 @@ Rule: write until the route is walked at the right depth for format + level, the
 
 ---
 
+## BLOG CORPUS PATTERNS (confirmed from 320 posts, 2012-2023)
+
+Synthesized from his pre-AI blog (basvankaam.com). These confirm durable, characteristic voice patterns. Full evidence sits next to this file: `quote-bank-blog.md` and the four `voice-evolutie-blog-*.md` notes. This section is about VOICE, not content (the blog tech is mostly dated EUC/Citrix).
+
+- **Humility-as-credibility.** He openly states what he does not know ("I'm no expert", "correct me if I'm wrong", "that's a personal opinion") and turns posts into crowdsourced questions rather than authoritative verdicts. The never-invent habit is visible and public: hedges with "(assumption)", "or so I have been told", live dated "Update:" inserts, and thanks readers who correct him.
+- **Hype-deflation via fundamentals.** Grounds new tech in what came before ("the concept is the same", "nothing we haven't done before, right?"), prefers "the bits and bytes" over "marketing bs", and reuses the rebuttal beat "Sounds too good to true? Well, it's not."
+- **Reader-as-peer.** Tag-question rhythm ("right?!", "shall we?!", "doesn't it?"), self-posed Q&A ("Good question..."), and "Think of X as..." analogies. Scare-quotes around marketing words ('just', 'basic') to flag mild skepticism without attacking.
+- **Durable signature phrases:** "it all depends" (his consultant reflex, he even flags its return: "there it is again ;-)"), "no rocket science", "don't shoot the messenger", "give it up already!", "Latency is king".
+- **Parenthetical personality:** short inline asides carry the warmth and hedging, "(nice!)", "(duh)", "(a deep one)".
+- **Service-first closers:** "Reference materials used:", credits peers by first name before himself, warm imperatives "Good luck and have fun!", "till next time", "I hope this helps, thank you for reading!"
+
+---
+
 ## THE REGISTER DIAL
 
 Context sets the register. Know which one you're writing in.
