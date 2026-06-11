@@ -19,7 +19,11 @@ Examples of HDX technologies: Flash and Windows media redirection, 4K monitor su
 
 ## Verwante notities
 
+- [Citrix HDX display codecs and their confusing alternate names](citrix-hdx-display-codecs-overview.md)
 - [Framehawk: ICA over lossy, high-latency networks](framehawk.md)
+- [Framehawk and the Lightweight Framebuffer Protocol (LFP)](framehawk-lfp-protocol.md)
+- [HDX Browser Content Redirection renders client-side via CEF](hdx-browser-content-redirection-cef.md)
+- [HDX extends ICA, it does not replace it](hdx-extends-ica-not-replaces.md)
 - [HDX is not a replacement for ICA](hdx-not-a-replacement-for-ica.md)
 - [The origin of Citrix and the ICA protocol](history-of-citrix-and-ica.md)
 - [What the ICA protocol does and its default ports](ica-protocol-fundamentals.md)

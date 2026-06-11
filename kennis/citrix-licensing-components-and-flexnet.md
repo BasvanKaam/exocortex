@@ -27,7 +27,9 @@ At least one license server is required. The role is light, so it can be co-host
 
 ## Verwante notities
 
+- [Citrix license type vs edition vs consumption model](citrix-license-type-vs-edition.md)
 - [Citrix license types: user, device and concurrent](citrix-license-types-user-device-concurrent.md)
+- [Citrix user, device and concurrent licenses](citrix-license-types-user-device-concurrent-2.md)
 - [Citrix licensing key facts (Flexera, capacity, NetScaler)](citrix-licensing-key-facts-flexera.md)
 - [Citrix licensing: user, device and concurrent](citrix-licensing-models.md)
 - [Startup license and the license checkout process](citrix-startup-license-and-checkout.md)

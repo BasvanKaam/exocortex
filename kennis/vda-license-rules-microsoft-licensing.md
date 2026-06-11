@@ -24,5 +24,6 @@ Licensing details Bas captures:
 - [Microsoft RDS CALs and the XenApp vs XenDesktop split](microsoft-rds-cals-with-xenapp.md)
 - [Microsoft SPLA and why true DaaS is restricted](microsoft-spla-daas-licensing-restriction.md)
 - [Microsoft VDA licenses and Software Assurance](microsoft-vda-license-software-assurance.md)
+- [Microsoft VDA vs RDS licensing for Citrix](microsoft-vda-rds-licensing-for-citrix.md)
 - [VDA install options and supported operating systems](vda-install-options-and-supported-os.md)
 - [Windows server/desktop OS licensing and App-V (MDOP)](windows-server-desktop-os-licensing-mdop.md)

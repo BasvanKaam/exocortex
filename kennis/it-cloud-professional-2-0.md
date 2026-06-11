@@ -35,6 +35,7 @@ Why it matters: technology now touches every layer of a business, so communicati
 - [Bas on continuous study and self-investment](bas-on-continuous-study-and-self-investment.md)
 - [Bas on growth: lean into strengths, nudge weaknesses, and ask questions](bas-play-to-your-strengths.md)
 - [Cloud Cultural Shifts: DevOps, Automation, New Roles](cloud-cultural-shifts-overview.md)
+- [Three foundational cloud certs (2019)](cloud-foundation-certs-2019.md)
 - [CTO vs Field CTO: internal strategy vs external customer translation](cto-vs-field-cto.md)
 - [The Evolution of the CIO and CFO Role](evolution-of-cio-cfo-role.md)
 - [From Beheer to Regie: The Regieorganisatie Model](from-beheer-to-regie-organisation.md)

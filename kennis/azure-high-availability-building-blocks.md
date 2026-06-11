@@ -26,7 +26,9 @@ Combining these creates a robust, highly available environment resilient to both
 ## Verwante notities
 
 - [Autoscaling and the Black Friday Scenario](autoscaling-black-friday-scenario.md)
+- [Azure Availability Sets vs Availability Zones](azure-availability-sets-vs-zones.md)
 - [The Azure cloud hierarchy: tenant down to resources](azure-cloud-hierarchy.md)
+- [Azure Files storage redundancy: LRS, ZRS, GRS](azure-files-storage-redundancy-lrs-zrs-grs.md)
 - [Cloud providers build their own servers and hypervisors](cloud-providers-build-own-servers-hypervisor.md)
 - [Standard components of a disaster recovery (DR) plan](disaster-recovery-plan-components.md)
 - [Global cloud scale: regions, zones, and which continent has no datacenters](global-scale-regions-zones-datacenters.md)

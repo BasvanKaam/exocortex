@@ -24,6 +24,7 @@ A Host Connection is optional, but without one you lose VM auto-provisioning: no
 - [Host Connection key takeaways: MCS/PVS and cloud support](host-connection-mcs-pvs-cloud-support-key-takeaways.md)
 - [Host Connections now support cloud, not just hypervisors](host-connections-cloud-support.md)
 - [Machine Creation Services (MCS): integrated single-image delivery](machine-creation-services-overview.md)
+- [How Citrix MCS provisions VMs: snapshot, differencing disk, identity disk](mcs-how-it-works-disks.md)
 - [MCS supported hypervisor storage and thin provisioning limits](mcs-hypervisor-storage-support.md)
 - [PVS provisioning wizards: streamed VM and XenDesktop setup](pvs-provisioning-wizards.md)
 - [Citrix Studio Configuration sub-nodes](studio-configuration-subnodes.md)

@@ -22,6 +22,7 @@ As of XenApp/XenDesktop 7.12 the Local Host Cache (LHC) was re-introduced (new t
 - [Connection Leasing failover behavior and limitations](connection-leasing-failover-behavior.md)
 - [Connection Leasing mechanism](connection-leasing-mechanism.md)
 - [FMA architectural casualties: Zones, LHC and Worker Groups removed then re-added](fma-architectural-changes-zones-lhc-removed.md)
+- [How Local Host Cache works in the FMA](local-host-cache-712-architecture.md)
 - [Local Host Cache in XenApp 6.5 (IMA)](local-host-cache-ima.md)
 - [VDA high-availability mode (direct ICA, last resort)](vda-high-availability-mode.md)
 - [Zones in the FMA are not the same as IMA 6.5 Zones](zones-fma-vs-ima.md)

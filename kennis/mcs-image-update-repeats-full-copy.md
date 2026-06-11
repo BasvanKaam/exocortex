@@ -23,12 +23,15 @@ He frames the planning questions you must answer to gauge storage and administra
 
 ## Verwante notities
 
+- [The 'big bad image' problem: why everything in the base image hurts](big-bad-base-image-problems.md)
 - [Machine Creation Services essentials](machine-creation-services-essentials.md)
 - [Bas on MCS, workloads and the case for application layering](mcs-application-workloads-layering.md)
 - [MCS Differencing Disk and Identity Disk](mcs-differencing-and-identity-disk.md)
+- [How Citrix MCS provisions VMs: snapshot, differencing disk, identity disk](mcs-how-it-works-disks.md)
 - [MCS supported hypervisor storage and thin provisioning limits](mcs-hypervisor-storage-support.md)
 - [MCS IOPS profile: ~1.6x PVS average, ~1.2x steady state](mcs-iops-vs-pvs.md)
 - [MCS rollbacks and reboot considerations (boot storms, disconnect policies)](mcs-rollbacks-and-reboot-considerations.md)
+- [MCS planning: master-VM count x data-store count x update frequency](mcs-storage-and-update-cycle-cost.md)
 - [Bas's MCS storage implications checklist](mcs-storage-implications.md)
 - [MCS updating: persistent vs non-persistent VM behaviour](mcs-updating-persistent-vs-nonpersistent.md)
 - [PVS vDisk versioning and lifecycle](pvs-vdisk-versioning-lifecycle.md)

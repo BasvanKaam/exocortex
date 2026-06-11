@@ -23,6 +23,8 @@ During provisioning, MCS first takes a snapshot of the master VM (automatically,
 - [Machine Creation Services essentials](machine-creation-services-essentials.md)
 - [Machine Creation Services (MCS): integrated single-image delivery](machine-creation-services-overview.md)
 - [MCS desktop types: Pooled-Random, Pooled-Static, Dedicated](mcs-desktop-types.md)
+- [MCS desktop types: pooled-random, pooled-static, dedicated](mcs-desktop-types-pooled-dedicated.md)
+- [How Citrix MCS provisions VMs: snapshot, differencing disk, identity disk](mcs-how-it-works-disks.md)
 - [Why MCS image updates matter: every master VM is re-copied to every datastore](mcs-image-update-repeats-full-copy.md)
 - [MCS IOPS profile: ~1.6x PVS average, ~1.2x steady state](mcs-iops-vs-pvs.md)
 - [MCS updating: persistent vs non-persistent VM behaviour](mcs-updating-persistent-vs-nonpersistent.md)

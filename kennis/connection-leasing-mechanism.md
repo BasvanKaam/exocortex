@@ -28,6 +28,7 @@ By default each Controller synchronizes up to 1000 leases every 10 seconds until
 
 - [The Central Site database in the FMA](central-site-database-fma.md)
 - [Connection Leasing failover behavior and limitations](connection-leasing-failover-behavior.md)
+- [How Connection Leasing worked in XenApp 7.6](connection-leasing-how-it-works.md)
 - [The Delivery Controller as the heart of the FMA](delivery-controller-heart-of-fma.md)
 - [Delivery Controller vs Data Collector differences](delivery-controller-vs-data-collector.md)
 - [Delivery Controller vs. Data Collector (FMA vs. IMA)](delivery-controller-vs-data-collector-2.md)

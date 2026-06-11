@@ -19,4 +19,5 @@ Bas's paper cites surveys showing the use of traditional Windows applications ba
 ## Verwante notities
 
 - [Bas's reframe: call them 'traditional' applications, not 'Legacy'](bas-traditional-not-legacy-applications.md)
+- [State of the SBC/VDI market in 2018 (survey snapshot)](state-of-vdi-sbc-2018-snapshot.md)
 - [Why traditional Windows applications won't disappear](traditional-windows-applications-wont-disappear.md)

@@ -30,6 +30,7 @@ Trivia from Bas: before AVD was named AVD it had other names — WVD (Windows Vi
 ## Verwante notities
 
 - [AVD - The Only Cloud Service That Runs Windows Client Multi-User](avd-windows-client-multi-user.md)
+- [Citrix origins: from Citrus Systems to WinFrame, and the birth of ICA](citrix-origins-and-ica-birth.md)
 - [DaaS provider takes roughly 60% of the management off the IT department](daas-vendor-takes-60-percent-of-management.md)
 - [DaaS versus VDI](daas-vs-vdi.md)
 - [The origin of Citrix and the ICA protocol](history-of-citrix-and-ica.md)
@@ -37,3 +38,5 @@ Trivia from Bas: before AVD was named AVD it had other names — WVD (Windows Vi
 - [Bas's reframe: is AVD and/or Windows 365 Cloud PC really DaaS?](is-avd-and-windows-365-really-daas.md)
 - [Microsoft RDS CALs and the XenApp vs XenDesktop split](microsoft-rds-cals-with-xenapp.md)
 - [Windows 365 Cloud PC](windows-365-cloud-pc.md)
+- [WVD hit general availability on September 30, 2019](wvd-ga-date-sept-2019.md)
+- [WVD is what used to be RDMI](wvd-is-rdmi-on-prem-history.md)

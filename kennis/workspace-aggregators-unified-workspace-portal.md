@@ -21,4 +21,5 @@ Bas's framing: this is again an example of how traditional IT solutions get kept
 
 ## Verwante notities
 
+- [Awingu as an HTML5 workspace aggregator](awingu-html5-workspace-aggregator.md)
 - [Receiver platforms and the Receiver X1](receiver-platforms-and-x1.md)

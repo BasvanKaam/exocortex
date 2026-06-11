@@ -21,7 +21,9 @@ Reference list of Amazon Web Services cost-management and optimisation tooling c
 
 ## Verwante notities
 
+- [AWS native cost-management toolset (TCO, Budgets, Cost Explorer, Trusted Advisor)](aws-native-cost-management-tools.md)
 - [AWS Profile and Strengths](aws-profile-strengths.md)
+- [Storage tiering and lifecycle policies cut AWS storage cost](aws-storage-tiering-and-lifecycle-cost.md)
 - [Azure cost management and optimisation tools](azure-cost-management-tools.md)
 - [Bas on cost management: cost vs. value and ROI/TCO](bas-on-cost-management-roi-tco.md)
 - [Capex vs Opex in IT and Cloud](capex-vs-opex-in-it.md)

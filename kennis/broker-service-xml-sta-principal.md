@@ -23,6 +23,7 @@ FMA fact: make sure the Broker (XML/STA) service is configured identically on th
 
 - [Bas's distinction: authentication versus verification](authentication-vs-verification-distinction.md)
 - [Bas's key takeaways on the user login process](bas-key-takeaways-user-login-process.md)
+- [The STA only comes into play when traffic traverses a NetScaler](citrix-sta-only-with-netscaler.md)
 - [External launch process: Hosted Shared Desktop via NetScaler](external-launch-process-hsd-netscaler.md)
 - [FMA Broker Service (XML/STA) and its responsibilities](fma-broker-service.md)
 - [NetScaler SNIP, STA tickets and certificate practice](netscaler-snip-and-sta.md)

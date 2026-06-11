@@ -25,5 +25,7 @@ Even in non-Citrix environments, high-latency WANs give poor user experience if 
 - [Citrix Universal Print Server (UPS)](citrix-universal-print-server.md)
 - [EMF vs XPS print file formats](emf-vs-xps-print-formats.md)
 - [Microsoft print file formats: EMF vs XPS](microsoft-print-formats-emf-xps.md)
+- [Print architecture is decided by all elements combined, not one knob](print-architecture-is-all-elements-combined.md)
 - [Bas's print driver best practices](print-driver-best-practices.md)
 - [Print driver versions and Print Driver Isolation](print-driver-history-and-modes.md)
+- [Print spooling and the kernel-mode to user-mode driver history](windows-print-spooling-and-driver-history.md)

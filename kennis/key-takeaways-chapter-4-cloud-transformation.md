@@ -26,6 +26,7 @@ His reframe: even Shadow IT can be seen as an opportunity, not just a risk.
 
 - [Capex vs Opex in IT and Cloud](capex-vs-opex-in-it.md)
 - [Cloud Cultural Shifts: DevOps, Automation, New Roles](cloud-cultural-shifts-overview.md)
+- [Cloud is about far more than technology](cloud-is-more-than-technology.md)
 - [Cultural Shift: Communicate, Communicate, Communicate](cultural-shift-communicate-communicate.md)
 - [The Evolution of the CIO and CFO Role](evolution-of-cio-cfo-role.md)
 - [IT as Internal Broker and the Regie-Organisatie](it-as-internal-broker-regie-organisatie.md)

@@ -19,6 +19,7 @@ For VDI, SPLA is very restrictive: there is no SPLA agreement for multi-tenant/c
 
 - [Citrix Service Provider (CSP) program](citrix-service-provider-program.md)
 - [CWC as a near-DaaS workaround for Microsoft desktop-OS licensing](cwc-desktop-os-daas-licensing.md)
+- [Why DaaS rarely gives you a real client OS (licensing)](daas-client-os-licensing-restriction.md)
 - [Bas's 2018 reframe: true VDI from the cloud and Microsoft licensing](daas-true-vdi-licensing-evolution.md)
 - [DaaS versus VDI](daas-vs-vdi.md)
 - [Microsoft CDL (Companion Desktop License)](microsoft-cdl-companion-device-license.md)

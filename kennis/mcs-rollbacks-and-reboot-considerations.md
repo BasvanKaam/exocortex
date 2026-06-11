@@ -25,7 +25,9 @@ Key takeaway: give your idle and disconnect session policies some thought, it ma
 
 - [Bas on CPU over-commit and user baselines (light/medium/heavy)](cpu-overcommit-and-user-baselines.md)
 - [Why MCS image updates matter: every master VM is re-copied to every datastore](mcs-image-update-repeats-full-copy.md)
+- [MCS planning: master-VM count x data-store count x update frequency](mcs-storage-and-update-cycle-cost.md)
 - [Bas's MCS storage implications checklist](mcs-storage-implications.md)
 - [MCS updating: persistent vs non-persistent VM behaviour](mcs-updating-persistent-vs-nonpersistent.md)
+- [Reboots are a necessary evil; handle them proactively](proactive-over-reactive-ops.md)
 - [Bas's PVS key takeaways and best-practice asides](provisioning-services-key-takeaways.md)
 - [The five VDI workload phases and boot/logon storms](vdi-five-phases-storms.md)

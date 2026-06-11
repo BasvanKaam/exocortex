@@ -23,6 +23,7 @@ Capex-focused companies invest heavily up front betting on future benefits (opin
 - [Azure cost management and optimisation tools](azure-cost-management-tools.md)
 - [Bas's war story: SAN/NAS data migrations were weeks of nightmares](bas-san-nas-nightmares.md)
 - [Cloud Cultural Shifts: DevOps, Automation, New Roles](cloud-cultural-shifts-overview.md)
+- [Cloud is about far more than technology](cloud-is-more-than-technology.md)
 - [DaaS versus VDI](daas-vs-vdi.md)
 - [Google Cloud cost management and optimisation tools](gcp-cost-management-tools.md)
 - [ITIL Processes That Need Attention When Introducing Cloud](itil-process-changes-for-cloud.md)

@@ -17,6 +17,8 @@ If you can't or aren't allowed to install Receiver locally, Citrix offers the Re
 
 ## Verwante notities
 
+- [Chromebooks valuable but not enterprise-ready (2014)](chromebooks-not-enterprise-ready-yet-2014.md)
+- [Citrix dropped the Chromebook Receiver for HTML5](citrix-chromebook-receiver-to-html5.md)
 - [Citrix Receiver: purpose and naming history](citrix-receiver-history-and-purpose.md)
 - [Internal launch process: pooled VDI VM via StoreFront](internal-launch-process-pooled-vdi.md)
 - [Configuring Receiver connection information](receiver-connection-configuration-methods.md)

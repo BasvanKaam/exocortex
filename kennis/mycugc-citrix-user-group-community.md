@@ -18,6 +18,7 @@ It is also where new CUGs (Citrix User Groups) are formed: starting a thread in 
 ## Verwante notities
 
 - [Citrix Technology Professionals (CTP) and Citrix Technology Advocates (CTA)](citrix-technology-professionals-and-advocates.md)
+- [The Citrix User Group Community (CUGC) launched at Synergy 2015](cugc-launch-2015.md)
 - [E2EVC (Expert to Expert Virtualization Congress)](e2evc-community.md)
 - [E2EVC: the Experts-2-Experts Virtualization Conference](e2evc-conference.md)
 - [Citrix/EUC community podcasts](euc-citrix-community-podcasts.md)

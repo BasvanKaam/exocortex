@@ -24,5 +24,6 @@ The main concerns:
 - [Bas's list of reasons companies stay (partly) on-premises](bas-objections-to-full-cloud-migration.md)
 - [Bas on cost management: cost vs. value and ROI/TCO](bas-on-cost-management-roi-tco.md)
 - [The human factor: loss of control and trust](bas-on-the-human-factor-and-loss-of-control.md)
+- [Moving to the cloud does not automatically save money](cloud-does-not-automatically-save-money.md)
 - [Opdracht 1 - Cloud promises critically examined (XYZ-Care)](opdracht-1-cloud-promises-xyz-care.md)
 - [The promises of the Cloud (and Bas's invitation to challenge them)](the-promises-of-the-cloud.md)

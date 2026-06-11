@@ -29,6 +29,8 @@ He stresses a community is not one-way traffic - by sharing knowledge you help o
 - [Bas's year as a competence manager](bas-year-as-competence-manager.md)
 - [Citrix Technology Professionals (CTP) and Citrix Technology Advocates (CTA)](citrix-technology-professionals-and-advocates.md)
 - [Cloud ideas for the modern, attractive employer](cloud-ideas-for-the-modern-attractive-employer.md)
+- [Stance: curating the community's best content is a contribution worth making](community-curation-as-contribution.md)
+- [The Citrix User Group Community (CUGC) launched at Synergy 2015](cugc-launch-2015.md)
 - [E2EVC (Expert to Expert Virtualization Congress)](e2evc-community.md)
 - [E2EVC: the Experts-2-Experts Virtualization Conference](e2evc-conference.md)
 - [E2EVC traditions: grandfathers and the networking game](e2evc-grandfathers-and-networking-game.md)

@@ -24,6 +24,7 @@ The **Hypervisor Connection Site service** is special: it is the only Site servi
 ## Verwante notities
 
 - [Broker service, XML/STA and the 18 site services](broker-service-xml-sta-site-services.md)
+- [The Broker Service bundles brokering, XML and STA in one process](citrix-broker-service-three-roles.md)
 - [Citrix Host Connection](citrix-host-connection.md)
 - [The Delivery Controller as the heart of the FMA](delivery-controller-heart-of-fma.md)
 - [FMA Broker Service (XML/STA) and its responsibilities](fma-broker-service.md)

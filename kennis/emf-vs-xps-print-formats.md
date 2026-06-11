@@ -24,4 +24,6 @@ High-level spooling: the spooler service receives output, the print driver rende
 - [Microsoft print file formats: EMF vs XPS](microsoft-print-formats-emf-xps.md)
 - [Bas's print driver best practices](print-driver-best-practices.md)
 - [Print driver versions and Print Driver Isolation](print-driver-history-and-modes.md)
+- [Print Driver Isolation modes and the Citrix Print Management Service](print-driver-isolation-and-citrix-print-mgmt.md)
 - [Print spooling: local vs remote](print-spooling-local-vs-remote.md)
+- [EMF vs XPS print file formats](windows-print-emf-vs-xps.md)

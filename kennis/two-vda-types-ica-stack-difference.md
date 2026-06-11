@@ -22,6 +22,7 @@ Depending on viewpoint there are two VDAs, or four: one for Windows desktop OS, 
 
 - [Desktop VDA core services: Citrix Desktop Service and Citrix ICA Service](desktop-vda-two-main-services.md)
 - [PortICA / picaSvc2.exe: the critical VDA ICA service](portica-picasvc2-service.md)
+- [The Server VDA is the component everyone overlooked](positie-server-vda-overlooked.md)
 - [Server VDA vs Desktop VDA: the often-overlooked new component](server-vda-vs-desktop-vda.md)
 - [Single-User vs Multi-User VDI/DaaS](single-user-vs-multi-user-vdi-daas.md)
 - [VDA install options and supported operating systems](vda-install-options-and-supported-os.md)

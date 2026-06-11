@@ -23,6 +23,7 @@ Key facts:
 
 - [AWS cost management and optimisation tools](aws-cost-management-tools.md)
 - [AWS EC2 (2006): birth of the commercial Cloud](aws-ec2-commercial-cloud-birth.md)
+- [AWS is still No. 1 in cloud, Microsoft is catching up fast](aws-still-number-one-microsoft-catching-up.md)
 - [Microsoft Azure Profile and Strengths](azure-profile-strengths.md)
 - [Choosing a CSP: Azure as the Default for Microsoft Shops](csp-platform-choice-azure-default.md)
 - [Gartner Magic Quadrants and the cloud-relevant ones](gartner-magic-quadrants.md)

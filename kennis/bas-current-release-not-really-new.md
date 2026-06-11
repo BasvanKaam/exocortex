@@ -23,6 +23,9 @@ He wrote a more detailed blog post on what is and isn't new about the LTSR vs CR
 
 - [Citrix company history: from Citrus to WinFrame](citrix-company-history.md)
 - [Citrix editions, Subscription Advantage and Software Maintenance](citrix-editions-subscription-advantage-software-maintenance.md)
+- [Citrix LTSR vs CR servicing model](citrix-ltsr-vs-cr-servicing.md)
 - [Citrix LTSR vs Current Release](citrix-ltsr-vs-current-release.md)
+- [The rapid Current Release cadence makes sense](defence-of-citrix-rapid-release-cycle.md)
 - [The evolution of the FlexCast Management Architecture](evolution-of-the-fma.md)
 - [FMA evolution key dates](fma-evolution-key-dates.md)
+- [LTSR is the right call, but not for everybody](ltsr-is-not-for-everybody.md)

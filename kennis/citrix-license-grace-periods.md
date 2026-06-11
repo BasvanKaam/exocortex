@@ -20,6 +20,7 @@ Making the license server highly available is optional (the grace period covers 
 ## Verwante notities
 
 - [Citrix license types: user, device and concurrent](citrix-license-types-user-device-concurrent.md)
+- [Citrix user, device and concurrent licenses](citrix-license-types-user-device-concurrent-2.md)
 - [Citrix licensing key facts (Flexera, capacity, NetScaler)](citrix-licensing-key-facts-flexera.md)
 - [Citrix licensing: user, device and concurrent](citrix-licensing-models.md)
 - [Citrix LTSR vs Current Release](citrix-ltsr-vs-current-release.md)

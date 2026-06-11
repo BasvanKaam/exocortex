@@ -24,6 +24,7 @@ On a personal note, after three years as a CTP, Bas decided it was time to move 
 ## Verwante notities
 
 - [Bas van Kaam: experience, character and the people behind the book](bas-van-kaam-bio-and-character.md)
+- [CTP-hosted sessions are the technical, unbiased ones](ctp-sessions-are-technical-and-unbiased.md)
 - [E2EVC (Expert to Expert Virtualization Congress)](e2evc-community.md)
 - [E2EVC: the Experts-2-Experts Virtualization Conference](e2evc-conference.md)
 - [E2EVC traditions: grandfathers and the networking game](e2evc-grandfathers-and-networking-game.md)

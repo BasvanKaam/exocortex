@@ -22,3 +22,7 @@ The comeback: Citrix listened. They established a separate license Trade-Up Prog
 > What they were basically saying was: if you have an active Subscription Advantage but are running XenApp Advanced edition you are out of luck and need to purchase new (XenDesktop Enterprise or Platinum) licenses.
 >
 > We love XenApp!
+
+## Verwante notities
+
+- [Credit to Citrix for simplifying NetScaler licensing without a price grab](citrix-simplifying-licensing-praise.md)

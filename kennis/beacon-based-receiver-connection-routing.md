@@ -21,6 +21,7 @@ FMA fact: By default, StoreFront uses your internal services URL as the internal
 
 ## Verwante notities
 
+- [Citrix CloudGateway: AppController, StoreFront and Access Gateway](citrix-cloudgateway-architecture.md)
 - [Citrix Receiver: purpose and naming history](citrix-receiver-history-and-purpose.md)
 - [External user authentication through NetScaler](external-authentication-through-netscaler.md)
 - [Optimal NetScaler Gateway routing](optimal-netscaler-gateway-routing.md)

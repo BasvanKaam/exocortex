@@ -17,7 +17,9 @@ From his own field experience, mid-sized to larger companies commonly have at le
 
 ## Verwante notities
 
+- [Application virtualisation tops out around 70-80% in practice](app-virtualisation-ceiling-70-80.md)
 - [Three flavours of application delivery in XenDesktop/XenApp](application-delivery-three-flavours.md)
+- [Application layering complements, does not replace, app virtualization](application-layering-vs-virtualization.md)
 - [Bas on the pros of application layering](bas-pros-of-application-layering.md)
 - [Bas on the 'big, bad image' problem](bas-the-big-bad-base-image.md)
 - [Bas's reframe: call them 'traditional' applications, not 'Legacy'](bas-traditional-not-legacy-applications.md)

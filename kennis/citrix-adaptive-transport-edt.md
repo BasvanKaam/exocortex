@@ -15,6 +15,8 @@ As of XenDesktop 7.13, Adaptive Transport (also known as Enlightened Data Transp
 
 ## Verwante notities
 
+- [Citrix HDX display codecs and their confusing alternate names](citrix-hdx-display-codecs-overview.md)
+- [EDT and HDX.next milestones announced at Summit 2017](citrix-summit-2017-edt-hdx-gains.md)
 - [Framehawk: ICA over lossy, high-latency networks](framehawk.md)
 - [HDX is not a replacement for ICA](hdx-not-a-replacement-for-ica.md)
 - [Session Reliability, Auto Client Reconnect and ICA Keep-Alive](session-reliability-and-auto-reconnect.md)

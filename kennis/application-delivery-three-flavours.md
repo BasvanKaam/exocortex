@@ -23,6 +23,7 @@ FMA fact: Bas deliberately says 'true' application virtualisation because soluti
 
 - [App-V management from Citrix Studio (XenDesktop 7.8)](app-v-in-xendesktop-7-8.md)
 - [Application delivery: layering vs virtualisation, and AppDisks](application-delivery-layering-vs-virtualisation.md)
+- [Application layering complements, does not replace, app virtualization](application-layering-vs-virtualization.md)
 - [Bas's key takeaways on application delivery and layering](bas-key-takeaways-application-delivery.md)
 - [Bas: only ~50-60% of apps can be virtualised](bas-on-virtualisation-coverage-50-60-percent.md)
 - [Bas on the 'big, bad image' problem](bas-the-big-bad-base-image.md)

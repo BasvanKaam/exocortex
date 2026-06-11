@@ -28,5 +28,6 @@ As of XenDesktop 7.7, Zones returned, but FMA Zones differ architecturally from 
 - [Delivery Controller vs Data Collector differences](delivery-controller-vs-data-collector.md)
 - [The evolution of the FlexCast Management Architecture](evolution-of-the-fma.md)
 - [FMA Controllers differ fundamentally from IMA Data Collectors](fma-vs-ima-controller-differences.md)
+- [FMA vs IMA: no Zones, no Data Collectors, no Local Host Cache (2013)](fma-vs-ima-no-zones-no-lhc.md)
 - [IMA-to-FMA terminology mapping table](ima-vs-fma-terminology-mapping.md)
 - [Zones in the FMA are not the same as IMA 6.5 Zones](zones-fma-vs-ima.md)

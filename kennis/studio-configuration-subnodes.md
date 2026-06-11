@@ -31,3 +31,4 @@ Under the Configuration node:
 - [Citrix Studio: the central management console](citrix-studio-overview.md)
 - [Microsoft App-V components and licensing with Citrix](microsoft-app-v-with-citrix.md)
 - [Citrix Studio console root nodes](studio-console-root-nodes.md)
+- [Everything you do in Studio is PowerShell underneath](studio-is-powershell-underneath.md)

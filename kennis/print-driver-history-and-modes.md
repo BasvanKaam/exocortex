@@ -31,5 +31,8 @@ FMA fact / Bas's advice: print driver isolation is often used for troubleshootin
 - [EMF vs XPS print file formats](emf-vs-xps-print-formats.md)
 - [Microsoft print file formats: EMF vs XPS](microsoft-print-formats-emf-xps.md)
 - [Bas's print driver best practices](print-driver-best-practices.md)
+- [Print Driver Isolation modes and the Citrix Print Management Service](print-driver-isolation-and-citrix-print-mgmt.md)
+- [Print driver isolation: None, Shared, Isolated](print-driver-isolation-modes.md)
 - [Print spooling: local vs remote](print-spooling-local-vs-remote.md)
 - [Print-related troubleshooting tools (Print Detective, UPS Cert Tool, StressPrinters)](print-troubleshooting-tools.md)
+- [Print spooling and the kernel-mode to user-mode driver history](windows-print-spooling-and-driver-history.md)

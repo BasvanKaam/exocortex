@@ -24,3 +24,4 @@ bron: inside-citrix-fma
 - [Citrix Universal Print Server (UPS)](citrix-universal-print-server.md)
 - [Bas's print driver best practices](print-driver-best-practices.md)
 - [Print driver versions and Print Driver Isolation](print-driver-history-and-modes.md)
+- [Tools are fine, but understand the architecture before you troubleshoot](printing-troubleshooting-understand-architecture-first.md)

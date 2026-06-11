@@ -36,6 +36,7 @@ Under "Minder voor de hand liggend" Bas catalogues the under-discussed constrain
 - [Paper conclusion: Cloud only? Maybe never](bas-paper-conclusion-cloud-only-never.md)
 - [Bas on the future limits of self-hosting your own data growth](bas-self-hosting-data-growth-limit.md)
 - [Cloud's origin around 2006 (Bas's paper, written 2020)](cloud-origin-around-2006-paper.md)
+- [Prediction: more cloud outages as datacenters hit capacity](cloud-outages-and-capacity-prediction.md)
 - [Cloud providers build their own servers and hypervisors](cloud-providers-build-own-servers-hypervisor.md)
 - [Core cloud building blocks: datacenter, virtualization, APIs, storage, databases, elasticity](core-cloud-components-and-concepts.md)
 - [Global cloud scale: regions, zones, and which continent has no datacenters](global-scale-regions-zones-datacenters.md)

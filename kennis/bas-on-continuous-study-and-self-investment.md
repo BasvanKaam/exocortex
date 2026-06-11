@@ -26,6 +26,7 @@ His argument: an IT leader must understand at least something of the cloud dynam
 - [Bas's Closing Reflection: Good Questions Always Move You Forward](bas-closing-reflection-good-questions.md)
 - [Bas: IaC Creates Dangerous Key-Person Dependency](bas-iac-key-person-risk.md)
 - [Bas's comfort-zone war story: the presentation training](bas-on-stepping-out-of-comfort-zone.md)
+- [Bas's research workflow: pen-and-paper first, then digitalise](bas-pen-to-digital-research-workflow.md)
 - [Bas on growth: lean into strengths, nudge weaknesses, and ask questions](bas-play-to-your-strengths.md)
 - [Bas's reading habit: the 10-pages-a-morning method](bas-reading-habit-and-method.md)
 - [Bas's recommended reading list](bas-recommended-booklist.md)
@@ -36,3 +37,4 @@ His argument: an IT leader must understand at least something of the cloud dynam
 - [Key Takeaways Ch.15: the modern IT professional](key-takeaways-it-professional-and-cloud.md)
 - [The Learning Pyramid (National Training Laboratories)](learning-pyramid.md)
 - [Podcasts as a learning channel for Cloud and EUC](podcasts-for-cloud-euc.md)
+- [Re-doing the full cert path from the bottom isn't a bad idea, even for seniors](start-from-the-bottom-even-if-senior.md)

@@ -20,5 +20,6 @@ FMA fact Bas highlights: because of Microsoft's licensing restrictions on deskto
 - [Citrix Workspace Cloud (CWC): a managed control plane over the FMA](citrix-workspace-cloud-overview.md)
 - [Bas's 2018 reframe: true VDI from the cloud and Microsoft licensing](daas-true-vdi-licensing-evolution.md)
 - [DaaS versus VDI](daas-vs-vdi.md)
+- [The key line between Essentials and full Citrix Cloud: VDA placement](essentials-vs-full-citrix-cloud-vda-placement.md)
 - [Microsoft SPLA and why true DaaS is restricted](microsoft-spla-daas-licensing-restriction.md)
 - [Microsoft VDA licenses and Software Assurance](microsoft-vda-license-software-assurance.md)

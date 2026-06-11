@@ -20,6 +20,7 @@ Certificate best practice: use third-party certificates for external inbound con
 ## Verwante notities
 
 - [Broker Service: XML, STA and the Principal Broker](broker-service-xml-sta-principal.md)
+- [The STA only comes into play when traffic traverses a NetScaler](citrix-sta-only-with-netscaler.md)
 - [External user authentication through NetScaler](external-authentication-through-netscaler.md)
 - [External launch process: Hosted Shared Desktop via NetScaler](external-launch-process-hsd-netscaler.md)
 - [NetScaler IP addresses: NSIP, SNIP and MIP](netscaler-ip-addresses-nsip-snip-mip.md)

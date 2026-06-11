@@ -23,8 +23,13 @@ Prior to StoreFront 3.5 all of this was configured manually in web.config; as of
 
 - [FMA Zones: architecture and purpose](fma-zones-architecture-and-purpose.md)
 - [Optimal NetScaler Gateway routing](optimal-netscaler-gateway-routing.md)
+- [How StoreFront and XenMobile App Controller aggregated apps via a trust](storefront-appcontroller-trust-aggregation.md)
 - [Bas's StoreFront chapter key takeaways](storefront-chapter-key-takeaways.md)
+- [StoreFront's powerful features shouldn't be locked behind web.config](storefront-config-should-be-in-the-gui.md)
 - [StoreFront high availability and Delivery Controller load balancing](storefront-ha-and-load-balancing.md)
+- [StoreFront Multi-Site aggregation, mapping and failover](storefront-multisite-aggregation.md)
 - [StoreFront over Web Interface, and StoreFront design notes](storefront-over-web-interface.md)
 - [StoreFront subscription storage, server groups and synchronization](storefront-subscription-storage-and-sync.md)
 - [StoreFront vs Web Interface user authentication](storefront-vs-web-interface-authentication.md)
+- [StoreFront features configured via web.config](storefront-webconfig-configuration.md)
+- [VMware Cloud Pod Architecture aggregates pods behind one entitlement layer](vmware-cloud-pod-architecture.md)

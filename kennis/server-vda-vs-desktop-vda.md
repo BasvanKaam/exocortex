@@ -30,6 +30,7 @@ The Server VDA is much more simplified and lightweight than earlier XA/ICA insta
 - [Desktop VDA core services: Citrix Desktop Service and Citrix ICA Service](desktop-vda-two-main-services.md)
 - [Microsoft RDS CALs and the XenApp vs XenDesktop split](microsoft-rds-cals-with-xenapp.md)
 - [PortICA / picaSvc2.exe: the critical VDA ICA service](portica-picasvc2-service.md)
+- [The Server VDA is the component everyone overlooked](positie-server-vda-overlooked.md)
 - [Single-User vs Multi-User VDI/DaaS](single-user-vs-multi-user-vdi-daas.md)
 - [Two VDA types and the single-user vs multi-user ICA stack](two-vda-types-ica-stack-difference.md)
 - [VDA install options and supported operating systems](vda-install-options-and-supported-os.md)

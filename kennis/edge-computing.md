@@ -19,6 +19,7 @@ Sensors collect real-time data, often to enable proactive maintenance: they gath
 
 - [Azure Stack HCI (renamed Azure Local): cloud in your own datacenter](azure-stack-hci-azure-local.md)
 - [Bas on the future limits of self-hosting your own data growth](bas-self-hosting-data-growth-limit.md)
+- [Citrix Octoblu: an everything-is-a-node IoT platform](citrix-octoblu-architecture.md)
 - [Core cloud building blocks: datacenter, virtualization, APIs, storage, databases, elasticity](core-cloud-components-and-concepts.md)
 - [Data unit hierarchy from bit to Geopbyte](data-unit-hierarchy-bit-to-geopbyte.md)
 - [FaaS / Serverless Computing Explained](faas-serverless-explained.md)

@@ -33,6 +33,7 @@ Note: Always-On logging for the print server and VDA printing subsystem can coll
 - [Citrix Director: monitoring and troubleshooting tool](citrix-director-overview.md)
 - [Citrix Insight Services: automated log analysis and health checks](citrix-insight-services.md)
 - [Citrix print troubleshooting tools](citrix-print-troubleshooting-tools.md)
+- [Citrix printing barely changed across 2018 releases](citrix-printing-stagnation-2018.md)
 - [Citrix Scout: the aggregating troubleshooting tool](citrix-scout-aggregator.md)
 - [Citrix Diagnostic Toolkit and Supportability Pack collections](citrix-toolset-collections.md)
 - [Print-related troubleshooting tools (Print Detective, UPS Cert Tool, StressPrinters)](print-troubleshooting-tools.md)

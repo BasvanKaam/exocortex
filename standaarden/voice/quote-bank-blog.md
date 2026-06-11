@@ -1,0 +1,88 @@
+# Quote-bank: blog (basvankaam.com, 2012-2023)
+
+Kenmerkende verbatim zinnen uit Bas zijn blog, per tijdvak. Ruw stemmateriaal voor calibratie, niet bewerken.
+
+## 2012-2014
+
+- "I'm no guru, I don't know everything and probably never will, and besides that I probably need to use Google as much as the next person, but who cares?! I certainly don't!"
+- "Of-course I'm just kidding, who could have missed that?!"
+- "Is it new technology? No. Is it improved? Definitely! Detailed overview? Scroll down!"
+- "The conclusion is as always, it all depends."
+- "because as all self respecting consultants will tell you, it all depends."
+- "Don't put all your eggs in one basket, though. Look at different vendors! Just because company X recommends product Y doesn't mean it's right for you."
+- "It took me a while to draw this, mainly because my Visio skills aren't that good. ... Please... don't be to hard on me, I don't use Visio that much ;-)"
+- "But first... I'm off to the French alps, again! I'm gonna watch the 2013 Tour the France (the Alpe d'Huez stage) and do a little biking my self of-course... Go Bauke!"
+- "Hey... Don't shoot the messenger."
+- "I couldn't have done it any better :-)"
+- "Again, I'm aware that I sound enthusiastic, perhaps a bit too enthusiastic (no, I'm not a Citrix employee and I don't get paid for writing this :-) but that's only because I am, I can't help it."
+- "I know, I get carried away sometimes, but you have to admit that there's a truth in there somewhere, right?"
+- "Let's just say that, for now, I'm in doubt. Please feel free to share your thoughts on the matter, I might need your help on this one!"
+- "Latency is king, the less you have the faster you'll infrastructure will be!"
+- "If you find any typo's, and I'm absolutely positive that you will, just ignore them!"
+- "to all network pro's out there, correct me if I'm wrong"
+- "it all depends (there it is again ;-)."
+- "it's a great add-on, but no HA, period."
+- "Remember where you read it first ;-)"
+
+## 2015-2017
+
+- "I like, no wait, I love lists… there, I’ve said it."
+- "I like printing. There, I've said it."
+- "I just assumed it would be fairly straightforward to convert a Word and/or .PDF document into a nicely formatted Kindle file. Boy was I wrong."
+- "till I found this useful hack (I know, it's actually a workaround, hack just makes it sound way cooler)"
+- "I've Googled for at least then 10 minutes ;-) so I might have missed out on the really good stuff."
+- "The demo showed on stage was 'mind-blowing' at least that's what Twitter told me."
+- "Although I've done some research and I've also spoken to a couple of Citrix technicians I'm still not a 100% sure on what I'm about to share next, though I'm probably close to 90 or 95% or so."
+- "Did you know that you can install the Virtual Delivery Agent (VDA) on the same machine as your Delivery Controller, StoreFront server and SQL Express database? Well, you can, it will and it is!"
+- "One is none, two is one. I think we are all familiar with this phrase, right?"
+- "Latency is king: the less you have, the faster your infrastructure will be!"
+- "Again, and as always, thank you for reading. To be continued..."
+- "And since I don't like to copy and paste images, I came up with my own Visio -- here you go:"
+- "If you feel I left anything out or perhaps explained incorrectly, please do let me know. I'm here to learn as well."
+- "It is my book, and as such it needs to look, feel and sound (or read) like me, at least that's the way I feel. Hopefully that is a good thing."
+- "Can I get a .PDF version of your book? -- No, there is no public .PDF version available. Please stop asking, I won't send you one."
+- "Don't ask what CUGC can do for you, but what you can do for CUGC!"
+- "It's important to understand the basics and work your way up from there. Walk before you run, or something to that extend."
+
+## 2018-2020
+
+- "Sounds too good to true? Well, it's not."
+- "Why join the navy if you can be a pirate?"
+- "I'm not going to bore you with marketing bs like the time and money you will save using a solution like this, maybe you will, maybe you won't, instead I'd like to focus on some of the bits and bytes involved"
+- "Traditional (Windows) applications still rule the universe - born in the 80's? You see what I did there, right?"
+- "classic/traditional (no, not legacy) on-premises"
+- "Is it perfect? No. Do you get a shiny polished dashboard with a ton of bells and whistles? Also no, but who cares?"
+- "While discounts will apply, it's still a shitload of money (and effort), in most cases – pardon my French."
+- "I will be the last one to tell or promise you that moving to the Cloud will save you money. It definitely could, but it's not a certainty by any means."
+- "What did I miss? To be continued..."
+- "That's it. Does it help?"
+- "the URL that has to be displayed is passed on via the ICA client, ahhum, sorry, I mean the Workspace App, of course."
+- "Step out of your comfort zone. It's where the magic happens, you know? If you do what you always did, you will get what you always got."
+- "the pen (still) is (and will always be) mightier than the keyboard."
+- "the building blocks of (Cloud) life."
+- "I'm a “whatever fits my customers use-case best” kind of guy, that's why I think of Cloud services as a potential solution to my problem or challenge, but that's it – It's no silver bullet."
+- "Effective? Eventually, yes. Efficient? Definitely not."
+- "As with WVD (the whole world suddenly has an interest in (Windows) Virtual Desktops, it's like they've never heard of VDI, DaaS, or something similar) the same thing might happen here"
+- "I'm afraid the post will become too long to read (TLTR)."
+- "It feels a bit like entering the Formula 1 of Windows Virtual Desktop solution providers."
+- "Tune in now to satisfy your appetite for EUC!"
+
+## 2021-2023
+
+- "Before I knew it, down the rabbit hole I went (a deep one). Getting an Xbox is one thing, but that's only step one."
+- "I used to be hardcore, but that was 20 years ago, or so. Unreal Tournament (I've won my share of prices), Counter Strike (played in a clan), and organizing my own LAN parties with friends and colleagues."
+- "Choices, choices... Or as I like to put it, first world problems!"
+- "Well, because I have some self-knowledge, I will probably want to upgrade ASAP after purchasing my initial (cheaper) set up :)"
+- "It can get expensive, fast."
+- "Like many, though the Dutch probably a bit more than others I have become a fan of F1 racing throughout the last couple of years."
+- "VDI Drones lets you benchmark and/or loadtest everything from 1 up to 10.000 machines with just a few mouse clicks. No scripting knowledge required."
+- "It is a portable .exe file (nice!) no installation or registration is required, just download the .exe and you are good to go."
+- "This way you can easily check if the Microsoft promised IOPS are indeed delivered by your Azure virtual machine (s), for example."
+- "The team over at VDI Drones (a.k.a. performance guru's) informed me about their latest (major) release; version 3.2."
+- "Autotune is probably one the coolest new features of the controller..."
+- "This checklist / cheat sheet is meant as a starting point to secure your Azure Virtual Desktop environment, with and without Nerdio."
+- "It is by no means my intention to provide you a list of all security features available today, so consider this document as a starting point, though it should get you quite far."
+- "Please, let me know what I need to add, change, remove or if you have other comments so we can keep this a work in progress."
+- "I hope this helps, thank you for reading!"
+- "Easy and secure access to applications and data is key in order to successfully work from home, especially these days."
+

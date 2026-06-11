@@ -24,4 +24,5 @@ Framehawk generally consumes more bandwidth and CPU than ThinWire compatibility 
 - [Multi-Stream ICA: true network-level QoS via separate TCP/IP ports](multi-stream-ica.md)
 - [Remote Display Analyzer: a community HDX codec tool](remote-display-analyzer.md)
 - [Session Reliability, Auto Client Reconnect and ICA Keep-Alive](session-reliability-and-auto-reconnect.md)
+- [Synergy 2015 wish-list: Workspace Cloud, X1, fix the GUIs, better monitoring](stance-synergy-2015-predictions.md)
 - [ThinWire compatibility mode: the low-footprint fallback for H.264](thinwire-compatibility-mode.md)

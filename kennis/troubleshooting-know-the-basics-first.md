@@ -29,6 +29,7 @@ His recurring point: by preparing yourself in times of 'peace' you save valuable
 ## Verwante notities
 
 - [Bas's troubleshooting philosophy: prepare in times of peace](bas-troubleshooting-philosophy-prepare-in-peace.md)
+- [The basics (almost) never change](basics-never-change-troubleshooting-philosophy.md)
 - [FMA Controllers differ fundamentally from IMA Data Collectors](fma-vs-ima-controller-differences.md)
 - [Don't forget old-school tools (NetStat, Ping, Tracert, Telnet)](old-school-troubleshooting-tools.md)
 - [Bas's troubleshooting and sizing philosophy](troubleshooting-and-sizing-philosophy.md)

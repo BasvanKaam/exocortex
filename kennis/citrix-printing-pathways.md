@@ -26,3 +26,4 @@ If the print server and XenApp server cannot communicate (e.g. different domains
 - [Citrix proximity printing](citrix-proximity-printing.md)
 - [Citrix Universal Print Driver (UPD)](citrix-universal-print-driver.md)
 - [Citrix Universal Print Server (UPS)](citrix-universal-print-server.md)
+- [Print architecture is decided by all elements combined, not one knob](print-architecture-is-all-elements-combined.md)

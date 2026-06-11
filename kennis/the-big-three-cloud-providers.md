@@ -26,6 +26,7 @@ Bas notes these figures were nearly identical a few years earlier; the three gro
 - [Microsoft Azure Profile and Strengths](azure-profile-strengths.md)
 - [Cloud Market Statistics (2024)](cloud-market-statistics-2024.md)
 - [No real standards across cloud providers; identical services, different names](cloud-providers-no-standards-naming.md)
+- [Same cloud service, different name per vendor](cloud-service-naming-differs-per-vendor.md)
 - [Choosing a CSP: Azure as the Default for Microsoft Shops](csp-platform-choice-azure-default.md)
 - [Gartner Magic Quadrants and the cloud-relevant ones](gartner-magic-quadrants.md)
 - [Google Cloud Platform Profile and Strengths](gcp-profile-strengths.md)

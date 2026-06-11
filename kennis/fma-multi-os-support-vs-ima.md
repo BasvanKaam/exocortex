@@ -17,4 +17,6 @@ Additionally, the Delivery Controller can run a different OS from the Session Ho
 
 ## Verwante notities
 
+- [Machine Catalogs and Delivery Groups: mixed-OS flexibility](catalogs-delivery-groups-mixed-os.md)
+- [Delivering five Windows generations from one infrastructure](five-generations-of-windows-one-infrastructure.md)
 - [IMA-to-FMA terminology mapping table](ima-vs-fma-terminology-mapping.md)

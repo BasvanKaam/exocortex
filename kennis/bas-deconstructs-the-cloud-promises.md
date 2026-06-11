@@ -41,6 +41,7 @@ Bas's summary: using cloud just to use cloud is not a valid reason, nor is using
 - [Bas's war story: writing book sections and key takeaways with ChatGPT](bas-writing-with-chatgpt-and-prompt.md)
 - [The 'Cloud because of the Cloud' syndrome and poor migration planning](cloud-because-of-cloud-syndrome.md)
 - [Common Cloud Concerns: Cost, Migration, Loss of Control](cloud-concerns-cost-and-control.md)
+- [Moving to the cloud does not automatically save money](cloud-does-not-automatically-save-money.md)
 - [Hyperscaler security investments and certifications](cloud-provider-security-investments.md)
 - [Bas's rule: define the Cloud before debating its pros and cons](define-cloud-before-debating-it.md)
 - [Fundamental principles of the Cloud (per NIST)](fundamental-cloud-principles-nist.md)

@@ -29,4 +29,5 @@ Studio offers basic troubleshooting: self-diagnostics tests on Delivery Groups, 
 - [Using PowerShell to check FMA service states](powershell-fma-service-checks.md)
 - [Citrix Studio Configuration sub-nodes](studio-configuration-subnodes.md)
 - [Citrix Studio console root nodes](studio-console-root-nodes.md)
+- [Everything you do in Studio is PowerShell underneath](studio-is-powershell-underneath.md)
 - [Bas's Studio and Zones chapter key takeaways](studio-zones-chapter-key-takeaways.md)

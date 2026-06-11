@@ -25,4 +25,5 @@ In 1997 it opened a new HQ in Fort Lauderdale, Florida, and **Mark Templeton** (
 - [Citrix Receiver: purpose and naming history](citrix-receiver-history-and-purpose.md)
 - [The origin of Citrix and the ICA protocol](history-of-citrix-and-ica.md)
 - [ICA protocol origin and the birth of Microsoft RDP](ica-protocol-origin-and-rdp.md)
+- [On Mark Templeton: it was about the company, not him](mark-templeton-leadership-tribute.md)
 - [Citrix Receiver / ICA Client detailed version timeline](receiver-detailed-version-timeline.md)

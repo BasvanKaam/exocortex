@@ -25,8 +25,12 @@ Design pointers he gives:
 
 - [Desktop Appliance sites for non-domain-joined machines](desktop-appliance-sites.md)
 - [Configuring Receiver connection information](receiver-connection-configuration-methods.md)
+- [StoreFront 2.0 replaces Web Interface (key features)](storefront-2-replaces-web-interface.md)
+- [How StoreFront and XenMobile App Controller aggregated apps via a trust](storefront-appcontroller-trust-aggregation.md)
 - [StoreFront authentication and resource enumeration traffic flow](storefront-authentication-traffic-flow.md)
 - [Bas's StoreFront chapter key takeaways](storefront-chapter-key-takeaways.md)
 - [StoreFront multi-Site: aggregation, user mapping and recovery sites](storefront-multi-site-aggregation-and-user-mapping.md)
+- [StoreFront over Web Interface is a good thing (April 2013)](storefront-over-web-interface-call.md)
 - [StoreFront vs Web Interface user authentication](storefront-vs-web-interface-authentication.md)
+- [StoreFront features configured via web.config](storefront-webconfig-configuration.md)
 - [XenApp Services URLs for legacy Receiver access](xenapp-services-urls-legacy-access.md)

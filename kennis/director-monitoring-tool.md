@@ -17,6 +17,8 @@ Director offers role-based delegated administration views, shows alerts/notifica
 
 ## Verwante notities
 
+- [Check FMA service health with PowerShell, not just Director](check-fma-services-with-powershell.md)
+- [The Citrix XenDesktop/XenApp 7.x troubleshooting toolset](citrix-7x-troubleshooting-toolset.md)
 - [Citrix Director: monitoring and troubleshooting tool](citrix-director-overview.md)
 - [Citrix Insight Services: automated log analysis and health checks](citrix-insight-services.md)
 - [Citrix Scout: the aggregating troubleshooting tool](citrix-scout-aggregator.md)
@@ -24,4 +26,6 @@ Director offers role-based delegated administration views, shows alerts/notifica
 - [Director, EdgeSight and historical data licensing](director-edgesight-and-licensing.md)
 - [Director SCOM and Insight Services integration](director-scom-and-insight-services-integration.md)
 - [HDX Monitor: HDX diagnostics tool](hdx-monitor-tool.md)
+- [Prefer PowerShell over the GUI for Citrix FMA work](powershell-over-gui-for-citrix.md)
+- [VMTurbo: control the datacenter, don't just monitor it](vmturbo-control-not-monitor.md)
 - [The three XenDesktop databases](xendesktop-three-databases.md)

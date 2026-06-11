@@ -25,8 +25,10 @@ His key warning: don't overdo the calculations. Even weeks of storage/compute ca
 
 - [Citrix Project Accelerator: web-based design guidance](citrix-project-accelerator.md)
 - [Bas on CPU over-commit and user baselines (light/medium/heavy)](cpu-overcommit-and-user-baselines.md)
+- [Firm believer in choice: spread options, but cap the platform count](firm-believer-in-choice-no-one-size-fits-all.md)
 - [Bas on IOPS, latency and storage sizing](iops-and-latency-fundamentals.md)
 - [MCS IOPS profile: ~1.6x PVS average, ~1.2x steady state](mcs-iops-vs-pvs.md)
+- [After disruptive patches, measure impact per workload instead of guessing](measure-dont-guess-capacity-after-patches.md)
 - [Sizing resources: XenDesktop Design Handbook and community calculators](sizing-resources-and-handbook.md)
 - [StoreFront server sizing and supported OSes](storefront-server-sizing.md)
 - [Bas's troubleshooting and sizing philosophy](troubleshooting-and-sizing-philosophy.md)

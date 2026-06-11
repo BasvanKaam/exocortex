@@ -21,6 +21,7 @@ Receiver matured from version 1.0 (2009) to 4.4 (GA December 2015). Only as of v
 
 - [Beacon-based Receiver connection routing](beacon-based-receiver-connection-routing.md)
 - [Citrix company history: from Citrus to WinFrame](citrix-company-history.md)
+- [Citrix Summit 2015: Receiver X1, Framehawk, XenMobile 10](citrix-summit-2015-announcements.md)
 - [The origin of Citrix and the ICA protocol](history-of-citrix-and-ica.md)
 - [Receiver for HTML5 as a fallback](html5-receiver-fallback.md)
 - [Bas's Citrix Receiver chapter key takeaways](receiver-chapter-key-takeaways.md)

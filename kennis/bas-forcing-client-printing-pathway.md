@@ -20,9 +20,13 @@ The exception to the rule (and Bas notes 'there always is'): if the print server
 ## Verwante notities
 
 - [Bas's checklist to speed up and clean up Citrix printing](bas-citrix-printing-optimization-checklist.md)
+- [Citrix client-printing pathway: spool on server, send back over ICA](citrix-client-printing-pathway.md)
+- [Citrix client vs network printing pathway](citrix-client-vs-network-printing-pathway.md)
 - [Citrix Print Management Service](citrix-print-management-service.md)
 - [Citrix printing pathways: client vs network](citrix-printing-pathways.md)
 - [Citrix printing pathways: client vs network](citrix-printing-pathways-client-vs-network.md)
+- [Forcing the client pathway for network printers, and when not to](forcing-client-pathway-direct-connections-policy.md)
 - [Multi-Stream ICA: true network-level QoS via separate TCP/IP ports](multi-stream-ica.md)
 - [Physical and software performance limits of the cloud](physical-and-software-cloud-performance-limits.md)
+- [Print architecture is decided by all elements combined, not one knob](print-architecture-is-all-elements-combined.md)
 - [Print spooling: local vs remote](print-spooling-local-vs-remote.md)

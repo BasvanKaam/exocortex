@@ -28,6 +28,7 @@ Originally built for VDI-based VMs, as of XenDesktop 7 MCS also supports provisi
 - [Machine Creation Services essentials](machine-creation-services-essentials.md)
 - [MCS desktop types: Pooled-Random, Pooled-Static, Dedicated](mcs-desktop-types.md)
 - [MCS Differencing Disk and Identity Disk](mcs-differencing-and-identity-disk.md)
+- [How Citrix MCS provisions VMs: snapshot, differencing disk, identity disk](mcs-how-it-works-disks.md)
 - [MCS supported hypervisor storage and thin provisioning limits](mcs-hypervisor-storage-support.md)
 - [Citrix Provisioning Services (PVS) overview](provisioning-services-overview.md)
 - [Personal vDisks (PvD)](pvs-personal-vdisks-pvd.md)

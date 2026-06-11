@@ -20,9 +20,11 @@ When a resource is launched through NetScaler Gateway, an STA ticket is requeste
 ## Verwante notities
 
 - [Broker Service: XML, STA and the Principal Broker](broker-service-xml-sta-principal.md)
+- [The STA only comes into play when traffic traverses a NetScaler](citrix-sta-only-with-netscaler.md)
 - [CWC authentication and credential handling security](cwc-authentication-credential-handling.md)
 - [External user authentication through NetScaler](external-authentication-through-netscaler.md)
 - [External launch process: Hosted Shared Desktop via NetScaler](external-launch-process-hsd-netscaler.md)
 - [FMA Broker Service (XML/STA) and its responsibilities](fma-broker-service.md)
+- [NetScaler Gateway remote-access traffic flow](netscaler-gateway-traffic-flow.md)
 - [NetScaler SNIP, STA tickets and certificate practice](netscaler-snip-and-sta.md)
 - [Optimal NetScaler Gateway routing](optimal-netscaler-gateway-routing.md)

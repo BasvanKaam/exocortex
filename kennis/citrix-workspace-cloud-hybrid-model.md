@@ -20,6 +20,7 @@ Bas argues CWC gets you close to desktop-OS-based DaaS: host the infrastructure 
 ## Verwante notities
 
 - [Citrix Service Provider (CSP) program](citrix-service-provider-program.md)
+- [Workspace Cloud lacked an on-prem control plane in 2015](citrix-workspace-cloud-control-plane-2015.md)
 - [Citrix Workspace Cloud (CWC): a managed control plane over the FMA](citrix-workspace-cloud-overview.md)
 - [The CWC Cloud Connector](cwc-cloud-connector.md)
 - [CWC as a near-DaaS workaround for Microsoft desktop-OS licensing](cwc-desktop-os-daas-licensing.md)

@@ -31,4 +31,5 @@ In his 2018 update he explicitly corrects himself: this is no longer true. DaaS 
 - [Microsoft CDL (Companion Desktop License)](microsoft-cdl-companion-device-license.md)
 - [Microsoft SPLA and why true DaaS is restricted](microsoft-spla-daas-licensing-restriction.md)
 - [Microsoft VDA licenses and Software Assurance](microsoft-vda-license-software-assurance.md)
+- [Microsoft is suddenly winning everything (2017 observation)](microsoft-winning-everything-2017.md)
 - [VDA license rules and Microsoft licensing nuances](vda-license-rules-microsoft-licensing.md)

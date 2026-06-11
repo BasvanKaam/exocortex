@@ -26,6 +26,7 @@ Bas's own summary list for the Studio/Zones chapter:
 - [Citrix Studio: the central management console](citrix-studio-overview.md)
 - [FMA Zones: architecture and purpose](fma-zones-architecture-and-purpose.md)
 - [IMA Zones vs. FMA Zones comparison](ima-zones-vs-fma-zones-comparison.md)
+- [New FMA features land in Citrix Workspace Cloud first, then on-prem](positie-zones-and-cloud-first-feature-flow.md)
 - [Citrix Studio console root nodes](studio-console-root-nodes.md)
 - [Zone connection quality limits (bandwidth and RTT)](zone-connection-quality-limits.md)
 - [Zones in the FMA are not the same as IMA 6.5 Zones](zones-fma-vs-ima.md)

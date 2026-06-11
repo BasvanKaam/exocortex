@@ -25,5 +25,7 @@ Bas's note: the CR isn't really new — it's basically the way things always wer
 - [Citrix editions, Subscription Advantage and Software Maintenance](citrix-editions-subscription-advantage-software-maintenance.md)
 - [Citrix license grace periods and supplemental grace period](citrix-license-grace-periods.md)
 - [Citrix licensing: user, device and concurrent](citrix-licensing-models.md)
+- [Citrix LTSR vs CR servicing model](citrix-ltsr-vs-cr-servicing.md)
 - [FMA evolution key dates](fma-evolution-key-dates.md)
+- [LTSR is the right call, but not for everybody](ltsr-is-not-for-everybody.md)
 - [Universal Print Server load balancing and HA (7.9)](ups-load-balancing-ha.md)

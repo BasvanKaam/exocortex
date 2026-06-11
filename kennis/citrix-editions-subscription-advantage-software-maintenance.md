@@ -22,4 +22,7 @@ Citrix also offers **Appliance Maintenance** for hardware support and replacemen
 ## Verwante notities
 
 - [Bas's take: the Current Release isn't really new](bas-current-release-not-really-new.md)
+- [Citrix support model shift to Customer Success Services](citrix-customer-success-services-2017.md)
+- [Citrix LTSR vs CR servicing model](citrix-ltsr-vs-cr-servicing.md)
 - [Citrix LTSR vs Current Release](citrix-ltsr-vs-current-release.md)
+- [Mandatory paid support is not a bad thing per se](customer-success-services-take.md)

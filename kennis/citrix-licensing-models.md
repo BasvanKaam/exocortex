@@ -27,5 +27,6 @@ A user/device license is applied as a token for both XenDesktop and XenApp even 
 - [Citrix Licensing components and FlexNet](citrix-licensing-components-and-flexnet.md)
 - [Citrix licensing key facts (Flexera, capacity, NetScaler)](citrix-licensing-key-facts-flexera.md)
 - [Citrix LTSR vs Current Release](citrix-ltsr-vs-current-release.md)
+- [Credit to Citrix for simplifying NetScaler licensing without a price grab](citrix-simplifying-licensing-praise.md)
 - [How the license server reassigns user/device licenses](license-server-user-device-reassignment-logic.md)
 - [NetScaler edition licenses and Pay-as-you-Grow](netscaler-adc-edition-licenses-pay-as-you-grow.md)

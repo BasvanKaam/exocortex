@@ -30,6 +30,7 @@ When XenApp joined the FMA in 2013, Bas notes fundamental architectural changes,
 
 - [Delivery Controller vs Data Collector differences](delivery-controller-vs-data-collector.md)
 - [The evolution of the FlexCast Management Architecture](evolution-of-the-fma.md)
+- [Excalibur is XenDesktop-centric and steals XenApp's thunder (April 2013)](excalibur-steals-xenapp-thunder.md)
 - [FMA Local Host Cache: Principal Broker, Secondary Broker (HA) and CSS](fma-local-host-cache-services.md)
 - [FMA Zones: architecture and purpose](fma-zones-architecture-and-purpose.md)
 - [Local Host Cache in XenApp 6.5 (IMA)](local-host-cache-ima.md)

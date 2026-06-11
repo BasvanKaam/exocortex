@@ -19,9 +19,16 @@ If the default method can't kick in (insufficient client CPU, or an older unsupp
 
 ## Verwante notities
 
+- [Blast Extreme: ports, TCP vs UDP, and GPU offload numbers](blast-extreme-network-and-gpu-behaviour.md)
+- [How VMware Blast Extreme worked (Horizon 7 era)](blast-extreme-protocol-internals.md)
 - [Citrix Adaptive Transport (Enlightened Data Transport / EDT)](citrix-adaptive-transport-edt.md)
+- [Citrix HDX display codecs and their confusing alternate names](citrix-hdx-display-codecs-overview.md)
 - [Citrix HDX: an extension to ICA, not a replacement](citrix-hdx-extends-ica.md)
 - [Framehawk: ICA over lossy, high-latency networks](framehawk.md)
+- [Framehawk and the Lightweight Framebuffer Protocol (LFP)](framehawk-lfp-protocol.md)
+- [Framehawk's Lightweight Framebuffer Protocol](framehawk-lfp-protocol-2.md)
+- [HDX Browser Content Redirection renders client-side via CEF](hdx-browser-content-redirection-cef.md)
+- [HDX extends ICA, it does not replace it](hdx-extends-ica-not-replaces.md)
 - [HDX is not a replacement for ICA](hdx-not-a-replacement-for-ica.md)
 - [What the ICA protocol does and its default ports](ica-protocol-fundamentals.md)
 - [Receiver communications, ICA handshake and virtual channels](receiver-ica-handshake-and-virtual-channels.md)

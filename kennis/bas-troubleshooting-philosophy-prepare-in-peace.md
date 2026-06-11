@@ -28,8 +28,10 @@ His memorable summary: 'prepare at times of peace,' because things will go wrong
 ## Verwante notities
 
 - [Bas's key takeaways on the user login process](bas-key-takeaways-user-login-process.md)
+- [The basics (almost) never change](basics-never-change-troubleshooting-philosophy.md)
 - [Citrix Scout: the aggregating troubleshooting tool](citrix-scout-aggregator.md)
 - [Don't forget old-school tools (NetStat, Ping, Tracert, Telnet)](old-school-troubleshooting-tools.md)
+- [Tools are fine, but understand the architecture before you troubleshoot](printing-troubleshooting-understand-architecture-first.md)
 - [Bas's troubleshooting and sizing philosophy](troubleshooting-and-sizing-philosophy.md)
 - [Bas's general troubleshooting tips (facts, not guesses)](troubleshooting-general-tips-bas.md)
 - [Investigate, Analyse, Implement: Bas's structured troubleshooting approach](troubleshooting-investigate-analyse-implement.md)

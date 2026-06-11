@@ -24,6 +24,8 @@ You can configure as many Unified Gateway vServers as needed. Bas advises consid
 
 - [External user authentication through NetScaler](external-authentication-through-netscaler.md)
 - [NetScaler ADC vs NetScaler Gateway](netscaler-adc-vs-gateway.md)
+- [NetScaler content switching: one entry point, many back ends](netscaler-content-switching-basics.md)
+- [Content switching policy types and Unified Gateway](netscaler-cs-policy-types-and-unified-gateway.md)
 - [NetScaler IP addresses: NSIP, SNIP and MIP](netscaler-ip-addresses-nsip-snip-mip.md)
 - [NetScaler SSL certificates and certificate trust](netscaler-ssl-certificates-and-trust.md)
 - [NetScaler SSL offloading and DMZ placement](netscaler-ssl-offload-dmz.md)

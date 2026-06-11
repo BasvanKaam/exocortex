@@ -20,9 +20,11 @@ Delivery Controllers (FMA) have no LHC, so they always contact the Central Site 
 ## Verwante notities
 
 - [The Central Site database in the FMA](central-site-database-fma.md)
+- [Connection Leasing is not Local Host Cache, and it's not HA](cl-is-not-lhc-and-not-ha.md)
 - [Connection Leasing mechanism](connection-leasing-mechanism.md)
 - [Delivery Controller vs Data Collector differences](delivery-controller-vs-data-collector.md)
 - [FMA architectural casualties: Zones, LHC and Worker Groups removed then re-added](fma-architectural-changes-zones-lhc-removed.md)
 - [FMA Local Host Cache: Principal Broker, Secondary Broker (HA) and CSS](fma-local-host-cache-services.md)
 - [IMA-to-FMA terminology mapping table](ima-vs-fma-terminology-mapping.md)
 - [IMA Zones vs. FMA Zones comparison](ima-zones-vs-fma-zones-comparison.md)
+- [How Local Host Cache works in the FMA](local-host-cache-712-architecture.md)

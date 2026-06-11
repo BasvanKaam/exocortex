@@ -29,6 +29,8 @@ Bas singles out the Azure Global Administrator as a role to handle carefully.
 
 ## Verwante notities
 
+- [Immutable names and per-VM RDP endpoints in classic Azure](azure-classic-immutable-names-and-rdp-endpoints.md)
+- [Correct build order for an early Azure test lab](azure-classic-test-lab-build-order.md)
 - [Azure Files: a cloud NAS, plus Azure File Sync for hybrid](azure-files-cloud-nas.md)
 - [Azure high-availability building blocks](azure-high-availability-building-blocks.md)
 - [Microsoft Azure Profile and Strengths](azure-profile-strengths.md)

@@ -16,6 +16,7 @@ To convey the sheer size of cloud infrastructure, Bas references an image of an 
 ## Verwante notities
 
 - [ARPANET (1969): the birth of networking](arpanet-birth-of-networks.md)
+- [Prediction: more cloud outages as datacenters hit capacity](cloud-outages-and-capacity-prediction.md)
 - [Cloud providers build their own servers and hypervisors](cloud-providers-build-own-servers-hypervisor.md)
 - [The less-obvious challenges of building datacenters](datacenter-hidden-challenges.md)
 - [Global cloud scale: regions, zones, and which continent has no datacenters](global-scale-regions-zones-datacenters.md)

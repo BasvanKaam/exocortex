@@ -30,3 +30,4 @@ FlexCast desktop delivery models:
 - [Citrix Provisioning Services (PVS) overview](provisioning-services-overview.md)
 - [Single-User vs Multi-User VDI/DaaS](single-user-vs-multi-user-vdi-daas.md)
 - [The five VDI workload phases and boot/logon storms](vdi-five-phases-storms.md)
+- [VIAB vs XenDesktop: simplicity vs flexibility tradeoffs (2013)](viab-vs-xendesktop-tradeoffs.md)

@@ -23,6 +23,7 @@ As part of a hybrid strategy it lets companies run certain workloads on-prem whi
 
 ## Verwante notities
 
+- [AWS Outposts: native AWS services in your own datacenter](aws-outposts-hybrid-native-services-on-prem.md)
 - [Microsoft Azure Profile and Strengths](azure-profile-strengths.md)
 - [Paper conclusion: Cloud only? Maybe never](bas-paper-conclusion-cloud-only-never.md)
 - [Bas on the future limits of self-hosting your own data growth](bas-self-hosting-data-growth-limit.md)

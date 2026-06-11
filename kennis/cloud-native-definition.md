@@ -28,4 +28,5 @@ Key benefits the book lists: no dependency on specific infrastructure (workloads
 - [Exit flexibility depends on the cloud service model (IaaS/SaaS/PaaS)](cloud-exit-flexibility-by-service-model.md)
 - [FaaS / Serverless Computing Explained](faas-serverless-explained.md)
 - [Infrastructure as Code (IaC) and Its Benefits](infrastructure-as-code-basics.md)
+- [Loose coupling as a core Cloud design principle](loose-coupling-cloud-architecture.md)
 - [Bas: Saying You're Cloud-Native vs Actually Being It](saying-cloud-native-vs-being-it.md)

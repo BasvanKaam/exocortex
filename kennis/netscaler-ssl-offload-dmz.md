@@ -17,6 +17,8 @@ Beyond SSL offloading, the NetScaler also does SSL and TCP multiplexing and supp
 
 ## Verwante notities
 
+- [Fewer components in the DMZ is more secure (durable principle)](fewer-components-in-dmz-is-more-secure.md)
+- [Getting the XenMobile MDM server out of the DMZ was overdue and underdiscussed](mdm-out-of-dmz-relief.md)
 - [NetScaler ADC vs NetScaler Gateway](netscaler-adc-vs-gateway.md)
 - [NetScaler appliance models: VPX, MPX, SDX, CPX](netscaler-appliance-models-vpx-mpx-sdx-cpx.md)
 - [NetScaler IP addresses: NSIP, SNIP and MIP](netscaler-ip-addresses-nsip-snip-mip.md)

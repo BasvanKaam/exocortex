@@ -22,6 +22,7 @@ Once a user/device license is assigned it stays assigned for a minimum of **90 d
 - [Formula for sizing user/device licenses](calculating-citrix-license-count-formula.md)
 - [Citrix license grace periods and supplemental grace period](citrix-license-grace-periods.md)
 - [Citrix license types: user, device and concurrent](citrix-license-types-user-device-concurrent.md)
+- [Citrix user, device and concurrent licenses](citrix-license-types-user-device-concurrent-2.md)
 - [Citrix Licensing components and FlexNet](citrix-licensing-components-and-flexnet.md)
 - [Citrix licensing: user, device and concurrent](citrix-licensing-models.md)
 - [Startup license and the license checkout process](citrix-startup-license-and-checkout.md)

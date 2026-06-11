@@ -19,6 +19,7 @@ The idea for EC2 came from challenges Benjamin Black and Chris Pinkham faced man
 
 - [ARPANET (1969): the birth of networking](arpanet-birth-of-networks.md)
 - [AWS Profile and Strengths](aws-profile-strengths.md)
+- [Snowball Edge: from data-transfer box to local compute](aws-snowball-edge-compute-variants.md)
 - [Milestones in the development of Cloud computing](cloud-computing-milestones-timeline.md)
 - [Cloud's origin around 2006 (Bas's paper, written 2020)](cloud-origin-around-2006-paper.md)
 - [Evolution of Cloud architectures (timesharing to hybrid)](evolution-of-cloud-architectures.md)

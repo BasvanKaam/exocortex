@@ -29,6 +29,7 @@ Bas's moral: do something you are not comfortable with, take on the challenge, s
 
 ## Verwante notities
 
+- [Taking the stage: Bas pushes past his fear of public speaking](bas-conquering-fear-public-speaking.md)
 - [Bas on continuous study and self-investment](bas-on-continuous-study-and-self-investment.md)
 - [Bas on growth: lean into strengths, nudge weaknesses, and ask questions](bas-play-to-your-strengths.md)
 - [Bas's recommended reading list](bas-recommended-booklist.md)
@@ -37,5 +38,7 @@ Bas's moral: do something you are not comfortable with, take on the challenge, s
 - [Bas: the cloud doesn't make people redundant, it frees them for better work](cloud-frees-people-for-better-work.md)
 - [Why people choose nomad life — and its downsides](digital-nomad-reasons-and-downsides.md)
 - [E2EVC traditions: grandfathers and the networking game](e2evc-grandfathers-and-networking-game.md)
+- [Say yes to the unknown, learn to say no, leave the comfort zone](say-yes-say-no-comfort-zone.md)
+- [Writing the FMA book was brutal but never regretted](self-publishing-fma-book-worth-it.md)
 - [Bas on the value of IT communities](value-of-it-communities.md)
 - [Where The Magic Happens and Het Laaghangend Fruit](where-the-magic-happens-laaghangend-fruit.md)

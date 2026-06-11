@@ -22,9 +22,11 @@ Citrix advises PvDs for no more than ~100 to 125 machines to avoid complexity; b
 ## Verwante notities
 
 - [Bas's questions before choosing a layering solution](bas-layering-questions-to-ask.md)
+- [Citrix AppDisks was built on PvD and shipped machine-only first](citrix-appdisks-pvd-roots.md)
 - [Machine Creation Services (MCS): integrated single-image delivery](machine-creation-services-overview.md)
 - [MCS desktop types: Pooled-Random, Pooled-Static, Dedicated](mcs-desktop-types.md)
 - [MCS Differencing Disk and Identity Disk](mcs-differencing-and-identity-disk.md)
+- [Positie: Personal vDisk is great and underappreciated](positie-pvd-underappreciated.md)
 - [Bas's PVS key takeaways and best-practice asides](provisioning-services-key-takeaways.md)
 - [Citrix Provisioning Services (PVS) overview](provisioning-services-overview.md)
 - [PVS provisioning wizards: streamed VM and XenDesktop setup](pvs-provisioning-wizards.md)

@@ -21,6 +21,7 @@ FMA fact: set up at least two Cloud Connectors per Resource Location for HA. No 
 
 ## Verwante notities
 
+- [Citrix Managed Desktop: single-bill DaaS on Citrix-managed Azure](citrix-managed-desktop-model-2019.md)
 - [Citrix Workspace Cloud as the hybrid bridge](citrix-workspace-cloud-hybrid-model.md)
 - [Citrix Workspace Cloud (CWC): a managed control plane over the FMA](citrix-workspace-cloud-overview.md)
 - [CWC authentication and credential handling security](cwc-authentication-credential-handling.md)

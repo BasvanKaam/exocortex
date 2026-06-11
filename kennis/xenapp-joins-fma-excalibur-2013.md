@@ -28,6 +28,9 @@ His framing of the consequences:
 ## Verwante notities
 
 - [The evolution of the FlexCast Management Architecture](evolution-of-the-fma.md)
+- [Early bullish take on Excalibur: impressive, simplified, the right direction](excalibur-impressed-early-take.md)
+- [Excalibur merges XenApp and XenDesktop onto FMA](excalibur-merges-xenapp-xendesktop-fma.md)
 - [FMA architectural casualties: Zones, LHC and Worker Groups removed then re-added](fma-architectural-changes-zones-lhc-removed.md)
 - [IMA-to-FMA terminology mapping table](ima-vs-fma-terminology-mapping.md)
+- [Server 2012 .NET 3.5 Feature on Demand install gotcha (how it worked then)](server-2012-net35-feature-on-demand-gotcha.md)
 - [Server VDA vs Desktop VDA: the often-overlooked new component](server-vda-vs-desktop-vda.md)

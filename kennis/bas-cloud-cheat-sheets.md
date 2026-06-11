@@ -23,4 +23,6 @@ Bas recounts that he previously built several 'Cheat Sheets' listing commonly us
 - [Bas's teaching philosophy: action and presenting beat passive reading](bas-teaching-philosophy-action-and-presenting.md)
 - [No real standards across cloud providers; identical services, different names](cloud-providers-no-standards-naming.md)
 - [Cloud service models: SaaS, PaaS, IaaS, DaaS](cloud-service-models-saas-paas-iaas-daas.md)
+- [Same cloud service, different name per vendor](cloud-service-naming-differs-per-vendor.md)
+- [How the conferencing cheat sheet was researched](conferencing-cheat-sheet-method.md)
 - [No universal Cloud standard, and the vendor lock-in problem](no-universal-cloud-standard-vendor-lock-in.md)

@@ -19,8 +19,11 @@ There are three ADC platform licenses (Standard, Enterprise, Platinum) plus a se
 
 ## Verwante notities
 
+- [NetScaler 10.5 made ICA proxy built-in and unlimited](netscaler-105-ica-proxy-built-in.md)
 - [NetScaler edition licenses and Pay-as-you-Grow](netscaler-adc-edition-licenses-pay-as-you-grow.md)
 - [NetScaler ADC vs NetScaler Gateway](netscaler-adc-vs-gateway.md)
+- [NetScaler ADC vs Gateway: same box, different license](netscaler-adc-vs-gateway-licensing.md)
 - [NetScaler appliance models: VPX, MPX, SDX, CPX](netscaler-appliance-models-vpx-mpx-sdx-cpx.md)
+- [NetScaler HA pair: heartbeats, failover and config replication](netscaler-ha-pair-fundamentals.md)
 - [NetScaler high availability and clustering](netscaler-high-availability-clustering.md)
 - [NetScaler SSL offloading and DMZ placement](netscaler-ssl-offload-dmz.md)

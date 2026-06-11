@@ -32,6 +32,7 @@ FMA fact: the STA ticket is generated and sent back after a user launches an app
 - [External user authentication through NetScaler](external-authentication-through-netscaler.md)
 - [FMA Broker Service (XML/STA) and its responsibilities](fma-broker-service.md)
 - [Internal launch process: pooled VDI VM via StoreFront](internal-launch-process-pooled-vdi.md)
+- [NetScaler Gateway remote-access traffic flow](netscaler-gateway-traffic-flow.md)
 - [NetScaler SNIP, STA tickets and certificate practice](netscaler-snip-and-sta.md)
 - [Optimal NetScaler Gateway routing](optimal-netscaler-gateway-routing.md)
 - [The Secure Ticket Authority (STA)](secure-ticket-authority-sta.md)

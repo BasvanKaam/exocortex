@@ -29,4 +29,5 @@ Bas notes FaaS is relatively rare in practice, usually less suited to smaller or
 - [Core cloud building blocks: datacenter, virtualization, APIs, storage, databases, elasticity](core-cloud-components-and-concepts.md)
 - [Edge computing and Edge-nodes](edge-computing.md)
 - [Google Cloud cost management and optimisation tools](gcp-cost-management-tools.md)
+- [Loose coupling as a core Cloud design principle](loose-coupling-cloud-architecture.md)
 - [Obvious cloud trends (multi-cloud, edge, zero trust, serverless, green)](obvious-cloud-trends-list.md)

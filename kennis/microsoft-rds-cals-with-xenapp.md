@@ -26,5 +26,6 @@ Side note: when XenApp is used only to stream packaged applications down to a vi
 - [Microsoft CDL (Companion Desktop License)](microsoft-cdl-companion-device-license.md)
 - [Microsoft SPLA and why true DaaS is restricted](microsoft-spla-daas-licensing-restriction.md)
 - [Microsoft VDA licenses and Software Assurance](microsoft-vda-license-software-assurance.md)
+- [Microsoft VDA vs RDS licensing for Citrix](microsoft-vda-rds-licensing-for-citrix.md)
 - [Server VDA vs Desktop VDA: the often-overlooked new component](server-vda-vs-desktop-vda.md)
 - [VDA license rules and Microsoft licensing nuances](vda-license-rules-microsoft-licensing.md)

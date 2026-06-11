@@ -17,6 +17,7 @@ When application virtualisation is not an option (forcing apps into the base ima
 
 ## Verwante notities
 
+- [The key line between Essentials and full Citrix Cloud: VDA placement](essentials-vs-full-citrix-cloud-vda-placement.md)
 - [Host Connections now support cloud, not just hypervisors](host-connections-cloud-support.md)
 - [Machine Creation Services (MCS): integrated single-image delivery](machine-creation-services-overview.md)
 - [Bas on MCS, workloads and the case for application layering](mcs-application-workloads-layering.md)

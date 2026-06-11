@@ -15,9 +15,12 @@ HDX Monitor provides detailed diagnostics on all current HDX technologies. Versi
 
 ## Verwante notities
 
+- [The Citrix XenDesktop/XenApp 7.x troubleshooting toolset](citrix-7x-troubleshooting-toolset.md)
 - [Citrix Director: monitoring and troubleshooting tool](citrix-director-overview.md)
+- [Citrix HDX display codecs and their confusing alternate names](citrix-hdx-display-codecs-overview.md)
 - [Citrix Insight Services: automated log analysis and health checks](citrix-insight-services.md)
 - [Citrix Scout: the aggregating troubleshooting tool](citrix-scout-aggregator.md)
 - [Citrix Diagnostic Toolkit and Supportability Pack collections](citrix-toolset-collections.md)
 - [Director and built-in EdgeSight](director-monitoring-tool.md)
 - [Remote Display Analyzer: a community HDX codec tool](remote-display-analyzer.md)
+- [VMTurbo: control the datacenter, don't just monitor it](vmturbo-control-not-monitor.md)

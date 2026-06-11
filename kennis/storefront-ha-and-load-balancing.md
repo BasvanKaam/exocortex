@@ -25,5 +25,6 @@ Up to StoreFront 3.5 you edited web.config manually, e.g. the farm line with loa
 - [NetScaler vServers, service objects and server objects](netscaler-virtual-server-service-server-objects.md)
 - [The 'one is none' rule and Delivery Controller high availability](one-is-none-delivery-controller-ha.md)
 - [StoreFront multi-Site: aggregation, user mapping and recovery sites](storefront-multi-site-aggregation-and-user-mapping.md)
+- [StoreFront Multi-Site aggregation, mapping and failover](storefront-multisite-aggregation.md)
 - [StoreFront server sizing and supported OSes](storefront-server-sizing.md)
 - [StoreFront subscription storage, server groups and synchronization](storefront-subscription-storage-and-sync.md)

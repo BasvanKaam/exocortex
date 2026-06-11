@@ -24,5 +24,6 @@ FMA fact: Optimal NetScaler Gateway routing changes this, routing the user's ICA
 - [External launch process: Hosted Shared Desktop via NetScaler](external-launch-process-hsd-netscaler.md)
 - [NetScaler Unified Gateway](netscaler-unified-gateway.md)
 - [NetScaler vServers, service objects and server objects](netscaler-virtual-server-service-server-objects.md)
+- [Split tunneling's convenience carries a real, not far-fetched, security risk](positie-split-tunneling-security-tradeoff.md)
 - [The Secure Ticket Authority (STA)](secure-ticket-authority-sta.md)
 - [StoreFront multi-Site: aggregation, user mapping and recovery sites](storefront-multi-site-aggregation-and-user-mapping.md)

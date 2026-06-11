@@ -19,6 +19,7 @@ The podcast overview he lists includes: The Cloudcast, AWS Podcast, Google Cloud
 
 - [Bas on continuous study and self-investment](bas-on-continuous-study-and-self-investment.md)
 - [Bas's take on Twitter/X and Bluesky for following experts](bas-on-twitter-x-and-bluesky.md)
+- [Three foundational cloud certs (2019)](cloud-foundation-certs-2019.md)
 - [Citrix/EUC community podcasts](euc-citrix-community-podcasts.md)
 - [Following Cloud and EUC experts on X (Twitter)](following-experts-on-x-twitter.md)
 - [Local communities and Meetup; Dutch community examples](local-communities-and-meetup.md)

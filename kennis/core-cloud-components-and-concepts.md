@@ -25,6 +25,7 @@ Bas's overview of foundational cloud components:
 - [Bas's war story: SAN/NAS data migrations were weeks of nightmares](bas-san-nas-nightmares.md)
 - [Cloud delivery models: IaaS, PaaS, SaaS and DaaS](cloud-delivery-models-iaas-paas-saas-daas.md)
 - [Cloud providers build their own servers and hypervisors](cloud-providers-build-own-servers-hypervisor.md)
+- [Same cloud service, different name per vendor](cloud-service-naming-differs-per-vendor.md)
 - [Data unit hierarchy from bit to Geopbyte](data-unit-hierarchy-bit-to-geopbyte.md)
 - [The less-obvious challenges of building datacenters](datacenter-hidden-challenges.md)
 - [Edge computing and Edge-nodes](edge-computing.md)

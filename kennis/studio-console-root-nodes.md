@@ -27,6 +27,7 @@ Walking Studio's console root top to bottom:
 - [Citrix AppDisks: application layering for golden images](citrix-appdisks-application-layering.md)
 - [Citrix Site policies: Entitlement, Assignment, Site Access](citrix-site-policies-powershell.md)
 - [Citrix Studio: the central management console](citrix-studio-overview.md)
+- [Excalibur's Catalog + Delivery Group model (how XD7 worked at launch)](excalibur-catalogs-delivery-groups-model.md)
 - [Machine Creation Services (MCS): integrated single-image delivery](machine-creation-services-overview.md)
 - [StoreFront resource subscription and Keywords](storefront-resource-subscription-keywords.md)
 - [Citrix Studio Configuration sub-nodes](studio-configuration-subnodes.md)

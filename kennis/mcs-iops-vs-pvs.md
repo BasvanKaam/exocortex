@@ -27,6 +27,7 @@ Reads cache very well: don't be surprised to hit a read cache ratio of 75% or hi
 - [MCS Differencing Disk and Identity Disk](mcs-differencing-and-identity-disk.md)
 - [MCS supported hypervisor storage and thin provisioning limits](mcs-hypervisor-storage-support.md)
 - [Why MCS image updates matter: every master VM is re-copied to every datastore](mcs-image-update-repeats-full-copy.md)
+- [MCS planning: master-VM count x data-store count x update frequency](mcs-storage-and-update-cycle-cost.md)
 - [Bas's MCS storage implications checklist](mcs-storage-implications.md)
 - [Tools and PerfMon counters for measuring IOPS](measuring-iops-tools-and-counters.md)
 - [RAM Cache with Overflow to Disk slashes IOPS](ram-cache-overflow-to-disk.md)

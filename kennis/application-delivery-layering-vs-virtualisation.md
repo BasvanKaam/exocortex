@@ -24,6 +24,7 @@ His nuance: application layering is not a direct replacement for application vir
 ## Verwante notities
 
 - [App-V management from Citrix Studio (XenDesktop 7.8)](app-v-in-xendesktop-7-8.md)
+- [Limited AppDNA in XD7 is still a smart inclusion](appdna-in-xd7-limited-but-good-direction.md)
 - [Three flavours of application delivery in XenDesktop/XenApp](application-delivery-three-flavours.md)
 - [Bas's key takeaways on application delivery and layering](bas-key-takeaways-application-delivery.md)
 - [Bas's questions before choosing a layering solution](bas-layering-questions-to-ask.md)

@@ -29,4 +29,5 @@ He goes a step further and leans on the pyramid's top method, teaching others (9
 - [Bas's reading habit: the 10-pages-a-morning method](bas-reading-habit-and-method.md)
 - [The Learning Pyramid (National Training Laboratories)](learning-pyramid.md)
 - [Old School: why Bas insists on pen and paper in a cloud book](old-school-pen-and-paper-method.md)
+- [Switching monitor resolution from a Stream Deck via Display Changer](stream-deck-resolution-switch-display-changer.md)
 - [Why the book uses a fictional case](why-a-fictional-case.md)

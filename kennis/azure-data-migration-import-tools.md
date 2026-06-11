@@ -29,6 +29,7 @@ Each provider has its own toolset. As the AWS counterpart to Azure Data Box, Bas
 
 ## Verwante notities
 
+- [Snowball Edge: from data-transfer box to local compute](aws-snowball-edge-compute-variants.md)
 - [Azure Files: a cloud NAS, plus Azure File Sync for hybrid](azure-files-cloud-nas.md)
 - [Bas's war story: SAN/NAS data migrations were weeks of nightmares](bas-san-nas-nightmares.md)
 - [Bas's checklist of points of attention for a cloud exit](cloud-exit-points-of-attention.md)

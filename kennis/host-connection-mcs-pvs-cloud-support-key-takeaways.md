@@ -27,5 +27,6 @@ Key points about Host Connections in XenDesktop/XenApp 7.x:
 - [FMA Zones: architecture and purpose](fma-zones-architecture-and-purpose.md)
 - [FMA Zones VDA registration and Controller failover](fma-zones-vda-registration-and-failover.md)
 - [Host Connections now support cloud, not just hypervisors](host-connections-cloud-support.md)
+- [Delivering Linux shared hosted desktops: controller, catalog and delivery group setup](linux-vda-controller-and-catalog-config.md)
 - [Machine Creation Services (MCS): integrated single-image delivery](machine-creation-services-overview.md)
 - [Citrix Provisioning Services (PVS) overview](provisioning-services-overview.md)

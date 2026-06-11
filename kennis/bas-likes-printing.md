@@ -22,3 +22,5 @@ His printing material grew out of his blog at basvankaam.com, started over four 
 - [Citrix Print Management Service](citrix-print-management-service.md)
 - [Citrix printing pathways: client vs network](citrix-printing-pathways-client-vs-network.md)
 - [Old School: why Bas insists on pen and paper in a cloud book](old-school-pen-and-paper-method.md)
+- [Printing is the perennial pain admins shouldn't have to focus on](printing-is-a-perennial-euc-pain.md)
+- [Printing is business critical, and underrated](printing-is-business-critical.md)

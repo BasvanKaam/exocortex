@@ -23,6 +23,7 @@ For cloud, the model helps firms judge which phase a solution is in (e.g. AIOps,
 
 ## Verwante notities
 
+- [Against the 'year of X' prediction ritual](against-yearly-tech-predictions.md)
 - [Bas's reframe: chase trends and innovation only in moderation](bas-innovation-with-moderation.md)
 - [Bas Disagrees With Gartner on Co-location's Demise](gartner-colocation-prediction-disagreement.md)
 - [Gartner Magic Quadrants and the cloud-relevant ones](gartner-magic-quadrants.md)

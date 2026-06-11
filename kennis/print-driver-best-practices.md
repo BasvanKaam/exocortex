@@ -36,5 +36,8 @@ The 'simpler' the print driver, the less traffic it generates — use vendor dri
 - [Citrix Universal Print Driver (UPD)](citrix-universal-print-driver.md)
 - [EMF vs XPS print file formats](emf-vs-xps-print-formats.md)
 - [Print driver versions and Print Driver Isolation](print-driver-history-and-modes.md)
+- [Print Driver Isolation modes and the Citrix Print Management Service](print-driver-isolation-and-citrix-print-mgmt.md)
+- [Print driver isolation: None, Shared, Isolated](print-driver-isolation-modes.md)
 - [Print spooling: local vs remote](print-spooling-local-vs-remote.md)
 - [Print-related troubleshooting tools (Print Detective, UPS Cert Tool, StressPrinters)](print-troubleshooting-tools.md)
+- [Tools are fine, but understand the architecture before you troubleshoot](printing-troubleshooting-understand-architecture-first.md)

@@ -22,6 +22,7 @@ Reference list of Microsoft Azure cost-management and optimisation tooling cited
 ## Verwante notities
 
 - [AWS cost management and optimisation tools](aws-cost-management-tools.md)
+- [AWS native cost-management toolset (TCO, Budgets, Cost Explorer, Trusted Advisor)](aws-native-cost-management-tools.md)
 - [Microsoft Azure Profile and Strengths](azure-profile-strengths.md)
 - [Bas on cost management: cost vs. value and ROI/TCO](bas-on-cost-management-roi-tco.md)
 - [Capex vs Opex in IT and Cloud](capex-vs-opex-in-it.md)

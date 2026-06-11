@@ -28,6 +28,7 @@ Two concrete examples:
 - [Autoscaling and the Black Friday Scenario](autoscaling-black-friday-scenario.md)
 - [Bas: forcing the client printing pathway (and its exception)](bas-forcing-client-printing-pathway.md)
 - [Bas's list of reasons companies stay (partly) on-premises](bas-objections-to-full-cloud-migration.md)
+- [Prediction: more cloud outages as datacenters hit capacity](cloud-outages-and-capacity-prediction.md)
 - [Hybrid cloud: best of both worlds via ExpressRoute and low latency](hybrid-cloud-best-of-both-worlds.md)
 - [Hybrid Latency and the Region-Choice Pitfall](hybrid-latency-region-choice-pitfall.md)
 - [Bas on cloud, hybrid and the future of on-premises VDI](is-cloud-vdi-still-relevant-takeaways.md)

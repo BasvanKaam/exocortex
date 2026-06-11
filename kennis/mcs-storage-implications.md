@@ -28,8 +28,10 @@ Bas works through a long list of storage considerations for MCS, hard-won from p
 
 - [Bas on CPU over-commit and user baselines (light/medium/heavy)](cpu-overcommit-and-user-baselines.md)
 - [Not all IOPS are the same: the three golden parameters](iops-not-all-the-same.md)
+- [MCS desktop types: pooled-random, pooled-static, dedicated](mcs-desktop-types-pooled-dedicated.md)
 - [MCS supported hypervisor storage and thin provisioning limits](mcs-hypervisor-storage-support.md)
 - [Why MCS image updates matter: every master VM is re-copied to every datastore](mcs-image-update-repeats-full-copy.md)
 - [MCS IOPS profile: ~1.6x PVS average, ~1.2x steady state](mcs-iops-vs-pvs.md)
 - [MCS rollbacks and reboot considerations (boot storms, disconnect policies)](mcs-rollbacks-and-reboot-considerations.md)
+- [MCS planning: master-VM count x data-store count x update frequency](mcs-storage-and-update-cycle-cost.md)
 - [The five VDI workload phases and boot/logon storms](vdi-five-phases-storms.md)

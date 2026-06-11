@@ -28,6 +28,7 @@ Example vendors named include RSA Archer, ServiceNow, OneTrust, KnowBe4, CrowdSt
 
 ## Verwante notities
 
+- [AVD Security Guidelines cheat sheet: a 35-item starting point](avd-security-cheat-sheet-starting-point.md)
 - [Current cyber threats and 2025+ trends](current-cyber-threats-and-2025-trends.md)
 - [NIST vs ISO as security reference frameworks](nist-vs-iso-as-security-references.md)
 - [Risk management focus areas and attention points](risk-management-focus-areas-and-attention-points.md)

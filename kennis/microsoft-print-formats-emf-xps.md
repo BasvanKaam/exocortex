@@ -26,3 +26,4 @@ For XPS to be used, both the print driver (drivers are EMF- or XPS-specific) and
 - [EMF vs XPS print file formats](emf-vs-xps-print-formats.md)
 - [Print driver versions and Print Driver Isolation](print-driver-history-and-modes.md)
 - [Print spooling: local vs remote](print-spooling-local-vs-remote.md)
+- [EMF vs XPS print file formats](windows-print-emf-vs-xps.md)

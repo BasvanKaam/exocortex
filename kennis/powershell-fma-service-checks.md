@@ -28,5 +28,7 @@ Both Studio and Director run on top of the PowerShell SDK, and everything in Stu
 - [Director dashboard, Trends view and alerts](director-dashboard-trends-and-alerts.md)
 - [FMA service high availability via peer service groups](fma-services-high-availability.md)
 - [The FlexCast Management Architecture and its thirteen core services](fma-thirteen-core-services-overview.md)
+- [Prefer PowerShell over the GUI for Citrix FMA work](powershell-over-gui-for-citrix.md)
+- [Everything you do in Studio is PowerShell underneath](studio-is-powershell-underneath.md)
 - [VDA registration and how to verify it](vda-registration-and-verification.md)
 - [Service logging in XenDesktop (command-line vs Scout)](xendesktop-service-logging.md)

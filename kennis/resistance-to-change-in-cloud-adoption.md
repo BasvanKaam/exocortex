@@ -26,6 +26,7 @@ His keywords here are breaking work into manageable chunks and communication. Cl
 - [The human factor: loss of control and trust](bas-on-the-human-factor-and-loss-of-control.md)
 - [Cloud Cultural Shifts: DevOps, Automation, New Roles](cloud-cultural-shifts-overview.md)
 - [Bas: the cloud doesn't make people redundant, it frees them for better work](cloud-frees-people-for-better-work.md)
+- [Cloud is about far more than technology](cloud-is-more-than-technology.md)
 - [Creative Communication and Putting Responsibility on Staff](creative-communication-and-feedback-loop.md)
 - [Cultural Shift: Communicate, Communicate, Communicate](cultural-shift-communicate-communicate.md)
 - [Bas on 'Angst': the human side of cloud adoption](fear-and-the-human-side-of-cloud-adoption.md)

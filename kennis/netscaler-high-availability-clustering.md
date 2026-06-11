@@ -23,6 +23,7 @@ The NetScaler can also provide secure remote access to XenMobile web, SaaS and m
 
 - [NetScaler edition licenses and Pay-as-you-Grow](netscaler-adc-edition-licenses-pay-as-you-grow.md)
 - [NetScaler appliance models: VPX, MPX, SDX, CPX](netscaler-appliance-models-vpx-mpx-sdx-cpx.md)
+- [NetScaler HA pair: heartbeats, failover and config replication](netscaler-ha-pair-fundamentals.md)
 - [NetScaler platforms, editions and HA](netscaler-platforms-and-licensing.md)
 - [NetScaler vServers, service objects and server objects](netscaler-virtual-server-service-server-objects.md)
 - [The 'one is none' rule and Delivery Controller high availability](one-is-none-delivery-controller-ha.md)

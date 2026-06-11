@@ -30,6 +30,8 @@ Limitations while Connection Leasing is active:
 
 - [The Central Site database in the FMA](central-site-database-fma.md)
 - [High-availability options for the Central Site database](central-site-database-ha-options.md)
+- [Connection Leasing is not Local Host Cache, and it's not HA](cl-is-not-lhc-and-not-ha.md)
+- [How Connection Leasing worked in XenApp 7.6](connection-leasing-how-it-works.md)
 - [Connection Leasing mechanism](connection-leasing-mechanism.md)
 - [FMA Local Host Cache: Principal Broker, Secondary Broker (HA) and CSS](fma-local-host-cache-services.md)
 - [IMA Zones vs. FMA Zones comparison](ima-zones-vs-fma-zones-comparison.md)

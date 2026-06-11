@@ -19,7 +19,10 @@ CDF traces are saved with the .etl extension under `AppData\Local\Temp\Scout\`. 
 
 ## Verwante notities
 
+- [How CDF tracing works: providers, modules, trace messages](cdf-tracing-providers-modules-messages.md)
+- [The Citrix XenDesktop/XenApp 7.x troubleshooting toolset](citrix-7x-troubleshooting-toolset.md)
 - [Citrix Scout: the aggregating troubleshooting tool](citrix-scout-aggregator.md)
 - [Citrix Diagnostic Toolkit and Supportability Pack collections](citrix-toolset-collections.md)
+- [Parsing CDF traces: .etl files, TMF files, public vs private](etl-parsing-tmf-files-public-private.md)
 - [PortICA / picaSvc2.exe: the critical VDA ICA service](portica-picasvc2-service.md)
 - [Service logging in XenDesktop (command-line vs Scout)](xendesktop-service-logging.md)

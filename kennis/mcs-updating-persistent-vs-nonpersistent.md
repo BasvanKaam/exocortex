@@ -22,6 +22,7 @@ Reboots refresh the differencing disk, making it start from zero. Bas advises a 
 - [Bas's PVS recommendation: hybrid versioning approach](bas-pvs-hybrid-versioning-recommendation.md)
 - [Machine Creation Services essentials](machine-creation-services-essentials.md)
 - [MCS desktop types: Pooled-Random, Pooled-Static, Dedicated](mcs-desktop-types.md)
+- [MCS desktop types: pooled-random, pooled-static, dedicated](mcs-desktop-types-pooled-dedicated.md)
 - [MCS Differencing Disk and Identity Disk](mcs-differencing-and-identity-disk.md)
 - [Why MCS image updates matter: every master VM is re-copied to every datastore](mcs-image-update-repeats-full-copy.md)
 - [MCS rollbacks and reboot considerations (boot storms, disconnect policies)](mcs-rollbacks-and-reboot-considerations.md)

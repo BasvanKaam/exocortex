@@ -26,6 +26,7 @@ The cultural shifts Bas lists when moving to the cloud:
 - [Capex vs Opex in IT and Cloud](capex-vs-opex-in-it.md)
 - [Bas: the cloud doesn't make people redundant, it frees them for better work](cloud-frees-people-for-better-work.md)
 - [Cloud ideas for the modern, attractive employer](cloud-ideas-for-the-modern-attractive-employer.md)
+- [Cloud is about far more than technology](cloud-is-more-than-technology.md)
 - [Cultural Shift: Communicate, Communicate, Communicate](cultural-shift-communicate-communicate.md)
 - [The Evolution of the CIO and CFO Role](evolution-of-cio-cfo-role.md)
 - [From Beheer to Regie: The Regieorganisatie Model](from-beheer-to-regie-organisation.md)

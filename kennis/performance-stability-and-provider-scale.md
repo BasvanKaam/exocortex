@@ -21,6 +21,7 @@ He also notes every provider has its own SLA — often one per service. If a ser
 
 - [Bas's challenge: can you do cloud security better yourself?](bas-can-you-do-security-better-yourself.md)
 - [The human factor: loss of control and trust](bas-on-the-human-factor-and-loss-of-control.md)
+- [Prediction: more cloud outages as datacenters hit capacity](cloud-outages-and-capacity-prediction.md)
 - [Hyperscaler security investments and certifications](cloud-provider-security-investments.md)
 - [SLA pitfalls to analyse for a cloud exit strategy](cloud-sla-pitfalls-exit.md)
 - [The less-obvious challenges of building datacenters](datacenter-hidden-challenges.md)

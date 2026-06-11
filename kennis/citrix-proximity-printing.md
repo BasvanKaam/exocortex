@@ -22,6 +22,7 @@ Proximity printing cannot be used without the Universal Print Server. Session pr
 - [Citrix Universal Print Driver (UPD)](citrix-universal-print-driver.md)
 - [Citrix Universal Print Server (UPS)](citrix-universal-print-server.md)
 - [Citrix Universal Printer (logical print object)](citrix-universal-printer.md)
+- [Forcing the client pathway for network printers, and when not to](forcing-client-pathway-direct-connections-policy.md)
 - [Print spooling: local vs remote](print-spooling-local-vs-remote.md)
 - [Universal Print Driver, Universal Printer and Universal Print Server](universal-print-driver-server-printer.md)
 - [Universal Print Server load balancing and HA (7.9)](ups-load-balancing-ha.md)

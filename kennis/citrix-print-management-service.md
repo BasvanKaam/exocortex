@@ -17,6 +17,8 @@ The Citrix Print Management Service was first introduced in 2005, around the sam
 
 - [Bas: forcing the client printing pathway (and its exception)](bas-forcing-client-printing-pathway.md)
 - [Bas on why he likes Citrix printing](bas-likes-printing.md)
+- [Citrix client-printing pathway: spool on server, send back over ICA](citrix-client-printing-pathway.md)
+- [Citrix client vs network printing pathway](citrix-client-vs-network-printing-pathway.md)
 - [Citrix print troubleshooting tools](citrix-print-troubleshooting-tools.md)
 - [Citrix printing pathways: client vs network](citrix-printing-pathways.md)
 - [Citrix printing pathways: client vs network](citrix-printing-pathways-client-vs-network.md)
@@ -26,3 +28,5 @@ The Citrix Print Management Service was first introduced in 2005, around the sam
 - [EMF vs XPS print file formats](emf-vs-xps-print-formats.md)
 - [ICA virtual channel priorities (0-3) and how to change them](ica-virtual-channel-priorities.md)
 - [ICA virtual channels: 32 total, 17 reserved by Citrix](ica-virtual-channels.md)
+- [Print Driver Isolation modes and the Citrix Print Management Service](print-driver-isolation-and-citrix-print-mgmt.md)
+- [Print driver isolation: None, Shared, Isolated](print-driver-isolation-modes.md)

@@ -19,4 +19,6 @@ The Microsoft Desktop Optimization Pack (**MDOP**) provides virtualization techn
 
 - [App-V management from Citrix Studio (XenDesktop 7.8)](app-v-in-xendesktop-7-8.md)
 - [Microsoft App-V components and licensing with Citrix](microsoft-app-v-with-citrix.md)
+- [Microsoft VDA vs RDS licensing for Citrix](microsoft-vda-rds-licensing-for-citrix.md)
+- [MSIX positioned to replace App-V (2019 transition)](msix-replacing-app-v.md)
 - [VDA license rules and Microsoft licensing nuances](vda-license-rules-microsoft-licensing.md)

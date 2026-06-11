@@ -19,8 +19,11 @@ FMA fact: Citrix offers out-of-the-box blueprints for XenDesktop, XenApp, XenMob
 
 ## Verwante notities
 
+- [Citrix Smart Check: proactive Site health checks on top of Insight Services](citrix-smart-check-proactive-health.md)
+- [Citrix's serial renaming: TaaS to Insight Services to Smart Check](citrix-taas-insight-smartcheck-naming-history.md)
 - [Citrix Workspace Cloud as the hybrid bridge](citrix-workspace-cloud-hybrid-model.md)
 - [Citrix Workspace Cloud (CWC): a managed control plane over the FMA](citrix-workspace-cloud-overview.md)
+- [Citrix Workspace Suite and Workspace Services (on Azure) introduced at Synergy 2014](citrix-workspace-suite-services-2014-origins.md)
 - [Cloud service models: SaaS, PaaS, IaaS, DaaS](cloud-service-models-saas-paas-iaas-daas.md)
 - [The CWC Cloud Connector](cwc-cloud-connector.md)
 - [CWC StoreFront hosting options](cwc-storefront-options.md)

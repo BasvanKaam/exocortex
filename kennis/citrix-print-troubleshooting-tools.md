@@ -32,3 +32,4 @@ Also, XenApp/XenDesktop 7.6 FP3 added an Always-On logging feature for the print
 - [Citrix Diagnostic Toolkit and Supportability Pack collections](citrix-toolset-collections.md)
 - [Bas's print driver best practices](print-driver-best-practices.md)
 - [Print-related troubleshooting tools (Print Detective, UPS Cert Tool, StressPrinters)](print-troubleshooting-tools.md)
+- [Tools are fine, but understand the architecture before you troubleshoot](printing-troubleshooting-understand-architecture-first.md)

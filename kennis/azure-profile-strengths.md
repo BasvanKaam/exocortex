@@ -22,6 +22,7 @@ Key strengths:
 ## Verwante notities
 
 - [AWS Profile and Strengths](aws-profile-strengths.md)
+- [AWS is still No. 1 in cloud, Microsoft is catching up fast](aws-still-number-one-microsoft-catching-up.md)
 - [The Azure cloud hierarchy: tenant down to resources](azure-cloud-hierarchy.md)
 - [Azure cost management and optimisation tools](azure-cost-management-tools.md)
 - [Azure Stack HCI (renamed Azure Local): cloud in your own datacenter](azure-stack-hci-azure-local.md)

@@ -25,6 +25,7 @@ Bas notes the elegance of these models is that they can often be combined.
 - [Reading the Hosting Spectrum - Capex Falls, Opex Rises](capex-opex-shift-across-hosting-spectrum.md)
 - [Cloud as the backbone of the digital-nomad life](cloud-as-backbone-of-nomad-life.md)
 - [Cloud deployment models (public, private, hybrid, community)](cloud-deployment-models.md)
+- [Before debating Cloud, specify which type of service you mean](cloud-discussion-specify-the-service-type-first.md)
 - [Exit flexibility depends on the cloud service model (IaaS/SaaS/PaaS)](cloud-exit-flexibility-by-service-model.md)
 - [Cloud Market Statistics (2024)](cloud-market-statistics-2024.md)
 - [Cloud-Native: Designed for the Cloud from the Start](cloud-native-definition.md)

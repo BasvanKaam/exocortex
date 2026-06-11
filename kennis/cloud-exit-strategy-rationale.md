@@ -31,6 +31,7 @@ Other benefits: protection of data and applications via a solid migration plan (
 - [Exit flexibility depends on the cloud service model (IaaS/SaaS/PaaS)](cloud-exit-flexibility-by-service-model.md)
 - [Key Takeaways - cloud exit strategy (Chapter 12)](cloud-exit-key-takeaways.md)
 - [Bas's checklist of points of attention for a cloud exit](cloud-exit-points-of-attention.md)
+- [A cloud exit strategy is insurance you hope not to need](cloud-exit-strategy-as-insurance.md)
 - [The six-step process for building a cloud exit strategy](cloud-exit-strategy-steps.md)
 - [Key Takeaways - the execution phase (Chapter 11)](execution-phase-key-takeaways.md)
 - [No universal Cloud standard, and the vendor lock-in problem](no-universal-cloud-standard-vendor-lock-in.md)

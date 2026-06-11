@@ -28,5 +28,6 @@ The landscape is improving: containers, Kubernetes and Azure Arc offer more flex
 - [Exit flexibility depends on the cloud service model (IaaS/SaaS/PaaS)](cloud-exit-flexibility-by-service-model.md)
 - [Why have a cloud exit strategy - the exit comes before onboarding](cloud-exit-strategy-rationale.md)
 - [No real standards across cloud providers; identical services, different names](cloud-providers-no-standards-naming.md)
+- [Same cloud service, different name per vendor](cloud-service-naming-differs-per-vendor.md)
 - [Choosing a CSP: Azure as the Default for Microsoft Shops](csp-platform-choice-azure-default.md)
 - [The promises of the Cloud (and Bas's invitation to challenge them)](the-promises-of-the-cloud.md)

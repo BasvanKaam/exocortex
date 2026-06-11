@@ -25,6 +25,7 @@ Bas's how-to for a cloud exit strategy, in sequential steps:
 - [Bas on disaster recovery: no blueprint, and don't forget the BUDGET](bas-on-disaster-recovery-and-budget.md)
 - [Key Takeaways - cloud exit strategy (Chapter 12)](cloud-exit-key-takeaways.md)
 - [Bas's checklist of points of attention for a cloud exit](cloud-exit-points-of-attention.md)
+- [A cloud exit strategy is insurance you hope not to need](cloud-exit-strategy-as-insurance.md)
 - [Why have a cloud exit strategy - the exit comes before onboarding](cloud-exit-strategy-rationale.md)
 - [SLA pitfalls to analyse for a cloud exit strategy](cloud-sla-pitfalls-exit.md)
 - [Standard components of a disaster recovery (DR) plan](disaster-recovery-plan-components.md)

@@ -27,5 +27,6 @@ Site Access policies are about connections in general and the conditions to meet
 - [The Delivery Controller as the heart of the FMA](delivery-controller-heart-of-fma.md)
 - [External user authentication through NetScaler](external-authentication-through-netscaler.md)
 - [FMA Broker Service (XML/STA) and its responsibilities](fma-broker-service.md)
+- [Prefer PowerShell over the GUI for Citrix FMA work](powershell-over-gui-for-citrix.md)
 - [Citrix Studio Configuration sub-nodes](studio-configuration-subnodes.md)
 - [Citrix Studio console root nodes](studio-console-root-nodes.md)

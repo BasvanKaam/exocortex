@@ -33,6 +33,7 @@ Key takeaways he attaches: leverage the cloud for Burst Capacity and backup; don
 
 ## Verwante notities
 
+- [Durable barriers to public cloud adoption](barriers-to-public-cloud-adoption-2016.md)
 - [Bas's challenge: can you do cloud security better yourself?](bas-can-you-do-security-better-yourself.md)
 - [The human factor: loss of control and trust](bas-on-the-human-factor-and-loss-of-control.md)
 - [Bas's paper: Cloud Only? No. Cloud First or Hybrid? Yes.](bas-paper-cloud-only-no-cloud-first-yes.md)

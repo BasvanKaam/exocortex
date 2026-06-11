@@ -17,6 +17,7 @@ Processing these huge volumes of (big) data, often from many sources, demands la
 
 ## Verwante notities
 
+- [Take: big-data analytics is the real advantage of the cloud](cloud-analytics-real-advantage-stance.md)
 - [Core cloud building blocks: datacenter, virtualization, APIs, storage, databases, elasticity](core-cloud-components-and-concepts.md)
 - [Edge computing and Edge-nodes](edge-computing.md)
 - [Google Cloud Platform Profile and Strengths](gcp-profile-strengths.md)

@@ -26,10 +26,13 @@ Alternatives he considers non-ideal but worth weighing: fat clients / persistent
 
 ## Verwante notities
 
+- [Application layering: abstract the app from the OS](app-layering-abstraction-durable-concept.md)
 - [Application delivery: layering vs virtualisation, and AppDisks](application-delivery-layering-vs-virtualisation.md)
 - [Three flavours of application delivery in XenDesktop/XenApp](application-delivery-three-flavours.md)
+- [Cloud-native does not fix application management](appstream-management-not-solved-positie.md)
 - [Bas's key takeaways on application delivery and layering](bas-key-takeaways-application-delivery.md)
 - [Bas: only ~50-60% of apps can be virtualised](bas-on-virtualisation-coverage-50-60-percent.md)
 - [Bas on the pros of application layering](bas-pros-of-application-layering.md)
+- [The 'big bad image' problem: why everything in the base image hurts](big-bad-base-image-problems.md)
 - [How application layering works (filter drivers)](how-application-layering-works.md)
 - [Bas on MCS, workloads and the case for application layering](mcs-application-workloads-layering.md)

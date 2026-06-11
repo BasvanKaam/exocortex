@@ -24,8 +24,10 @@ Azure Files can replace a NAS or SAN in many scenarios, especially when you no l
 
 ## Verwante notities
 
+- [Storage tiering and lifecycle policies cut AWS storage cost](aws-storage-tiering-and-lifecycle-cost.md)
 - [The Azure cloud hierarchy: tenant down to resources](azure-cloud-hierarchy.md)
 - [Azure data migration and import tools](azure-data-migration-import-tools.md)
+- [Azure Files storage redundancy: LRS, ZRS, GRS](azure-files-storage-redundancy-lrs-zrs-grs.md)
 - [Bas's war story: SAN/NAS data migrations were weeks of nightmares](bas-san-nas-nightmares.md)
 - [Bas on the future limits of self-hosting your own data growth](bas-self-hosting-data-growth-limit.md)
 - [Core cloud building blocks: datacenter, virtualization, APIs, storage, databases, elasticity](core-cloud-components-and-concepts.md)

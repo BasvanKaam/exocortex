@@ -22,12 +22,17 @@ The model: take a normal XenDesktop/XenApp deployment and 'cloudify' the infrast
 
 ## Verwante notities
 
+- [Citrix Managed Desktop: single-bill DaaS on Citrix-managed Azure](citrix-managed-desktop-model-2019.md)
 - [Citrix Service Provider (CSP) program](citrix-service-provider-program.md)
+- [Workspace Cloud lacked an on-prem control plane in 2015](citrix-workspace-cloud-control-plane-2015.md)
 - [Citrix Workspace Cloud as the hybrid bridge](citrix-workspace-cloud-hybrid-model.md)
+- [Citrix Workspace Suite and Workspace Services (on Azure) introduced at Synergy 2014](citrix-workspace-suite-services-2014-origins.md)
+- [New FMA features go to the cloud first](cloud-first-feature-delivery-citrix.md)
 - [Cloud service models: SaaS, PaaS, IaaS, DaaS](cloud-service-models-saas-paas-iaas-daas.md)
 - [CWC authentication and credential handling security](cwc-authentication-credential-handling.md)
 - [The CWC Cloud Connector](cwc-cloud-connector.md)
 - [CWC as a near-DaaS workaround for Microsoft desktop-OS licensing](cwc-desktop-os-daas-licensing.md)
 - [Citrix Lifecycle Management Services and blueprints](cwc-lifecycle-management-services.md)
 - [CWC StoreFront hosting options](cwc-storefront-options.md)
+- [The key line between Essentials and full Citrix Cloud: VDA placement](essentials-vs-full-citrix-cloud-vda-placement.md)
 - [Bas's case for why deep FMA knowledge still matters in the cloud era](why-fma-knowledge-still-matters-relevance.md)

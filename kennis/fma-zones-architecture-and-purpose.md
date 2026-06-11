@@ -30,6 +30,7 @@ Key points:
 - [Host Connection key takeaways: MCS/PVS and cloud support](host-connection-mcs-pvs-cloud-support-key-takeaways.md)
 - [Host Connections now support cloud, not just hypervisors](host-connections-cloud-support.md)
 - [IMA Zones vs. FMA Zones comparison](ima-zones-vs-fma-zones-comparison.md)
+- [New FMA features land in Citrix Workspace Cloud first, then on-prem](positie-zones-and-cloud-first-feature-flow.md)
 - [StoreFront multi-Site: aggregation, user mapping and recovery sites](storefront-multi-site-aggregation-and-user-mapping.md)
 - [Bas's Studio and Zones chapter key takeaways](studio-zones-chapter-key-takeaways.md)
 - [Zone connection quality limits (bandwidth and RTT)](zone-connection-quality-limits.md)

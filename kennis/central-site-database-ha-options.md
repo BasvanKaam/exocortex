@@ -23,6 +23,7 @@ Combine HA with regular backups and a SQL Maintenance Plan to keep the database 
 
 ## Verwante notities
 
+- [Azure Availability Sets vs Availability Zones](azure-availability-sets-vs-zones.md)
 - [Bas's take on application-aware HA alternatives for SQL](bas-on-application-aware-ha-alternatives.md)
 - [Connection Leasing failover behavior and limitations](connection-leasing-failover-behavior.md)
 - [The 'one is none' rule and Delivery Controller high availability](one-is-none-delivery-controller-ha.md)

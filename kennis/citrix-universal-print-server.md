@@ -22,13 +22,16 @@ UPS is disabled by default; enable it via the 'Universal Print Server Enable' po
 ## Verwante notities
 
 - [Bas's checklist to speed up and clean up Citrix printing](bas-citrix-printing-optimization-checklist.md)
+- [Citrix network-printing pathway: print-server traffic is uncompressed](citrix-network-printing-pathway.md)
 - [Citrix Print Management Service](citrix-print-management-service.md)
 - [Citrix printing pathways: client vs network](citrix-printing-pathways.md)
 - [Citrix printing pathways: client vs network](citrix-printing-pathways-client-vs-network.md)
+- [Citrix printing barely changed across 2018 releases](citrix-printing-stagnation-2018.md)
 - [Citrix proximity printing](citrix-proximity-printing.md)
 - [Citrix Universal Print Driver (UPD)](citrix-universal-print-driver.md)
 - [Citrix Universal Printer (logical print object)](citrix-universal-printer.md)
 - [Print spooling: local vs remote](print-spooling-local-vs-remote.md)
 - [Print-related troubleshooting tools (Print Detective, UPS Cert Tool, StressPrinters)](print-troubleshooting-tools.md)
+- [Tools are fine, but understand the architecture before you troubleshoot](printing-troubleshooting-understand-architecture-first.md)
 - [Universal Print Driver, Universal Printer and Universal Print Server](universal-print-driver-server-printer.md)
 - [Universal Print Server load balancing and HA (7.9)](ups-load-balancing-ha.md)

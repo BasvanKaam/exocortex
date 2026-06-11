@@ -21,4 +21,5 @@ CDLs are mainly relevant with **device-based** SA/VDA licenses, which are the mo
 - [Microsoft RDS CALs and the XenApp vs XenDesktop split](microsoft-rds-cals-with-xenapp.md)
 - [Microsoft SPLA and why true DaaS is restricted](microsoft-spla-daas-licensing-restriction.md)
 - [Microsoft VDA licenses and Software Assurance](microsoft-vda-license-software-assurance.md)
+- [Microsoft VDA vs RDS licensing for Citrix](microsoft-vda-rds-licensing-for-citrix.md)
 - [VDA license rules and Microsoft licensing nuances](vda-license-rules-microsoft-licensing.md)

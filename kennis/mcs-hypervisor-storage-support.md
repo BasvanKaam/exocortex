@@ -23,5 +23,6 @@ Citrix used to recommend NFS exclusively with MCS, but that was geared toward Xe
 - [Machine Creation Services (MCS): integrated single-image delivery](machine-creation-services-overview.md)
 - [Why MCS image updates matter: every master VM is re-copied to every datastore](mcs-image-update-repeats-full-copy.md)
 - [MCS IOPS profile: ~1.6x PVS average, ~1.2x steady state](mcs-iops-vs-pvs.md)
+- [MCS planning: master-VM count x data-store count x update frequency](mcs-storage-and-update-cycle-cost.md)
 - [Bas's MCS storage implications checklist](mcs-storage-implications.md)
 - [The RAID write penalty](raid-write-penalty.md)

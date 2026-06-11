@@ -31,6 +31,7 @@ His money reframe: books cost roughly €15-25, sometimes more, but you're not p
 - [Bas's deliberate typography choices for the book](bas-book-typography-choices.md)
 - [Bas on continuous study and self-investment](bas-on-continuous-study-and-self-investment.md)
 - [Bas on digital nomads: living while you work](bas-on-digital-nomads-freedom.md)
+- [Bas's research workflow: pen-and-paper first, then digitalise](bas-pen-to-digital-research-workflow.md)
 - [Bas on growth: lean into strengths, nudge weaknesses, and ask questions](bas-play-to-your-strengths.md)
 - [Bas's recommended reading list](bas-recommended-booklist.md)
 - [Bas's teaching philosophy: action and presenting beat passive reading](bas-teaching-philosophy-action-and-presenting.md)

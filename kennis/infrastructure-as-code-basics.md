@@ -28,5 +28,6 @@ This modern way of managing infrastructure is also called **Beheer 2.0** ("Manag
 - [Cloud Cultural Shifts: DevOps, Automation, New Roles](cloud-cultural-shifts-overview.md)
 - [Cloud-Native: Designed for the Cloud from the Start](cloud-native-definition.md)
 - [Citrix Lifecycle Management Services and blueprints](cwc-lifecycle-management-services.md)
+- [How PowerShell DSC works: authoring, MOF, push and pull](desired-state-configuration-basics.md)
 - [Bas: Saying You're Cloud-Native vs Actually Being It](saying-cloud-native-vs-being-it.md)
 - [Introducing Agile and Plan-Do-Check-Act in Execution](scaf-execution-agile-pdca-intro.md)

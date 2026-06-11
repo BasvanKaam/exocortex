@@ -23,6 +23,7 @@ Deployment models describe how and from where Cloud environments are deployed an
 - [Azure Stack HCI (renamed Azure Local): cloud in your own datacenter](azure-stack-hci-azure-local.md)
 - [Bas's paper: Cloud Only? No. Cloud First or Hybrid? Yes.](bas-paper-cloud-only-no-cloud-first-yes.md)
 - [Cloud delivery models: IaaS, PaaS, SaaS and DaaS](cloud-delivery-models-iaas-paas-saas-daas.md)
+- [Before debating Cloud, specify which type of service you mean](cloud-discussion-specify-the-service-type-first.md)
 - [Cloud service models: SaaS, PaaS, IaaS, DaaS](cloud-service-models-saas-paas-iaas-daas.md)
 - [Four Hosting Models - On-Prem, Co-location, Managed, Cloud](hosting-models-onprem-colo-managed-cloud.md)
 - [Hybrid cloud: best of both worlds via ExpressRoute and low latency](hybrid-cloud-best-of-both-worlds.md)

@@ -24,5 +24,6 @@ FMA facts: besides Receiver for Web, you can configure Citrix Receiver in self-s
 - [Three ways to reach resources via Receiver, including HTML5 clientless access](receiver-three-ways-and-html5-clientless.md)
 - [Self Service Store vs Mandatory Store and shortcut-only mode](self-service-vs-mandatory-store.md)
 - [Bas's StoreFront chapter key takeaways](storefront-chapter-key-takeaways.md)
+- [Options for hiding published resources in StoreFront / XenApp](storefront-hiding-resources-options.md)
 - [StoreFront resource subscription and Keywords](storefront-resource-subscription-keywords.md)
 - [StoreFront subscription storage, server groups and synchronization](storefront-subscription-storage-and-sync.md)

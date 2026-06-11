@@ -22,10 +22,13 @@ FMA fact: Receiver X1 combined with StoreFront will greatly simplify management 
 ## Verwante notities
 
 - [Citrix Receiver: purpose and naming history](citrix-receiver-history-and-purpose.md)
+- [Citrix Summit 2015: Receiver X1, Framehawk, XenMobile 10](citrix-summit-2015-announcements.md)
 - [Desktop Appliance sites for non-domain-joined machines](desktop-appliance-sites.md)
+- [Time to finally let go of Web Interface and consolidate Receiver](finally-let-go-of-web-interface.md)
 - [Receiver for HTML5 as a fallback](html5-receiver-fallback.md)
 - [Bas's Citrix Receiver chapter key takeaways](receiver-chapter-key-takeaways.md)
 - [Receiver Clean-Up utility](receiver-cleanup-utility.md)
 - [Citrix Receiver / ICA Client detailed version timeline](receiver-detailed-version-timeline.md)
 - [Three ways to reach resources via Receiver, including HTML5 clientless access](receiver-three-ways-and-html5-clientless.md)
+- [Enabling the Unified Receiver Experience in StoreFront 3.0](storefront-3-unified-experience-enable-order.md)
 - [Workspace aggregators and the Unified Workspace Portal](workspace-aggregators-unified-workspace-portal.md)

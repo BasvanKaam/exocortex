@@ -21,5 +21,6 @@ The deeper architectural shift: in the FMA all HDX/ICA bits and bytes are instal
 - [Delivery Controller vs Data Collector differences](delivery-controller-vs-data-collector.md)
 - [Delivery Controller vs. Data Collector (FMA vs. IMA)](delivery-controller-vs-data-collector-2.md)
 - [The evolution of the FlexCast Management Architecture](evolution-of-the-fma.md)
+- [FMA vs IMA: no Zones, no Data Collectors, no Local Host Cache (2013)](fma-vs-ima-no-zones-no-lhc.md)
 - [IMA-to-FMA terminology mapping table](ima-vs-fma-terminology-mapping.md)
 - [Bas's troubleshooting philosophy: master the basics before reaching for tools](troubleshooting-know-the-basics-first.md)

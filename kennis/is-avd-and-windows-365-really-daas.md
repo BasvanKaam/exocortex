@@ -36,3 +36,4 @@ Bas adds that it doesn't really matter much which label you use, but the discuss
 - [VDI and DaaS Are Now Practically Synonymous](vdi-daas-now-synonymous.md)
 - [Windows 365 Cloud PC](windows-365-cloud-pc.md)
 - [Windows 365 Cloud PC - Pros, Cons and Cost Control vs AVD](windows-365-pros-cons.md)
+- [Windows Virtual Desktop: multi-user Windows 10 as DaaS on Azure](wvd-multi-user-windows10-daas-2019.md)

@@ -26,5 +26,6 @@ His summary of the trade-off: the choice between Capex and Opex depends heavily 
 - [A Business Case Is More Than 'Hard' Costs Alone](businesscase-more-than-hard-costs.md)
 - [Capex and Opex - Pros and Cons](capex-opex-pros-cons.md)
 - [Capex vs Opex in IT and Cloud](capex-vs-opex-in-it.md)
+- [Moving to the cloud does not automatically save money](cloud-does-not-automatically-save-money.md)
 - [Opex Is Harder for the Provider Than the Customer](opex-challenge-for-providers.md)
 - [Physical and software performance limits of the cloud](physical-and-software-cloud-performance-limits.md)

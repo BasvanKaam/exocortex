@@ -22,6 +22,7 @@ Main responsibilities include: VDA registration, resource allocation, connection
 ## Verwante notities
 
 - [Broker Service: XML, STA and the Principal Broker](broker-service-xml-sta-principal.md)
+- [The Broker Service bundles brokering, XML and STA in one process](citrix-broker-service-three-roles.md)
 - [Citrix Site policies: Entitlement, Assignment, Site Access](citrix-site-policies-powershell.md)
 - [The Delivery Controller as the heart of the FMA](delivery-controller-heart-of-fma.md)
 - [External launch process: Hosted Shared Desktop via NetScaler](external-launch-process-hsd-netscaler.md)

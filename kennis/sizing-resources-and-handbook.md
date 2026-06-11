@@ -23,6 +23,7 @@ Bas's sizing Key Takeaways also stress: when load testing, always incorporate an
 ## Verwante notities
 
 - [Citrix Project Accelerator: web-based design guidance](citrix-project-accelerator.md)
+- [Citrix Project Accelerator as a guided design tool](citrix-project-accelerator-tool.md)
 - [Bas on CPU over-commit and user baselines (light/medium/heavy)](cpu-overcommit-and-user-baselines.md)
 - [Delivery Controller server sizing and supported OS](delivery-controller-sizing.md)
 - [myCUGC: the Citrix User Group Community](mycugc-citrix-user-group-community.md)
