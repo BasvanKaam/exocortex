@@ -19,4 +19,3 @@ How it worked then (2015): Power management in the Citrix FlexCast Management Ar
 ## Verwante notities
 
 - [Have a look, don't evangelize: measured stance on Power Management](have-a-look-dont-evangelize-power-management.md)
-- [Delivering Linux shared hosted desktops: controller, catalog and delivery group setup](linux-vda-controller-and-catalog-config.md)

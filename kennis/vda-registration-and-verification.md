@@ -24,7 +24,6 @@ Key VDA facts Bas wants remembered:
 
 - [Desktop VDA core services: Citrix Desktop Service and Citrix ICA Service](desktop-vda-two-main-services.md)
 - [FMA Broker Service (XML/STA) and its responsibilities](fma-broker-service.md)
-- [Delivering Linux shared hosted desktops: controller, catalog and delivery group setup](linux-vda-controller-and-catalog-config.md)
 - [Using PowerShell to check FMA service states](powershell-fma-service-checks.md)
 - [The VDA: client-side component, services and registration](vda-overview-services-and-registration.md)
 - [VDA registration: auto-update, fallback locations and the CBP](vda-registration-process.md)

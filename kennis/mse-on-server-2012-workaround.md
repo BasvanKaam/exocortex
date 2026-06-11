@@ -19,7 +19,6 @@ How it worked then (2015): Microsoft Security Essentials is neither supported no
 ## Verwante notities
 
 - [Correct build order for an early Azure test lab](azure-classic-test-lab-build-order.md)
-- [Using CentOS 6.6 to test the Citrix Linux VDA (unsupported but code-close to RHEL)](linux-vda-centos-unsupported-but-usable-for-testing.md)
 - [The undocumented 'restart additional groups' staggers reboots](restart-additional-groups-undocumented.md)
 - [Server 2012 .NET 3.5 Feature on Demand install gotcha (how it worked then)](server-2012-net35-feature-on-demand-gotcha.md)
 - [Why adding new farm servers can wipe user app settings (shadow key timestamps)](shadow-key-new-farm-server-timestamp-trap.md)

@@ -23,7 +23,6 @@ The Citrix Desktop service (part of the installed VDA) communicates directly wit
 
 - [Desktop VDA core services: Citrix Desktop Service and Citrix ICA Service](desktop-vda-two-main-services.md)
 - [FMA Zones VDA registration and Controller failover](fma-zones-vda-registration-and-failover.md)
-- [Linux VDA install dependencies and ctxsetup.sh configuration](linux-vda-install-config-dependencies.md)
 - [VDA high-availability mode (direct ICA, last resort)](vda-high-availability-mode.md)
 - [The VDA: client-side component, services and registration](vda-overview-services-and-registration.md)
 - [VDA registration and how to verify it](vda-registration-and-verification.md)

@@ -33,6 +33,5 @@ Because XenApp Sites are now managed from Studio, **MCS** can create XenApp Cata
 - [FMA lets one Delivery Group span Catalogs with different OSes (2013 feature)](fma-mixed-os-catalogs-one-delivery-group.md)
 - [FMA multi-OS and mixed Machine Catalog support vs IMA](fma-multi-os-support-vs-ima.md)
 - [Hiding apps (Limit Visibility) vs hiding desktops (PowerShell entitlement filter)](limit-visibility-vs-entitlement.md)
-- [Delivering Linux shared hosted desktops: controller, catalog and delivery group setup](linux-vda-controller-and-catalog-config.md)
 - [Options for hiding published resources in StoreFront / XenApp](storefront-hiding-resources-options.md)
 - [XenApp roles removed/replaced moving to Excalibur (2013 mapping)](xenapp-roles-removed-or-replaced-in-excalibur.md)

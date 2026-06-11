@@ -20,7 +20,6 @@ How it worked then (XenDesktop 7 / FMA 2.0): the introduction of XenDesktop 7 in
 
 - [Excalibur's Catalog + Delivery Group model (how XD7 worked at launch)](excalibur-catalogs-delivery-groups-model.md)
 - [Excalibur merges XenApp and XenDesktop onto FMA](excalibur-merges-xenapp-xendesktop-fma.md)
-- [Delivering Linux shared hosted desktops: controller, catalog and delivery group setup](linux-vda-controller-and-catalog-config.md)
 - [The Server VDA is the component everyone overlooked](positie-server-vda-overlooked.md)
 - [Server VDA internals: Broker Agent, ICA stack, StackControlService](server-vda-internals-fma.md)
 - [Server VDA internals: StackControlService bridges Broker Agent and ICA stack](server-vda-internals-stackcontrolservice.md)

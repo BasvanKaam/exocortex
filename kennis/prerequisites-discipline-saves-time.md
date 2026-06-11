@@ -27,7 +27,6 @@ The product is dated, but the prerequisites-first discipline and 'start the slow
 - [The basics (almost) never change](basics-never-change-troubleshooting-philosophy.md)
 - [Troubleshooting tip #1: document what you've done](document-your-troubleshooting.md)
 - [DSC prerequisites: WMF / PowerShell 4.0 on every machine involved](dsc-prerequisites-wmf4.md)
-- [Linux VDA install dependencies and ctxsetup.sh configuration](linux-vda-install-config-dependencies.md)
 - [WVD prerequisites Nerdio still relies on: AD sync and FSLogix profiles](nerdio-wvd-prerequisites-ad-fslogix.md)
 - [NetScaler IP terminology: NSIP, SNIP, MIP, VIP, vServer](netscaler-ip-terminology.md)
 - [Never skip the basics: start troubleshooting at the event logs](never-skip-the-basics-event-logs.md)

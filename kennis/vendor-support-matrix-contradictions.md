@@ -20,7 +20,6 @@ The practical takeaway: "technically it works" and "you get support when you nee
 
 ## Verwante notities
 
-- [Using CentOS 6.6 to test the Citrix Linux VDA (unsupported but code-close to RHEL)](linux-vda-centos-unsupported-but-usable-for-testing.md)
 - [Delivering Lync in a XenApp hosted shared desktop: generic vs optimized HDX](lync-xenapp-delivery-options.md)
 - [Features Server VDI cannot do](server-vdi-unsupported-features.md)
 - [Don't make concessions on end user experience when delivering Lync](stance-lync-online-xenapp-concessions.md)

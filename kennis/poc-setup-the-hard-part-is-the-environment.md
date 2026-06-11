@@ -23,7 +23,6 @@ The distinction he draws: a PoC can be effective (you eventually get there) yet 
 ## Verwante notities
 
 - [Good-enough load testing at 10% of the price beats the gold-plated tool](good-enough-load-testing-beats-expensive.md)
-- [Using CentOS 6.6 to test the Citrix Linux VDA (unsupported but code-close to RHEL)](linux-vda-centos-unsupported-but-usable-for-testing.md)
 - [The Liquidware portfolio in 2017: Stratusphere, ProfileUnity, FlexApp](liquidware-portfolio-2017.md)
 - [Liquidware suite: ProfileUnity, FlexApp, Stratusphere UX (2018)](liquidware-profileunity-flexapp-stratusphere.md)
 - [PoC-as-a-Service is genuinely valuable](poc-as-a-service-is-great-positie.md)

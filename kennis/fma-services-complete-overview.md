@@ -40,5 +40,4 @@ The services:
 ## Verwante notities
 
 - [Check FMA service health with PowerShell, not just Director](check-fma-services-with-powershell.md)
-- [Linux VDA install dependencies and ctxsetup.sh configuration](linux-vda-install-config-dependencies.md)
 - [Prefer PowerShell over the GUI for Citrix FMA work](powershell-over-gui-for-citrix.md)

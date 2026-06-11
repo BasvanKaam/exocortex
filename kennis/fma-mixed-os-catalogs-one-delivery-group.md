@@ -21,4 +21,3 @@ A headline FMA change: all Agents communicate with the same Controller regardles
 - [Machine Catalogs and Delivery Groups: mixed-OS flexibility](catalogs-delivery-groups-mixed-os.md)
 - [Excalibur's Catalog + Delivery Group model (how XD7 worked at launch)](excalibur-catalogs-delivery-groups-model.md)
 - [Delivering five Windows generations from one infrastructure](five-generations-of-windows-one-infrastructure.md)
-- [Delivering Linux shared hosted desktops: controller, catalog and delivery group setup](linux-vda-controller-and-catalog-config.md)

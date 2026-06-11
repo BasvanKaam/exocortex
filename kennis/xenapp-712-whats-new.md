@@ -36,5 +36,4 @@ Release model: Citrix split into Current Release (CR, new features every 3-6 mon
 
 - [Citrix LTSR vs CR servicing model](citrix-ltsr-vs-cr-servicing.md)
 - [The rapid Current Release cadence makes sense](defence-of-citrix-rapid-release-cycle.md)
-- [Linux VDA install dependencies and ctxsetup.sh configuration](linux-vda-install-config-dependencies.md)
 - [LTSR is the right call, but not for everybody](ltsr-is-not-for-everybody.md)

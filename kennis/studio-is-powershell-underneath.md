@@ -24,7 +24,6 @@ Practical consequence: use the SDK proactively for daily health checks. Status o
 - [Citrix Studio: the central management console](citrix-studio-overview.md)
 - [How PowerShell DSC works: authoring, MOF, push and pull](desired-state-configuration-basics.md)
 - [Hiding apps (Limit Visibility) vs hiding desktops (PowerShell entitlement filter)](limit-visibility-vs-entitlement.md)
-- [Delivering Linux shared hosted desktops: controller, catalog and delivery group setup](linux-vda-controller-and-catalog-config.md)
 - [Positie: Citrix was inexplicably late adding delegated admin to XenDesktop](positie-citrix-late-with-xendesktop-delegated-admin.md)
 - [Using PowerShell to check FMA service states](powershell-fma-service-checks.md)
 - [Prefer PowerShell over the GUI for Citrix FMA work](powershell-over-gui-for-citrix.md)
