@@ -28,6 +28,7 @@ FMA fact: Bas deliberately says 'true' application virtualisation because soluti
 - [Bas: only ~50-60% of apps can be virtualised](bas-on-virtualisation-coverage-50-60-percent.md)
 - [Bas on the 'big, bad image' problem](bas-the-big-bad-base-image.md)
 - [Citrix AppDisks: application layering for golden images](citrix-appdisks-application-layering.md)
+- [Citrix Streaming Profile and AIE Data Paths](citrix-streaming-profile-paths.md)
 - [How application layering works (filter drivers)](how-application-layering-works.md)
 - [Bas on MCS, workloads and the case for application layering](mcs-application-workloads-layering.md)
 - [Microsoft App-V components and licensing with Citrix](microsoft-app-v-with-citrix.md)

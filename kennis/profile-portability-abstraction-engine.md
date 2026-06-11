@@ -19,6 +19,7 @@ How it worked then. Liquidware ProfileUnity's Profile Portability (a.k.a. Profil
 ## Verwante notities
 
 - [Don't start from scratch every OS update: vendor-neutral workspace layer](configure-once-migrate-many-vs-lockin.md)
+- [Flex Profiles and PowerFuse profile storage (reference)](flex-profiles-powerfuse-profile-storage.md)
 - [Hybrid user profiles vs roaming profiles](hybrid-user-profiles-explained.md)
 - [Liquidware suite: ProfileUnity, FlexApp, Stratusphere UX (2018)](liquidware-profileunity-flexapp-stratusphere.md)
 - [Profile Disk plus VHD container: containerizing the user profile](profile-disk-vhd-container-concept.md)
@@ -26,6 +27,7 @@ How it worked then. Liquidware ProfileUnity's Profile Portability (a.k.a. Profil
 - [ProfileUnity feature set and all-in-one model (2017)](profileunity-feature-overview-2017.md)
 - [Windows 10 was never the promised 'One OS to rule them all'](windows-10-not-one-os-to-rule-them-all.md)
 - [Microsoft's 'one Windows 10 to rule them all' promise was false](windows-10-not-one-os-to-rule-them-all-2.md)
+- [How a Windows user profile loads](windows-roaming-profile-loading.md)
 - [Windows user profile versions are incompatible across OS releases](windows-user-profile-version-incompatibility.md)
 - [Windows user profile versions are not cross-compatible](windows-user-profile-version-incompatibility-2.md)
 - [Granular profile handling: write-by-application-level and registry injection](write-by-application-level-profiles.md)

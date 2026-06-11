@@ -30,5 +30,6 @@ Cost angle: more copies and more locations cost more; cross-zone egress between 
 - [Azure high-availability building blocks](azure-high-availability-building-blocks.md)
 - [Nerdio shines where Microsoft's WVD HA docs are missing](nerdio-fills-microsoft-wvd-ha-doc-gap.md)
 - [WVD prerequisites Nerdio still relies on: AD sync and FSLogix profiles](nerdio-wvd-prerequisites-ad-fslogix.md)
+- [Synchronous vs Asynchronous Replication](synchronous-vs-asynchronous-replication.md)
 - [WVD: what Microsoft makes HA vs what you must](wvd-managed-vs-customer-responsibility.md)
 - [FSLogix Profile Containers as the WVD profile standard (2019)](wvd-profiles-fslogix-azure-files-2019.md)

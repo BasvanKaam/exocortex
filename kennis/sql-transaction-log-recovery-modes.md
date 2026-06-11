@@ -26,4 +26,5 @@ With daily (or multiple-weekly) backups, Simple Recovery mode is usually suffici
 - [The XenDesktop Central Site database](central-site-database-role.md)
 - [FMA database sizing numbers](fma-database-sizing-numbers.md)
 - [PVS high availability](pvs-high-availability.md)
+- [SQL Server 2008 Feature Highlights](sql-server-2008-feature-highlights.md)
 - [The three XenDesktop databases](xendesktop-three-databases.md)

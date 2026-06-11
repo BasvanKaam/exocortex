@@ -27,7 +27,10 @@ Note: Microsoft's effective-permissions tool does not include share permissions 
 
 ## Verwante notities
 
+- [AD Access Control: Security Descriptors, DACL, SACL](ad-access-control-descriptors.md)
+- [Exchange Message Size Limit Precedence](exchange-message-size-limit-precedence.md)
 - [Hiding apps (Limit Visibility) vs hiding desktops (PowerShell entitlement filter)](limit-visibility-vs-entitlement.md)
 - [Rights vs permissions are not the same thing](rights-vs-permissions-windows.md)
 - [Full Control share + lock down with NTFS (and the inheritance trap)](share-permission-best-practice-and-inheritance.md)
+- [Share vs NTFS Permissions](share-vs-ntfs-permissions.md)
 - [VMFS3 vs VMFS5 block and sub-block sizing](vmfs3-vmfs5-block-sizes.md)

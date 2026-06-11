@@ -21,6 +21,7 @@ After two years it shipped Citrix Multiuser, an OS/2 extension, where the ICA (I
 ## Verwante notities
 
 - [Framing: reflecting on Citrix's history amid 2017 sale rumours](citrix-sale-rumours-2017-reflection.md)
+- [Citrix XenApp Lineage and Client Types](citrix-xenapp-lineage-and-clients.md)
 - [EUC history: OS/2 apps on NeXT via Citrix](euc-history-citrix-os2-next.md)
 - [From Terminal Services to AVD - The Multi-User History](history-terminal-services-to-avd.md)
 - [ICA connection renamed HDX connection (terminology shift, 2013)](ica-connection-becomes-hdx-connection.md)

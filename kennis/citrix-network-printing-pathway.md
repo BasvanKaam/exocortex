@@ -22,5 +22,6 @@ How it worked then: with network-provisioned printers (a print server), Citrix t
 - [Citrix client vs network printing pathway](citrix-client-vs-network-printing-pathway.md)
 - [Citrix network vs client printing pathway](citrix-print-pathways-network-vs-client.md)
 - [Citrix Universal Print Server (UPS)](citrix-universal-print-server.md)
+- [Citrix XenApp Printing Pathways](citrix-xenapp-printing-pathways.md)
 - [Direct IP printing: simple and cheap, but decentralized to manage](direct-ip-printing-tradeoffs.md)
 - [Forcing the client pathway for network printers, and when not to](forcing-client-pathway-direct-connections-policy.md)

@@ -24,3 +24,4 @@ A durable EUC principle Bas argues in 2018: User Environment Management should n
 - [Microsoft has never managed profiles and desktop UX well](microsoft-weak-at-user-data-and-desktop-experience.md)
 - [Greenfield onboarding is a utopia; plan for existing profiles and data](migration-greenfield-utopia-vs-brownfield.md)
 - [Use one UEM layer across physical, virtual, on-prem and cloud](one-uem-layer-across-physical-virtual-cloud.md)
+- [RES PowerFuse / Workspace Manager (reference)](res-powerfuse-workspace-manager-overview.md)

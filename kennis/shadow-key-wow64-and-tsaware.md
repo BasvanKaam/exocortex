@@ -25,4 +25,6 @@ Server 2008R2 and later (incl. Windows 8 / 2012): applications can be marked TSA
 - [Moving 32-bit to 64-bit (and 2003 to 2008) means app-compat work (durable lesson)](32bit-to-64bit-app-compat-is-a-fact-of-life.md)
 - [Last write wins: why roaming profiles collide across sessions](last-write-wins-ntuser-dat.md)
 - [Why adding new farm servers can wipe user app settings (shadow key timestamps)](shadow-key-new-farm-server-timestamp-trap.md)
+- [Terminal Server install vs execute mode and the shadow key (reference)](terminal-server-install-vs-execute-mode-shadow-key.md)
+- [Terminal Server registry mapping and the load-balancing timestamp trap](terminal-server-registry-mapping-timestamp-trap.md)
 - [The Terminal Server shadow key and registry sync at logon](terminal-server-shadow-key.md)

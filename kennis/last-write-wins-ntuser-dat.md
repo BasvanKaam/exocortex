@@ -21,8 +21,10 @@ Mandatory profiles avoid this because all users share a read-only NTUSER.MAN tha
 ## Verwante notities
 
 - [Hybrid user profiles vs roaming profiles](hybrid-user-profiles-explained.md)
+- [PowerFuse Instant LogOff (reference)](powerfuse-instant-logoff.md)
 - [ProfileDisk: redirect the whole profile to a VHD/VMDK container](profiledisk-container-concept.md)
 - [Why adding new farm servers can wipe user app settings (shadow key timestamps)](shadow-key-new-farm-server-timestamp-trap.md)
 - [Shadow key behavior on 64-bit and TSAWARE apps](shadow-key-wow64-and-tsaware.md)
+- [How a Windows user profile loads](windows-roaming-profile-loading.md)
 - [Windows user profile versions are incompatible across OS releases](windows-user-profile-version-incompatibility.md)
 - [Granular profile handling: write-by-application-level and registry injection](write-by-application-level-profiles.md)

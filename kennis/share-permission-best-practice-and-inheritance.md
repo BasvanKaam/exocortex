@@ -22,4 +22,5 @@ The inheritance trap: subfolders inherit the parent's NTFS permissions, not its 
 
 - [Rights vs permissions are not the same thing](rights-vs-permissions-windows.md)
 - [How share and NTFS permissions combine](share-vs-ntfs-permission-combination.md)
+- [Share vs NTFS Permissions](share-vs-ntfs-permissions.md)
 - [Windows user profile versions are incompatible across OS releases](windows-user-profile-version-incompatibility.md)

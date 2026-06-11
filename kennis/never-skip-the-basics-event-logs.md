@@ -17,10 +17,12 @@ A small but characteristic methodological stance from Bas (Nov 2018). When troub
 ## Verwante notities
 
 - [The basics (almost) never change](basics-never-change-troubleshooting-philosophy.md)
+- [Domain Controller Health-Check CLI Routine](dc-health-check-cli-routine.md)
 - [Troubleshooting tip #1: document what you've done](document-your-troubleshooting.md)
 - [Teaching stance: master the basics before the advanced NetScaler features](netscaler-walk-before-you-run-teaching.md)
 - [Prefer PowerShell over the GUI for Citrix FMA work](powershell-over-gui-for-citrix.md)
 - [Inspecting prerequisites up front saves the whole deployment](prerequisites-discipline-saves-time.md)
 - [Tools are fine, but understand the architecture before you troubleshoot](printing-troubleshooting-understand-architecture-first.md)
+- [Terminal Server / Citrix troubleshooting checklist (own notes)](terminal-server-troubleshooting-checklist.md)
 - [You can't troubleshoot what you don't understand](troubleshooting-know-the-basics.md)
 - [Use health-check tooling proactively, not only when things fall apart](use-monitoring-proactively-not-when-it-breaks.md)

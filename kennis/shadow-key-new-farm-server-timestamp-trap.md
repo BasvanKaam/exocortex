@@ -27,5 +27,7 @@ The behavior cannot be disabled. The fix is to make the new servers' shadow key 
 - [Last write wins: why roaming profiles collide across sessions](last-write-wins-ntuser-dat.md)
 - [Forcing Microsoft Security Essentials onto Server 2012 (home lab)](mse-on-server-2012-workaround.md)
 - [Shadow key behavior on 64-bit and TSAWARE apps](shadow-key-wow64-and-tsaware.md)
+- [Terminal Server install vs execute mode and the shadow key (reference)](terminal-server-install-vs-execute-mode-shadow-key.md)
+- [Terminal Server registry mapping and the load-balancing timestamp trap](terminal-server-registry-mapping-timestamp-trap.md)
 - [The Terminal Server shadow key and registry sync at logon](terminal-server-shadow-key.md)
 - [Windows user profile versions are incompatible across OS releases](windows-user-profile-version-incompatibility.md)

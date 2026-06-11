@@ -28,4 +28,5 @@ App virtualization (App-V, ThinApp) and application layering are often confused,
 - [MSIX positioned to replace App-V (2019 transition)](msix-replacing-app-v.md)
 - [If most VDIs are non-persistent, why aren't more apps virtualised?](non-persistent-vs-app-virtualisation-surprise.md)
 - [Layering and virtualization are partners, and the cons are soon forgotten](positie-layering-and-virtualization-coexist.md)
+- [VAS Application Virtualization Delivery Flow](vas-application-virtualization-flow.md)
 - [Windows apps are 'traditional', not 'legacy'](windows-apps-traditional-not-legacy.md)

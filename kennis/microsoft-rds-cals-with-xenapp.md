@@ -28,4 +28,5 @@ Side note: when XenApp is used only to stream packaged applications down to a vi
 - [Microsoft VDA licenses and Software Assurance](microsoft-vda-license-software-assurance.md)
 - [Microsoft VDA vs RDS licensing for Citrix](microsoft-vda-rds-licensing-for-citrix.md)
 - [Server VDA vs Desktop VDA: the often-overlooked new component](server-vda-vs-desktop-vda.md)
+- [Terminal Server licensing and RDP basics (reference)](terminal-server-licensing-and-rdp-basics.md)
 - [VDA license rules and Microsoft licensing nuances](vda-license-rules-microsoft-licensing.md)

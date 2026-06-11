@@ -19,3 +19,7 @@ An SSL session uses two kinds of crypto:
 Because the asymmetric handshake is where the CPU cost concentrates, SSL offloading and acceleration target exactly that phase. This is a durable explanation of why TLS/SSL session setup is comparatively expensive.
 
 *Bron: blogpost 'NetScaler SSL Offloading for XenMobile MDM... Finally!' (2014-01-27), basvankaam.com.*
+
+## Verwante notities
+
+- [Wireless Encryption: WEP, WPA and WPA2](wireless-encryption-wep-wpa-wpa2.md)

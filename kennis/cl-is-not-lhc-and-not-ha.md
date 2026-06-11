@@ -21,6 +21,7 @@ This is Bas correcting community/marketing over-claims with precision, a recurri
 
 ## Verwante notities
 
+- [Citrix IMA Architecture: Data Store and Local Host Cache](citrix-ima-architecture.md)
 - [Connection Leasing failover behavior and limitations](connection-leasing-failover-behavior.md)
 - [How Connection Leasing worked in XenApp 7.6](connection-leasing-how-it-works.md)
 - [Why the FMA Site database is a single point of failure (no Local Host Cache)](fma-no-local-host-cache-db-dependency.md)

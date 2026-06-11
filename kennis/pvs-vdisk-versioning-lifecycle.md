@@ -26,3 +26,4 @@ Warning: promoting a version actually opens and writes to the vDisk, which can c
 - [Citrix Provisioning Services (PVS) overview](provisioning-services-overview.md)
 - [PVS vDisk creation, Standard vs Private Image Mode](pvs-vdisk-standard-vs-private-image-mode.md)
 - [PVS write cache options](pvs-write-cache-options.md)
+- [VM Snapshot Mechanics: Delta Files and Redo Logs](vm-snapshot-delta-mechanics.md)

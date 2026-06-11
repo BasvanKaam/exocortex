@@ -31,6 +31,7 @@ Practical fixes: if IOPS are limited, (pre-)boot machines at night and prevent u
 - [Not all IOPS are the same: the three golden parameters](iops-not-all-the-same.md)
 - [MCS IOPS profile: ~1.6x PVS average, ~1.2x steady state](mcs-iops-vs-pvs.md)
 - [Tools and PerfMon counters for measuring IOPS](measuring-iops-tools-and-counters.md)
+- [RAID Levels Overview](raid-levels-overview.md)
 - [The RAID write penalty](raid-write-penalty.md)
 - [Bas on sizing: there is no 'one size fits all', and don't overdo it](sizing-no-one-size-fits-all.md)
 - [The five VDI workload phases and boot/logon storms](vdi-five-phases-storms.md)

@@ -24,6 +24,7 @@ As of XenDesktop 7.7, Zones returned, but FMA Zones differ architecturally from 
 
 ## Verwante notities
 
+- [Citrix IMA Architecture: Data Store and Local Host Cache](citrix-ima-architecture.md)
 - [Connection Leasing mechanism](connection-leasing-mechanism.md)
 - [Delivery Controller vs Data Collector differences](delivery-controller-vs-data-collector.md)
 - [The evolution of the FlexCast Management Architecture](evolution-of-the-fma.md)

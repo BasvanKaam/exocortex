@@ -26,7 +26,9 @@ His core advice: start small, take the relatively 'easy' steps first, try to mak
 
 - [Bas's troubleshooting philosophy: prepare in times of peace](bas-troubleshooting-philosophy-prepare-in-peace.md)
 - [Citrix Director: monitoring and troubleshooting tool](citrix-director-overview.md)
+- [Domain Controller Health-Check CLI Routine](dc-health-check-cli-routine.md)
 - [Don't forget old-school tools (NetStat, Ping, Tracert, Telnet)](old-school-troubleshooting-tools.md)
+- [Terminal Server / Citrix troubleshooting checklist (own notes)](terminal-server-troubleshooting-checklist.md)
 - [Bas's troubleshooting and sizing philosophy](troubleshooting-and-sizing-philosophy.md)
 - [Bas's general troubleshooting tips (facts, not guesses)](troubleshooting-general-tips-bas.md)
 - [Bas's troubleshooting philosophy: master the basics before reaching for tools](troubleshooting-know-the-basics-first.md)

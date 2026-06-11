@@ -35,4 +35,5 @@ The "doesn't apply to start-ups" objection: true for a real start-up, but not al
 - [Paper conclusion: Cloud only? Maybe never](bas-paper-conclusion-cloud-only-never.md)
 - [Bas's reframe: call them 'traditional' applications, not 'Legacy'](bas-traditional-not-legacy-applications.md)
 - [Bas's warning: Cloud apps with on-premises backends invite latency trouble](latency-cloud-app-onprem-backend.md)
+- [Why the page file matters in Terminal Server](terminal-server-page-file-copy-on-write.md)
 - [Survey figures on Windows-app persistence (2019)](windows-app-survey-figures-2019.md)

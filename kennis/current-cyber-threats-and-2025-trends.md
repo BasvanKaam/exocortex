@@ -27,6 +27,7 @@ bron: van-de-basis-tot-meester-in-de-cloud
 ## Verwante notities
 
 - [Bas on disaster recovery: no blueprint, and don't forget the BUDGET](bas-on-disaster-recovery-and-budget.md)
+- [DHCP security threats](dhcp-security-threats.md)
 - [Gartner: 99% of security issues are caused by people](gartner-99-percent-security-issues-are-people.md)
 - [How an LLM works: tokens, transformers, pre-training and fine-tuning](how-llms-work-tokens-and-training.md)
 - [NIS and NIS 2 directive](nis-and-nis-2-directive.md)

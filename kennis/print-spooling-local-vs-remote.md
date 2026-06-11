@@ -23,6 +23,7 @@ Even in non-Citrix environments, high-latency WANs give poor user experience if 
 - [Citrix printing pathways: client vs network](citrix-printing-pathways-client-vs-network.md)
 - [Citrix proximity printing](citrix-proximity-printing.md)
 - [Citrix Universal Print Server (UPS)](citrix-universal-print-server.md)
+- [Citrix XenApp Printing Pathways](citrix-xenapp-printing-pathways.md)
 - [EMF vs XPS print file formats](emf-vs-xps-print-formats.md)
 - [Microsoft print file formats: EMF vs XPS](microsoft-print-formats-emf-xps.md)
 - [Print architecture is decided by all elements combined, not one knob](print-architecture-is-all-elements-combined.md)

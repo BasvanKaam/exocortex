@@ -15,6 +15,7 @@ RAID configurations bring a write penalty because a parity bit must also be writ
 
 ## Verwante notities
 
+- [Dynamic Volume Types](dynamic-volume-types.md)
 - [Bas on IOPS, latency and storage sizing](iops-and-latency-fundamentals.md)
 - [IOPS fundamentals: latency is king](iops-fundamentals-latency.md)
 - [Not all IOPS are the same: the three golden parameters](iops-not-all-the-same.md)

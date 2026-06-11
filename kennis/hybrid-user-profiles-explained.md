@@ -20,12 +20,14 @@ Key advantage over roaming profiles: the admin chooses which data gets written b
 
 ## Verwante notities
 
+- [Flex Profiles and PowerFuse profile storage (reference)](flex-profiles-powerfuse-profile-storage.md)
 - [Last write wins: why roaming profiles collide across sessions](last-write-wins-ntuser-dat.md)
 - [Profile Disk plus VHD container: containerizing the user profile](profile-disk-vhd-container-concept.md)
 - [Profile Portability: an abstraction layer over the user profile](profile-portability-abstraction-engine.md)
 - [Why adding new farm servers can wipe user app settings (shadow key timestamps)](shadow-key-new-farm-server-timestamp-trap.md)
 - [User Environment Management belongs on every workspace, not only virtual](uem-spans-physical-and-virtual.md)
 - [Multi-site brokering is easy, user-data locality is the catch](user-data-locality-is-the-catch-in-multisite.md)
+- [How a Windows user profile loads](windows-roaming-profile-loading.md)
 - [Windows user profile versions are incompatible across OS releases](windows-user-profile-version-incompatibility.md)
 - [Windows user profile versions are not cross-compatible](windows-user-profile-version-incompatibility-2.md)
 - [Granular profile handling: write-by-application-level and registry injection](write-by-application-level-profiles.md)

@@ -25,6 +25,8 @@ Key points:
 ## Verwante notities
 
 - [The XenDesktop Central Site database](central-site-database-role.md)
+- [Citrix Server, Farm and Zone Design Trade-offs](citrix-server-farm-zone-design.md)
+- [Citrix Zones and Data Collectors](citrix-zones-and-data-collectors.md)
 - [FMA architectural casualties: Zones, LHC and Worker Groups removed then re-added](fma-architectural-changes-zones-lhc-removed.md)
 - [FMA Zones VDA registration and Controller failover](fma-zones-vda-registration-and-failover.md)
 - [Host Connection key takeaways: MCS/PVS and cloud support](host-connection-mcs-pvs-cloud-support-key-takeaways.md)

@@ -29,5 +29,6 @@ By adding the App-V Management and Publishing servers into Citrix Studio you can
 - [Bas on MCS, workloads and the case for application layering](mcs-application-workloads-layering.md)
 - [Microsoft RDS CALs and the XenApp vs XenDesktop split](microsoft-rds-cals-with-xenapp.md)
 - [Citrix Studio Configuration sub-nodes](studio-configuration-subnodes.md)
+- [VAS Application Virtualization Delivery Flow](vas-application-virtualization-flow.md)
 - [Windows server/desktop OS licensing and App-V (MDOP)](windows-server-desktop-os-licensing-mdop.md)
 - [XD7 auto-discovers installed apps; App-V replaces Citrix profiling](xd7-app-auto-discovery-and-appv.md)

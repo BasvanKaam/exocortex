@@ -28,5 +28,6 @@ How it worked then. Windows XP / Server 2003 introduced the mechanism that loads
 - [Full Control share + lock down with NTFS (and the inheritance trap)](share-permission-best-practice-and-inheritance.md)
 - [Windows 10 was never the promised 'One OS to rule them all'](windows-10-not-one-os-to-rule-them-all.md)
 - [Microsoft's 'one Windows 10 to rule them all' promise was false](windows-10-not-one-os-to-rule-them-all-2.md)
+- [How a Windows user profile loads](windows-roaming-profile-loading.md)
 - [Windows user profile versions are not cross-compatible](windows-user-profile-version-incompatibility-2.md)
 - [Windows 10 servicing branches and deployment rings](windows10-servicing-branches-rings.md)

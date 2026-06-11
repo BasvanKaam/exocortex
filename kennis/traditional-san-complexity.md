@@ -23,6 +23,8 @@ Traditional storage networks (SANs) are complex: switches, disk arrays, fibre-op
 - [Block vs file level storage, plainly](block-vs-file-storage.md)
 - [What a converged infrastructure is](converged-infrastructure-definition.md)
 - [Converged infrastructure will displace SAN-centric design](converged-will-displace-san-centric-design.md)
+- [LUN Masking](lun-masking.md)
+- [SAN Zoning: Hard vs Soft Zones](san-zoning-hard-soft.md)
 - [Server 2012 R2 opened up cheaper VDI storage options](server-2012-r2-cheaper-vdi-storage.md)
 - [Server 2012 R2 data dedup and the VDI separation rule](server-2012-r2-dedup-for-vdi.md)
 - [VMFS3 vs VMFS5 block and sub-block sizing](vmfs3-vmfs5-block-sizes.md)

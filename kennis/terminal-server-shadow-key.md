@@ -26,3 +26,6 @@ At logon, `userinit.exe` compares the server's IniFile Times timestamp with the 
 
 - [Why adding new farm servers can wipe user app settings (shadow key timestamps)](shadow-key-new-farm-server-timestamp-trap.md)
 - [Shadow key behavior on 64-bit and TSAWARE apps](shadow-key-wow64-and-tsaware.md)
+- [Terminal Server install vs execute mode and the shadow key (reference)](terminal-server-install-vs-execute-mode-shadow-key.md)
+- [Terminal Server registry mapping and the load-balancing timestamp trap](terminal-server-registry-mapping-timestamp-trap.md)
+- [Terminal Server AppSetup key and UsrLogon.cmd (reference)](ts-appsetup-key-and-usrlogon.md)

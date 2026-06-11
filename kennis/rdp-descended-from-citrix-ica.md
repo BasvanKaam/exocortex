@@ -23,4 +23,5 @@ Durable history: Microsoft funded Citrix when it was on the verge of closing, sp
 - [EUC history: OS/2 apps on NeXT via Citrix](euc-history-citrix-os2-next.md)
 - [ICA connection renamed HDX connection (terminology shift, 2013)](ica-connection-becomes-hdx-connection.md)
 - [Server VDA internals: Broker Agent, ICA stack, StackControlService](server-vda-internals-fma.md)
+- [Terminal Server licensing and RDP basics (reference)](terminal-server-licensing-and-rdp-basics.md)
 - [WVD is what used to be RDMI](wvd-is-rdmi-on-prem-history.md)

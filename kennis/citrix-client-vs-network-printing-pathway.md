@@ -25,6 +25,7 @@ You can force the client pathway by disabling the 'Direct connection to print se
 - [Citrix network-printing pathway: print-server traffic is uncompressed](citrix-network-printing-pathway.md)
 - [Citrix Print Management Service](citrix-print-management-service.md)
 - [Citrix network vs client printing pathway](citrix-print-pathways-network-vs-client.md)
+- [Citrix XenApp Default Printing Behavior](citrix-xenapp-default-printing-behavior.md)
 - [Forcing the client pathway for network printers, and when not to](forcing-client-pathway-direct-connections-policy.md)
 - [Print architecture is decided by all elements combined, not one knob](print-architecture-is-all-elements-combined.md)
 - [Tools are fine, but understand the architecture before you troubleshoot](printing-troubleshooting-understand-architecture-first.md)

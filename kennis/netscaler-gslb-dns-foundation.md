@@ -26,6 +26,8 @@ Licensing: GSLB required Enterprise or Platinum NetScaler licences. Important de
 
 ## Verwante notities
 
+- [DFS Client Referral Process](dfs-client-referral-process.md)
+- [DNS resource record types](dns-resource-record-types.md)
 - [GSLB selection metrics and the Metric Exchange Protocol](netscaler-gslb-metrics-mep.md)
 - [NetScaler HA pair: heartbeats, failover and config replication](netscaler-ha-pair-fundamentals.md)
 - [NetScaler binding chain: virtual server to service to server object](netscaler-virtual-service-server-objects.md)

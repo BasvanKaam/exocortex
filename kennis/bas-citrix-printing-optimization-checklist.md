@@ -47,6 +47,7 @@ FMA fact (his caution): it isn't just about bandwidth; check for congestion and 
 - [Citrix Universal Print Driver (UPD)](citrix-universal-print-driver.md)
 - [Citrix Universal Print Server (UPS)](citrix-universal-print-server.md)
 - [Citrix Universal Printer (logical print object)](citrix-universal-printer.md)
+- [Citrix XenApp Default Printing Behavior](citrix-xenapp-default-printing-behavior.md)
 - [Multi-Stream ICA: true network-level QoS via separate TCP/IP ports](multi-stream-ica.md)
 - [Print architecture is decided by all elements combined, not one knob](print-architecture-is-all-elements-combined.md)
 - [Bas's print driver best practices](print-driver-best-practices.md)

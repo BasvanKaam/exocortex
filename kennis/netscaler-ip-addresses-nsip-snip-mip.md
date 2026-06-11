@@ -26,3 +26,4 @@ bron: inside-citrix-fma
 - [NetScaler static routes](netscaler-static-routes.md)
 - [NetScaler Unified Gateway](netscaler-unified-gateway.md)
 - [NetScaler vServers, service objects and server objects](netscaler-virtual-server-service-server-objects.md)
+- [RFC 1918 private IP address ranges](rfc1918-private-ip-ranges.md)

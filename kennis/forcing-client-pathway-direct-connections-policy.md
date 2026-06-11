@@ -28,4 +28,5 @@ The 'session printer' Citrix policy lets you auto-create specific network printe
 - [Citrix network-printing pathway: print-server traffic is uncompressed](citrix-network-printing-pathway.md)
 - [Citrix network vs client printing pathway](citrix-print-pathways-network-vs-client.md)
 - [Citrix proximity printing](citrix-proximity-printing.md)
+- [Citrix XenApp Printing Pathways](citrix-xenapp-printing-pathways.md)
 - [Print architecture is decided by all elements combined, not one knob](print-architecture-is-all-elements-combined.md)

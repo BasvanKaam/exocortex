@@ -28,6 +28,7 @@ Key nuance Bas highlights: authentication (building the token) and validation (f
 - [The STA only comes into play when traffic traverses a NetScaler](citrix-sta-only-with-netscaler.md)
 - [External user authentication through NetScaler](external-authentication-through-netscaler.md)
 - [Authentication vs verification are two distinct steps](fma-authentication-vs-verification.md)
+- [Kerberos V5 Authentication](kerberos-v5-authentication.md)
 - [NetScaler Gateway remote-access traffic flow](netscaler-gateway-traffic-flow.md)
 - [StoreFront authentication and resource enumeration traffic flow](storefront-authentication-traffic-flow.md)
 - [StoreFront authenticates locally, Web Interface delegates via XML](storefront-vs-webinterface-auth-flow.md)

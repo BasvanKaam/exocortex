@@ -27,3 +27,4 @@ His warning: experienced Cloud/IT people too easily think 'pfff, this is obvious
 
 - [Gartner: 99% of security issues are caused by people](gartner-99-percent-security-issues-are-people.md)
 - [Role-Specific Security Training (Don't Call Staff the Weakest Link)](people-are-the-weakest-link-training.md)
+- [Wireless Encryption: WEP, WPA and WPA2](wireless-encryption-wep-wpa-wpa2.md)

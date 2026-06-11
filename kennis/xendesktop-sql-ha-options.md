@@ -29,3 +29,5 @@ The practical lesson: pick based on what you already license. Companies already 
 ## Verwante notities
 
 - [On over-engineering HA: simplicity often wins, but it all depends](ha-it-all-depends.md)
+- [SQL Server 2005 Database Mirroring with a Witness](sql-2005-database-mirroring.md)
+- [SQL Server 2008 Feature Highlights](sql-server-2008-feature-highlights.md)

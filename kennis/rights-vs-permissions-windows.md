@@ -23,5 +23,6 @@ Don't say rights when you mean permissions or vice versa.
 
 ## Verwante notities
 
+- [PowerFuse application, file, and IP security (reference)](powerfuse-application-and-file-security.md)
 - [Full Control share + lock down with NTFS (and the inheritance trap)](share-permission-best-practice-and-inheritance.md)
 - [How share and NTFS permissions combine](share-vs-ntfs-permission-combination.md)

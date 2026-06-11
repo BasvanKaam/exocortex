@@ -19,6 +19,7 @@ A notable piece of Synergy 2013 news Bas relayed: Citrix Profiling (application 
 ## Verwante notities
 
 - [App-V management from Citrix Studio (XenDesktop 7.8)](app-v-in-xendesktop-7-8.md)
+- [Citrix Streaming Profile and AIE Data Paths](citrix-streaming-profile-paths.md)
 - [Excalibur merges XenApp and XenDesktop onto FMA](excalibur-merges-xenapp-xendesktop-fma.md)
 - [Microsoft App-V components and licensing with Citrix](microsoft-app-v-with-citrix.md)
 - [MSIX positioned to replace App-V (2019 transition)](msix-replacing-app-v.md)

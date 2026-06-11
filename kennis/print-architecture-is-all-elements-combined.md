@@ -24,6 +24,7 @@ A durable design principle from the printing deep-dive: there is no single setti
 - [Citrix network vs client printing pathway](citrix-print-pathways-network-vs-client.md)
 - [Citrix printing pathways: client vs network](citrix-printing-pathways.md)
 - [Citrix printing pathways: client vs network](citrix-printing-pathways-client-vs-network.md)
+- [Citrix XenApp Printing Pathways](citrix-xenapp-printing-pathways.md)
 - [Direct IP printing: simple and cheap, but decentralized to manage](direct-ip-printing-tradeoffs.md)
 - [Forcing the client pathway for network printers, and when not to](forcing-client-pathway-direct-connections-policy.md)
 - [Most Citrix printing pain is still bad drivers and bad architecture](positie-citrix-printing-still-driver-and-design-problem.md)

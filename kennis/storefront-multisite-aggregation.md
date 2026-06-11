@@ -28,6 +28,7 @@ All of this is configured in the web.config file (C:\inetpub\wwwroot\Citrix\stor
 
 - [Critique: why isn't this in the GUI? (web.config friction)](build-it-into-the-gui-position.md)
 - [App subscriptions are stored by the platform, not the client](client-vs-platform-subscriptions-gotcha.md)
+- [DFS Client Referral Process](dfs-client-referral-process.md)
 - [NetScaler GSLB is DNS-based multi-site traffic management](netscaler-gslb-dns-foundation.md)
 - [GSLB selection metrics and the Metric Exchange Protocol](netscaler-gslb-metrics-mep.md)
 - [One is none: always deploy two StoreFronts and two Delivery Controllers](one-is-none-storefront-dc-redundancy.md)

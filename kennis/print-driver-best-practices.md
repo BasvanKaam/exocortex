@@ -34,6 +34,7 @@ The 'simpler' the print driver, the less traffic it generates — use vendor dri
 - [Bas's checklist to speed up and clean up Citrix printing](bas-citrix-printing-optimization-checklist.md)
 - [Citrix print troubleshooting tools](citrix-print-troubleshooting-tools.md)
 - [Citrix Universal Print Driver (UPD)](citrix-universal-print-driver.md)
+- [Citrix wfshell.exe, cltmgr.exe, and printer drivers (reference)](citrix-wfshell-cltmgr-printer-drivers.md)
 - [EMF vs XPS print file formats](emf-vs-xps-print-formats.md)
 - [Print driver versions and Print Driver Isolation](print-driver-history-and-modes.md)
 - [Print Driver Isolation modes and the Citrix Print Management Service](print-driver-isolation-and-citrix-print-mgmt.md)

@@ -19,3 +19,4 @@ His nuanced conclusion: Ivanti's announced three-year Long-Term Maintenance Rele
 ## Verwante notities
 
 - [Don't buy a desktop management suite just to lock down a desktop](management-suites-only-if-used-fully.md)
+- [RES PowerFuse / Workspace Manager (reference)](res-powerfuse-workspace-manager-overview.md)

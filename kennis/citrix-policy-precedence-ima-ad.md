@@ -26,9 +26,13 @@ To see applied Citrix AD policies, run GPResult from within GPMC (Group Policy R
 
 ## Verwante notities
 
+- [Citrix IMA Architecture: Data Store and Local Host Cache](citrix-ima-architecture.md)
 - [Troubleshooting tip #1: document what you've done](document-your-troubleshooting.md)
+- [Exchange Message Size Limit Precedence](exchange-message-size-limit-precedence.md)
 - [FMA vs IMA: no Zones, no Data Collectors, no Local Host Cache (2013)](fma-vs-ima-no-zones-no-lhc.md)
 - [IGEL UMS: central thin client management via profiles and directories](igel-ums-thin-client-management.md)
 - [IMA-to-FMA terminology: Farm to Site, Data Collector to Delivery Controller](ima-to-fma-terminology-map.md)
+- [PowerFuse assignment model and tracing (reference)](powerfuse-assignment-model-and-tracing.md)
 - [Skip XenApp 6.0, go straight to 6.5 (April 2013)](skip-xenapp-60-go-straight-to-65.md)
+- [Terminal Server / Citrix troubleshooting checklist (own notes)](terminal-server-troubleshooting-checklist.md)
 - [Detecting XenApp session sharing via the ICA Session registry key](xenapp-session-sharing-registry-states.md)

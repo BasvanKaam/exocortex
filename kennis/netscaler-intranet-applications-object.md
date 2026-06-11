@@ -23,3 +23,4 @@ How it worked then: split tunneling is driven by Intranet (not Internet) Applica
 - [NetScaler SNIP, MIP and static routes: how traffic is sourced and routed](netscaler-snip-mip-static-routes.md)
 - [NetScaler split tunneling: route only corporate traffic through the VPN](netscaler-split-tunneling-concept.md)
 - [Split tunneling's convenience carries a real, not far-fetched, security risk](positie-split-tunneling-security-tradeoff.md)
+- [Subnetting and VLANs](subnetting-and-vlans.md)

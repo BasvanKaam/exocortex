@@ -28,6 +28,9 @@ When the Central Site DB is down, no Site-wide config changes are possible; LHC 
 
 - [Bas's key takeaways on the user login process](bas-key-takeaways-user-login-process.md)
 - [The XenDesktop Central Site database](central-site-database-role.md)
+- [Citrix Data Collector Elections](citrix-data-collector-elections.md)
+- [Citrix IMA Architecture: Data Store and Local Host Cache](citrix-ima-architecture.md)
+- [Citrix Zones and Data Collectors](citrix-zones-and-data-collectors.md)
 - [Connection Leasing mechanism](connection-leasing-mechanism.md)
 - [Delivery Controller as the heart of the FMA](delivery-controller-is-heart-of-fma.md)
 - [Delivery Controller vs. Data Collector (FMA vs. IMA)](delivery-controller-vs-data-collector-2.md)

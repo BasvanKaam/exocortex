@@ -19,6 +19,7 @@ How it worked then: MCS is built right into XenDesktop/XenApp (no separate infra
 ## Verwante notities
 
 - [Citrix Host Connection](citrix-host-connection.md)
+- [Copy-on-Write Snapshots vs Clones](copy-on-write-snapshots-vs-clones.md)
 - [Machine Creation Services (MCS): integrated single-image delivery](machine-creation-services-overview.md)
 - [MCS desktop types: pooled-random, pooled-static, dedicated](mcs-desktop-types-pooled-dedicated.md)
 - [MCS Differencing Disk and Identity Disk](mcs-differencing-and-identity-disk.md)
@@ -28,5 +29,6 @@ How it worked then: MCS is built right into XenDesktop/XenApp (no separate infra
 - [Pooled vs dedicated desktops: the durable trade-off](pooled-vs-dedicated-desktops.md)
 - [MCS vs PVS is done to death; pick a lens and stress-test the choice](positie-mcs-not-vs-pvs.md)
 - [PVS vs MCS image-delivery tradeoffs (XenDesktop 7 era)](pvs-vs-mcs-tradeoffs.md)
+- [VM Snapshot Mechanics: Delta Files and Redo Logs](vm-snapshot-delta-mechanics.md)
 - [How VMware Instant Clones (vmFork) provision desktops in seconds](vmware-instant-clones-vmfork-mechanics.md)
 - [XenDesktop 7 Host Infrastructure and what it unlocks](xendesktop-host-infrastructure-mcs-pvs.md)

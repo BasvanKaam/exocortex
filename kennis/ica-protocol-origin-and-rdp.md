@@ -26,3 +26,4 @@ Citrix signed a license agreement with Microsoft (renewed multiple times) to use
 - [ICA ports, virtual channels and priorities](ica-ports-and-virtual-channels.md)
 - [What the ICA protocol does and its default ports](ica-protocol-fundamentals.md)
 - [ICA virtual channels: 32 total, 17 reserved by Citrix](ica-virtual-channels.md)
+- [Terminal Server licensing and RDP basics (reference)](terminal-server-licensing-and-rdp-basics.md)

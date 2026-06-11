@@ -17,6 +17,7 @@ Stance (October 2015): after walking through years of print-driver evolution, Ba
 ## Verwante notities
 
 - [Citrix printing barely changed across 2018 releases](citrix-printing-stagnation-2018.md)
+- [Citrix wfshell.exe, cltmgr.exe, and printer drivers (reference)](citrix-wfshell-cltmgr-printer-drivers.md)
 - [Print architecture is decided by all elements combined, not one knob](print-architecture-is-all-elements-combined.md)
 - [Print Driver Isolation modes and the Citrix Print Management Service](print-driver-isolation-and-citrix-print-mgmt.md)
 - [Print driver isolation: None, Shared, Isolated](print-driver-isolation-modes.md)

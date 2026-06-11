@@ -36,6 +36,7 @@ Guiding principle: "Nooit vertrouwen, altijd verifiëren" (never trust, always v
 - [Role-Specific Security Training (Don't Call Staff the Weakest Link)](people-are-the-weakest-link-training.md)
 - [The Security Operations Center (SOC)](soc-security-operations-center.md)
 - [Voorzorg: Assume You Will Be Breached](voorzorg-assume-breach.md)
+- [Wireless Encryption: WEP, WPA and WPA2](wireless-encryption-wep-wpa-wpa2.md)
 - [Zero Trust Works From the Outside In (Building Analogy)](zero-trust-outside-in-building-analogy.md)
 - [Zero Trust Principles](zero-trust-principles.md)
 - [Ten-Category Security Portfolio for Zero Trust](zero-trust-ten-category-portfolio.md)

@@ -20,6 +20,8 @@ Shortly after Multiuser, Microsoft announced it would drop OS/2 and move to Wind
 - [Citrix company history: from Citrus to WinFrame](citrix-company-history.md)
 - [Citrix HDX: an extension to ICA, not a replacement](citrix-hdx-extends-ica.md)
 - [Citrix Receiver: purpose and naming history](citrix-receiver-history-and-purpose.md)
+- [Citrix / Terminal Services logon sequence (reference)](citrix-ts-logon-sequence.md)
+- [Citrix XenApp Lineage and Client Types](citrix-xenapp-lineage-and-clients.md)
 - [The evolution of the FlexCast Management Architecture](evolution-of-the-fma.md)
 - [HDX is not a replacement for ICA](hdx-not-a-replacement-for-ica.md)
 - [From Terminal Services to AVD - The Multi-User History](history-terminal-services-to-avd.md)

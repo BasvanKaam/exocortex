@@ -31,6 +31,7 @@ FMA fact: it's not one thing but everything combined that makes or breaks a prin
 - [Citrix printing pathways: client vs network](citrix-printing-pathways.md)
 - [Citrix proximity printing](citrix-proximity-printing.md)
 - [Citrix Universal Print Server (UPS)](citrix-universal-print-server.md)
+- [Citrix XenApp Printing Pathways](citrix-xenapp-printing-pathways.md)
 - [EMF vs XPS print file formats](emf-vs-xps-print-formats.md)
 - [ICA virtual channel priorities (0-3) and how to change them](ica-virtual-channel-priorities.md)
 - [Microsoft print file formats: EMF vs XPS](microsoft-print-formats-emf-xps.md)

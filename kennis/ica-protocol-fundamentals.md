@@ -20,6 +20,7 @@ When WinFrame launched (1995) it introduced ICA 3.0 including ThinWire 1.0; ICA 
 ## Verwante notities
 
 - [Citrix HDX: an extension to ICA, not a replacement](citrix-hdx-extends-ica.md)
+- [Citrix / Terminal Services logon sequence (reference)](citrix-ts-logon-sequence.md)
 - [HDX is not a replacement for ICA](hdx-not-a-replacement-for-ica.md)
 - [The origin of Citrix and the ICA protocol](history-of-citrix-and-ica.md)
 - [ICA ports, virtual channels and priorities](ica-ports-and-virtual-channels.md)

@@ -30,3 +30,4 @@ Bas recounts the pain of his early years: enormous time spent (temporarily) movi
 - [Core cloud building blocks: datacenter, virtualization, APIs, storage, databases, elasticity](core-cloud-components-and-concepts.md)
 - [Data unit hierarchy from bit to Geopbyte](data-unit-hierarchy-bit-to-geopbyte.md)
 - [Fundamental principles of the Cloud (per NIST)](fundamental-cloud-principles-nist.md)
+- [SAN Zoning: Hard vs Soft Zones](san-zoning-hard-soft.md)

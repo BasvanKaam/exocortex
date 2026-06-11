@@ -28,6 +28,7 @@ His reasoning, from the provider's perspective: in a subscription/service model 
 - [The Gartner Hype Cycle and its five stages](gartner-hype-cycle.md)
 - [How an Innovation Board operates, end to end](innovation-board-in-detail.md)
 - [Where to 'park' innovation: Innovation/Technology Board, Solutions Board, Office of the CTO](innovation-board-technology-board-office-of-cto.md)
+- [ISA Server 2004/2006 Configuration Concepts](isa-server-configuration-concepts.md)
 - [Opex Is Harder for the Provider Than the Customer](opex-challenge-for-providers.md)
 - [Transformation: From Product to Service, Ownership to Usage](product-to-service-ownership-to-usage.md)
 - [The Technology / Innovation Board](technology-innovation-board.md)

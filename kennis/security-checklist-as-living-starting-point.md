@@ -22,3 +22,4 @@ When releasing his AVD security cheat sheet (April 2023), Bas deliberately posit
 - [Community feedback as the force that shapes the product](community-as-product-shaping-force.md)
 - [Publish the draft and let the community fact-check it](publish-the-draft-crowdsource-the-facts.md)
 - [The community's success depends on us; give before you take](stance-give-to-the-community.md)
+- [Wireless Encryption: WEP, WPA and WPA2](wireless-encryption-wep-wpa-wpa2.md)

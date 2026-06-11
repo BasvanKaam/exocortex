@@ -29,6 +29,7 @@ Key troubleshooting fact: the print driver on the Server OS/VDI VM and the clien
 - [Citrix proximity printing](citrix-proximity-printing.md)
 - [Citrix Universal Print Server (UPS)](citrix-universal-print-server.md)
 - [Citrix Universal Printer (logical print object)](citrix-universal-printer.md)
+- [Citrix XenApp Default Printing Behavior](citrix-xenapp-default-printing-behavior.md)
 - [EMF vs XPS print file formats](emf-vs-xps-print-formats.md)
 - [Microsoft print file formats: EMF vs XPS](microsoft-print-formats-emf-xps.md)
 - [Bas's print driver best practices](print-driver-best-practices.md)
