@@ -30,6 +30,7 @@ Bas illustrates the step-by-step approach with his elephant joke.
 
 ## Verwante notities
 
+- [Against Jargon-Heavy, 100-Page Deliverables](against-jargon-heavy-deliverables.md)
 - [Bas: 'Wegwerp IT' and the Lift-and-Shift Caution](bas-wegwerp-it-and-lift-and-shift.md)
 - [Cloud Center of Excellence (CCoE): Definition and Why Early](cloud-center-of-excellence-definition.md)
 - [EA: Working with Principles (Top-Down and Bottom-Up Balance)](ea-working-with-principles.md)
@@ -38,6 +39,8 @@ Bas illustrates the step-by-step approach with his elephant joke.
 - [SCAF Cloud Exit Strategy Template (On Bas's Backlog)](scaf-cloud-exit-strategy-on-backlog.md)
 - [SCAF Documentation and Templates](scaf-documentation-templates.md)
 - [SCAF Key Takeaways - The Four Phases and Strategy](scaf-four-phases-key-takeaways.md)
+- [SCAF Pillars and Design Principles](scaf-pillars-and-design-principles.md)
+- [SCAF: Salomon Cloud Adoptie Framework (Origin)](scaf-salomon-cloud-adoptie-framework.md)
 - [SCAF: The Step-Cloud Adoptie Framework Overview](scaf-step-cloud-adoption-framework-overview.md)
 - [The Step-Cloud Adoptie Framework (SCAF) as the book's backbone](scaf-the-red-thread-of-the-book.md)
 - [SCAF Toolkit: Bas's 'keep it simple' philosophy and applicability](scaf-toolkit-philosophy-and-applicability.md)

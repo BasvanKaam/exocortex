@@ -21,6 +21,7 @@ Bas notes that a full business case (with all details of the current situation, 
 
 - [Why Write a Business Case, and Its Key Elements](business-case-value-and-elements.md)
 - [A Business Case Is More Than 'Hard' Costs Alone](businesscase-more-than-hard-costs.md)
+- [Building a Compact Cloud Business Case](compact-cloud-business-case-method.md)
 - [Start a DaaS Business Case 'High-Over' First](daas-business-case-high-over-first.md)
 - [Opdracht 5: build your own business case (the method)](opdracht-5-business-case-exercise.md)
 - [SCAF Insight Phase: Actions and the Waves Approach](scaf-insight-actions-and-waves.md)

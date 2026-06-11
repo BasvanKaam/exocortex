@@ -25,3 +25,4 @@ Writing at the end of 2020 (mid-COVID), Bas frames working from home as a durabl
 - [Switching monitor resolution from a Stream Deck via Display Changer](stream-deck-resolution-switch-display-changer.md)
 - [Bas's 2020 WFH / streaming kit-list](wfh-setup-kitlist-2020.md)
 - [Treating the job as a hobby you'd do anyway](work-as-hobby-philosophy.md)
+- [Working From Home: Routine and Productivity Practices](working-from-home-routine-and-productivity.md)

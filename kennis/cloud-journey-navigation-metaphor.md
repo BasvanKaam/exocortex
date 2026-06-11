@@ -33,3 +33,4 @@ This ties into Bas's recurring point that, as in life, asking the right question
 - [EA: Working with Principles (Top-Down and Bottom-Up Balance)](ea-working-with-principles.md)
 - [SCAF: The Step-Cloud Adoptie Framework Overview](scaf-step-cloud-adoption-framework-overview.md)
 - [SCAF Strategie: The Foundation Questions](scaf-strategie-fundament-questions.md)
+- [Begin at the beginning](start-from-where-you-are.md)

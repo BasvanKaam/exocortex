@@ -24,3 +24,4 @@ bron: van-de-basis-tot-meester-in-de-cloud
 - [Opex Is Harder for the Provider Than the Customer](opex-challenge-for-providers.md)
 - [Comparing a Physical Server to Cloud Isn't Fair](physical-vs-cloud-server-not-fair-comparison.md)
 - [Transformation: From Product to Service, Ownership to Usage](product-to-service-ownership-to-usage.md)
+- [TCO and ROI Defined for Cloud Decisions](tco-roi-definitions-cloud.md)

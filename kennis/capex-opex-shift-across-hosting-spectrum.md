@@ -25,4 +25,5 @@ Key questions that influence monthly cost and how much you do in-house: Is monit
 - [Four Hosting Models - On-Prem, Co-location, Managed, Cloud](hosting-models-onprem-colo-managed-cloud.md)
 - [Opex Is Harder for the Provider Than the Customer](opex-challenge-for-providers.md)
 - [Transformation: From Product to Service, Ownership to Usage](product-to-service-ownership-to-usage.md)
+- [Reactive vs. Proactive IT and the Service Catalogue](reactive-vs-proactive-it-service-catalogue.md)
 - [Shared Responsibility Model (Restaurant Analogy)](shared-responsibility-model-restaurant-analogy.md)

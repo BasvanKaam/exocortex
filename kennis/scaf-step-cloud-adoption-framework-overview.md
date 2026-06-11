@@ -30,6 +30,8 @@ Chapter 5 begins the deep dive, starting with Strategie.
 - [SCAF Execution Phase (Uitvoeringsfase) Overview](scaf-execution-phase-overview.md)
 - [SCAF Key Takeaways - The Four Phases and Strategy](scaf-four-phases-key-takeaways.md)
 - [SCAF Chapter 8: The Insight (Inzicht) Phase Foundation](scaf-insight-phase-foundation.md)
+- [SCAF Pillars and Design Principles](scaf-pillars-and-design-principles.md)
+- [SCAF: Salomon Cloud Adoptie Framework (Origin)](scaf-salomon-cloud-adoptie-framework.md)
 - [The Step-Cloud Adoptie Framework (SCAF) as the book's backbone](scaf-the-red-thread-of-the-book.md)
 - [SCAF visual timeline and Bas's preference for visual artifacts](scaf-visual-timeline.md)
 - [SWOT Analysis in SCAF](swot-analysis-in-scaf.md)

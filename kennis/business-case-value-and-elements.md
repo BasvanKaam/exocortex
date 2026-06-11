@@ -27,3 +27,4 @@ Key elements (optional — pick what's relevant per project): 1) Executive Summa
 - [Reverse Timeline planning around a compelling event](reverse-timeline-planning.md)
 - [SCAF Go/NoGo: The Insight-Phase Business Case](scaf-go-nogo-business-case.md)
 - [Strategy Map (Kaplan & Norton) in SCAF](strategy-map-kaplan-norton.md)
+- [TCO and ROI Defined for Cloud Decisions](tco-roi-definitions-cloud.md)

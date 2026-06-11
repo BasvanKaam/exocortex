@@ -25,3 +25,5 @@ Bas's take: although a SWOT looks simple, it often yields deeper insights than e
 - [SCAF strategy-phase templates: Summary Palet, Strategy Map, SWOT](scaf-strategy-phase-templates.md)
 - [SCAF Workshop Startpunt Questions](scaf-workshop-startpunt-questions.md)
 - [Strategy Map (Kaplan & Norton) in SCAF](strategy-map-kaplan-norton.md)
+- [Ten characteristics and benefits of a good IT roadmap](ten-characteristics-of-a-good-it-roadmap.md)
+- [What an IT strategy actually contains](what-an-it-strategy-actually-contains.md)

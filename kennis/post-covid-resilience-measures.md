@@ -27,4 +27,5 @@ After COVID, organisations focused on being better prepared for a future event o
 - [Loose coupling as a core Cloud design principle](loose-coupling-cloud-architecture.md)
 - [Bas opens the COVID chapter with a Nostradamus quatrain](nostradamus-pandemic-quatrain.md)
 - [Post-COVID work models and continued cloud growth](post-covid-work-and-cloud-trends.md)
+- [Post-Crisis IT Assessment and Future-Proofing](post-crisis-it-assessment-future-proofing.md)
 - [Why high availability and DR matter: ransomware and data hostage](ransomware-data-hostage.md)

@@ -29,3 +29,4 @@ FMA fact: Citrix offers out-of-the-box blueprints for XenDesktop, XenApp, XenMob
 - [CWC StoreFront hosting options](cwc-storefront-options.md)
 - [Host Connections now support cloud, not just hypervisors](host-connections-cloud-support.md)
 - [Infrastructure as Code (IaC) and Its Benefits](infrastructure-as-code-basics.md)
+- [Smart inventory for workplace and application lifecycle](smart-inventory-lifecycle-management.md)

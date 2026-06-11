@@ -33,4 +33,5 @@ He welcomes all ideas: specific additions, an online extension of the book, thin
 - [Byte-Sized: Bas's crowdsourced community Cloud-tips book](byte-sized-cloud-tips-book.md)
 - [Creative Communication and Putting Responsibility on Staff](creative-communication-and-feedback-loop.md)
 - [Innovation Comes From Outside the Firewall](innovation-comes-from-outside-the-firewall.md)
+- [More Is Not By Definition Better](more-is-not-by-definition-better.md)
 - [Bas on the value of IT communities](value-of-it-communities.md)

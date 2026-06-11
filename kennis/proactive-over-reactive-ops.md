@@ -24,6 +24,7 @@ He also models the community-first humility that recurges in his writing: when C
 - [MCS rollbacks and reboot considerations (boot storms, disconnect policies)](mcs-rollbacks-and-reboot-considerations.md)
 - [After disruptive patches, measure impact per workload instead of guessing](measure-dont-guess-capacity-after-patches.md)
 - [Inspecting prerequisites up front saves the whole deployment](prerequisites-discipline-saves-time.md)
+- [Reactive vs. Proactive IT and the Service Catalogue](reactive-vs-proactive-it-service-catalogue.md)
 - [The undocumented 'restart additional groups' staggers reboots](restart-additional-groups-undocumented.md)
 - [The community's success depends on us; give before you take](stance-give-to-the-community.md)
 - [Use health-check tooling proactively, not when things fall apart](use-health-checks-proactively-not-reactively.md)

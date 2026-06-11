@@ -25,6 +25,7 @@ Key benefits the book lists: no dependency on specific infrastructure (workloads
 - [Bas: IaC Creates Dangerous Key-Person Dependency](bas-iac-key-person-risk.md)
 - [Bas: 'Wegwerp IT' and the Lift-and-Shift Caution](bas-wegwerp-it-and-lift-and-shift.md)
 - [Cloud delivery models: IaaS, PaaS, SaaS and DaaS](cloud-delivery-models-iaas-paas-saas-daas.md)
+- [Cloud is not a different way of working, it demands a different way of thinking](cloud-demands-different-thinking-not-different-working.md)
 - [Exit flexibility depends on the cloud service model (IaaS/SaaS/PaaS)](cloud-exit-flexibility-by-service-model.md)
 - [FaaS / Serverless Computing Explained](faas-serverless-explained.md)
 - [Infrastructure as Code (IaC) and Its Benefits](infrastructure-as-code-basics.md)

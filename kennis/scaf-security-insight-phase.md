@@ -33,3 +33,4 @@ Topics Bas wants information on:
 - [SCAF Insight Phase: Stakeholders to Involve](scaf-insight-stakeholders.md)
 - [SCAF Insight: Workshop as Starting Point](scaf-workshop-starting-point.md)
 - [The Security Operations Center (SOC)](soc-security-operations-center.md)
+- [Vulnerability assessment with dual reporting](vulnerability-assessment-two-reports.md)

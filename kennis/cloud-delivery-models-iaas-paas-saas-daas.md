@@ -27,6 +27,7 @@ Bas notes the elegance of these models is that they can often be combined.
 - [Cloud deployment models (public, private, hybrid, community)](cloud-deployment-models.md)
 - [Before debating Cloud, specify which type of service you mean](cloud-discussion-specify-the-service-type-first.md)
 - [Exit flexibility depends on the cloud service model (IaaS/SaaS/PaaS)](cloud-exit-flexibility-by-service-model.md)
+- ['The Cloud' Is Not One Thing: Define It First](cloud-is-not-one-thing-define-it.md)
 - [Cloud Market Statistics (2024)](cloud-market-statistics-2024.md)
 - [Cloud-Native: Designed for the Cloud from the Start](cloud-native-definition.md)
 - [Cloud service models: SaaS, PaaS, IaaS, DaaS](cloud-service-models-saas-paas-iaas-daas.md)

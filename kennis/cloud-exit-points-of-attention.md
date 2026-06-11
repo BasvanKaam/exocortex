@@ -37,6 +37,7 @@ Bas offers a self-authored 'points of attention' list for a cloud exit - explici
 - [Exit flexibility depends on the cloud service model (IaaS/SaaS/PaaS)](cloud-exit-flexibility-by-service-model.md)
 - [Key Takeaways - cloud exit strategy (Chapter 12)](cloud-exit-key-takeaways.md)
 - [A cloud exit strategy is insurance you hope not to need](cloud-exit-strategy-as-insurance.md)
+- [Cloud Exit Strategy: What to Plan For](cloud-exit-strategy-checklist.md)
 - [Why have a cloud exit strategy - the exit comes before onboarding](cloud-exit-strategy-rationale.md)
 - [The six-step process for building a cloud exit strategy](cloud-exit-strategy-steps.md)
 - [No real standards across cloud providers; identical services, different names](cloud-providers-no-standards-naming.md)

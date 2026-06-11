@@ -20,6 +20,7 @@ Bas hammers a recurring migration truth: when you move from a 32-bit OS to a 64-
 
 - [Delivering five Windows generations from one infrastructure](five-generations-of-windows-one-infrastructure.md)
 - [Greenfield onboarding is a utopia; plan for existing profiles and data](migration-greenfield-utopia-vs-brownfield.md)
+- [OS Migration Is More Than Swapping the OS](os-migration-is-more-than-the-os.md)
 - [Shadow key behavior on 64-bit and TSAWARE apps](shadow-key-wow64-and-tsaware.md)
 - [Windows user profile versions are incompatible across OS releases](windows-user-profile-version-incompatibility.md)
 - [XenApp Farms must be migrated in parallel, not upgraded in place (2013)](xenapp-no-in-place-upgrade-build-in-parallel.md)

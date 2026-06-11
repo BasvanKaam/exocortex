@@ -29,4 +29,5 @@ The AVG requires organizations to take appropriate technical and organizational 
 - [Privacy Shield, Schrems II and EU-US data transfers](privacy-shield-schrems-ii-and-us-transfers.md)
 - [Risk Analysis: Control Measures and Decision-Making](risk-analysis-control-measures.md)
 - [Shadow IT Examples: Trello/Asana and WhatsApp](shadow-it-examples-trello-whatsapp.md)
+- [Vetting Collaboration Tools for Data and Privacy](vetting-collaboration-tools-data-privacy.md)
 - [Zero Trust Security Model](zero-trust-model.md)

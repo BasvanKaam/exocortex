@@ -31,6 +31,7 @@ He closes with a quote from Chris Hoff: "If you think you suck now, you'll be pl
 
 - [Bas: The 6 R's for Application Rationalization](bas-6-rs-cloud-migration.md)
 - [The 'Cloud because of the Cloud' syndrome and poor migration planning](cloud-because-of-cloud-syndrome.md)
+- [Cloud is not a different way of working, it demands a different way of thinking](cloud-demands-different-thinking-not-different-working.md)
 - [Cloud-Native: Designed for the Cloud from the Start](cloud-native-definition.md)
 - [FaaS / Serverless Computing Explained](faas-serverless-explained.md)
 - [Selecting the First Migration Workload (Simple to Complex)](first-migration-workload-selection.md)

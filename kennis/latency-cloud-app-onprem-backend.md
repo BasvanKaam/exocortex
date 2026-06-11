@@ -20,6 +20,7 @@ It is not always possible to move an outdated application to the Cloud - the dat
 - [Bas's reframe: call them 'traditional' applications, not 'Legacy'](bas-traditional-not-legacy-applications.md)
 - [Bas: 'Wegwerp IT' and the Lift-and-Shift Caution](bas-wegwerp-it-and-lift-and-shift.md)
 - [Cloud delivery models: IaaS, PaaS, SaaS and DaaS](cloud-delivery-models-iaas-paas-saas-daas.md)
+- [Hidden decision factors before going cloud](cloud-hidden-decision-factors.md)
 - [Edge computing and Edge-nodes](edge-computing.md)
 - [Hybrid cloud: best of both worlds via ExpressRoute and low latency](hybrid-cloud-best-of-both-worlds.md)
 - [Hybrid Latency and the Region-Choice Pitfall](hybrid-latency-region-choice-pitfall.md)

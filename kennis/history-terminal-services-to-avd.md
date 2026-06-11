@@ -38,5 +38,6 @@ Trivia from Bas: before AVD was named AVD it had other names — WVD (Windows Vi
 - [Bas's reframe: is AVD and/or Windows 365 Cloud PC really DaaS?](is-avd-and-windows-365-really-daas.md)
 - [Microsoft RDS CALs and the XenApp vs XenDesktop split](microsoft-rds-cals-with-xenapp.md)
 - [Windows 365 Cloud PC](windows-365-cloud-pc.md)
+- [Windows 7 End of Support and the Windows Virtual Desktop (2019)](windows-7-eol-and-wvd-2019.md)
 - [WVD hit general availability on September 30, 2019](wvd-ga-date-sept-2019.md)
 - [WVD is what used to be RDMI](wvd-is-rdmi-on-prem-history.md)

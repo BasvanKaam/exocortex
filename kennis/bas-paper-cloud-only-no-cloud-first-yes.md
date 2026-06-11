@@ -40,6 +40,7 @@ The paper's core thesis: the cloud is not a silver bullet. A Cloud-only world is
 - [Cloud deployment models (public, private, hybrid, community)](cloud-deployment-models.md)
 - [Cloud is a potential solution, not a silver bullet](cloud-is-no-silver-bullet.md)
 - [Cloud's origin around 2006 (Bas's paper, written 2020)](cloud-origin-around-2006-paper.md)
+- [Full Cloud Migration Is Rarely a Good Idea](full-cloud-is-rarely-a-good-idea.md)
 - [Hybrid cloud: best of both worlds via ExpressRoute and low latency](hybrid-cloud-best-of-both-worlds.md)
 - [Bas on cloud, hybrid and the future of on-premises VDI](is-cloud-vdi-still-relevant-takeaways.md)
 - [Lack of overview, knowledge, governance and Shadow IT](lack-of-overview-knowledge-governance-shadow-it.md)

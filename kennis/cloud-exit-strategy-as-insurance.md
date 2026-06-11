@@ -29,3 +29,4 @@ Triggers it covers: a provider changing SLAs (which they can do without notice),
 - [SLA pitfalls to analyse for a cloud exit strategy](cloud-sla-pitfalls-exit.md)
 - [Don't start from scratch every OS update: vendor-neutral workspace layer](configure-once-migrate-many-vs-lockin.md)
 - [Firm believer in choice: spread options, but cap the platform count](firm-believer-in-choice-no-one-size-fits-all.md)
+- [Plan the Exit Before You Commit](plan-the-exit-before-you-commit.md)

@@ -21,3 +21,4 @@ Bas's core argument (Feb 2017): adopting IoT 'goes way beyond the technology and
 - [Firm believer in choice: spread options, but cap the platform count](firm-believer-in-choice-no-one-size-fits-all.md)
 - [Industrial IoT will be the biggest sub-vertical (2017 call)](iiot-the-next-big-thing-2017.md)
 - [LTE vs LPWAN trade-offs for IoT](lte-vs-lpwan-tradeoffs.md)
+- [Technology Should Never Be Leading](technology-should-never-be-leading.md)

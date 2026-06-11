@@ -24,6 +24,8 @@ By inventorying and monitoring resources (Bas's example uses Liquidware Stratusp
 - [Workspace/app lifecycle management is an unfairly neglected discipline](lifecycle-management-neglected-unfairly.md)
 - [Liquidware suite: ProfileUnity, FlexApp, Stratusphere UX (2018)](liquidware-profileunity-flexapp-stratusphere.md)
 - [After disruptive patches, measure impact per workload instead of guessing](measure-dont-guess-capacity-after-patches.md)
+- [Measure to know (meten = weten)](measure-to-know-meten-is-weten.md)
+- [Smart inventory for workplace and application lifecycle](smart-inventory-lifecycle-management.md)
 - [Stratusphere UX is the Swiss Army knife of the portfolio](stratusphere-swiss-army-knife.md)
 - [Stratusphere UX 6.1: dashboards, event log harvesting, process optimization](stratusphere-ux-61-features.md)
 - [Use health-check tooling proactively, not only when things fall apart](use-monitoring-proactively-not-when-it-breaks.md)

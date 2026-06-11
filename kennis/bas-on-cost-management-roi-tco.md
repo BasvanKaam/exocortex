@@ -33,6 +33,7 @@ The Cloud offers many advantages but without good overview and a solid plan cost
 - [Bas's recommended reading list](bas-recommended-booklist.md)
 - [A Business Case Is More Than 'Hard' Costs Alone](businesscase-more-than-hard-costs.md)
 - [Common Cloud Concerns: Cost, Migration, Loss of Control](cloud-concerns-cost-and-control.md)
+- [Do Not Fixate on the Financials Alone](dont-fixate-on-financials-alone.md)
 - [Bas: frame the business case with an executive summary and added-value story](executive-summary-and-added-value-framing.md)
 - [Google Cloud cost management and optimisation tools](gcp-cost-management-tools.md)
 - [Hybrid Latency and the Region-Choice Pitfall](hybrid-latency-region-choice-pitfall.md)
@@ -41,3 +42,4 @@ The Cloud offers many advantages but without good overview and a solid plan cost
 - [Comparing a Physical Server to Cloud Isn't Fair](physical-vs-cloud-server-not-fair-comparison.md)
 - [KPIs in the SCAF Adoption phase: making success measurable](scaf-kpis-in-adoption-phase.md)
 - [SCAF TCO / Business-case template](scaf-tco-business-case-template.md)
+- [TCO and ROI Defined for Cloud Decisions](tco-roi-definitions-cloud.md)

@@ -30,6 +30,7 @@ He closes with Henry Ford: "The only real mistake is the one from which we learn
 
 ## Verwante notities
 
+- [Ad-Hoc Fixes Are Fine for Now, Not Forever](ad-hoc-fixes-are-fine-now-not-forever.md)
 - [Agile and PDCA as the unwritten cloud standard](agile-pdca-cloud-default.md)
 - [Bas's experience: feedback from early phases builds tighter teams](bas-experience-feedback-from-early-phases.md)
 - [Bas on feedback as a continuous process from the insight phase](bas-feedback-continuous-process.md)

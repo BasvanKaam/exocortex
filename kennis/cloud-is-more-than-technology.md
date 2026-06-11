@@ -22,6 +22,7 @@ This is a recurring theme across his 2019-2020 writing and it carries into how h
 
 - [Capex vs Opex in IT and Cloud](capex-vs-opex-in-it.md)
 - [Cloud Cultural Shifts: DevOps, Automation, New Roles](cloud-cultural-shifts-overview.md)
+- [Cloud Is an Operating Model, Not a Location](cloud-is-an-operating-model-not-a-location.md)
 - [Bas on 'Angst': the human side of cloud adoption](fear-and-the-human-side-of-cloud-adoption.md)
 - [Key Takeaways Chapter 4: Cloud Transformation Beyond Technology](key-takeaways-chapter-4-cloud-transformation.md)
 - [Loose coupling as a core Cloud design principle](loose-coupling-cloud-architecture.md)

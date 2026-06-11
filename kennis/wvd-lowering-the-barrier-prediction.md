@@ -19,6 +19,7 @@ Bas's framing, July 2019. He started with WVD purely out of curiosity, to learn 
 - [Bas leans into hyper-convergence and web-scale as the future](bas-on-web-scale-as-future-of-it.md)
 - [Bet: WVD third-party vendors are where the action is](betting-on-wvd-third-party-tooling-2020.md)
 - [HTML5 browser clients: appeal and historical pain points](html5-browser-client-tradeoffs.md)
+- [The Right Fix Can Come From an Unexpected Corner](right-fit-solutions-from-unexpected-corners.md)
 - [Treating the job as a hobby you'd do anyway](work-as-hobby-philosophy.md)
 - [Framing WVD rollout as phases, mapping partners onto each step](wvd-adoption-as-phases-with-partners.md)
 - [Cheap WVD lab: de-allocate VMs, pay only for storage](wvd-lab-cost-deallocate-vms.md)

@@ -41,3 +41,4 @@ Bas's framing: by using (not all of, but) these options companies show they valu
 - [Post-COVID work models and continued cloud growth](post-covid-work-and-cloud-trends.md)
 - [Bas: build buy-in with a small PoV or PoC and free resources](start-small-with-pov-or-poc.md)
 - [Bas on the value of IT communities](value-of-it-communities.md)
+- [We do it differently: culture over recruitment ritual](we-do-it-differently-team-culture.md)

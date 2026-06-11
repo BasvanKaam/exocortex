@@ -36,3 +36,5 @@ The cultural shifts Bas lists when moving to the cloud:
 - [Key Takeaways Chapter 4: Cloud Transformation Beyond Technology](key-takeaways-chapter-4-cloud-transformation.md)
 - [Transformation: From Product to Service, Ownership to Usage](product-to-service-ownership-to-usage.md)
 - [Resistance: cloud is more than technology](resistance-to-change-in-cloud-adoption.md)
+- [SCAF Pillars and Design Principles](scaf-pillars-and-design-principles.md)
+- [Technology choices and organizational change are inseparable](technology-and-organization-change-are-inseparable.md)

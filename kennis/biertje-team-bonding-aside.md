@@ -32,3 +32,4 @@ Key method: don't wait until you're halfway through the project. The sooner the 
 - [E2EVC: the Experts-2-Experts Virtualization Conference](e2evc-conference.md)
 - [War story: the Friday-afternoon Unreal Tournament community](friday-afternoon-unreal-tournament-community.md)
 - [Bas opens the COVID chapter with a Nostradamus quatrain](nostradamus-pandemic-quatrain.md)
+- [We do it differently: culture over recruitment ritual](we-do-it-differently-team-culture.md)

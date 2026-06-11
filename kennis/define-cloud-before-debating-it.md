@@ -28,6 +28,7 @@ His prescribed order for any internal meeting or client conversation: first defi
 - [Bas deconstructs the cloud promises](bas-deconstructs-the-cloud-promises.md)
 - [The 'Cloud because of the Cloud' syndrome and poor migration planning](cloud-because-of-cloud-syndrome.md)
 - [Before debating Cloud, specify which type of service you mean](cloud-discussion-specify-the-service-type-first.md)
+- ['The Cloud' Is Not One Thing: Define It First](cloud-is-not-one-thing-define-it.md)
 - [Bas's navigation metaphor: a cloud journey needs a destination](cloud-journey-navigation-metaphor.md)
 - [Cloud service models: SaaS, PaaS, IaaS, DaaS](cloud-service-models-saas-paas-iaas-daas.md)
 - [Lack of overview, knowledge, governance and Shadow IT](lack-of-overview-knowledge-governance-shadow-it.md)

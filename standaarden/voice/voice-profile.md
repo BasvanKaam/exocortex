@@ -345,6 +345,14 @@ Synthesized from his pre-AI blog (basvankaam.com). These confirm durable, charac
 - **Parenthetical personality:** short inline asides carry the warmth and hedging, "(nice!)", "(duh)", "(a deep one)".
 - **Service-first closers:** "Reference materials used:", credits peers by first name before himself, warm imperatives "Good luck and have fun!", "till next time", "I hope this helps, thank you for reading!"
 
+### Salomon-IT consultant era (2018-2020, Dutch)
+A distinct Dutch consultant register, evidence in `voice-evolutie-salomon-2018-2020.md` and `quote-bank-salomon.md`. Durable tells from this era:
+- **The "(Bas)" signature.** He writes firm-voice "we/wij" for the company, then switches to "ik (Bas)" the moment a take is personally his, often with the literal parenthetical "(Bas)".
+- **Empowerment refrain:** "wij geven je het inzicht, zodat jij de juiste keuzes kunt maken", and "een volgende stap zetten kan iedereen, de juiste stap zetten is waar de winst ligt".
+- **Dutch proverbs as load-bearing arguments:** "door de bomen het bos zien", "stip op de horizon", "laag hangende fruit", "met de poten in de klei", "voorkomen is beter dan genezen".
+- **Disarming self-correction** after a strong claim: "ik overdrijf misschien een beetje", "kort door de bocht, daarvoor mijn excuses".
+- **The coffee/beer invitation** for a no-obligation chat, and "er is helemaal geen Cloud, het zijn iemand anders zijn computers".
+
 ---
 
 ## THE REGISTER DIAL

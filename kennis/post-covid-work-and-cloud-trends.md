@@ -38,3 +38,4 @@ Unchanging benefits organisations experience: scalability, cost efficiency, flex
 - [Bas opens the COVID chapter with a Nostradamus quatrain](nostradamus-pandemic-quatrain.md)
 - [Obvious cloud trends (multi-cloud, edge, zero trust, serverless, green)](obvious-cloud-trends-list.md)
 - [Post-COVID resilience: BCPs, redundancy, supply chains, automation](post-covid-resilience-measures.md)
+- [Remote Work Is a Talent Requirement and an Opportunity](remote-work-as-opportunity-and-talent-magnet.md)

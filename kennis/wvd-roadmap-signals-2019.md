@@ -30,6 +30,7 @@ Forward-looking items Microsoft shared at the May 2019 workshop (how the future 
 - [Citrix Managed Desktop: single-bill DaaS on Citrix-managed Azure](citrix-managed-desktop-model-2019.md)
 - [MSIX app attach: VHD-mounted apps via FSLogix filter drivers](msix-app-attach-concept.md)
 - [App attach is rebranded layering, but Microsoft's marketing will make it win](msix-app-attach-marketing-will-make-it-popular.md)
+- [Windows 7 End of Support and the Windows Virtual Desktop (2019)](windows-7-eol-and-wvd-2019.md)
 - [Framing WVD rollout as phases, mapping partners onto each step](wvd-adoption-as-phases-with-partners.md)
 - [WVD Fall vs Spring release (non-ARM vs ARM)](wvd-fall-vs-spring-release.md)
 - [WVD hit general availability on September 30, 2019](wvd-ga-date-sept-2019.md)

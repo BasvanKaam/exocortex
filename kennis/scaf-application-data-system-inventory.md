@@ -23,6 +23,7 @@ Also don't forget: existing monitoring/tooling, an overview of current subscript
 
 - [Azure data migration and import tools](azure-data-migration-import-tools.md)
 - [Bas: The 6 R's for Application Rationalization](bas-6-rs-cloud-migration.md)
+- [Building a Compact Cloud Business Case](compact-cloud-business-case-method.md)
 - [Selecting the First Migration Workload (Simple to Complex)](first-migration-workload-selection.md)
 - [Opdracht 7: Cloud Migration Compass (XYZ-Care Health Group)](opdracht-7-cloud-migration-compass.md)
 - [Definitive Cloud and Refactor Choice (Rationalisation)](rationalisation-refactor-choice-execution.md)
@@ -32,3 +33,4 @@ Also don't forget: existing monitoring/tooling, an overview of current subscript
 - [SCAF Insight Phase: Results and Supporting Documentation](scaf-insight-results-and-documentation.md)
 - [SCAF Insight Phase: Security Topics to Surface](scaf-security-insight-phase.md)
 - [SCAF Insight: Workshop as Starting Point](scaf-workshop-starting-point.md)
+- [Smart inventory for workplace and application lifecycle](smart-inventory-lifecycle-management.md)

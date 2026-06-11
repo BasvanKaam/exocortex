@@ -25,6 +25,7 @@ Servicing: an LTSC release (full Desktop Experience plus Server Core/Nano, suppo
 - [Prediction: a multi-user version of Windows 10 is coming](prediction-multi-session-windows-10.md)
 - [Bas: the direction is already clear, enough has been said](win10-multiuser-direction-is-clear-2018.md)
 - [How Windows 10 multi-session came to light (2018)](windows-10-multi-session-origins-2018.md)
+- [Windows SAC vs LTSC servicing channels](windows-sac-vs-ltsc-servicing-channels.md)
 - [Windows Server 2016: native Windows Server containers vs Hyper-V containers](windows-server-2016-container-types.md)
 - [Windows 10 servicing branches and deployment rings](windows10-servicing-branches-rings.md)
 - [WVD is what used to be RDMI](wvd-is-rdmi-on-prem-history.md)

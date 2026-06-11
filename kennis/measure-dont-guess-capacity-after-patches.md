@@ -19,6 +19,7 @@ Bas's recurring framing (Jan 2018, Meltdown/Spectre context): because the perfor
 - [Use-cases for VDI/desktop benchmarking](benchmarking-use-cases.md)
 - [Workspace/app lifecycle management is an unfairly neglected discipline](lifecycle-management-neglected-unfairly.md)
 - [LTSR is the right call, but not for everybody](ltsr-is-not-for-everybody.md)
+- [Measure to know (meten = weten)](measure-to-know-meten-is-weten.md)
 - [Meltdown/Spectre patches carried a real performance cost - patch anyway](meltdown-spectre-patch-performance-cost.md)
 - [Reboots are a necessary evil; handle them proactively](proactive-over-reactive-ops.md)
 - [Processor Queue Length (PQL) as an early UX-degradation signal](processor-queue-length-as-ux-signal.md)

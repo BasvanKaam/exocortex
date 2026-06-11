@@ -44,3 +44,4 @@ Not all questions need answering, and that is fine — together you reach as det
 - [Strategy Map (Kaplan & Norton) in SCAF](strategy-map-kaplan-norton.md)
 - [SWOT Analysis in SCAF](swot-analysis-in-scaf.md)
 - [The Gap Between IT and 'The Business'](the-gap-between-it-and-the-business.md)
+- [What an IT strategy actually contains](what-an-it-strategy-actually-contains.md)

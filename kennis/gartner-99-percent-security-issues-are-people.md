@@ -18,6 +18,7 @@ An interesting statistic Bas cites: according to Gartner, 99 percent of security
 - [Bas's challenge: can you do cloud security better yourself?](bas-can-you-do-security-better-yourself.md)
 - [The human factor: loss of control and trust](bas-on-the-human-factor-and-loss-of-control.md)
 - [Current cyber threats and 2025+ trends](current-cyber-threats-and-2025-trends.md)
+- [Front door locked, back door wide open](front-door-locked-back-door-open.md)
 - [Role-Specific Security Training (Don't Call Staff the Weakest Link)](people-are-the-weakest-link-training.md)
 - [Voorzorg: Assume You Will Be Breached](voorzorg-assume-breach.md)
 - [The Weakest Link Is You (Security Training War Story)](weakest-link-is-you-security-training.md)

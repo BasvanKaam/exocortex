@@ -17,6 +17,7 @@ Bas's method for building a DaaS business case: before fully working out the det
 
 - [Why Write a Business Case, and Its Key Elements](business-case-value-and-elements.md)
 - [A Business Case Is More Than 'Hard' Costs Alone](businesscase-more-than-hard-costs.md)
+- [Building a Compact Cloud Business Case](compact-cloud-business-case-method.md)
 - [DaaS versus VDI](daas-vs-vdi.md)
 - [Bas: early business-case documents are deliberately rough and inconsistent](deliberate-inconsistency-in-early-drafts.md)
 - [Bas: frame the business case with an executive summary and added-value story](executive-summary-and-added-value-framing.md)

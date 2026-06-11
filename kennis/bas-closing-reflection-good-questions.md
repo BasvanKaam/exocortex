@@ -34,3 +34,4 @@ He reminds the reader, as he wrote at the start, that the book is grounded in hi
 - [Bas's 'van proberen kun je leren' philosophy](bas-van-proberen-kun-je-leren.md)
 - [Byte-Sized: Bas's crowdsourced community Cloud-tips book](byte-sized-cloud-tips-book.md)
 - [Bas's navigation metaphor: a cloud journey needs a destination](cloud-journey-navigation-metaphor.md)
+- [More Is Not By Definition Better](more-is-not-by-definition-better.md)

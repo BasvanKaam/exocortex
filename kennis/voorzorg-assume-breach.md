@@ -23,6 +23,7 @@ This means thinking about ways to limit the impact of a breach or ransomware: ne
 
 - [Bas on disaster recovery: no blueprint, and don't forget the BUDGET](bas-on-disaster-recovery-and-budget.md)
 - [Current cyber threats and 2025+ trends](current-cyber-threats-and-2025-trends.md)
+- [Front door locked, back door wide open](front-door-locked-back-door-open.md)
 - [Gartner: 99% of security issues are caused by people](gartner-99-percent-security-issues-are-people.md)
 - [Why high availability and DR matter: ransomware and data hostage](ransomware-data-hostage.md)
 - [The Security Operations Center (SOC)](soc-security-operations-center.md)

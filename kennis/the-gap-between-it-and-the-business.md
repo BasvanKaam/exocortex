@@ -35,3 +35,5 @@ Bas defines **'the business'**: the people, processes, and products needed to se
 - [SCAF Strategie: The Foundation Questions](scaf-strategie-fundament-questions.md)
 - [SCAF Workshop Startpunt Questions](scaf-workshop-startpunt-questions.md)
 - [Shadow IT: The Business User in the Driver's Seat](shadow-it-business-user-in-driver-seat.md)
+- [Technology choices and organizational change are inseparable](technology-and-organization-change-are-inseparable.md)
+- [Ten characteristics and benefits of a good IT roadmap](ten-characteristics-of-a-good-it-roadmap.md)

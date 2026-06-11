@@ -24,6 +24,7 @@ Durable communication discipline that still holds: name the layer before arguing
 - [A cheat sheet should orient, not rank vendors](cheat-sheet-as-starting-point-not-comparison.md)
 - [Cloud delivery models: IaaS, PaaS, SaaS and DaaS](cloud-delivery-models-iaas-paas-saas-daas.md)
 - [Cloud deployment models (public, private, hybrid, community)](cloud-deployment-models.md)
+- ['The Cloud' Is Not One Thing: Define It First](cloud-is-not-one-thing-define-it.md)
 - [Cloud service models: SaaS, PaaS, IaaS, DaaS](cloud-service-models-saas-paas-iaas-daas.md)
 - [Bas's rule: define the Cloud before debating its pros and cons](define-cloud-before-debating-it.md)
 - [Virtualization is a part of cloud, not the same thing](virtualization-is-not-cloud.md)

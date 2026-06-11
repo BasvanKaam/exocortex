@@ -27,3 +27,4 @@ It continues with **transition costs** (one-off spend for development, data migr
 - [Start a DaaS Business Case 'High-Over' First](daas-business-case-high-over-first.md)
 - [Opdracht 5: build your own business case (the method)](opdracht-5-business-case-exercise.md)
 - [SCAF Go/NoGo: The Insight-Phase Business Case](scaf-go-nogo-business-case.md)
+- [TCO and ROI Defined for Cloud Decisions](tco-roi-definitions-cloud.md)

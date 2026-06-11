@@ -22,6 +22,7 @@ The IT regieorganisatie acts as a bridge between demand and supply, requiring kn
 
 - [Cloud Cultural Shifts: DevOps, Automation, New Roles](cloud-cultural-shifts-overview.md)
 - [Bas: the cloud doesn't make people redundant, it frees them for better work](cloud-frees-people-for-better-work.md)
+- [Cloud Is an Operating Model, Not a Location](cloud-is-an-operating-model-not-a-location.md)
 - [The Evolution of the CIO and CFO Role](evolution-of-cio-cfo-role.md)
 - [IT as Internal Broker and the Regie-Organisatie](it-as-internal-broker-regie-organisatie.md)
 - [The IT (Cloud) Professional 2.0: from geek to strategic generalist](it-cloud-professional-2-0.md)

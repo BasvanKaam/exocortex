@@ -28,6 +28,7 @@ This is a useful pointer: the SCAF (Step-Cloud Adoptie Framework) toolkit is int
 ## Verwante notities
 
 - [Bas's checklist of points of attention for a cloud exit](cloud-exit-points-of-attention.md)
+- [Cloud Exit Strategy: What to Plan For](cloud-exit-strategy-checklist.md)
 - [Why have a cloud exit strategy - the exit comes before onboarding](cloud-exit-strategy-rationale.md)
 - [The six-step process for building a cloud exit strategy](cloud-exit-strategy-steps.md)
 - [SCAF Design Principles and Why It Exists](scaf-design-principles.md)

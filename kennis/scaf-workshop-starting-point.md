@@ -31,3 +31,4 @@ Useful opening workshop questions:
 - [SCAF Insight Phase: Stakeholders to Involve](scaf-insight-stakeholders.md)
 - [SCAF Insight Phase: Security Topics to Surface](scaf-security-insight-phase.md)
 - [SCAF Workshop Startpunt Questions](scaf-workshop-startpunt-questions.md)
+- [Begin at the beginning](start-from-where-you-are.md)

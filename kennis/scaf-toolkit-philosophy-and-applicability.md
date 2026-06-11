@@ -23,6 +23,7 @@ Throughout the book Bas references documents and overviews, and each SCAF phase 
 
 ## Verwante notities
 
+- [Against Jargon-Heavy, 100-Page Deliverables](against-jargon-heavy-deliverables.md)
 - [Bas: Pragmatism on Governance and Process Documentation](bas-governance-processes-pragmatism.md)
 - [Bas on handover: 'simple is better'](bas-on-simplicity-handover-checklist.md)
 - [SCAF Design Principles and Why It Exists](scaf-design-principles.md)

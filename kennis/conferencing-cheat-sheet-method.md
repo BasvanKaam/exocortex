@@ -23,6 +23,7 @@ Method note worth keeping: he based it on personal research and experience, open
 - [Bas's Cloud 'Cheat Sheets' mapping provider service names](bas-cloud-cheat-sheets.md)
 - [A cheat sheet should orient, not rank vendors](cheat-sheet-as-starting-point-not-comparison.md)
 - [Stance: keep the comparison cheat sheet to a single A4 page](cheat-sheet-craft-single-a4-page.md)
+- [Choose Collaboration Tools by Purpose, Not Default](choose-collaboration-tool-by-purpose.md)
 - [Why community surveys are a simple, effective way to gather industry insight](community-surveys-as-method.md)
 - [A complete, current WVD partner cheat sheet is near impossible to maintain](exhaustive-partner-sheets-are-impossible.md)
 - [Publish the draft and let the community fact-check it](publish-the-draft-crowdsource-the-facts.md)

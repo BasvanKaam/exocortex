@@ -31,6 +31,7 @@ Bas is explicit that not every detail can be worked out for every organisation b
 - [SCAF Adoption phase: finishing what you started](scaf-adoption-phase-purpose.md)
 - [SCAF Design Principles and Why It Exists](scaf-design-principles.md)
 - [SCAF Key Takeaways - The Four Phases and Strategy](scaf-four-phases-key-takeaways.md)
+- [SCAF: Salomon Cloud Adoptie Framework (Origin)](scaf-salomon-cloud-adoptie-framework.md)
 - [SCAF: The Step-Cloud Adoptie Framework Overview](scaf-step-cloud-adoption-framework-overview.md)
 - [SCAF Toolkit: Bas's 'keep it simple' philosophy and applicability](scaf-toolkit-philosophy-and-applicability.md)
 - [SCAF visual timeline and Bas's preference for visual artifacts](scaf-visual-timeline.md)

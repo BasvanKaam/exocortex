@@ -34,3 +34,4 @@ The gear list is dated, but it documents the rig behind his presentations and po
 - [Switching monitor resolution from a Stream Deck via Display Changer](stream-deck-resolution-switch-display-changer.md)
 - [WFH is not going away anytime soon](wfh-is-here-to-stay-2020.md)
 - [Treating the job as a hobby you'd do anyway](work-as-hobby-philosophy.md)
+- [Working From Home: Routine and Productivity Practices](working-from-home-routine-and-productivity.md)
