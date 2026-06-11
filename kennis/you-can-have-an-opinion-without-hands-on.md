@@ -16,6 +16,7 @@ Bas used the Moonshot piece (June 2015) to stake out a meta-position on tech blo
 
 ## Verwante notities
 
+- [Position: candid, named vendor opinions in the comment section](blog-comments-streaming-workspot-opinions.md)
 - [Honest he's not an IoT developer, but curious about the trajectory](honest-about-not-being-an-iot-developer.md)
 - [The "I'm no guru" philosophy: blogging as a learning tool, not authority](no-guru-philosophy.md)
 - [WorkspacePod is not an honest VIAB replacement (yet)](workspacepod-not-a-viab-replacement.md)

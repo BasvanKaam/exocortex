@@ -16,4 +16,5 @@ Buried in his otherwise neutral Summit 2017 link roundup, Bas drops an unprompte
 
 ## Verwante notities
 
+- [Position: candid, named vendor opinions in the comment section](blog-comments-streaming-workspot-opinions.md)
 - [Citrix's problem is integration and focus, not lack of products](positie-citrix-should-integrate-not-just-build.md)

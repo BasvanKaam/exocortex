@@ -29,6 +29,7 @@ Key survey insight Bas highlighted: the biggest competitor to public-cloud DaaS/
 ## Verwante notities
 
 - [Application layering narrows to the big three (2017)](app-layering-big-three-2017.md)
+- [Position: candid, named vendor opinions in the comment section](blog-comments-streaming-workspot-opinions.md)
 - [Don't be fooled by DaaS marketing](dont-be-fooled-by-daas-marketing-position.md)
 - [Microsoft is suddenly winning everything (2017 observation)](microsoft-winning-everything-2017.md)
 - [Project VRC: independent VDI/SBC research and the State of the Union survey](project-vrc-survey-background.md)

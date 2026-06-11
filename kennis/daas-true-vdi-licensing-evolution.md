@@ -24,6 +24,7 @@ In his 2018 update he explicitly corrects himself: this is no longer true. DaaS 
 ## Verwante notities
 
 - [AVD - The Only Cloud Service That Runs Windows Client Multi-User](avd-windows-client-multi-user.md)
+- [Position: client OS VDI from the cloud needs dedicated infra, not multi-tenant Azure](blog-comments-azure-client-os-cloud-position.md)
 - [Citrix Service Provider (CSP) program](citrix-service-provider-program.md)
 - [CWC as a near-DaaS workaround for Microsoft desktop-OS licensing](cwc-desktop-os-daas-licensing.md)
 - [DaaS versus VDI](daas-vs-vdi.md)

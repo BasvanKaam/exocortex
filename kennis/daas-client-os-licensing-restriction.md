@@ -21,6 +21,7 @@ Consequence: about 75% of DaaS used the Hosted Shared Desktop (HSD / RDS) model 
 ## Verwante notities
 
 - [Amazon WorkSpaces architecture (2013 preview)](amazon-workspaces-2013-architecture.md)
+- [Position: client OS VDI from the cloud needs dedicated infra, not multi-tenant Azure](blog-comments-azure-client-os-cloud-position.md)
 - [Client OSes were not allowed on multi-tenant public cloud (2013 licensing)](client-os-not-allowed-multitenant-cloud-2013.md)
 - [Why cloud DaaS ran on Server OS, not client OS (the licensing trap)](daas-licensing-server-os-workaround.md)
 - [Don't be fooled: DaaS marketing sells a client desktop you aren't actually getting](daas-marketing-vs-reality.md)

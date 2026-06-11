@@ -19,6 +19,7 @@ Benefits include monthly service-provider licensing for complete mobile workspac
 
 ## Verwante notities
 
+- [Position: client OS VDI from the cloud needs dedicated infra, not multi-tenant Azure](blog-comments-azure-client-os-cloud-position.md)
 - [Citrix Workspace Cloud as the hybrid bridge](citrix-workspace-cloud-hybrid-model.md)
 - [Citrix Workspace Cloud (CWC): a managed control plane over the FMA](citrix-workspace-cloud-overview.md)
 - [Client OSes were not allowed on multi-tenant public cloud (2013 licensing)](client-os-not-allowed-multitenant-cloud-2013.md)

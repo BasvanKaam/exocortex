@@ -25,6 +25,7 @@ The nuance Bas later clarified: the restriction is about MULTI-tenancy. A Citrix
 
 ## Verwante notities
 
+- [Position: client OS VDI from the cloud needs dedicated infra, not multi-tenant Azure](blog-comments-azure-client-os-cloud-position.md)
 - [Citrix Service Provider (CSP) program](citrix-service-provider-program.md)
 - [Why DaaS rarely gives you a real client OS (licensing)](daas-client-os-licensing-restriction.md)
 - [Why cloud DaaS ran on Server OS, not client OS (the licensing trap)](daas-licensing-server-os-workaround.md)

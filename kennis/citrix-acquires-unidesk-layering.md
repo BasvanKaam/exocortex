@@ -23,6 +23,7 @@ What it meant then: Unidesk layering would be made available to all editions of 
 - [App Disks and PvD never took off; Unidesk was the right call](app-disks-and-pvd-never-took-off.md)
 - [Application layering narrows to the big three (2017)](app-layering-big-three-2017.md)
 - [Application layering vendor landscape circa 2016](application-layering-vendor-landscape-2016.md)
+- [Position: candid, named vendor opinions in the comment section](blog-comments-streaming-workspot-opinions.md)
 - [Citrix App Layering's reputation problem (2018)](citrix-app-layering-reputation-2018.md)
 - [Citrix AppDisks was built on PvD and shipped machine-only first](citrix-appdisks-pvd-roots.md)
 - [Citrix WEM/UPM per-user Outlook search + OST roaming (Synergy 2018)](citrix-wem-upm-ost-search-roaming-2018.md)

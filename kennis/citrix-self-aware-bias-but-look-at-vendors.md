@@ -17,6 +17,7 @@ In this Aug 2013 essay Bas openly names his bias ('Since I'm a Citrix hugger', '
 ## Verwante notities
 
 - [Be critical but kind; not OK to share everything you think](be-critical-but-kind.md)
+- [Position: candid, named vendor opinions in the comment section](blog-comments-streaming-workspot-opinions.md)
 - [BYOD has graduated from hype to something you can't ignore](byod-from-hype-to-unavoidable.md)
 - [2013 mobile management vendor landscape](byod-vendor-landscape-2013.md)
 - [Framing: reflecting on Citrix's history amid 2017 sale rumours](citrix-sale-rumours-2017-reflection.md)

@@ -27,6 +27,7 @@ Reasons you might still need a real per-user (client-OS) machine: users installi
 ## Verwante notities
 
 - [Amazon WorkSpaces architecture (2013 preview)](amazon-workspaces-2013-architecture.md)
+- [Position: client OS VDI from the cloud needs dedicated infra, not multi-tenant Azure](blog-comments-azure-client-os-cloud-position.md)
 - [Client OSes were not allowed on multi-tenant public cloud (2013 licensing)](client-os-not-allowed-multitenant-cloud-2013.md)
 - [Why DaaS rarely gives you a real client OS (licensing)](daas-client-os-licensing-restriction.md)
 - [Don't be fooled: DaaS marketing sells a client desktop you aren't actually getting](daas-marketing-vs-reality.md)
