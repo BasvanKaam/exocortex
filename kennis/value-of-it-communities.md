@@ -41,6 +41,7 @@ He stresses a community is not one-way traffic - by sharing knowledge you help o
 - [Key Takeaways Ch.15: the modern IT professional](key-takeaways-it-professional-and-cloud.md)
 - [The Learning Pyramid (National Training Laboratories)](learning-pyramid.md)
 - [Local communities and Meetup; Dutch community examples](local-communities-and-meetup.md)
+- [Curated cloud self-study resources (Masterclass handout)](masterclass-curated-cloud-learning-resources.md)
 - [The Microsoft MVP program](microsoft-mvp-program.md)
 - [myCUGC: the Citrix User Group Community](mycugc-citrix-user-group-community.md)
 - [Podcasts as a learning channel for Cloud and EUC](podcasts-for-cloud-euc.md)

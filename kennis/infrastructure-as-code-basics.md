@@ -31,3 +31,4 @@ This modern way of managing infrastructure is also called **Beheer 2.0** ("Manag
 - [How PowerShell DSC works: authoring, MOF, push and pull](desired-state-configuration-basics.md)
 - [Bas: Saying You're Cloud-Native vs Actually Being It](saying-cloud-native-vs-being-it.md)
 - [Introducing Agile and Plan-Do-Check-Act in Execution](scaf-execution-agile-pdca-intro.md)
+- [WCGF Domain: Platform Design, Service and Tooling Integration](wcgf-platform-design-tooling-integration-domain.md)

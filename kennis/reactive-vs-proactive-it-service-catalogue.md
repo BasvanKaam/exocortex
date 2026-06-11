@@ -26,6 +26,7 @@ Source: Bas van Kaam, Salomon IT blog, 2019-09-17.
 
 - [Reading the Hosting Spectrum - Capex Falls, Opex Rises](capex-opex-shift-across-hosting-spectrum.md)
 - [Capex vs Opex in IT and Cloud](capex-vs-opex-in-it.md)
+- [CCoE owns service-lifecycle completion and currency](ccoe-service-lifecycle-completion.md)
 - [Reboots are a necessary evil; handle them proactively](proactive-over-reactive-ops.md)
 - [SCAF: Salomon Cloud Adoptie Framework (Origin)](scaf-salomon-cloud-adoptie-framework.md)
 - [Smart inventory for workplace and application lifecycle](smart-inventory-lifecycle-management.md)

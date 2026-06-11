@@ -21,6 +21,7 @@ For each scenario a report documents test results (pass/fail and errors found), 
 
 ## Verwante notities
 
+- [Acceptance Criteria Checklist for System Delivery](acceptance-criteria-checklist.md)
 - [Why Write a Business Case, and Its Key Elements](business-case-value-and-elements.md)
 - [DaaS / VDI Additions to the Technical Design](daas-vdi-technical-design-considerations.md)
 - [SCAF Execution Phase (Uitvoeringsfase) Overview](scaf-execution-phase-overview.md)

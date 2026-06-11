@@ -26,6 +26,7 @@ Execution: a specialist tooling Proof of Concept can be stood up in hours and yi
 - [Citrix Lifecycle Management Services and blueprints](cwc-lifecycle-management-services.md)
 - [Workspace/app lifecycle management is an unfairly neglected discipline](lifecycle-management-neglected-unfairly.md)
 - [Measure to know (meten = weten)](measure-to-know-meten-is-weten.md)
+- [An Office rollout is part of a wider workplace transformation](office-rollout-is-bigger-than-installing-software.md)
 - [Performance & Health Assessment: user experience in numbers](performance-health-assessment-ux-in-numbers.md)
 - [Quantify user experience objectively](quantify-user-experience-objectively.md)
 - [Reactive vs. Proactive IT and the Service Catalogue](reactive-vs-proactive-it-service-catalogue.md)

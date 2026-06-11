@@ -33,5 +33,6 @@ Most important: listen attentively and act on it. By involving staff and putting
 - [Bas on 'Angst': the human side of cloud adoption](fear-and-the-human-side-of-cloud-adoption.md)
 - [Mind The Gap: Shadow IT as Enabler and the Entry Point](mind-the-gap-shadow-it-as-enabler.md)
 - [Role-Specific Security Training (Don't Call Staff the Weakest Link)](people-are-the-weakest-link-training.md)
+- [Position: No Information, No Control, No Trust](position-control-information-trust-chain.md)
 - [Resistance: cloud is more than technology](resistance-to-change-in-cloud-adoption.md)
 - [The Technology / Innovation Board](technology-innovation-board.md)

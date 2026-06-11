@@ -31,6 +31,8 @@ Bas provides a 'Workshop Startpunt' — how a SCAF strategy workshop can begin a
 - [Cloud Center of Excellence (CCoE): Definition and Why Early](cloud-center-of-excellence-definition.md)
 - [SCAF Strategie: The Foundation Questions](scaf-strategie-fundament-questions.md)
 - [SCAF Strategie Pillar: Summary of Steps](scaf-strategie-pillar-step-summary.md)
+- [SCAF strategy interview question battery](scaf-strategy-interview-questions.md)
+- [SCAF strategy-pillar intake workshop questions](scaf-strategy-pillar-intake-questions.md)
 - [SCAF Insight: Workshop as Starting Point](scaf-workshop-starting-point.md)
 - [SWOT Analysis in SCAF](swot-analysis-in-scaf.md)
 - [The Gap Between IT and 'The Business'](the-gap-between-it-and-the-business.md)

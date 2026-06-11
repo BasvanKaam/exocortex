@@ -28,6 +28,7 @@ How it worked then (2015): the VRC data showed it is near impossible to virtuali
 - [If most VDIs are non-persistent, why aren't more apps virtualised?](non-persistent-vs-app-virtualisation-surprise.md)
 - [Layering and virtualization are partners, and the cons are soon forgotten](positie-layering-and-virtualization-coexist.md)
 - [MCS vs PVS is done to death; pick a lens and stress-test the choice](positie-mcs-not-vs-pvs.md)
+- [Cloud will repeat the virtualization sprawl mistake unless governed](position-cloud-sprawl-mirrors-virtualization-sprawl.md)
 - [Project VRC: a community-sourced SBC/VDI survey](project-vrc-community-survey.md)
 - [VAS Application Virtualization Delivery Flow](vas-application-virtualization-flow.md)
 - [Windows apps are 'traditional', not 'legacy'](windows-apps-traditional-not-legacy.md)

@@ -30,4 +30,5 @@ Bas details the full lifecycle of an Innovation Board — a team/committee that 
 - [The Gartner Hype Cycle and its five stages](gartner-hype-cycle.md)
 - [Where to 'park' innovation: Innovation/Technology Board, Solutions Board, Office of the CTO](innovation-board-technology-board-office-of-cto.md)
 - [Innovation Comes From Outside the Firewall](innovation-comes-from-outside-the-firewall.md)
+- [Keep IT in control, then turn shadow IT into an enabler](keep-it-in-control-shadow-it-as-enabler.md)
 - [The Technology / Innovation Board](technology-innovation-board.md)

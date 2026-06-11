@@ -16,7 +16,9 @@ A conviction Bas repeats explicitly in the Smart Check post (May 2017): 'I have 
 
 ## Verwante notities
 
+- [CCoE role in event monitoring and incident management](ccoe-event-monitoring-role.md)
 - [Check FMA service health with PowerShell, not just Director](check-fma-services-with-powershell.md)
+- [What changes for event monitoring in the cloud](event-monitoring-cloud-changes.md)
 - [Linking infrastructure performance to employee productivity](infra-performance-vs-productivity.md)
 - [After disruptive patches, measure impact per workload instead of guessing](measure-dont-guess-capacity-after-patches.md)
 - [Never skip the basics: start troubleshooting at the event logs](never-skip-the-basics-event-logs.md)

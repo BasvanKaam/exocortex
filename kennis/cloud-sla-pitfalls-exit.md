@@ -36,3 +36,4 @@ SLA Extra notes: resources must meet certain conditions; don't forget supporting
 - [ITIL Service Management in Cloud Environments](itil-in-cloud-environments.md)
 - [ITIL Processes That Need Attention When Introducing Cloud](itil-process-changes-for-cloud.md)
 - [Performance and Stability: You Trade Control for Provider Scale](performance-stability-and-provider-scale.md)
+- [SLA availability to allowed-downtime reference (the nines)](sla-availability-nines-downtime-table.md)

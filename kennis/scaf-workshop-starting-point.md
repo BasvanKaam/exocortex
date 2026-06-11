@@ -30,5 +30,6 @@ Useful opening workshop questions:
 - [SCAF Chapter 8: The Insight (Inzicht) Phase Foundation](scaf-insight-phase-foundation.md)
 - [SCAF Insight Phase: Stakeholders to Involve](scaf-insight-stakeholders.md)
 - [SCAF Insight Phase: Security Topics to Surface](scaf-security-insight-phase.md)
+- [SCAF Strategy Pillar: Workshop Delivery Sequence](scaf-strategy-pillar-delivery-sequence.md)
 - [SCAF Workshop Startpunt Questions](scaf-workshop-startpunt-questions.md)
 - [Begin at the beginning](start-from-where-you-are.md)

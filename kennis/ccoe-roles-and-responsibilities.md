@@ -31,6 +31,10 @@ Possible roles in a Cloud Center of Excellence:
 
 - [Bas: Pragmatism on Governance and Process Documentation](bas-governance-processes-pragmatism.md)
 - [Promoting the CCoE: the 'kindergarten' war story and strategies](bas-promoting-the-ccoe-kindergarten-war-story.md)
+- [CCoE role in event monitoring and incident management](ccoe-event-monitoring-role.md)
+- [CCoE role and responsibility demarcation for compliance](ccoe-role-compliance-and-controls.md)
+- [CCoE roles: general, Plan-and-Build, and Run](ccoe-roles-plan-build-run.md)
+- [CCoE owns service-lifecycle completion and currency](ccoe-service-lifecycle-completion.md)
 - [Cloud Center of Excellence (CCoE): Definition and Why Early](cloud-center-of-excellence-definition.md)
 - [SCAF Cloud Governance Roles](scaf-cloud-governance-roles.md)
 - [SCAF: Knowledge, Teams, Roles and Responsibilities](scaf-knowledge-teams-raci-gap.md)

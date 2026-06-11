@@ -23,5 +23,7 @@ The standard AWS-built tools Bas recommends starting with (2019): the TCO Calcul
 - [Storage tiering and lifecycle policies cut AWS storage cost](aws-storage-tiering-and-lifecycle-cost.md)
 - [Azure cost management and optimisation tools](azure-cost-management-tools.md)
 - [Moving to the cloud does not automatically save money](cloud-does-not-automatically-save-money.md)
+- [Cloud Financial Management: Role Demarcation](cloud-financial-management-roles-demarcation.md)
 - [EC2 hibernation preserves in-memory state to save compute cost](ec2-hibernation-saves-compute-cost.md)
+- [Financial Reporting: Role Demarcation and Tooling](financial-reporting-roles-and-tooling-demarcation.md)
 - [The Azure calculator is fine, but MSPs need a real one](use-vendor-calculators-not-just-azure.md)

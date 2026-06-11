@@ -25,9 +25,12 @@ Beyond that: change management, long-term impact on organisational culture, cust
 
 - [Additional Topics to Weigh in a Cloud Business Case](additional-businesscase-topics.md)
 - [Bas on cost management: cost vs. value and ROI/TCO](bas-on-cost-management-roi-tco.md)
+- [Cloud business-case template (eleven dimensions)](cloud-business-case-template-eleven-dimensions.md)
+- [If cost saving is your primary cloud driver, reconsider your strategy](cost-saving-is-the-wrong-primary-cloud-driver.md)
 - [Start a DaaS Business Case 'High-Over' First](daas-business-case-high-over-first.md)
 - [Do Not Fixate on the Financials Alone](dont-fixate-on-financials-alone.md)
 - [Bas: frame the business case with an executive summary and added-value story](executive-summary-and-added-value-framing.md)
+- [From cost model to business case](from-cost-model-to-business-case.md)
 - [Bas's mini business case: the current-vs-possible mapping table](mini-business-case-current-vs-hybrid-table.md)
 - [Comparing a Physical Server to Cloud Isn't Fair](physical-vs-cloud-server-not-fair-comparison.md)
 - [SCAF Go/NoGo: The Insight-Phase Business Case](scaf-go-nogo-business-case.md)

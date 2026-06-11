@@ -33,6 +33,8 @@ Bas insists the assessment is not only about the organisation: you must also ref
 - [From Beheer to Regie: The Regieorganisatie Model](from-beheer-to-regie-organisation.md)
 - [IT as Internal Broker and the Regie-Organisatie](it-as-internal-broker-regie-organisatie.md)
 - [The IT (Cloud) Professional 2.0: from geek to strategic generalist](it-cloud-professional-2-0.md)
+- [Masterclass: toolkit for working out regie processes](masterclass-regie-transition-toolkit.md)
 - [Opdracht 3: Result Interpretation Bands](opdracht-3-result-interpretation.md)
 - [Opdracht 6: The Mirror of Enterprise Architecture (EA Self-Assessment)](opdracht-6-mirror-of-enterprise-architecture.md)
+- [The shift to a regie organization is a people problem, not a technical exercise](regie-transition-is-a-people-problem-not-a-tech-exercise.md)
 - [The Beheer-to-Regie Transition Is About People](regie-transition-is-about-people.md)

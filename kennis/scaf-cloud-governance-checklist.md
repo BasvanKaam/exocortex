@@ -27,8 +27,10 @@ Assuming governance (small or large) is described and applied in practice, the a
 
 - [Bas's reframe: governance is just a fancy word](bas-governance-is-just-a-fancy-word.md)
 - [The CCoE's role in AVG compliance and governance](ccoe-role-in-avg-compliance.md)
+- [SCAF Adoption cloud-governance go-live checklist](scaf-adoption-governance-golive-checklist.md)
 - [SCAF Adoption phase: activities and deliverables](scaf-adoption-phase-activities.md)
 - [SCAF Adoption result: the end goal of the Cloud transition](scaf-adoption-phase-result.md)
+- [SCAF Cloud Governance: The Nine Domains (Overview)](scaf-cloud-governance-domains-overview.md)
 - [SCAF Cloud Governance Roles](scaf-cloud-governance-roles.md)
 - [Introducing Agile and Plan-Do-Check-Act in Execution](scaf-execution-agile-pdca-intro.md)
 - [KPIs in the SCAF Adoption phase: making success measurable](scaf-kpis-in-adoption-phase.md)

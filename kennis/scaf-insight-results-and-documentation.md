@@ -23,5 +23,6 @@ After completing the SCAF Insight phase, the results include: an overview of all
 - [SCAF Go/NoGo: The Insight-Phase Business Case](scaf-go-nogo-business-case.md)
 - [SCAF Insight Phase: Actions and the Waves Approach](scaf-insight-actions-and-waves.md)
 - [SCAF Chapter 8: The Insight (Inzicht) Phase Foundation](scaf-insight-phase-foundation.md)
+- [SCAF Insight-phase management summary palette](scaf-inzicht-management-summary-palette.md)
 - [SCAF: Knowledge, Teams, Roles and Responsibilities](scaf-knowledge-teams-raci-gap.md)
 - [SCAF management-summary 'palet' templates per phase](scaf-management-summary-templates.md)

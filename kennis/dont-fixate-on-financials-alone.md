@@ -22,4 +22,5 @@ Source: Bas van Kaam, Salomon IT blog, 2019-10-23.
 - [A Business Case Is More Than 'Hard' Costs Alone](businesscase-more-than-hard-costs.md)
 - [Building a Compact Cloud Business Case](compact-cloud-business-case-method.md)
 - [Is the Cloud Cheaper? It Depends](is-cloud-cheaper-it-depends.md)
+- [Cost control is a short-sighted reason to go to cloud](position-cost-control-is-a-short-sighted-cloud-motive.md)
 - [Requirements Before Solution: Build the Business Case First](requirements-before-solution-business-case.md)

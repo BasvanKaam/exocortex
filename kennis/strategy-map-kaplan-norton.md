@@ -23,8 +23,12 @@ The model was devised by professors Robert S. Kaplan and David P. Norton (1992) 
 ## Verwante notities
 
 - [Why Write a Business Case, and Its Key Elements](business-case-value-and-elements.md)
+- [SCAF Strategy and CCoE Workshop Method (As Taught)](masterclass-scaf-workshop-method.md)
 - [SCAF Strategie: The Foundation Questions](scaf-strategie-fundament-questions.md)
 - [SCAF Strategie Pillar: Summary of Steps](scaf-strategie-pillar-step-summary.md)
 - [SCAF Strategie: Stakeholders, Actions and Results](scaf-strategie-stakeholders-and-actions.md)
+- [Strategy Map (Kaplan-Norton) within SCAF Strategy phase](scaf-strategy-map-kaplan-norton.md)
+- [SCAF support tool: the strategy map (read up, build down)](scaf-strategy-map-support-tool.md)
+- [SCAF strategy map: a balanced-scorecard layering for the strategy phase](scaf-strategy-map-teaching-artifact.md)
 - [SCAF strategy-phase templates: Summary Palet, Strategy Map, SWOT](scaf-strategy-phase-templates.md)
 - [SWOT Analysis in SCAF](swot-analysis-in-scaf.md)

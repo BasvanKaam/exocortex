@@ -22,6 +22,7 @@ The promise attached to this position is predictability: 'weet je waar je aan to
 - [We Give the Insight, You Make the Choice](give-insight-client-decides.md)
 - [Growth Assessment: baseline, future state, gap](growth-assessment-baseline-gap.md)
 - [Measure to know (meten = weten)](measure-to-know-meten-is-weten.md)
+- [Cloud maturity is built incrementally, not demanded at 5/5](position-cloud-maturity-is-incremental-not-five-out-of-five.md)
 - [Requirements Before Solution: Build the Business Case First](requirements-before-solution-business-case.md)
 - [Roadmap as a Service (RaaS)](roadmap-as-a-service-raas.md)
 - [SCAF Insight: Workshop as Starting Point](scaf-workshop-starting-point.md)

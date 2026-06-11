@@ -31,6 +31,8 @@ Key points:
 - [SCAF execution-phase templates and the migration waves](scaf-execution-phase-templates.md)
 - [SCAF Execution Phase Stakeholders](scaf-execution-stakeholders.md)
 - [SCAF Execution Phase Supporting Documentation](scaf-execution-supporting-documentation.md)
+- [SCAF implementation/migration planning template structure](scaf-implementation-migration-template.md)
 - [SCAF Chapter 8: The Insight (Inzicht) Phase Foundation](scaf-insight-phase-foundation.md)
+- [SCAF Lessons Learned register](scaf-lessons-learned-register.md)
 - [SCAF: The Step-Cloud Adoptie Framework Overview](scaf-step-cloud-adoption-framework-overview.md)
 - [Technical/Functional Design as Cloud Blueprint](technical-functional-design-blueprint.md)

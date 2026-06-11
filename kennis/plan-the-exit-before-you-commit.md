@@ -24,3 +24,4 @@ Source: Bas van Kaam, Salomon IT blog, 2019-08-28.
 - [Why have a cloud exit strategy - the exit comes before onboarding](cloud-exit-strategy-rationale.md)
 - [The six-step process for building a cloud exit strategy](cloud-exit-strategy-steps.md)
 - [SCAF: Salomon Cloud Adoptie Framework (Origin)](scaf-salomon-cloud-adoptie-framework.md)
+- [Think about the cloud exit before you onboard](the-exit-comes-before-onboarding-stance.md)

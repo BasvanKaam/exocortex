@@ -39,3 +39,4 @@ Bas frames the broader purpose: it develops sharp insight into IT-transformation
 - [SCAF Go/NoGo: The Insight-Phase Business Case](scaf-go-nogo-business-case.md)
 - [SCAF TCO / Business-case template](scaf-tco-business-case-template.md)
 - [Bas: build buy-in with a small PoV or PoC and free resources](start-small-with-pov-or-poc.md)
+- [Teach the masterclass through recognition and a co-built business case](teaching-through-recognition-and-shared-business-case.md)

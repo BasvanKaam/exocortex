@@ -23,6 +23,7 @@ The real signal came separately: a Windows 10 "Enterprise for remote sessions" i
 - [AVD - The Only Cloud Service That Runs Windows Client Multi-User](avd-windows-client-multi-user.md)
 - [Prediction: a multi-user version of Windows 10 is coming](prediction-multi-session-windows-10.md)
 - [Bas: the direction is already clear, enough has been said](win10-multiuser-direction-is-clear-2018.md)
+- [Windows 10 Multi-User (Azure-only) and ProPlus](windows-10-multi-user-azure-only.md)
 - [Windows 7 End of Support and the Windows Virtual Desktop (2019)](windows-7-eol-and-wvd-2019.md)
 - [Windows Server 2019 at announcement: LTSC/SAC, RDSH question, RDmi](windows-server-2019-ltsc-sac-rdmi.md)
 - [Windows 10 Enterprise multi-session performance debate (Ignite 2019)](wvd-ignite-2019-multisession.md)

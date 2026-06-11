@@ -34,6 +34,7 @@ Final line: "Cloud only? No, that won't happen soon, maybe never!" Bas notes he 
 - [Azure Stack HCI (renamed Azure Local): cloud in your own datacenter](azure-stack-hci-azure-local.md)
 - [Bas deconstructs the cloud promises](bas-deconstructs-the-cloud-promises.md)
 - [Bas's list of reasons companies stay (partly) on-premises](bas-objections-to-full-cloud-migration.md)
+- [Correction: The Cloud-First Paper Dates to 2019, Not 2020](bas-paper-actually-written-2019-ncoi-masterclass.md)
 - [Bas's paper: Cloud Only? No. Cloud First or Hybrid? Yes.](bas-paper-cloud-only-no-cloud-first-yes.md)
 - [Bas on the future limits of self-hosting your own data growth](bas-self-hosting-data-growth-limit.md)
 - [The less-obvious challenges of building datacenters](datacenter-hidden-challenges.md)

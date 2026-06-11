@@ -21,7 +21,9 @@ Key questions that influence monthly cost and how much you do in-house: Is monit
 
 - [Cloud delivery models: IaaS, PaaS, SaaS and DaaS](cloud-delivery-models-iaas-paas-saas-daas.md)
 - [Cloud service models: SaaS, PaaS, IaaS, DaaS](cloud-service-models-saas-paas-iaas-daas.md)
+- [Worked TCO/ROI exercise: on-prem vs co-lo vs managed vs IaaS](cloud-tco-roi-financial-comparison-exercise.md)
 - [FaaS / Serverless Computing Explained](faas-serverless-explained.md)
+- [Four-layer segmentation of the cloud cost model](financial-model-four-cost-layers.md)
 - [Four Hosting Models - On-Prem, Co-location, Managed, Cloud](hosting-models-onprem-colo-managed-cloud.md)
 - [Opex Is Harder for the Provider Than the Customer](opex-challenge-for-providers.md)
 - [Transformation: From Product to Service, Ownership to Usage](product-to-service-ownership-to-usage.md)

@@ -30,6 +30,7 @@ Topics Bas wants information on:
 - [SCAF: Application, Data and System Inventory via Waves](scaf-application-data-system-inventory.md)
 - [SCAF Insight Phase: Actions and the Waves Approach](scaf-insight-actions-and-waves.md)
 - [SCAF Chapter 8: The Insight (Inzicht) Phase Foundation](scaf-insight-phase-foundation.md)
+- [SCAF insight-pillar intake workshop questions](scaf-insight-pillar-intake-questions.md)
 - [SCAF Insight Phase: Stakeholders to Involve](scaf-insight-stakeholders.md)
 - [SCAF Insight: Workshop as Starting Point](scaf-workshop-starting-point.md)
 - [The Security Operations Center (SOC)](soc-security-operations-center.md)

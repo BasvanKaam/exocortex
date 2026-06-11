@@ -25,6 +25,7 @@ Director offers role-based delegated administration views, shows alerts/notifica
 - [Director dashboard, Trends view and alerts](director-dashboard-trends-and-alerts.md)
 - [Director, EdgeSight and historical data licensing](director-edgesight-and-licensing.md)
 - [Director SCOM and Insight Services integration](director-scom-and-insight-services-integration.md)
+- [What changes for event monitoring in the cloud](event-monitoring-cloud-changes.md)
 - [HDX Monitor: HDX diagnostics tool](hdx-monitor-tool.md)
 - [Prefer PowerShell over the GUI for Citrix FMA work](powershell-over-gui-for-citrix.md)
 - [VMTurbo: control the datacenter, don't just monitor it](vmturbo-control-not-monitor.md)

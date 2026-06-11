@@ -32,5 +32,6 @@ Characteristic attention points of the result:
 - [SCAF Adoption phase: activities and deliverables](scaf-adoption-phase-activities.md)
 - [SCAF Adoption phase: finishing what you started](scaf-adoption-phase-purpose.md)
 - [SCAF Cloud governance: putting the dots on the i](scaf-cloud-governance-checklist.md)
+- [SCAF final-report management summary palette](scaf-eindrapportage-management-summary-palette.md)
 - [KPIs in the SCAF Adoption phase: making success measurable](scaf-kpis-in-adoption-phase.md)
 - [SCAF management-summary 'palet' templates per phase](scaf-management-summary-templates.md)

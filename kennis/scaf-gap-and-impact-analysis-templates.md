@@ -20,10 +20,12 @@ Two analysis templates in Bas's SCAF:
 ## Verwante notities
 
 - [Functional Design with Functional Tests](functional-design-and-functional-tests.md)
+- [A cloud GAP analysis must end in a sourcing decision, not just a skills delta](gap-analysis-is-a-sourcing-decision.md)
 - [Risk Analysis: Control Measures and Decision-Making](risk-analysis-control-measures.md)
 - [Risk analysis process steps](risk-analysis-process-steps.md)
 - [Risk Register (Risicoregister)](risk-register-risicoregister.md)
 - [SCAF Cloud Governance Roles](scaf-cloud-governance-roles.md)
+- [SCAF GAP-analysis worksheet: SOLL vs IST across five sourcing dispositions](scaf-gap-analysis-worksheet.md)
 - [SCAF Insight Phase: Results and Supporting Documentation](scaf-insight-results-and-documentation.md)
 - [SCAF: Knowledge, Teams, Roles and Responsibilities](scaf-knowledge-teams-raci-gap.md)
 - [SCAF supporting templates: RACI, Risk Register, Skill Readiness](scaf-supporting-templates-overview.md)

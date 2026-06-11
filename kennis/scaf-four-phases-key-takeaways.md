@@ -26,5 +26,7 @@ SCAF also offers an extensive set of ready-made templates so information is capt
 - [SCAF: The Step-Cloud Adoptie Framework Overview](scaf-step-cloud-adoption-framework-overview.md)
 - [SCAF Strategie Pillar: Summary of Steps](scaf-strategie-pillar-step-summary.md)
 - [The Step-Cloud Adoptie Framework (SCAF) as the book's backbone](scaf-the-red-thread-of-the-book.md)
+- [SCAF timeline: phase durations, decision gates, and reporting cadence](scaf-timeline-gates-and-cadence.md)
+- [SCAF timeline: phases, deliverables and gates](scaf-timeline-phases-deliverables-gates.md)
 - [SCAF visual timeline and Bas's preference for visual artifacts](scaf-visual-timeline.md)
 - [The Gap Between IT and 'The Business'](the-gap-between-it-and-the-business.md)

@@ -25,6 +25,8 @@ A key recurring point Bas stresses: using Cloud services generally brings a diff
 
 - [Agile and PDCA as the unwritten cloud standard](agile-pdca-cloud-default.md)
 - [Key Takeaways: the adoption phase is a beginning, not an end](chapter14-adoption-phase-key-takeaways.md)
+- [SCAF Adoption-phase management summary palette](scaf-adoptie-management-summary-palette.md)
+- [Combined PDCA/DMAIC cycle and lessons-learned in SCAF Adoption](scaf-adoption-pdca-dmaic-lessons-learned.md)
 - [SCAF Adoption phase: activities and deliverables](scaf-adoption-phase-activities.md)
 - [SCAF Adoption result: the end goal of the Cloud transition](scaf-adoption-phase-result.md)
 - [Introducing Agile and Plan-Do-Check-Act in Execution](scaf-execution-agile-pdca-intro.md)

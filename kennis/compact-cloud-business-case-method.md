@@ -32,6 +32,7 @@ Source: Bas van Kaam, Salomon IT blog, 2019-10-23.
 
 - [Start a DaaS Business Case 'High-Over' First](daas-business-case-high-over-first.md)
 - [Do Not Fixate on the Financials Alone](dont-fixate-on-financials-alone.md)
+- [Match the depth of the financial model to its purpose](position-match-financial-depth-to-analysis-purpose.md)
 - [Requirements Before Solution: Build the Business Case First](requirements-before-solution-business-case.md)
 - [SCAF: Application, Data and System Inventory via Waves](scaf-application-data-system-inventory.md)
 - [SCAF Go/NoGo: The Insight-Phase Business Case](scaf-go-nogo-business-case.md)

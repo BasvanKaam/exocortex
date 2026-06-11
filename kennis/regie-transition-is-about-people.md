@@ -33,5 +33,6 @@ He also warns that orchestration includes regular (re)selection of suppliers —
 - [IT as Internal Broker and the Regie-Organisatie](it-as-internal-broker-regie-organisatie.md)
 - [Opdracht 3: Beheer-to-Regie Self-Assessment](opdracht-3-beheer-naar-regie-self-assessment.md)
 - [Opdracht 3: Result Interpretation Bands](opdracht-3-result-interpretation.md)
+- [The shift to a regie organization is a people problem, not a technical exercise](regie-transition-is-a-people-problem-not-a-tech-exercise.md)
 - [Handling Resistance and Fear of the Unknown](resistance-and-fear-of-the-unknown.md)
 - [Resistance: cloud is more than technology](resistance-to-change-in-cloud-adoption.md)

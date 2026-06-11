@@ -18,8 +18,11 @@ Source: Bas van Kaam, Salomon IT blog, 2019-09-17.
 
 ## Verwante notities
 
+- [Application Assessment Canvas](application-assessment-canvas.md)
 - [We Give the Insight, You Make the Choice](give-insight-client-decides.md)
 - [More Is Not By Definition Better](more-is-not-by-definition-better.md)
+- [Good-enough beats perfect: avoid analysis paralysis](position-good-enough-assessment-over-analysis-paralysis.md)
+- [Match the depth of the financial model to its purpose](position-match-financial-depth-to-analysis-purpose.md)
 - [SCAF Design Principles and Why It Exists](scaf-design-principles.md)
 - [SCAF Pillars and Design Principles](scaf-pillars-and-design-principles.md)
 - [SCAF Toolkit: Bas's 'keep it simple' philosophy and applicability](scaf-toolkit-philosophy-and-applicability.md)

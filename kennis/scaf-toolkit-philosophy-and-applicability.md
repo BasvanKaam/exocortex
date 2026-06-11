@@ -26,6 +26,7 @@ Throughout the book Bas references documents and overviews, and each SCAF phase 
 - [Against Jargon-Heavy, 100-Page Deliverables](against-jargon-heavy-deliverables.md)
 - [Bas: Pragmatism on Governance and Process Documentation](bas-governance-processes-pragmatism.md)
 - [Bas on handover: 'simple is better'](bas-on-simplicity-handover-checklist.md)
+- [Good-enough beats perfect: avoid analysis paralysis](position-good-enough-assessment-over-analysis-paralysis.md)
 - [SCAF Design Principles and Why It Exists](scaf-design-principles.md)
 - [SCAF Documentation and Templates](scaf-documentation-templates.md)
 - [The Step-Cloud Adoptie Framework (SCAF) as the book's backbone](scaf-the-red-thread-of-the-book.md)

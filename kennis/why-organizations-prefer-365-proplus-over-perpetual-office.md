@@ -20,5 +20,7 @@ His practical follow-on point: precisely because of this you need to know what M
 
 - [Capex vs Opex in IT and Cloud](capex-vs-opex-in-it.md)
 - [Office vs Office 365 vs Office 365 ProPlus: what is what](office-vs-office365-vs-proplus.md)
+- [Prefer ProPlus for its licensing model and flexibility](office-vs-proplus-license-and-flexibility-stance.md)
+- [ProPlus is usually the better choice over traditional Office](position-proplus-preferred-over-traditional-office.md)
 - [Windows 7 End of Support and the Windows Virtual Desktop (2019)](windows-7-eol-and-wvd-2019.md)
 - [Windows SAC vs LTSC servicing channels](windows-sac-vs-ltsc-servicing-channels.md)

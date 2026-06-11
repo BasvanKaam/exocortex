@@ -33,6 +33,7 @@ The paper's core thesis: the cloud is not a silver bullet. A Cloud-only world is
 - [Bas deconstructs the cloud promises](bas-deconstructs-the-cloud-promises.md)
 - [Bas's list of reasons companies stay (partly) on-premises](bas-objections-to-full-cloud-migration.md)
 - [The human factor: loss of control and trust](bas-on-the-human-factor-and-loss-of-control.md)
+- [Correction: The Cloud-First Paper Dates to 2019, Not 2020](bas-paper-actually-written-2019-ncoi-masterclass.md)
 - [Paper conclusion: Cloud only? Maybe never](bas-paper-conclusion-cloud-only-never.md)
 - [Bas on the future limits of self-hosting your own data growth](bas-self-hosting-data-growth-limit.md)
 - [Bas's reframe: call them 'traditional' applications, not 'Legacy'](bas-traditional-not-legacy-applications.md)

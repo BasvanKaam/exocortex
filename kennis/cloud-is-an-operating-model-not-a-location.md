@@ -28,3 +28,4 @@ What ultimately matters is the (operational) model, not where your systems, data
 - ['The Cloud' Is Not One Thing: Define It First](cloud-is-not-one-thing-define-it.md)
 - [From Beheer to Regie: The Regieorganisatie Model](from-beheer-to-regie-organisation.md)
 - [Hybrid Is the Dominant Model, So Build the Best Bridge](hybrid-is-the-dominant-model-build-the-bridge.md)
+- [Position: Cloud Is a Strategic Derivative, Not a Goal in Itself](position-cloud-is-strategic-derivative-not-goal.md)

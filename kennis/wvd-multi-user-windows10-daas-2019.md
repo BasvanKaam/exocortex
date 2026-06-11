@@ -29,6 +29,7 @@ How WVD was framed at announcement (Ignite 2018, launch expected first half of 2
 - [State of the SBC/VDI market in 2018 (survey snapshot)](state-of-vdi-sbc-2018-snapshot.md)
 - [Bas: the direction is already clear, enough has been said](win10-multiuser-direction-is-clear-2018.md)
 - [How Windows 10 multi-session came to light (2018)](windows-10-multi-session-origins-2018.md)
+- [Windows 10 Multi-User (Azure-only) and ProPlus](windows-10-multi-user-azure-only.md)
 - [Windows 7 End of Support and the Windows Virtual Desktop (2019)](windows-7-eol-and-wvd-2019.md)
 - [WVD App Group rules (2019)](wvd-app-groups-rules-2019.md)
 - [Even with managed WVD, the customer still owns the base image](wvd-customer-still-owns-the-base-image.md)

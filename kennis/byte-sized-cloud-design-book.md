@@ -23,6 +23,7 @@ Note on his thinking even in a celebratory post: the work was framed as a "commu
 - [Bas van Kaam 2020 career milestones](bas-2020-career-milestones.md)
 - [Project Byte-Sized: a crowd-authored cloud book for charity](byte-sized-community-book.md)
 - [Before debating Cloud, specify which type of service you mean](cloud-discussion-specify-the-service-type-first.md)
+- [Cloud Masterclass 2020: Course Structure and Delivery Style](cloud-masterclass-2020-structure-and-delivery.md)
 - [Community feedback as the force that shapes the product](community-as-product-shaping-force.md)
 - [If you want to go far, go together](go-together-community-force.md)
 - [Self-publishing a niche Citrix book: the numbers behind Inside Citrix](inside-citrix-book-self-publishing-numbers.md)

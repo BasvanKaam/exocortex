@@ -34,6 +34,7 @@ After the inventory, use the SCAF Wave 1&2 templates to write a brief summary of
 ## Verwante notities
 
 - [Additional Topics to Weigh in a Cloud Business Case](additional-businesscase-topics.md)
+- [Application Baseline: purpose and scope](application-baseline-purpose-and-scope.md)
 - [Bas: 'Wegwerp IT' and the Lift-and-Shift Caution](bas-wegwerp-it-and-lift-and-shift.md)
 - [The 'Cloud because of the Cloud' syndrome and poor migration planning](cloud-because-of-cloud-syndrome.md)
 - [Selecting the First Migration Workload (Simple to Complex)](first-migration-workload-selection.md)
@@ -42,3 +43,5 @@ After the inventory, use the SCAF Wave 1&2 templates to write a brief summary of
 - [Definitive Cloud and Refactor Choice (Rationalisation)](rationalisation-refactor-choice-execution.md)
 - [SCAF: Application, Data and System Inventory via Waves](scaf-application-data-system-inventory.md)
 - [SCAF execution-phase templates and the migration waves](scaf-execution-phase-templates.md)
+- [SCAF insight-pillar intake workshop questions](scaf-insight-pillar-intake-questions.md)
+- [Tactical Cloud Migration Prioritization](tactical-cloud-migration-prioritization.md)

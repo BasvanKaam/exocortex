@@ -23,6 +23,7 @@ Ambassadors begin building support for the new services/products via digital or 
 - [Bas's Lessons Learned document: a living continuous-learning tool](bas-lessons-learned-document-method.md)
 - [Key Takeaways - the execution phase (Chapter 11)](execution-phase-key-takeaways.md)
 - [Infrastructure as Code (IaC) and Its Benefits](infrastructure-as-code-basics.md)
+- [Combined PDCA/DMAIC cycle and lessons-learned in SCAF Adoption](scaf-adoption-pdca-dmaic-lessons-learned.md)
 - [SCAF Adoption phase: finishing what you started](scaf-adoption-phase-purpose.md)
 - [SCAF Cloud governance: putting the dots on the i](scaf-cloud-governance-checklist.md)
 - [SCAF Cloud Governance Roles](scaf-cloud-governance-roles.md)

@@ -29,6 +29,7 @@ Bas's framing of EA's role in Cloud adoption:
 - [Bas's terminology: "gebruiker", "business gebruiker" and "de business"](business-user-and-the-business-definitions.md)
 - [Bas's navigation metaphor: a cloud journey needs a destination](cloud-journey-navigation-metaphor.md)
 - [Enterprise Architecture (EA) and TOGAF](enterprise-architecture-togaf.md)
+- [Functionality before technology; business objectives drive cloud adoption](functionality-before-technology-ea-principle.md)
 - [Opdracht 6: The Mirror of Enterprise Architecture (EA Self-Assessment)](opdracht-6-mirror-of-enterprise-architecture.md)
 - [SCAF Design Principles and Why It Exists](scaf-design-principles.md)
 - [SCAF Strategie: The Foundation Questions](scaf-strategie-fundament-questions.md)

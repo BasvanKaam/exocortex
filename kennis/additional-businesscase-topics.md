@@ -27,6 +27,7 @@ Beyond hard costs, Bas lists supplementary topics to consider (depending on your
 - [Bas on cost management: cost vs. value and ROI/TCO](bas-on-cost-management-roi-tco.md)
 - [Why Write a Business Case, and Its Key Elements](business-case-value-and-elements.md)
 - [A Business Case Is More Than 'Hard' Costs Alone](businesscase-more-than-hard-costs.md)
+- [Cloud business-case template (eleven dimensions)](cloud-business-case-template-eleven-dimensions.md)
 - [Bas: frame the business case with an executive summary and added-value story](executive-summary-and-added-value-framing.md)
 - [Opdracht 5: build your own business case (the method)](opdracht-5-business-case-exercise.md)
 - [Azure, AWS and Google sustainability targets](provider-sustainability-targets.md)

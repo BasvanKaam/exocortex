@@ -22,6 +22,7 @@ Bas's take: although a SWOT looks simple, it often yields deeper insights than e
 - [SCAF Strategie: The Foundation Questions](scaf-strategie-fundament-questions.md)
 - [SCAF Strategie Pillar: Summary of Steps](scaf-strategie-pillar-step-summary.md)
 - [SCAF Strategie: Stakeholders, Actions and Results](scaf-strategie-stakeholders-and-actions.md)
+- [Strategy Map (Kaplan-Norton) within SCAF Strategy phase](scaf-strategy-map-kaplan-norton.md)
 - [SCAF strategy-phase templates: Summary Palet, Strategy Map, SWOT](scaf-strategy-phase-templates.md)
 - [SCAF Workshop Startpunt Questions](scaf-workshop-startpunt-questions.md)
 - [Strategy Map (Kaplan & Norton) in SCAF](strategy-map-kaplan-norton.md)

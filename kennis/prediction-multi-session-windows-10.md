@@ -18,6 +18,7 @@ March 2018: with RDSH apparently not working in the Server 2019 preview and Micr
 
 - [Bas: the direction is already clear, enough has been said](win10-multiuser-direction-is-clear-2018.md)
 - [How Windows 10 multi-session came to light (2018)](windows-10-multi-session-origins-2018.md)
+- [Windows 10 Multi-User (Azure-only) and ProPlus](windows-10-multi-user-azure-only.md)
 - [Windows Server 2019 at announcement: LTSC/SAC, RDSH question, RDmi](windows-server-2019-ltsc-sac-rdmi.md)
 - [Windows 10 Enterprise multi-session performance debate (Ignite 2019)](wvd-ignite-2019-multisession.md)
 - [WVD is what used to be RDMI](wvd-is-rdmi-on-prem-history.md)

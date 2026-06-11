@@ -21,15 +21,20 @@ Also don't forget: existing monitoring/tooling, an overview of current subscript
 
 ## Verwante notities
 
+- [Application Baseline: purpose and scope](application-baseline-purpose-and-scope.md)
+- [Two-phase scan method for the Application Baseline](application-baseline-two-phase-scan.md)
 - [Azure data migration and import tools](azure-data-migration-import-tools.md)
 - [Bas: The 6 R's for Application Rationalization](bas-6-rs-cloud-migration.md)
 - [Building a Compact Cloud Business Case](compact-cloud-business-case-method.md)
 - [Selecting the First Migration Workload (Simple to Complex)](first-migration-workload-selection.md)
+- [Criteria for Selecting the First Workload to Migrate](first-workload-selection-criteria.md)
+- [Migrate vs Modernize as a Per-Workload Decision](migrate-vs-modernize-distinction.md)
 - [Opdracht 7: Cloud Migration Compass (XYZ-Care Health Group)](opdracht-7-cloud-migration-compass.md)
 - [Definitive Cloud and Refactor Choice (Rationalisation)](rationalisation-refactor-choice-execution.md)
 - [SCAF execution-phase templates and the migration waves](scaf-execution-phase-templates.md)
 - [SCAF Insight Phase: Actions and the Waves Approach](scaf-insight-actions-and-waves.md)
 - [SCAF Chapter 8: The Insight (Inzicht) Phase Foundation](scaf-insight-phase-foundation.md)
+- [SCAF insight-pillar intake workshop questions](scaf-insight-pillar-intake-questions.md)
 - [SCAF Insight Phase: Results and Supporting Documentation](scaf-insight-results-and-documentation.md)
 - [SCAF Insight Phase: Security Topics to Surface](scaf-security-insight-phase.md)
 - [SCAF Insight: Workshop as Starting Point](scaf-workshop-starting-point.md)

@@ -38,4 +38,6 @@ Example benchmarks: 99.9% uptime, average response time under 200 ms, and a cost
 - [SCAF Adoption phase: activities and deliverables](scaf-adoption-phase-activities.md)
 - [SCAF Adoption phase: finishing what you started](scaf-adoption-phase-purpose.md)
 - [SCAF Adoption result: the end goal of the Cloud transition](scaf-adoption-phase-result.md)
+- [SCAF Adoption-phase template as a consulting instrument](scaf-adoption-template-instrument.md)
 - [SCAF Cloud governance: putting the dots on the i](scaf-cloud-governance-checklist.md)
+- [SLA availability to allowed-downtime reference (the nines)](sla-availability-nines-downtime-table.md)

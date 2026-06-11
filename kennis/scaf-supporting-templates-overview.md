@@ -24,12 +24,15 @@ Bas's Step-Cloud Adoptie Framework (SCAF) ships a toolkit of supporting template
 ## Verwante notities
 
 - [Ambassadors and skill readiness in the execution phase](ambassadors-skill-readiness.md)
+- [Masterclass: toolkit for working out regie processes](masterclass-regie-transition-toolkit.md)
 - [Risk Register (Risicoregister)](risk-register-risicoregister.md)
 - [SCAF Documentation and Templates](scaf-documentation-templates.md)
 - [SCAF Execution Phase Supporting Documentation](scaf-execution-supporting-documentation.md)
 - [SCAF GAP-analysis and Impact-analysis templates](scaf-gap-and-impact-analysis-templates.md)
+- [SCAF Guidelines Handbook: Internal, Reusable Source Document](scaf-handbook-purpose-and-reuse.md)
 - [SCAF: Knowledge, Teams, Roles and Responsibilities](scaf-knowledge-teams-raci-gap.md)
 - [SCAF process, governance, communication and handover templates](scaf-process-and-handover-templates.md)
+- [SCAF Process-to-Function Decomposition](scaf-process-to-function-decomposition.md)
 - [SCAF strategy-phase templates: Summary Palet, Strategy Map, SWOT](scaf-strategy-phase-templates.md)
 - [SCAF Toolkit: 20 downloadable templates and what's excluded](scaf-toolkit-download-and-templates.md)
 - [Bas: use the SCAF toolkit as inspiration, not a checklist](scaf-toolkit-use-it-as-inspiration.md)

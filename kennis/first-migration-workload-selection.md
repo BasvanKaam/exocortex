@@ -32,6 +32,7 @@ Bas's practical advice ('Punten Van Aandacht' / 'Samengevat Advies') for startin
 - [Bas: 'Wegwerp IT' and the Lift-and-Shift Caution](bas-wegwerp-it-and-lift-and-shift.md)
 - [The 'Cloud because of the Cloud' syndrome and poor migration planning](cloud-because-of-cloud-syndrome.md)
 - [Key Takeaways - the execution phase (Chapter 11)](execution-phase-key-takeaways.md)
+- [Criteria for Selecting the First Workload to Migrate](first-workload-selection-criteria.md)
 - [Opdracht 9: Migration Mastery - Strategy to Execution (XYZ-Care)](migration-mastery-assignment-xyz-care.md)
 - [Definitive Cloud and Refactor Choice (Rationalisation)](rationalisation-refactor-choice-execution.md)
 - [Reverse Timeline planning around a compelling event](reverse-timeline-planning.md)

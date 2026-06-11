@@ -28,6 +28,7 @@ bron: van-de-basis-tot-meester-in-de-cloud
 
 ## Verwante notities
 
+- [Compliance and risk as operational governance](compliance-risk-operational-governance.md)
 - [NIS and NIS 2 directive](nis-and-nis-2-directive.md)
 - [NIST CSF and ISO 27001 (PDCA) working with NIS 2](nist-csf-and-iso-27001-pdca-with-nis-2.md)
 - [NIST vs ISO as security reference frameworks](nist-vs-iso-as-security-references.md)

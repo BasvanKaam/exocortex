@@ -24,6 +24,7 @@ It continues with **transition costs** (one-off spend for development, data migr
 - [Bas on cost management: cost vs. value and ROI/TCO](bas-on-cost-management-roi-tco.md)
 - [A Business Case Is More Than 'Hard' Costs Alone](businesscase-more-than-hard-costs.md)
 - [Capex vs Opex in IT and Cloud](capex-vs-opex-in-it.md)
+- [Cloud business-case template (eleven dimensions)](cloud-business-case-template-eleven-dimensions.md)
 - [Start a DaaS Business Case 'High-Over' First](daas-business-case-high-over-first.md)
 - [Opdracht 5: build your own business case (the method)](opdracht-5-business-case-exercise.md)
 - [SCAF Go/NoGo: The Insight-Phase Business Case](scaf-go-nogo-business-case.md)

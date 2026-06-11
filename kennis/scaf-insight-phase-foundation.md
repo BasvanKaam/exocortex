@@ -35,6 +35,7 @@ New roles may be introduced (e.g. Chief Innovation Officer), and a Cloud Center 
 - [SCAF Execution Phase (Uitvoeringsfase) Overview](scaf-execution-phase-overview.md)
 - [SCAF Go/NoGo: The Insight-Phase Business Case](scaf-go-nogo-business-case.md)
 - [SCAF Insight Phase: Actions and the Waves Approach](scaf-insight-actions-and-waves.md)
+- [SCAF insight-pillar intake workshop questions](scaf-insight-pillar-intake-questions.md)
 - [SCAF Insight Phase: Results and Supporting Documentation](scaf-insight-results-and-documentation.md)
 - [SCAF Insight Phase: Stakeholders to Involve](scaf-insight-stakeholders.md)
 - [SCAF: Knowledge, Teams, Roles and Responsibilities](scaf-knowledge-teams-raci-gap.md)

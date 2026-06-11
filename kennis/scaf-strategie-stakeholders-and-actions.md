@@ -32,5 +32,6 @@ bron: van-de-basis-tot-meester-in-de-cloud
 - [SCAF Insight Phase: Stakeholders to Involve](scaf-insight-stakeholders.md)
 - [SCAF Strategie: The Foundation Questions](scaf-strategie-fundament-questions.md)
 - [SCAF Strategie Pillar: Summary of Steps](scaf-strategie-pillar-step-summary.md)
+- [SCAF strategy-pillar intake workshop questions](scaf-strategy-pillar-intake-questions.md)
 - [Strategy Map (Kaplan & Norton) in SCAF](strategy-map-kaplan-norton.md)
 - [SWOT Analysis in SCAF](swot-analysis-in-scaf.md)

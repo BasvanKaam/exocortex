@@ -31,5 +31,7 @@ This is a useful pointer: the SCAF (Step-Cloud Adoptie Framework) toolkit is int
 - [Cloud Exit Strategy: What to Plan For](cloud-exit-strategy-checklist.md)
 - [Why have a cloud exit strategy - the exit comes before onboarding](cloud-exit-strategy-rationale.md)
 - [The six-step process for building a cloud exit strategy](cloud-exit-strategy-steps.md)
+- [A Cloud Strategy without a reversibility plan is incomplete](position-cloud-strategy-needs-exit-strategy.md)
 - [SCAF Design Principles and Why It Exists](scaf-design-principles.md)
 - [SCAF Toolkit: 20 downloadable templates and what's excluded](scaf-toolkit-download-and-templates.md)
+- [Think about the cloud exit before you onboard](the-exit-comes-before-onboarding-stance.md)

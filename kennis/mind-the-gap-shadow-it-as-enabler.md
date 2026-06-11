@@ -26,6 +26,7 @@ Bas's 'Mind The Gap' tactic for when the business is hard to convince. Use an ex
 ## Verwante notities
 
 - [Creative Communication and Putting Responsibility on Staff](creative-communication-and-feedback-loop.md)
+- [Keep IT in control, then turn shadow IT into an enabler](keep-it-in-control-shadow-it-as-enabler.md)
 - [Lack of overview, knowledge, governance and Shadow IT](lack-of-overview-knowledge-governance-shadow-it.md)
 - [Shadow IT: The Business User in the Driver's Seat](shadow-it-business-user-in-driver-seat.md)
 - [Shadow IT Examples: Trello/Asana and WhatsApp](shadow-it-examples-trello-whatsapp.md)

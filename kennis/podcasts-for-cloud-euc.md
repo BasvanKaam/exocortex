@@ -23,4 +23,5 @@ The podcast overview he lists includes: The Cloudcast, AWS Podcast, Google Cloud
 - [Citrix/EUC community podcasts](euc-citrix-community-podcasts.md)
 - [Following Cloud and EUC experts on X (Twitter)](following-experts-on-x-twitter.md)
 - [Local communities and Meetup; Dutch community examples](local-communities-and-meetup.md)
+- [Curated cloud self-study resources (Masterclass handout)](masterclass-curated-cloud-learning-resources.md)
 - [Bas on the value of IT communities](value-of-it-communities.md)

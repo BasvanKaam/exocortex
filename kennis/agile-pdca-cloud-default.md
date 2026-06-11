@@ -20,6 +20,7 @@ He contrasts company sizes: larger organisations need solid preparation (e.g. as
 ## Verwante notities
 
 - [Bas's Lessons Learned document: a living continuous-learning tool](bas-lessons-learned-document-method.md)
+- [CCoE sizing: keep it lean and mean](ccoe-sizing-lean-and-mean.md)
 - [Cloud Cultural Shifts: DevOps, Automation, New Roles](cloud-cultural-shifts-overview.md)
 - [Key Takeaways - the execution phase (Chapter 11)](execution-phase-key-takeaways.md)
 - [Selecting the First Migration Workload (Simple to Complex)](first-migration-workload-selection.md)

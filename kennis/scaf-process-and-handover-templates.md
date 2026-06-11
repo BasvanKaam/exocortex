@@ -30,4 +30,5 @@ Further SCAF toolkit templates described by Bas:
 - [SCAF Cloud Governance Roles](scaf-cloud-governance-roles.md)
 - [SCAF Execution Phase Supporting Documentation](scaf-execution-supporting-documentation.md)
 - [SCAF management-summary 'palet' templates per phase](scaf-management-summary-templates.md)
+- [SCAF process-capture worksheet structure](scaf-process-capture-worksheet.md)
 - [SCAF supporting templates: RACI, Risk Register, Skill Readiness](scaf-supporting-templates-overview.md)

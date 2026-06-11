@@ -26,6 +26,7 @@ Deliverable: a detailed report stating what to expect within each layer of the I
 
 ## Verwante notities
 
+- [Two-phase scan method for the Application Baseline](application-baseline-two-phase-scan.md)
 - [Front door locked, back door wide open](front-door-locked-back-door-open.md)
 - [We Give the Insight, You Make the Choice](give-insight-client-decides.md)
 - [Performance & Health Assessment: user experience in numbers](performance-health-assessment-ux-in-numbers.md)

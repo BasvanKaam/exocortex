@@ -30,11 +30,17 @@ Source: Bas van Kaam, Salomon IT blog, 2019-08-28.
 ## Verwante notities
 
 - [Why have a cloud exit strategy - the exit comes before onboarding](cloud-exit-strategy-rationale.md)
+- [Cloud Masterclass 2020: Course Structure and Delivery Style](cloud-masterclass-2020-structure-and-delivery.md)
+- [Cloud Masterclass: two-day course structure](cloud-masterclass-course-structure.md)
 - [Plan the Exit Before You Commit](plan-the-exit-before-you-commit.md)
 - [Reactive vs. Proactive IT and the Service Catalogue](reactive-vs-proactive-it-service-catalogue.md)
 - [Roadmap as a Service (RaaS)](roadmap-as-a-service-raas.md)
 - [SCAF Design Principles and Why It Exists](scaf-design-principles.md)
+- [SCAF Guidelines Handbook: Internal, Reusable Source Document](scaf-handbook-purpose-and-reuse.md)
+- [SCAF Engagement: From First Conversation to Kick-off](scaf-initiation-and-engagement-flow.md)
+- [SCAF per-pillar workshop delivery sequence](scaf-pillar-workshop-delivery-sequence.md)
 - [SCAF Pillars and Design Principles](scaf-pillars-and-design-principles.md)
+- [SCAF Process-to-Function Decomposition](scaf-process-to-function-decomposition.md)
 - [SCAF: The Step-Cloud Adoptie Framework Overview](scaf-step-cloud-adoption-framework-overview.md)
 - [The Step-Cloud Adoptie Framework (SCAF) as the book's backbone](scaf-the-red-thread-of-the-book.md)
 - [Cloud Advice Must Be Vendor-Independent](vendor-independent-cloud-advice.md)

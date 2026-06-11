@@ -21,6 +21,8 @@ The practical takeaway: "technically it works" and "you get support when you nee
 ## Verwante notities
 
 - [Delivering Lync in a XenApp hosted shared desktop: generic vs optimized HDX](lync-xenapp-delivery-options.md)
+- [Office 365 ProPlus on Remote Desktop Services](o365-proplus-on-rds.md)
+- [ProPlus on RDS and shared computer activation](office-365-proplus-on-rds-shared-computer-activation.md)
 - [Features Server VDI cannot do](server-vdi-unsupported-features.md)
 - [Don't make concessions on end user experience when delivering Lync](stance-lync-online-xenapp-concessions.md)
 - [Run a CDF trace before you contact Citrix Support](trace-before-you-call-citrix-support.md)

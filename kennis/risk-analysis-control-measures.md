@@ -23,6 +23,7 @@ Example rows from the book's table: Data loss (likelihood High, impact 8/very hi
 
 - [AVG security: organizational and technical measures](avg-security-organizational-and-technical-measures.md)
 - [Bas: Pragmatism on Governance and Process Documentation](bas-governance-processes-pragmatism.md)
+- [CCoE role and responsibility demarcation for compliance](ccoe-role-compliance-and-controls.md)
 - [Opdracht 8: AVG in healthcare (XYZ-Care)](opdracht-8-avg-in-healthcare-xyz-care.md)
 - [Risk analysis process steps](risk-analysis-process-steps.md)
 - [Risk management focus areas and attention points](risk-management-focus-areas-and-attention-points.md)

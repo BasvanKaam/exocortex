@@ -39,4 +39,5 @@ Source: Bas van Kaam, Salomon IT blog, 2019-08-28.
 - [Why have a cloud exit strategy - the exit comes before onboarding](cloud-exit-strategy-rationale.md)
 - [The six-step process for building a cloud exit strategy](cloud-exit-strategy-steps.md)
 - [Plan the Exit Before You Commit](plan-the-exit-before-you-commit.md)
+- [A Cloud Strategy without a reversibility plan is incomplete](position-cloud-strategy-needs-exit-strategy.md)
 - [SCAF Cloud Exit Strategy Template (On Bas's Backlog)](scaf-cloud-exit-strategy-on-backlog.md)

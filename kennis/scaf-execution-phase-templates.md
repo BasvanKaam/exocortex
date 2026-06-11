@@ -25,4 +25,5 @@ Migration is organised in waves. **Wave 1 & 2 inventory** catalogues all applica
 - [SCAF: Application, Data and System Inventory via Waves](scaf-application-data-system-inventory.md)
 - [SCAF Execution Phase (Uitvoeringsfase) Overview](scaf-execution-phase-overview.md)
 - [SCAF Execution Phase Supporting Documentation](scaf-execution-supporting-documentation.md)
+- [SCAF implementation/migration planning template structure](scaf-implementation-migration-template.md)
 - [SCAF Insight Phase: Actions and the Waves Approach](scaf-insight-actions-and-waves.md)

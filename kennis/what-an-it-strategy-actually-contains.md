@@ -26,6 +26,8 @@ Keep it readable: he applies KISS (Keep It Stupid Simple). Nobody wants a 100+ p
 
 - [Put the Business Before the Technology](business-before-technology.md)
 - [There is no such thing as a cloud strategy](cloud-is-not-a-strategy.md)
+- [ICT Vision: IT and Cloud Strategy Derive from the Digital Strategy](ict-vision-strategy-derivation-from-digital-strategy.md)
+- [Mapping IT Capabilities to Strategic Business Goals](map-it-capabilities-to-strategic-business-goals.md)
 - [Roadmap as a Service (RaaS)](roadmap-as-a-service-raas.md)
 - [SCAF Strategie: The Foundation Questions](scaf-strategie-fundament-questions.md)
 - [SWOT Analysis in SCAF](swot-analysis-in-scaf.md)

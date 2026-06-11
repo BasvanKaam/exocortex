@@ -18,6 +18,8 @@ Key elements (optional — pick what's relevant per project): 1) Executive Summa
 ## Verwante notities
 
 - [Additional Topics to Weigh in a Cloud Business Case](additional-businesscase-topics.md)
+- [Cloud business-case template (eleven dimensions)](cloud-business-case-template-eleven-dimensions.md)
+- [Purpose of the cloud financial analysis (business case)](cloud-financial-analysis-purpose.md)
 - [Start a DaaS Business Case 'High-Over' First](daas-business-case-high-over-first.md)
 - [Bas: early business-case documents are deliberately rough and inconsistent](deliberate-inconsistency-in-early-drafts.md)
 - [Bas: frame the business case with an executive summary and added-value story](executive-summary-and-added-value-framing.md)

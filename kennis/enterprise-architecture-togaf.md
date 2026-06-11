@@ -19,10 +19,14 @@ With a well-set-up EA, companies can work more efficiently, save costs and respo
 
 ## Verwante notities
 
+- [Two-phase scan method for the Application Baseline](application-baseline-two-phase-scan.md)
 - [EA: Working with Principles (Top-Down and Bottom-Up Balance)](ea-working-with-principles.md)
+- [Functionality before technology; business objectives drive cloud adoption](functionality-before-technology-ea-principle.md)
 - [ITIL Service Management in Cloud Environments](itil-in-cloud-environments.md)
 - [ITIL Processes That Need Attention When Introducing Cloud](itil-process-changes-for-cloud.md)
+- [Nested Governance: Corporate over IT over Cloud](nested-governance-corporate-it-cloud.md)
 - [Opdracht 6: The Mirror of Enterprise Architecture (EA Self-Assessment)](opdracht-6-mirror-of-enterprise-architecture.md)
+- [Reference Architecture Responsibility Split](reference-architecture-responsibility-split.md)
 - [SCAF Design Principles and Why It Exists](scaf-design-principles.md)
 - [SCAF: The Step-Cloud Adoptie Framework Overview](scaf-step-cloud-adoption-framework-overview.md)
 - [Technical/Functional Design as Cloud Blueprint](technical-functional-design-blueprint.md)

@@ -21,11 +21,16 @@ The per-phase **handleiding templates** (Strategie, Inzicht, Uitvoering, Adoptie
 
 ## Verwante notities
 
+- [SCAF Adoption-phase management summary palette](scaf-adoptie-management-summary-palette.md)
 - [SCAF Adoption result: the end goal of the Cloud transition](scaf-adoption-phase-result.md)
 - [SCAF Documentation and Templates](scaf-documentation-templates.md)
+- [SCAF final-report management summary palette](scaf-eindrapportage-management-summary-palette.md)
 - [SCAF Go/NoGo: The Insight-Phase Business Case](scaf-go-nogo-business-case.md)
 - [SCAF Insight Phase: Results and Supporting Documentation](scaf-insight-results-and-documentation.md)
+- [SCAF Insight-phase management summary palette](scaf-inzicht-management-summary-palette.md)
 - [SCAF process, governance, communication and handover templates](scaf-process-and-handover-templates.md)
 - [SCAF strategy-phase templates: Summary Palet, Strategy Map, SWOT](scaf-strategy-phase-templates.md)
+- [SCAF Strategy-phase intake template (strategie-samenvatting)](scaf-strategy-summary-intake-template.md)
+- [SCAF Strategy-phase template as a consulting instrument](scaf-strategy-template-instrument.md)
 - [SCAF Toolkit: 20 downloadable templates and what's excluded](scaf-toolkit-download-and-templates.md)
 - [SCAF visual timeline and Bas's preference for visual artifacts](scaf-visual-timeline.md)

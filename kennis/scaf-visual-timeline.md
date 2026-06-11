@@ -21,9 +21,12 @@ Bas opens this SCAF template by stating a personal preference: "Ik houd ervan al
 
 ## Verwante notities
 
+- [Position: A Strategy Nobody Knows Is Worthless](position-strategy-must-be-communicated-visually.md)
 - [Reverse Timeline planning around a compelling event](reverse-timeline-planning.md)
 - [SCAF Key Takeaways - The Four Phases and Strategy](scaf-four-phases-key-takeaways.md)
 - [SCAF Go/NoGo: The Insight-Phase Business Case](scaf-go-nogo-business-case.md)
 - [SCAF management-summary 'palet' templates per phase](scaf-management-summary-templates.md)
 - [SCAF: The Step-Cloud Adoptie Framework Overview](scaf-step-cloud-adoption-framework-overview.md)
 - [The Step-Cloud Adoptie Framework (SCAF) as the book's backbone](scaf-the-red-thread-of-the-book.md)
+- [SCAF timeline: phase durations, decision gates, and reporting cadence](scaf-timeline-gates-and-cadence.md)
+- [SCAF timeline: phases, deliverables and gates](scaf-timeline-phases-deliverables-gates.md)

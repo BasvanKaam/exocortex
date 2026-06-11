@@ -27,3 +27,4 @@ Why the roles matter (Bas's four reasons): collaboration of IT with the business
 
 - [Bas's reframe: governance is just a fancy word](bas-governance-is-just-a-fancy-word.md)
 - [Promoting the CCoE: the 'kindergarten' war story and strategies](bas-promoting-the-ccoe-kindergarten-war-story.md)
+- [A CCoE is not only for enterprises; it's about responsibilities, not headcount](ccoe-not-just-for-enterprise-3.md)

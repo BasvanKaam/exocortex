@@ -26,6 +26,7 @@ Community podcasts Bas recommends:
 - [EUC-X renamed to EUCdigest (2019)](eucdigest-rename.md)
 - [EUCdigest: vendor-agnostic, 100% community-driven EUC](eucdigest-vendor-agnostic-community.md)
 - [Following Cloud and EUC experts on X (Twitter)](following-experts-on-x-twitter.md)
+- [Curated cloud self-study resources (Masterclass handout)](masterclass-curated-cloud-learning-resources.md)
 - [myCUGC: the Citrix User Group Community](mycugc-citrix-user-group-community.md)
 - [Podcasts as a learning channel for Cloud and EUC](podcasts-for-cloud-euc.md)
 - [Bas on the value of IT communities](value-of-it-communities.md)

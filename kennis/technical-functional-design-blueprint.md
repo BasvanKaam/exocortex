@@ -19,6 +19,7 @@ Why bother: it gets everyone's noses pointing the same way ('alle neuzen dezelfd
 
 ## Verwante notities
 
+- [Acceptance Criteria Checklist for System Delivery](acceptance-criteria-checklist.md)
 - [Azure high-availability building blocks](azure-high-availability-building-blocks.md)
 - [DaaS / VDI Additions to the Technical Design](daas-vdi-technical-design-considerations.md)
 - [Enterprise Architecture (EA) and TOGAF](enterprise-architecture-togaf.md)

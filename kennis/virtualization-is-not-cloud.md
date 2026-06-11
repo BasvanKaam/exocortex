@@ -20,6 +20,7 @@ Virtualization is the main enabling technology: it turns the rigid physical infr
 
 ## Verwante notities
 
+- [Cloud makes an accurate central CMDB impossible](cloud-breaks-the-central-cmdb.md)
 - [Before debating Cloud, specify which type of service you mean](cloud-discussion-specify-the-service-type-first.md)
 - [Moving to the cloud does not automatically save money](cloud-does-not-automatically-save-money.md)
 - [Cloud is about far more than technology](cloud-is-more-than-technology.md)
@@ -27,5 +28,6 @@ Virtualization is the main enabling technology: it turns the rigid physical infr
 - [Hyper-V vs VMware in 2013: cheaper and simpler vs granular](hyper-v-vs-vmware-cost-2013.md)
 - [Loose coupling as a core Cloud design principle](loose-coupling-cloud-architecture.md)
 - [Layering and virtualization are partners, and the cons are soon forgotten](positie-layering-and-virtualization-coexist.md)
+- [Cloud will repeat the virtualization sprawl mistake unless governed](position-cloud-sprawl-mirrors-virtualization-sprawl.md)
 - [Virtual usually beats physical, but leasing changes the Moonshot math](virtual-beats-physical-but-leasing-changes-moonshot-math.md)
 - [Web-scale architecture: software-defined, scale-out, self-healing on x86](web-scale-architecture-principles.md)

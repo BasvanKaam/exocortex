@@ -29,7 +29,10 @@ Dated: tied to the 2019-era product lineup and naming (ProPlus was later renamed
 ## Verwante notities
 
 - [Capex vs Opex in IT and Cloud](capex-vs-opex-in-it.md)
+- [Office 365 ProPlus versus traditional Office](o365-proplus-vs-traditional-office.md)
 - [Office 365 cached-mode OST files break on non-persistent desktops](office-365-ost-non-persistent-vdi-problem.md)
+- [Office 365 ProPlus versus traditional Office](office-365-proplus-vs-traditional-office.md)
+- [Office 365 subscription families and plans](office-365-subscription-families-and-plans.md)
 - [Why ProPlus/365 is usually preferred over perpetual Office](why-organizations-prefer-365-proplus-over-perpetual-office.md)
 - [Windows SAC vs LTSC servicing channels](windows-sac-vs-ltsc-servicing-channels.md)
 - [Windows 10 servicing branches and deployment rings](windows10-servicing-branches-rings.md)

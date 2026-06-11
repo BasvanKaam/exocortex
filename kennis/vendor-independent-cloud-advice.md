@@ -21,5 +21,8 @@ Source: Bas van Kaam, Salomon IT blog, 2019-08-28.
 - [Don't think in brands or product boxes](avoid-vendor-and-product-thinking.md)
 - [Put the Business Before the Technology](business-before-technology.md)
 - [Why have a cloud exit strategy - the exit comes before onboarding](cloud-exit-strategy-rationale.md)
+- [Teaching Stance: Cloud Adoption Is More Than Technology](masterclass-cloud-is-more-than-tech.md)
+- [Cloud adoption goes far beyond technology alone](position-cloud-adoption-is-more-than-tech.md)
+- [What Makes SCAF Different: Vendor-Neutral and Hand-in-Hand](scaf-differentiator-vendor-neutral-hand-in-hand.md)
 - [SCAF Pillars and Design Principles](scaf-pillars-and-design-principles.md)
 - [SCAF: Salomon Cloud Adoptie Framework (Origin)](scaf-salomon-cloud-adoptie-framework.md)

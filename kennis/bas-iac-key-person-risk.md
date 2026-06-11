@@ -29,3 +29,4 @@ Bas also has a strong, characteristic opinion on *who* can do IaC: just pointing
 - [Infrastructure as Code (IaC) and Its Benefits](infrastructure-as-code-basics.md)
 - [The IT (Cloud) Professional 2.0: from geek to strategic generalist](it-cloud-professional-2-0.md)
 - [Bas's 'one is none' rule for resilience](one-is-none-rule.md)
+- [Blind faith in automation will not ensure happy outcomes](position-stay-in-control-of-your-control.md)

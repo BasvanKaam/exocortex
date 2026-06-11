@@ -34,6 +34,7 @@ Bas's key reframe: ultimately cloud is just a way of doing IT — a tool in the 
 - [Bas's paper: Cloud Only? No. Cloud First or Hybrid? Yes.](bas-paper-cloud-only-no-cloud-first-yes.md)
 - [The 'Cloud because of the Cloud' syndrome and poor migration planning](cloud-because-of-cloud-syndrome.md)
 - [Bas's rule: define the Cloud before debating its pros and cons](define-cloud-before-debating-it.md)
+- [Keep IT in control, then turn shadow IT into an enabler](keep-it-in-control-shadow-it-as-enabler.md)
 - [Mind The Gap: Shadow IT as Enabler and the Entry Point](mind-the-gap-shadow-it-as-enabler.md)
 - [Shadow IT: The Business User in the Driver's Seat](shadow-it-business-user-in-driver-seat.md)
 - [Shadow IT Examples: Trello/Asana and WhatsApp](shadow-it-examples-trello-whatsapp.md)

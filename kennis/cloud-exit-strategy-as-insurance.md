@@ -30,3 +30,6 @@ Triggers it covers: a provider changing SLAs (which they can do without notice),
 - [Don't start from scratch every OS update: vendor-neutral workspace layer](configure-once-migrate-many-vs-lockin.md)
 - [Firm believer in choice: spread options, but cap the platform count](firm-believer-in-choice-no-one-size-fits-all.md)
 - [Plan the Exit Before You Commit](plan-the-exit-before-you-commit.md)
+- [A Cloud Strategy without a reversibility plan is incomplete](position-cloud-strategy-needs-exit-strategy.md)
+- [SLA availability to allowed-downtime reference (the nines)](sla-availability-nines-downtime-table.md)
+- [Think about the cloud exit before you onboard](the-exit-comes-before-onboarding-stance.md)
