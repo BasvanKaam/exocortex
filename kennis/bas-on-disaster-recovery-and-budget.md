@@ -31,6 +31,7 @@ He also notes DR is mandatory for many sectors (financial, healthcare, critical 
 - [Bas's checklist of points of attention for a cloud exit](cloud-exit-points-of-attention.md)
 - [Why have a cloud exit strategy - the exit comes before onboarding](cloud-exit-strategy-rationale.md)
 - [The six-step process for building a cloud exit strategy](cloud-exit-strategy-steps.md)
+- [Positions I apply in a cloud transition](cloud-transitie-posities.md)
 - [Current cyber threats and 2025+ trends](current-cyber-threats-and-2025-trends.md)
 - [Standard components of a disaster recovery (DR) plan](disaster-recovery-plan-components.md)
 - [Post-COVID resilience: BCPs, redundancy, supply chains, automation](post-covid-resilience-measures.md)

@@ -18,6 +18,7 @@ He weighs his alternatives (RAW, Lemontree, a vendor, freelance, writing a book,
 
 ## Verwante notities
 
+- [Bas: strategic tech partnerships must make the work easier and pay for themselves](bas-strategic-partnerships-must-pay-for-themselves.md)
 - [If Nothing Changes, It Won't Be a Success](if-nothing-changes-it-wont-be-a-success.md)
 - [Willing to co-invest in building his own training business](position-co-invest-in-your-own-training-business.md)
 - [Position: Judge a Partner by Decisiveness, Not Just Interest](position-judge-partners-by-decisiveness.md)

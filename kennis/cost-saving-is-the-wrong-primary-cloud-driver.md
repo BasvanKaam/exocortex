@@ -18,6 +18,7 @@ A position Bas repeats across the Masterclass: if saving money is one of your pr
 
 - [A Business Case Is More Than 'Hard' Costs Alone](businesscase-more-than-hard-costs.md)
 - [Moving to the cloud does not automatically save money](cloud-does-not-automatically-save-money.md)
+- [Cloud business case: TCO to ROI, with the soft variables named](cloud-tco-roi-business-case.md)
 - [Worked TCO/ROI exercise: on-prem vs co-lo vs managed vs IaaS](cloud-tco-roi-financial-comparison-exercise.md)
 - [Is the Cloud Cheaper? It Depends](is-cloud-cheaper-it-depends.md)
 - [Decide Why You're in the Cloud Before You Migrate](name-your-cloud-driver-first.md)

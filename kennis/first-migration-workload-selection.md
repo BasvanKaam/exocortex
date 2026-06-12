@@ -34,6 +34,7 @@ Bas's practical advice ('Punten Van Aandacht' / 'Samengevat Advies') for startin
 - [Key Takeaways - the execution phase (Chapter 11)](execution-phase-key-takeaways.md)
 - [Criteria for Selecting the First Workload to Migrate](first-workload-selection-criteria.md)
 - [Opdracht 9: Migration Mastery - Strategy to Execution (XYZ-Care)](migration-mastery-assignment-xyz-care.md)
+- [Position: phase the rollout and keep part of the legacy estate intact](position-phased-rollout-keep-legacy-intact.md)
 - [Definitive Cloud and Refactor Choice (Rationalisation)](rationalisation-refactor-choice-execution.md)
 - [Reverse Timeline planning around a compelling event](reverse-timeline-planning.md)
 - [SCAF: Application, Data and System Inventory via Waves](scaf-application-data-system-inventory.md)

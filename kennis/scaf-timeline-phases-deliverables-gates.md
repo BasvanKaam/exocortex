@@ -39,3 +39,4 @@ Key framing he attaches: the early phases run in weeks, the Adoption phase in ro
 - [SCAF: The Step-Cloud Adoptie Framework Overview](scaf-step-cloud-adoption-framework-overview.md)
 - [SCAF timeline: phase durations, decision gates, and reporting cadence](scaf-timeline-gates-and-cadence.md)
 - [SCAF visual timeline and Bas's preference for visual artifacts](scaf-visual-timeline.md)
+- [Transition/transformation engagement structure: intake, analyse, execute in plateaus](transition-transformation-engagement-structure.md)

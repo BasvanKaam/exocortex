@@ -29,6 +29,7 @@ The checklist doubles as a definition-of-done and as a governance artifact: it f
 
 - [Compliance and risk as operational governance](compliance-risk-operational-governance.md)
 - [Scope configuration management to Acceptance and Production](config-management-scope-acceptance-production.md)
+- [Detailontwerp (Detailed Design) Document Skeleton](detailontwerp-document-skeleton.md)
 - [Functional Design with Functional Tests](functional-design-and-functional-tests.md)
 - [SCAF Handover Checklist (Overdracht Checklist)](scaf-handover-checklist-template.md)
 - [SCAF implementation/migration planning template structure](scaf-implementation-migration-template.md)

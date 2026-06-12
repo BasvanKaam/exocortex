@@ -24,4 +24,5 @@ Bas commits to being present at every stop, or at least doing his best to be.
 
 ## Verwante notities
 
+- [Bas's method: launch a new technology practice on four parallel tracks](bas-launching-a-new-tech-practice-four-tracks.md)
 - [Come Get IT platform and the role Bas wanted inside the group](come-get-it-platform-role-scope-idee.md)

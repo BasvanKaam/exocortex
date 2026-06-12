@@ -28,6 +28,8 @@ He frames the cloud as a tool in a toolbox: it offers many advantages and possib
 - [Cloud is a potential solution, not a silver bullet](cloud-is-no-silver-bullet.md)
 - ['The Cloud' Is Not One Thing: Define It First](cloud-is-not-one-thing-define-it.md)
 - [Cloud Is Not the Answer to Everything](cloud-not-the-answer-to-everything.md)
+- [COPAFIJTL weighing matrix for a per-application cloud go/no-go](copafijtl-cloud-go-nogo-weighing-matrix.md)
 - [Hybrid Is the Dominant Model, So Build the Best Bridge](hybrid-is-the-dominant-model-build-the-bridge.md)
 - [Requirements Before Solution: Build the Business Case First](requirements-before-solution-business-case.md)
+- [The Two-Scenario Offer: Centralized Backend vs Managed-Laptop-Only](two-scenario-offer-pattern.md)
 - [When the Cloud is a good solution - and when it is not](when-cloud-is-and-isnt-a-good-fit.md)

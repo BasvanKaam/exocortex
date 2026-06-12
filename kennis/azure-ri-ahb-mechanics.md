@@ -31,6 +31,7 @@ Azure Hybrid Benefit (AHB): bring an owned Windows Server and/or SQL license (wi
 - [Azure cost-control habits for a test lab](azure-classic-cost-control-takeaways.md)
 - [Azure Ephemeral OS disks for stateless WVD workloads](azure-ephemeral-os-disks.md)
 - [Cloud cost-optimization levers](cloud-cost-optimization-levers.md)
+- [Indicative cost overview: split the totals, show the assumptions, never call it a quote](indicative-cost-overview-method-assumptions-and-reserved-instances.md)
 - [Reserved Instances: 12% early-exit fine and monthly payment](reserved-instance-early-exit-fine.md)
 - [The Azure calculator is fine, but MSPs need a real one](use-vendor-calculators-not-just-azure.md)
 - [WVD session hosts are charged at Linux compute rates](wvd-charged-at-linux-rates.md)

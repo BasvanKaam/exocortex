@@ -23,6 +23,7 @@ But he doesn't frame it as either/or. RIs are the right tool for steady, predict
 - [Estimating small WVD environments in the Azure calculator](azure-calculator-small-wvd-trick.md)
 - [How Azure Reserved Instances and Hybrid Benefit work](azure-ri-ahb-mechanics.md)
 - [Ephemeral disks' biggest drawback disappears with the right autoscaler](ephemeral-disks-cons-as-pros.md)
+- [Indicative cost overview: split the totals, show the assumptions, never call it a quote](indicative-cost-overview-method-assumptions-and-reserved-instances.md)
 - [How Nerdio's WVD autoscale worked: triggers, base/burst capacity, graceful drain](nerdio-autoscale-mechanics-2020.md)
 - [Microsoft's WVD power scripts are not real autoscaling](nerdio-vs-microsoft-power-management-scripts.md)
 - [Reserved Instances: 12% early-exit fine and monthly payment](reserved-instance-early-exit-fine.md)

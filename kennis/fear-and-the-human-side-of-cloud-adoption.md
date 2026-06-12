@@ -33,6 +33,7 @@ His war-story example: an IT department in a medium-sized company that, before c
 - [Cultural Shift: Communicate, Communicate, Communicate](cultural-shift-communicate-communicate.md)
 - [Opdracht 11: the human side of cloud transformation (XYZ-Care)](opdracht-11-adoption-human-side.md)
 - [Role-Specific Security Training (Don't Call Staff the Weakest Link)](people-are-the-weakest-link-training.md)
+- [Position: force the old way out, but only after early involvement and training](position-adoption-force-old-way-out.md)
 - [The Beheer-to-Regie Transition Is About People](regie-transition-is-about-people.md)
 - [Handling Resistance and Fear of the Unknown](resistance-and-fear-of-the-unknown.md)
 - [Resistance: cloud is more than technology](resistance-to-change-in-cloud-adoption.md)

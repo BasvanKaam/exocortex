@@ -31,6 +31,7 @@ Worked examples he uses to make the distinction concrete:
 
 - [Commodity vs competitive applications as the core strategy lens](commodity-vs-competitive-application-lens.md)
 - [Criteria for Selecting the First Workload to Migrate](first-workload-selection-criteria.md)
+- [Migration strategy framework: transition vs transformation, big-bang vs phased, build-clean-alongside](migration-strategy-decision-framework.md)
 - [Definitive Cloud and Refactor Choice (Rationalisation)](rationalisation-refactor-choice-execution.md)
 - [SCAF: Application, Data and System Inventory via Waves](scaf-application-data-system-inventory.md)
 - [SCAF implementation/migration planning template structure](scaf-implementation-migration-template.md)

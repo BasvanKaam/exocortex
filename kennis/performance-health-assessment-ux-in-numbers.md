@@ -22,6 +22,7 @@ Prevention angle: running the process continuously in the background lets proble
 
 ## Verwante notities
 
+- [Assessment interview method: kick-off plus a fixed end-user questionnaire](assessment-interview-method-kickoff-plus-fixed-questionnaire.md)
 - [Growth Assessment: baseline, future state, gap](growth-assessment-baseline-gap.md)
 - [Measure to know (meten = weten)](measure-to-know-meten-is-weten.md)
 - [Performance & Health Assessment (Salomon method)](performance-health-assessment.md)

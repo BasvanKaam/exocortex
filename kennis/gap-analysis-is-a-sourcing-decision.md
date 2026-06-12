@@ -16,6 +16,7 @@ In the SCAF GAP-analysis worksheet, Bas structures the gap between target (SOLL)
 
 ## Verwante notities
 
+- [My intake method: per-service IST/SOLL gap analysis with MoSCoW and coverage scoring](intake-ist-soll-gap-analysis-method.md)
 - [Organizations under-invest in their own demand and supply management](position-organizations-neglect-internal-demand-supply-management.md)
 - [SCAF GAP-analysis worksheet: SOLL vs IST across five sourcing dispositions](scaf-gap-analysis-worksheet.md)
 - [SCAF GAP-analysis and Impact-analysis templates](scaf-gap-and-impact-analysis-templates.md)

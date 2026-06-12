@@ -22,6 +22,7 @@ The AVG requires organizations to take appropriate technical and organizational 
 - [AVG / GDPR: purpose and benefits](avg-gdpr-overview.md)
 - [The six legal bases (grondslagen) for processing under the AVG](avg-six-legal-bases-grondslag.md)
 - [Hyperscaler security investments and certifications](cloud-provider-security-investments.md)
+- [Gate cloud eligibility on data classification, with CISO sign-off](data-classification-gates-cloud-eligibility.md)
 - [DPIA, FG appointment and controller obligations under the AVG](dpia-fg-and-controller-obligations.md)
 - [EU, EER and data transfers to third countries](eu-eer-and-third-country-transfers.md)
 - [Opdracht 8: AVG in healthcare (XYZ-Care)](opdracht-8-avg-in-healthcare-xyz-care.md)

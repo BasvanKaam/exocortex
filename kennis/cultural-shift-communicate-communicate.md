@@ -35,6 +35,7 @@ Key takeaway quote: 'Mochten er grote zorgen zijn of ontstaan, ga dit niet uit d
 - [Creative Communication and Putting Responsibility on Staff](creative-communication-and-feedback-loop.md)
 - [Bas on 'Angst': the human side of cloud adoption](fear-and-the-human-side-of-cloud-adoption.md)
 - [Key Takeaways Chapter 4: Cloud Transformation Beyond Technology](key-takeaways-chapter-4-cloud-transformation.md)
+- [Position: force the old way out, but only after early involvement and training](position-adoption-force-old-way-out.md)
 - [Position: No Information, No Control, No Trust](position-control-information-trust-chain.md)
 - [Handling Resistance and Fear of the Unknown](resistance-and-fear-of-the-unknown.md)
 - [Resistance: cloud is more than technology](resistance-to-change-in-cloud-adoption.md)

@@ -16,6 +16,8 @@ In the RaaS draft Bas takes an implicit but firm stance: an existing service can
 
 ## Verwante notities
 
+- [Bas's method: launch a new technology practice on four parallel tracks](bas-launching-a-new-tech-practice-four-tracks.md)
+- [Bas: strategic tech partnerships must make the work easier and pay for themselves](bas-strategic-partnerships-must-pay-for-themselves.md)
 - [No hard CTAs; let demonstrated expertise do the selling](no-hard-ctas-let-the-knowledge-speak.md)
 - [Repackaging existing capability as a focused new brand](old-wine-new-bottles-repackaging-strategy.md)
 - [Challenges of getting and staying PCI DSS and PTS certified](pci-dss-pts-certification-challenges.md)

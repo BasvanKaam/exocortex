@@ -39,6 +39,7 @@ The "Bij boek" variant (SCAF - GAP Analyse) is identical. Worksheet artifact spe
 ## Verwante notities
 
 - [A cloud GAP analysis must end in a sourcing decision, not just a skills delta](gap-analysis-is-a-sourcing-decision.md)
+- [My intake method: per-service IST/SOLL gap analysis with MoSCoW and coverage scoring](intake-ist-soll-gap-analysis-method.md)
 - [SCAF Execution Phase Supporting Documentation](scaf-execution-supporting-documentation.md)
 - [SCAF GAP-analysis and Impact-analysis templates](scaf-gap-and-impact-analysis-templates.md)
 - [SCAF: Knowledge, Teams, Roles and Responsibilities](scaf-knowledge-teams-raci-gap.md)

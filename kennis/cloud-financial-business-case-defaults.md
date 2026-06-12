@@ -23,3 +23,8 @@ Bas teaches cloud economics with a worked comparison across four delivery option
 He pairs this with the point that a business case is far more than money alone (worked out in a table), and uses a Gartner multi-year overview to explain real ROI. Closing message: the benefits of cloud are not always directly financially visible; they often hide in hard-to-measure variables - the same 'cloud promises' resurfacing here.
 
 *Bron: Salomon-IT 'Aantekeningen - Bas - Marcel Cloud Workshop'.*
+
+## Verwante notities
+
+- [Cloud business case: TCO to ROI, with the soft variables named](cloud-tco-roi-business-case.md)
+- [COPAFIJTL weighing matrix for a per-application cloud go/no-go](copafijtl-cloud-go-nogo-weighing-matrix.md)

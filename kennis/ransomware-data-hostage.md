@@ -22,6 +22,8 @@ To prevent this, high availability is essential: data and systems set up to stay
 - [Bas on disaster recovery: no blueprint, and don't forget the BUDGET](bas-on-disaster-recovery-and-budget.md)
 - [Why have a cloud exit strategy - the exit comes before onboarding](cloud-exit-strategy-rationale.md)
 - [Current cyber threats and 2025+ trends](current-cyber-threats-and-2025-trends.md)
+- [Design for Restore, Not Backup (RPO/RTO/MTPD First)](design-for-restore-not-backup.md)
 - [Standard components of a disaster recovery (DR) plan](disaster-recovery-plan-components.md)
 - [Post-COVID resilience: BCPs, redundancy, supply chains, automation](post-covid-resilience-measures.md)
+- [Restore Testing Cadence and Procedure](restore-testing-cadence.md)
 - [Voorzorg: Assume You Will Be Breached](voorzorg-assume-breach.md)

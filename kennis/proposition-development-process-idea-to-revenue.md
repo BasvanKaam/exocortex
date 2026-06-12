@@ -33,6 +33,7 @@ Keepable principle: govern idea flow with tiny standardized forms up front so th
 
 ## Verwante notities
 
+- [Bas's method: launch a new technology practice on four parallel tracks](bas-launching-a-new-tech-practice-four-tracks.md)
 - [Prefer the existing portfolio over external products, even for externally-born ideas](detron-existing-portfolio-preferred-over-external.md)
 - [Bas's product/partner inventory and selection process (Detron, 2017)](detron-inventory-and-selection-process.md)
 - [Bas's vendor/partner feedback form method (Detron, 2017)](detron-partner-feedback-form-method.md)

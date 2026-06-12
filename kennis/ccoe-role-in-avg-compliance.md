@@ -29,6 +29,7 @@ Bas sums it up: combining technical and organizational measures in the CCoE's wa
 - [Bas on documentation: the 'undervalued child' of IT](bas-on-documentation-the-undervalued-child.md)
 - [CCoE role and responsibility demarcation for compliance](ccoe-role-compliance-and-controls.md)
 - [Cloud Center of Excellence (CCoE): Definition and Why Early](cloud-center-of-excellence-definition.md)
+- [Gate cloud eligibility on data classification, with CISO sign-off](data-classification-gates-cloud-eligibility.md)
 - [DPIA, FG appointment and controller obligations under the AVG](dpia-fg-and-controller-obligations.md)
 - [EU, EER and data transfers to third countries](eu-eer-and-third-country-transfers.md)
 - [SCAF Cloud governance: putting the dots on the i](scaf-cloud-governance-checklist.md)

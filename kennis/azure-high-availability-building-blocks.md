@@ -31,6 +31,7 @@ Combining these creates a robust, highly available environment resilient to both
 - [Azure Files storage redundancy: LRS, ZRS, GRS](azure-files-storage-redundancy-lrs-zrs-grs.md)
 - [Cloud providers build their own servers and hypervisors](cloud-providers-build-own-servers-hypervisor.md)
 - [Standard components of a disaster recovery (DR) plan](disaster-recovery-plan-components.md)
+- [Fault-Tolerance Decision Hierarchy (Application HA Before Hypervisor HA)](fault-tolerance-decision-hierarchy.md)
 - [Geographically Dispersed Clusters](geographically-dispersed-clusters.md)
 - [Global cloud scale: regions, zones, and which continent has no datacenters](global-scale-regions-zones-datacenters.md)
 - [Why high availability and DR matter: ransomware and data hostage](ransomware-data-hostage.md)

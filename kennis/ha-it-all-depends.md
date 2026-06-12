@@ -18,6 +18,7 @@ He even concedes that doing nothing, paired with a solid monitoring solution and
 
 ## Verwante notities
 
+- [Fault-Tolerance Decision Hierarchy (Application HA Before Hypervisor HA)](fault-tolerance-decision-hierarchy.md)
 - [Why the FMA Site database is a single point of failure (no Local Host Cache)](fma-no-local-host-cache-db-dependency.md)
 - ["One is none, two is one" -- but HA is a policy decision, not a dogma](one-is-none-but-it-depends.md)
 - [VIAB isn't for everyone, but with the right business case it just feels right (May 2013)](viab-given-the-right-business-case-it-feels-right.md)

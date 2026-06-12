@@ -33,6 +33,7 @@ The product is dated, but the prerequisites-first discipline and 'start the slow
 - [In a PoC the software is easy, the environment is the hard part](poc-setup-the-hard-part-is-the-environment.md)
 - [Reboots are a necessary evil; handle them proactively](proactive-over-reactive-ops.md)
 - [Server 2012 .NET 3.5 Feature on Demand install gotcha (how it worked then)](server-2012-net35-feature-on-demand-gotcha.md)
+- [Standardize-Then-Deviate Server Provisioning](standardize-then-deviate-provisioning.md)
 - [You can't troubleshoot what you don't understand](troubleshooting-know-the-basics.md)
 - [XenMobile is hard to deploy even when you know what you're doing](xenmobile-complex-even-if-you-know-how.md)
 - [XenMobile MDM moved off the DMZ via NetScaler SSL offloading](xenmobile-ssl-offloading-netscaler.md)

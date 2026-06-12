@@ -18,6 +18,7 @@ The stance: he does not treat training and content as a cost the employer should
 
 ## Verwante notities
 
+- [Bas's low-effort capability build: KISS, low-threshold, broadly carried](bas-low-effort-capability-build-kiss.md)
 - [Bas on continuous study and self-investment](bas-on-continuous-study-and-self-investment.md)
 - [Come Get IT platform and the role Bas wanted inside the group](come-get-it-platform-role-scope-idee.md)
 - [Stance: freely sharing knowledge is the best advertising a company can get](free-knowledge-sharing-is-the-best-advertising.md)

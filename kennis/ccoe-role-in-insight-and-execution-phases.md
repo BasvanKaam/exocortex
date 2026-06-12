@@ -26,6 +26,7 @@ bron: van-de-basis-tot-meester-in-de-cloud
 
 ## Verwante notities
 
+- [Cloud adoption framework: four phased pillars](cloud-adoptie-framework-vier-pijlers.md)
 - [Cloud Center of Excellence (CCoE): Definition and Why Early](cloud-center-of-excellence-definition.md)
 - [The project manager's role across migration phases](project-manager-role-cloud-migration.md)
 - [SCAF Chapter 8: The Insight (Inzicht) Phase Foundation](scaf-insight-phase-foundation.md)

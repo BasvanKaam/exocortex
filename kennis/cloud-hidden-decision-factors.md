@@ -28,6 +28,7 @@ The same applies in hybrid scenarios (e.g. Office 365 as SaaS), where teams hit 
 ## Verwante notities
 
 - [Common Cloud Concerns: Cost, Migration, Loss of Control](cloud-concerns-cost-and-control.md)
+- [COPAFIJTL weighing matrix for a per-application cloud go/no-go](copafijtl-cloud-go-nogo-weighing-matrix.md)
 - [Full Cloud Migration Is Rarely a Good Idea](full-cloud-is-rarely-a-good-idea.md)
 - [Get informed before you commit, not after](informed-before-committing-to-cloud.md)
 - [Bas's warning: Cloud apps with on-premises backends invite latency trouble](latency-cloud-app-onprem-backend.md)

@@ -30,6 +30,7 @@ Source: Bas van Kaam, Salomon IT blog, 2019-10-23.
 
 ## Verwante notities
 
+- [Cloud business case: TCO to ROI, with the soft variables named](cloud-tco-roi-business-case.md)
 - [Start a DaaS Business Case 'High-Over' First](daas-business-case-high-over-first.md)
 - [Do Not Fixate on the Financials Alone](dont-fixate-on-financials-alone.md)
 - [Match the depth of the financial model to its purpose](position-match-financial-depth-to-analysis-purpose.md)

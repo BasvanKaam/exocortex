@@ -24,6 +24,7 @@ For each scenario a report documents test results (pass/fail and errors found), 
 - [Acceptance Criteria Checklist for System Delivery](acceptance-criteria-checklist.md)
 - [Why Write a Business Case, and Its Key Elements](business-case-value-and-elements.md)
 - [DaaS / VDI Additions to the Technical Design](daas-vdi-technical-design-considerations.md)
+- [Detailontwerp (Detailed Design) Document Skeleton](detailontwerp-document-skeleton.md)
 - [SCAF Execution Phase (Uitvoeringsfase) Overview](scaf-execution-phase-overview.md)
 - [SCAF GAP-analysis and Impact-analysis templates](scaf-gap-and-impact-analysis-templates.md)
 - [Technical/Functional Design as Cloud Blueprint](technical-functional-design-blueprint.md)

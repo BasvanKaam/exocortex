@@ -26,8 +26,11 @@ While this first workload runs, keep rationalizing, prioritizing and scheduling 
 
 ## Verwante notities
 
+- [Cloud inventory method: joint assessment, waves, and the R's](cloud-inventarisatie-methode-waves-en-rs.md)
+- [Positions I apply in a cloud transition](cloud-transitie-posities.md)
 - [Selecting the First Migration Workload (Simple to Complex)](first-migration-workload-selection.md)
 - [Migrate vs Modernize as a Per-Workload Decision](migrate-vs-modernize-distinction.md)
+- [Start small, test, then scale — because it de-risks the client's investment](position-start-small-test-then-scale-derisks-investment.md)
 - [SCAF: Application, Data and System Inventory via Waves](scaf-application-data-system-inventory.md)
 - [SCAF implementation/migration planning template structure](scaf-implementation-migration-template.md)
 - [SCAF Wave 3 application inventory palette](scaf-wave3-application-inventory-palette.md)

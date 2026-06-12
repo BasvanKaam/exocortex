@@ -30,5 +30,6 @@ Incremental behavior: the first backup copies all blocks to the VHD in compact b
 - [Copy-on-Write Snapshots vs Clones](copy-on-write-snapshots-vs-clones.md)
 - [Domain Controller System State Recovery via DSRM](dc-system-state-recovery-dsrm-bcdedit.md)
 - [Domain Controller System State Restore (DSRM)](dc-system-state-restore-dsrm.md)
+- [Restore Testing Cadence and Procedure](restore-testing-cadence.md)
 - [Windows Server 2008 System State Backup](windows-server-2008-system-state-backup.md)
 - [Windows Server Backup to Network Shares: Limitations](windows-server-backup-network-share-limits.md)

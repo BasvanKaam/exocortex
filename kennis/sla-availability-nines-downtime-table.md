@@ -33,5 +33,6 @@ Teaching point: each added nine cuts allowed downtime by roughly an order of mag
 - [A cloud exit strategy is insurance you hope not to need](cloud-exit-strategy-as-insurance.md)
 - [SLA pitfalls to analyse for a cloud exit strategy](cloud-sla-pitfalls-exit.md)
 - [Compliance and risk as operational governance](compliance-risk-operational-governance.md)
+- [Design for Restore, Not Backup (RPO/RTO/MTPD First)](design-for-restore-not-backup.md)
 - [Curated cloud self-study resources (Masterclass handout)](masterclass-curated-cloud-learning-resources.md)
 - [KPIs in the SCAF Adoption phase: making success measurable](scaf-kpis-in-adoption-phase.md)

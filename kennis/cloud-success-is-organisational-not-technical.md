@@ -23,6 +23,7 @@ This also includes a measured AI take: AI does not deliver a 12-hour work week (
 - [The classic sysadmin must reinvent as a business translator](classic-sysadmin-must-reinvent-as-business-translator.md)
 - [Cloud Value Comes From Rethinking, Not Lift-And-Shift](cloud-lift-and-shift-vs-rethinking.md)
 - [Cloud is not the answer to everything, but baseline knowledge is non-negotiable](cloud-needs-baseline-knowledge-not-hype.md)
+- [Position: force the old way out, but only after early involvement and training](position-adoption-force-old-way-out.md)
 - [Blog topic backlog: closing the IT-business gap via cloud adoption](salomon-blog-topic-backlog-cloud-adoption.md)
 - [SCAF draft: the Business-IT collaboration interface ('where the magic happens')](scaf-business-it-collaboration-interface.md)
 - [Systeembeheerder 2.0: from technician to functional broker](sysadmin-2-functional-broker-role.md)

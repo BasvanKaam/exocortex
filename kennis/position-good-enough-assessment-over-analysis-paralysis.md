@@ -26,6 +26,7 @@ His stance: knowing when good is good enough is a discipline you design for, not
 - [Against Jargon-Heavy, 100-Page Deliverables](against-jargon-heavy-deliverables.md)
 - [Application Assessment Canvas](application-assessment-canvas.md)
 - [Two-phase scan method for the Application Baseline](application-baseline-two-phase-scan.md)
+- [Bas's low-effort capability build: KISS, low-threshold, broadly carried](bas-low-effort-capability-build-kiss.md)
 - [Good Is Good Enough: Ship Content, Don't Polish to Perfection](good-is-good-enough-for-content.md)
 - [Match the depth of the financial model to its purpose](position-match-financial-depth-to-analysis-purpose.md)
 - [SCAF Toolkit: Bas's 'keep it simple' philosophy and applicability](scaf-toolkit-philosophy-and-applicability.md)

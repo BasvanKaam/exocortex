@@ -19,6 +19,7 @@ The intake question set for the SCAF insight (inventory) workshop. Bas works tow
 ## Verwante notities
 
 - [Bas: The 6 R's for Application Rationalization](bas-6-rs-cloud-migration.md)
+- [Digital workplace intake: end-user question framework](digitale-werkplek-eindgebruiker-intake-framework.md)
 - [SCAF: Application, Data and System Inventory via Waves](scaf-application-data-system-inventory.md)
 - [SCAF Insight Phase: Actions and the Waves Approach](scaf-insight-actions-and-waves.md)
 - [SCAF Chapter 8: The Insight (Inzicht) Phase Foundation](scaf-insight-phase-foundation.md)

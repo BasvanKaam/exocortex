@@ -24,3 +24,7 @@ The method exists to reconcile two apparent contradictions in any change effort:
 Successful completion of the masterclass qualifies the participant for 10S certification and one year of registration as a 10S-practitioner, granting the right to apply the method plus access to a growing set of formats, sample documents and practice cases. The method is owned/delivered via RibbonWood (verandermanagement-adviesbureau), packaged by Weolcan.
 
 *Bron: Salomon-IT 'Masterclass_Organisatieverandering'.*
+
+## Verwante notities
+
+- [Position: force the old way out, but only after early involvement and training](position-adoption-force-old-way-out.md)

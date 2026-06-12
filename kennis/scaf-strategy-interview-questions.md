@@ -40,3 +40,4 @@ The concrete discovery questions Bas uses in the SCAF Strategy phase to extract 
 - [SCAF Strategy-phase intake template (strategie-samenvatting)](scaf-strategy-summary-intake-template.md)
 - [SCAF Strategy-phase template as a consulting instrument](scaf-strategy-template-instrument.md)
 - [SCAF Workshop Startpunt Questions](scaf-workshop-startpunt-questions.md)
+- [Bas's structured stakeholder interview method](structured-stakeholder-interview-method.md)

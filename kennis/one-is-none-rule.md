@@ -29,6 +29,7 @@ He applies it across the FMA: deploy at least two Delivery Controllers per Site 
 - [DFS: Stand-alone vs Domain-based Namespaces](dfs-standalone-vs-domain-based.md)
 - [DHCP 80/20 redundancy rule](dhcp-80-20-rule.md)
 - [Standard components of a disaster recovery (DR) plan](disaster-recovery-plan-components.md)
+- [Fault-Tolerance Decision Hierarchy (Application HA Before Hypervisor HA)](fault-tolerance-decision-hierarchy.md)
 - [FMA service high availability via peer service groups](fma-services-high-availability.md)
 - [MSCS Cluster Building Blocks](mscs-cluster-building-blocks.md)
 - [NetScaler high availability and clustering](netscaler-high-availability-clustering.md)

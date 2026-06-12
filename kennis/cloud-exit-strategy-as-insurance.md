@@ -27,6 +27,7 @@ Triggers it covers: a provider changing SLAs (which they can do without notice),
 - [The six-step process for building a cloud exit strategy](cloud-exit-strategy-steps.md)
 - [Prediction: more cloud outages as datacenters hit capacity](cloud-outages-and-capacity-prediction.md)
 - [SLA pitfalls to analyse for a cloud exit strategy](cloud-sla-pitfalls-exit.md)
+- [Positions I apply in a cloud transition](cloud-transitie-posities.md)
 - [Don't start from scratch every OS update: vendor-neutral workspace layer](configure-once-migrate-many-vs-lockin.md)
 - [Firm believer in choice: spread options, but cap the platform count](firm-believer-in-choice-no-one-size-fits-all.md)
 - [Plan the Exit Before You Commit](plan-the-exit-before-you-commit.md)

@@ -36,5 +36,6 @@ Tooling for Scan 1:
 - [Application Baseline: purpose and scope](application-baseline-purpose-and-scope.md)
 - [Enterprise Architecture (EA) and TOGAF](enterprise-architecture-togaf.md)
 - [Growth Assessment: baseline, future state, gap](growth-assessment-baseline-gap.md)
+- [Joint Inventory: Two Pairs of Eyes Beat One](joint-inventory-two-pairs-of-eyes.md)
 - [Good-enough beats perfect: avoid analysis paralysis](position-good-enough-assessment-over-analysis-paralysis.md)
 - [SCAF: Application, Data and System Inventory via Waves](scaf-application-data-system-inventory.md)

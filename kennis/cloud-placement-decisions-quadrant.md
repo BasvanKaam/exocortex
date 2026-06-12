@@ -36,6 +36,8 @@ Classifying applications into these quadrants gives clear insight into what infr
 - [Application Baseline: purpose and scope](application-baseline-purpose-and-scope.md)
 - [Purpose of the cloud financial analysis (business case)](cloud-financial-analysis-purpose.md)
 - [Commodity vs competitive applications as the core strategy lens](commodity-vs-competitive-application-lens.md)
+- [COPAFIJTL weighing matrix for a per-application cloud go/no-go](copafijtl-cloud-go-nogo-weighing-matrix.md)
+- [Gate cloud eligibility on data classification, with CISO sign-off](data-classification-gates-cloud-eligibility.md)
 - [Landing zone selection dimensions and the decision tree](landing-zone-selection-dimensions.md)
 - [The point of cloud strategy is to free IT from commodity toil](position-free-it-ops-from-commodity-burden.md)
 - ['Keeping the lights on' starves innovation; offload commodity to fix it](position-keeping-the-lights-on-starves-innovation.md)

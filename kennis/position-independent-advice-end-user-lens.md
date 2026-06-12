@@ -26,6 +26,7 @@ He also bets on long-term relationships over transactional work: 'samen groeien'
 
 ## Verwante notities
 
+- [Digital workplace intake: end-user question framework](digitale-werkplek-eindgebruiker-intake-framework.md)
 - [We Give the Insight, You Make the Choice](insight-over-execution-salomon.md)
 - [Listen to the employee, don't let IT dictate how they work](listen-to-the-employee-not-it-dictates.md)
 - [Don't let any single vendor spook you](positie-dont-let-any-single-vendor-spook-you.md)

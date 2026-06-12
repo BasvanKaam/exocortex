@@ -24,6 +24,7 @@ The framework appears at four points (Strategy on day 1; Insight, Execution, Ado
 
 ## Verwante notities
 
+- [Bas's low-effort capability build: KISS, low-threshold, broadly carried](bas-low-effort-capability-build-kiss.md)
 - [Cloud Bootcamp: target audience and learning outcomes](cloud-bootcamp-audience-and-outcomes.md)
 - [Cloud Masterclass agenda and module timings](cloud-masterclass-agenda-modules.md)
 - [Cloud Masterclass: two-day course structure](cloud-masterclass-course-structure.md)

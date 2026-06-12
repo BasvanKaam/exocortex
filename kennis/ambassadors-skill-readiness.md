@@ -23,6 +23,7 @@ Skill readiness planning is the parallel track: the plan drawn up earlier (insig
 - [Bas: the cloud doesn't make people redundant, it frees them for better work](cloud-frees-people-for-better-work.md)
 - [Bas on 'Angst': the human side of cloud adoption](fear-and-the-human-side-of-cloud-adoption.md)
 - [Opdracht 11: the human side of cloud transformation (XYZ-Care)](opdracht-11-adoption-human-side.md)
+- [Position: force the old way out, but only after early involvement and training](position-adoption-force-old-way-out.md)
 - [SCAF Adoption phase: activities and deliverables](scaf-adoption-phase-activities.md)
 - [SCAF: Knowledge, Teams, Roles and Responsibilities](scaf-knowledge-teams-raci-gap.md)
 - [SCAF supporting templates: RACI, Risk Register, Skill Readiness](scaf-supporting-templates-overview.md)
