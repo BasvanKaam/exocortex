@@ -24,6 +24,7 @@ Bas notes FaaS is relatively rare in practice, usually less suited to smaller or
 - [Autoscaling and the Black Friday Scenario](autoscaling-black-friday-scenario.md)
 - [Bas: 'Wegwerp IT' and the Lift-and-Shift Caution](bas-wegwerp-it-and-lift-and-shift.md)
 - [Reading the Hosting Spectrum - Capex Falls, Opex Rises](capex-opex-shift-across-hosting-spectrum.md)
+- [Cloud Value Comes From Rethinking, Not Lift-And-Shift](cloud-lift-and-shift-vs-rethinking.md)
 - [Cloud-Native: Designed for the Cloud from the Start](cloud-native-definition.md)
 - [Cloud service models: SaaS, PaaS, IaaS, DaaS](cloud-service-models-saas-paas-iaas-daas.md)
 - [Core cloud building blocks: datacenter, virtualization, APIs, storage, databases, elasticity](core-cloud-components-and-concepts.md)

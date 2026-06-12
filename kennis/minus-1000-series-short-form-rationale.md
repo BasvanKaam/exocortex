@@ -23,5 +23,6 @@ The editorial goal: 'create useful, yet easy to read or skim, blog posts while (
 - [Bulleted lists are one of the best ways to share knowledge](lists-are-the-best-way-to-share-knowledge.md)
 - [LTSR is the right call, but not for everybody](ltsr-is-not-for-everybody.md)
 - [The "I'm no guru" philosophy: blogging as a learning tool, not authority](no-guru-philosophy.md)
+- [Publish only when there is something to say, not to stay visible](publish-only-with-added-value-not-for-visibility.md)
 - [A technical book should teach the why, not just the clicks](what-a-good-technical-book-should-teach.md)
 - [Pick a stable foundation to write about, not a moving target](write-about-stable-foundations-not-moving-targets.md)

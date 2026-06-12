@@ -21,5 +21,7 @@ A small but characteristic learning-and-development opinion (June 2014). Explain
 - [Citrix 2013 solutions-focused certification structure](citrix-2013-certification-program-structure.md)
 - [How Citrix's solution-based certification tracks were structured (2014)](citrix-solution-based-certs-2014.md)
 - [Three foundational cloud certs (2019)](cloud-foundation-certs-2019.md)
+- [NetScaler Taskforce: a deeper training method than a 3-day course](netscaler-taskforce-deep-training-method.md)
+- [A 3-day course and a cert do not make a specialist](positie-certification-course-not-enough-for-real-expertise.md)
 - [A senior peer group is the best sounding board](value-of-peer-sounding-board-group.md)
 - [A pre-sales vendor role wasn't the right fit](vendor-presales-role-not-for-me.md)

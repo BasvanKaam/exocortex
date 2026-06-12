@@ -24,6 +24,7 @@ He reiterates that 'true' VDI/DaaS from the cloud (one-to-one desktop-OS VMs) re
 - [Autoscaling and the Black Friday Scenario](autoscaling-black-friday-scenario.md)
 - [Bas's paper: Cloud Only? No. Cloud First or Hybrid? Yes.](bas-paper-cloud-only-no-cloud-first-yes.md)
 - [Citrix Workspace Cloud as the hybrid bridge](citrix-workspace-cloud-hybrid-model.md)
+- [The 'Cloud -> On-premises' counter-trend (draft angle)](cloud-to-on-premises-repatriation-angle.md)
 - [DaaS versus VDI](daas-vs-vdi.md)
 - [Hybrid cloud: best of both worlds via ExpressRoute and low latency](hybrid-cloud-best-of-both-worlds.md)
 - [Physical and software performance limits of the cloud](physical-and-software-cloud-performance-limits.md)

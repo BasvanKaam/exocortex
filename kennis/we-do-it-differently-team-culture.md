@@ -23,4 +23,5 @@ The invitation is deliberately informal: evenings, breaks, phone, Skype, a confe
 - [Bas van Kaam: experience, character and the people behind the book](bas-van-kaam-bio-and-character.md)
 - [Hey... Biiieeerrrrrtje? — Early Team Bonding](biertje-team-bonding-aside.md)
 - [Cloud ideas for the modern, attractive employer](cloud-ideas-for-the-modern-attractive-employer.md)
+- [A company built on family, not a family business](company-built-on-family-not-a-family-business.md)
 - [Remote Work Is a Talent Requirement and an Opportunity](remote-work-as-opportunity-and-talent-magnet.md)

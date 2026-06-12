@@ -24,4 +24,5 @@ His framing: browser-only access (HTML5) helps BYOD adoption because the endpoin
 - [Why was Desktop Player for Mac so quiet?](desktop-player-for-mac-strangely-quiet.md)
 - [MDM enrollment binds both the device and the user (durable concept)](mdm-enrollment-device-then-user.md)
 - [Mobile management acronyms: MDM, MAM, MIM, EMM](mdm-mam-mim-emm-glossary.md)
+- [Secure the data and access, not the device, and give employees freedom](secure-the-data-not-the-device-give-employees-freedom.md)
 - [Workplace Join: registering devices without full domain join](workplace-join-2012r2.md)

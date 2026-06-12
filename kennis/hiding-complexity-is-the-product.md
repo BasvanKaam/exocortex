@@ -18,6 +18,7 @@ June 2020. Bas's pitch crystallizes into a headline: 'It’s all about hiding co
 
 - [Bas joined Nerdio as Field CTO EMEA on 1 June 2020](bas-joins-nerdio-field-cto-emea.md)
 - [Community feedback as the force that shapes the product](community-as-product-shaping-force.md)
+- [The Digital Workspace Is More Complex Than People Make It Look](digital-workspace-is-more-complex-than-it-looks.md)
 - [Nerdio shines where Microsoft's WVD HA docs are missing](nerdio-fills-microsoft-wvd-ha-doc-gap.md)
 - [Nerdio innovating on top of WVD is 'a perfect marriage'](nerdio-plus-microsoft-perfect-marriage.md)
 - [Microsoft's WVD power scripts are not real autoscaling](nerdio-vs-microsoft-power-management-scripts.md)

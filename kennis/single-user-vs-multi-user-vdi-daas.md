@@ -26,6 +26,7 @@ Bas from the field: multi-user solutions are by far the most deployed, mainly fo
 - [DaaS versus VDI](daas-vs-vdi.md)
 - [FlexCast delivery technology, worker types and delivery models](flexcast-delivery-models-and-worker-types.md)
 - [MCS desktop types: Pooled-Random, Pooled-Static, Dedicated](mcs-desktop-types.md)
+- [RDSH vs VDI vs DaaS vs WVD: Single-User and Multi-User Explained](rdsh-vdi-daas-wvd-explained.md)
 - [Server VDA vs Desktop VDA: the often-overlooked new component](server-vda-vs-desktop-vda.md)
 - [Server VDI vs Hosted Shared Desktop in XenDesktop 7](server-vdi-vs-hsd.md)
 - [Two VDA types and the single-user vs multi-user ICA stack](two-vda-types-ica-stack-difference.md)

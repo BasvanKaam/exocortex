@@ -21,6 +21,7 @@ How WVD worked at preview; much of this evolved into Azure Virtual Desktop, but 
 ## Verwante notities
 
 - [Azure building blocks to extend, protect and migrate RDS/WVD](azure-services-for-rds-wvd-extend-migrate.md)
+- [Cloud-Native Control Plane Changes the Delivery Economics (WVD as Exemplar)](cloud-native-control-plane-changes-economics.md)
 - [WVD Spring (ARM) release: Workspaces vs Fall Tenants in NMW](nmw-spring-update-workspaces-vs-fall-tenants.md)
 - [Windows Server 2019 at announcement: LTSC/SAC, RDSH question, RDmi](windows-server-2019-ltsc-sac-rdmi.md)
 - [WVD App Group rules (2019)](wvd-app-groups-rules-2019.md)
@@ -29,3 +30,4 @@ How WVD worked at preview; much of this evolved into Azure Virtual Desktop, but 
 - [WVD is what used to be RDMI](wvd-is-rdmi-on-prem-history.md)
 - [WVD: what Microsoft makes HA vs what you must](wvd-managed-vs-customer-responsibility.md)
 - [WVD tenant setup gotchas (2019 workshop)](wvd-tenant-setup-gotchas-2019.md)
+- [WVD user connection flow and Reverse Connect](wvd-user-connection-flow-and-reverse-connect.md)

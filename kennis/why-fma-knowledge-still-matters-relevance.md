@@ -31,4 +31,5 @@ He acknowledges he sounds negative about cloud but insists that is not his inten
 - [Citrix Workspace Cloud (CWC): a managed control plane over the FMA](citrix-workspace-cloud-overview.md)
 - [Bas on cloud, hybrid and the future of on-premises VDI](is-cloud-vdi-still-relevant-takeaways.md)
 - [The nine main FMA components and the XenDesktop Site definition](nine-main-fma-components.md)
+- [You must understand traditional solutions to give good cloud advice](position-must-know-traditional-solutions-to-advise-on-cloud.md)
 - [Bas's troubleshooting philosophy: master the basics before reaching for tools](troubleshooting-know-the-basics-first.md)

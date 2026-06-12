@@ -26,6 +26,7 @@ This is the durable architectural concept behind hyperconvergence, even though t
 - [Citrix Validated Solution: XenDesktop on Nutanix reference architecture](citrix-validated-solution-nutanix.md)
 - [What a converged infrastructure is](converged-infrastructure-definition.md)
 - [HP Moonshot is converged but not truly web-scale](hp-moonshot-is-not-web-scale.md)
+- [Hyperconverged Infrastructure: Three Use Cases](hyperconverged-three-use-cases.md)
 - [Loose coupling as a core Cloud design principle](loose-coupling-cloud-architecture.md)
 - [Nutanix Acropolis is three components, not just a hypervisor](nutanix-acropolis-three-components.md)
 - [Nutanix AFS folds the file server into the HCI cluster](nutanix-afs-scale-out-file-services.md)

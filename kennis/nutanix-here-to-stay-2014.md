@@ -22,5 +22,6 @@ His take went a step beyond Nutanix's own marketing: Nutanix said NOS 4.0 'helps
 - [Citrix Validated Solution: XenDesktop on Nutanix reference architecture](citrix-validated-solution-nutanix.md)
 - [Converged infrastructure will displace SAN-centric design](converged-will-displace-san-centric-design.md)
 - [Dell XC series: same Nutanix software, different hardware](dell-xc-nutanix-oem-model.md)
+- [Hyperconverged Infrastructure: Three Use Cases](hyperconverged-three-use-cases.md)
 - [Nutanix's community-first posture impressed him](nutanix-community-first-impression.md)
 - [OEM deals will democratize web-scale infrastructure](web-scale-for-everyone-prediction.md)

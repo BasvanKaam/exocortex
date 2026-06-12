@@ -19,6 +19,7 @@ Writing in late 2018, after ~7 months in the Dutch 'Technical Fellows' group, Ba
 - [Community feedback as the force that shapes the product](community-as-product-shaping-force.md)
 - [Crohn's diagnosis and learning to live with it](crohns-diagnosis-2016.md)
 - [E2EVC as a flat, high-value community conference](e2evc-community-conference-value.md)
+- [Internal Knowledge-Sharing Offsite Format](internal-knowledge-sharing-offsite-format.md)
 - [Community involvement as the engine of his career](positie-community-as-career-engine.md)
 - [Re-doing the full cert path from the bottom isn't a bad idea, even for seniors](start-from-the-bottom-even-if-senior.md)
 - [The collective model: direct expert access, no middlemen](technical-fellows-direct-no-middlemen.md)

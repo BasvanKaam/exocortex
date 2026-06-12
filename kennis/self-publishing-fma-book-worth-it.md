@@ -17,6 +17,7 @@ Looking back on 2016 (writing Jan 2017), Bas reflects that writing his book on t
 ## Verwante notities
 
 - [Bas's comfort-zone war story: the presentation training](bas-on-stepping-out-of-comfort-zone.md)
+- [Byte-Sized Cloud: A Community-Written Book Project](byte-sized-cloud-community-book.md)
 - [Byte-Sized: Cloud Design Principles and Architectural Recommendations book](byte-sized-cloud-design-book.md)
 - [Self-publishing a niche Citrix book: the numbers behind Inside Citrix](inside-citrix-book-self-publishing-numbers.md)
 - [Writing the book was sparked by talking to peers who had done it](inspired-to-write-by-peers.md)

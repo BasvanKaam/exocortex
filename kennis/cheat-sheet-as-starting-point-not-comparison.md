@@ -17,6 +17,7 @@ Bas is explicit (Dec 2018) that his cloud cheat sheet is deliberately NOT a feat
 ## Verwante notities
 
 - [AVD Security Guidelines cheat sheet: a 35-item starting point](avd-security-cheat-sheet-starting-point.md)
+- [The cheat-sheet method: one A4 to compare a crowded field](cheat-sheet-comparison-method.md)
 - [Stance: keep the comparison cheat sheet to a single A4 page](cheat-sheet-craft-single-a4-page.md)
 - [Before debating Cloud, specify which type of service you mean](cloud-discussion-specify-the-service-type-first.md)
 - [Same cloud service, different name per vendor](cloud-service-naming-differs-per-vendor.md)

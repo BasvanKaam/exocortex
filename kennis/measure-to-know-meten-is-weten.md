@@ -18,11 +18,14 @@ This is the early form of the 'meten = weten' (measure = know) concept that recu
 
 ## Verwante notities
 
+- [We Give the Insight, You Make the Choice](insight-over-execution-salomon.md)
 - [Workspace/app lifecycle management is an unfairly neglected discipline](lifecycle-management-neglected-unfairly.md)
+- [Listen to the employee, don't let IT dictate how they work](listen-to-the-employee-not-it-dictates.md)
 - [After disruptive patches, measure impact per workload instead of guessing](measure-dont-guess-capacity-after-patches.md)
 - [More Is Not By Definition Better](more-is-not-by-definition-better.md)
 - [Performance & Health Assessment: user experience in numbers](performance-health-assessment-ux-in-numbers.md)
 - [Quantify user experience objectively](quantify-user-experience-objectively.md)
+- [Roadmap as a Service (RaaS): Subscription Packaging of a Consulting Offer](roadmap-as-a-service-raas-concept.md)
 - [Smart inventory for workplace and application lifecycle](smart-inventory-lifecycle-management.md)
 - [Begin at the beginning](start-from-where-you-are.md)
 - [Workspace/application lifecycle visibility uncovers waste and unmanaged machines](workspace-app-lifecycle-visibility-savings.md)

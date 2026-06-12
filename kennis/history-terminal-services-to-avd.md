@@ -39,6 +39,7 @@ Trivia from Bas: before AVD was named AVD it had other names — WVD (Windows Vi
 - [Microsoft RDS CALs and the XenApp vs XenDesktop split](microsoft-rds-cals-with-xenapp.md)
 - [Office 365 ProPlus on Remote Desktop Services](o365-proplus-on-rds.md)
 - [ProPlus on RDS and shared computer activation](office-365-proplus-on-rds-shared-computer-activation.md)
+- [RDSH vs VDI vs DaaS vs WVD: Single-User and Multi-User Explained](rdsh-vdi-daas-wvd-explained.md)
 - [Terminal Server licensing and RDP basics (reference)](terminal-server-licensing-and-rdp-basics.md)
 - [Windows 10 Multi-User (Azure-only) and ProPlus](windows-10-multi-user-azure-only.md)
 - [Windows 365 Cloud PC](windows-365-cloud-pc.md)

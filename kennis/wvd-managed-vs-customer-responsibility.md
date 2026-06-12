@@ -30,3 +30,4 @@ Nuance for non-persistent pools: many WVD deployments use non-persistent VMs sto
 - [WVD App Group rules (2019)](wvd-app-groups-rules-2019.md)
 - [Even with managed WVD, the customer still owns the base image](wvd-customer-still-owns-the-base-image.md)
 - [FSLogix Profile Containers as the WVD profile standard (2019)](wvd-profiles-fslogix-azure-files-2019.md)
+- [WVD user connection flow and Reverse Connect](wvd-user-connection-flow-and-reverse-connect.md)

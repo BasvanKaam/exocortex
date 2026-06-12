@@ -20,9 +20,12 @@ This is his governance philosophy in miniature: independent advice, business-bef
 
 - [Put the Business Before the Technology](business-before-technology.md)
 - [Teaching Stance: Cloud Adoption Is More Than Technology](masterclass-cloud-is-more-than-tech.md)
+- [At the Bigger Picture, Stay Vendor-Agnostic](positie-vendor-agnostic-at-the-bigger-picture.md)
 - [Position: pursue business-IT convergence, not alignment](position-business-it-convergence-over-alignment.md)
 - [Position: Business Objectives Must Drive Cloud Investments](position-business-objectives-drive-cloud-investments.md)
+- [We sell a vision, not hardware or software](position-we-sell-a-vision-not-hardware-or-software.md)
 - [The shift to a regie organization is a people problem, not a technical exercise](regie-transition-is-a-people-problem-not-a-tech-exercise.md)
+- [SCAF: Salomon Cloud Adoptie Framework](salomon-cloud-adoptie-framework-scaf.md)
 - [SCAF Guidelines Handbook: Internal, Reusable Source Document](scaf-handbook-purpose-and-reuse.md)
 - [Technology choices and organizational change are inseparable](technology-and-organization-change-are-inseparable.md)
 - [Cloud Advice Must Be Vendor-Independent](vendor-independent-cloud-advice.md)

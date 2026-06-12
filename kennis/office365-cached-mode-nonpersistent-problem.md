@@ -23,4 +23,6 @@ How it worked then (2017). Office 365 Outlook/Exchange can run in Exchange Onlin
 - [The non-persistent Office 365 / Outlook OST and search-index problem](non-persistent-outlook-search-ost-problem.md)
 - [Office 365 cached-mode OST files break on non-persistent desktops](office-365-ost-non-persistent-vdi-problem.md)
 - [Office 365 pain on non-persistent VDI, solved by containers](office365-nonpersistent-vdi-fslogix.md)
+- [Office 365 on VDI/RDSH: .OST Bloat and the Search-Index Problem](office365-profile-pain-ost-and-search-index.md)
+- [Outlook Online Mode Is Insufficient on VDI/RDSH](outlook-online-mode-insufficient-on-vdi.md)
 - [FSLogix Profile Containers as the WVD profile standard (2019)](wvd-profiles-fslogix-azure-files-2019.md)

@@ -26,6 +26,7 @@ How it stood in 2019:
 
 - [Azure Ephemeral OS disks for stateless WVD workloads](azure-ephemeral-os-disks.md)
 - [Azure Files storage redundancy: LRS, ZRS, GRS](azure-files-storage-redundancy-lrs-zrs-grs.md)
+- [FSLogix benefits for WVD (and on-premises)](fslogix-benefits-for-wvd-and-on-premises.md)
 - [FSLogix Cloud Cache (tech preview, 2018)](fslogix-cloud-cache-2018.md)
 - [Microsoft has never managed profiles and desktop UX well](microsoft-weak-at-user-data-and-desktop-experience.md)
 - [MSIX app attach: VHD-mounted apps via FSLogix filter drivers](msix-app-attach-concept.md)

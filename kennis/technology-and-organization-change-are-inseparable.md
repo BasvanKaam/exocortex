@@ -20,6 +20,7 @@ The roadmap is his instrument for that: it is dynamic not static, exposes weak l
 
 - [Ad-Hoc Fixes Are Fine for Now, Not Forever](ad-hoc-fixes-are-fine-now-not-forever.md)
 - [Bas on the Cloud roadmap as a strategic tool](bas-cloud-roadmap-as-strategic-tool.md)
+- [Business-IT Alignment Is A People Problem, Not A Tooling Problem](business-alignment-is-a-people-problem.md)
 - [Put the Business Before the Technology](business-before-technology.md)
 - [Cloud Cultural Shifts: DevOps, Automation, New Roles](cloud-cultural-shifts-overview.md)
 - [Cloud is not a different way of working, it demands a different way of thinking](cloud-demands-different-thinking-not-different-working.md)

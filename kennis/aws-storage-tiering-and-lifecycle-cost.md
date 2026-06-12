@@ -23,4 +23,5 @@ Storage cost-saving patterns from the 2019 AWS guide: S3 Intelligent-Tiering and
 - [AWS native cost-management toolset (TCO, Budgets, Cost Explorer, Trusted Advisor)](aws-native-cost-management-tools.md)
 - [Snowball Edge: from data-transfer box to local compute](aws-snowball-edge-compute-variants.md)
 - [Azure Files: a cloud NAS, plus Azure File Sync for hybrid](azure-files-cloud-nas.md)
+- [Cloud cost-optimization levers](cloud-cost-optimization-levers.md)
 - [EC2 hibernation preserves in-memory state to save compute cost](ec2-hibernation-saves-compute-cost.md)

@@ -20,7 +20,10 @@ His closing thesis: 'Wie de beste brug bouwt, wint!' (whoever builds the best br
 
 ## Verwante notities
 
+- [Cloud-First, But Not Everything to the Cloud](cloud-first-tenzij-not-everything-to-the-cloud.md)
 - [Cloud Is an Operating Model, Not a Location](cloud-is-an-operating-model-not-a-location.md)
+- [De Cloud Professionals vision: focus and hybrid as the main act](de-cloud-professionals-vision-focus.md)
 - [Full Cloud Migration Is Rarely a Good Idea](full-cloud-is-rarely-a-good-idea.md)
 - [Make the Best of the Crisis: Prepare for Permanent Remote](make-the-best-of-the-crisis-prepare-for-permanent-remote.md)
 - [Remote Work Is a Talent Requirement and an Opportunity](remote-work-as-opportunity-and-talent-magnet.md)
+- [Stance: hybrid will play the leading role in cloud workspaces](stance-hybrid-cloud-leading-role.md)

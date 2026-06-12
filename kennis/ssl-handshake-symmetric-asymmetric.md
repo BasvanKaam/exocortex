@@ -24,5 +24,6 @@ Handshake flow: Client Hello (SSL version, cipher, session data) to Server Hello
 
 - [Kerberos V5 Authentication](kerberos-v5-authentication.md)
 - [NetScaler SSL offload, wildcard and SAN certs](netscaler-ssl-offload-and-cert-types.md)
+- [The PCI Standards Landscape: Who Must Comply With What](pci-standards-landscape.md)
 - [Split tunneling's convenience carries a real, not far-fetched, security risk](positie-split-tunneling-security-tradeoff.md)
 - [Wireless Encryption: WEP, WPA and WPA2](wireless-encryption-wep-wpa-wpa2.md)

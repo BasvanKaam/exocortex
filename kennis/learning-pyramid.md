@@ -26,6 +26,8 @@ The real power is in the bottom, active layers. By doing it yourself you retain 
 - [Bas's teaching philosophy: action and presenting beat passive reading](bas-teaching-philosophy-action-and-presenting.md)
 - [Cloud ideas for the modern, attractive employer](cloud-ideas-for-the-modern-attractive-employer.md)
 - [Cloud Masterclass: delivery philosophy](cloud-masterclass-delivery-philosophy.md)
+- [NetScaler Taskforce: a deeper training method than a 3-day course](netscaler-taskforce-deep-training-method.md)
 - [Old School: why Bas insists on pen and paper in a cloud book](old-school-pen-and-paper-method.md)
+- [A 3-day course and a cert do not make a specialist](positie-certification-course-not-enough-for-real-expertise.md)
 - [Everett Rogers' technology-adoption categories mapped to the hype cycle](rogers-technology-adoption-categories.md)
 - [Bas on the value of IT communities](value-of-it-communities.md)

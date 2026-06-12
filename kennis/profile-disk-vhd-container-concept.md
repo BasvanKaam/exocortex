@@ -22,6 +22,8 @@ How it worked then. Liquidware ProfileUnity's Profile Disk combined with a VHD c
 - [Liquidware suite: ProfileUnity, FlexApp, Stratusphere UX (2018)](liquidware-profileunity-flexapp-stratusphere.md)
 - [The non-persistent Office 365 / Outlook OST and search-index problem](non-persistent-outlook-search-ost-problem.md)
 - [Office 365 pain on non-persistent VDI, solved by containers](office365-nonpersistent-vdi-fslogix.md)
+- [Profile Layering with FSLogix: Mount Instead of Copy](profile-layering-fslogix.md)
+- [Profile-on-VHD vs copy-on-login roaming profiles](profile-on-vhd-vs-copy-on-login.md)
 - [Profile Portability: an abstraction layer over the user profile](profile-portability-abstraction-engine.md)
 - [ProfileDisk: redirect the whole profile to a VHD/VMDK container](profiledisk-container-concept.md)
 - [ProfileUnity feature set and all-in-one model (2017)](profileunity-feature-overview-2017.md)

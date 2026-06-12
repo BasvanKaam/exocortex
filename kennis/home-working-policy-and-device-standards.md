@@ -35,5 +35,6 @@ Source: Bas van Kaam, Salomon IT blog, 2020-04-01.
 - [Make the Best of the Crisis: Prepare for Permanent Remote](make-the-best-of-the-crisis-prepare-for-permanent-remote.md)
 - [Post-Crisis IT Assessment and Future-Proofing](post-crisis-it-assessment-future-proofing.md)
 - [Remote Work Is a Talent Requirement and an Opportunity](remote-work-as-opportunity-and-talent-magnet.md)
+- [Secure the data and access, not the device, and give employees freedom](secure-the-data-not-the-device-give-employees-freedom.md)
 - [Vetting Collaboration Tools for Data and Privacy](vetting-collaboration-tools-data-privacy.md)
 - [Working From Home: Routine and Productivity Practices](working-from-home-routine-and-productivity.md)

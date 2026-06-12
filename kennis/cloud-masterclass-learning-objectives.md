@@ -24,6 +24,7 @@ These objectives define the consulting capability Bas is teaching, distinct from
 - [Cloud Masterclass 2020: Course Structure and Delivery Style](cloud-masterclass-2020-structure-and-delivery.md)
 - [Cloud Masterclass agenda and module timings](cloud-masterclass-agenda-modules.md)
 - [Cloud Masterclass: two-day course structure](cloud-masterclass-course-structure.md)
+- [Cloud Masterclass: the curriculum Bas teaches](cloud-masterclass-curriculum.md)
 - [Keep IT in control, then turn shadow IT into an enabler](keep-it-in-control-shadow-it-as-enabler.md)
 - [Teaching Stance: Cloud Adoption Is More Than Technology](masterclass-cloud-is-more-than-tech.md)
 - [Salomon Cloud Masterclass: Two-Day Course Structure](salomon-cloud-masterclass-structure.md)

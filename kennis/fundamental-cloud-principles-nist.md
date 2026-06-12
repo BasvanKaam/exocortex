@@ -28,6 +28,7 @@ The fundamental Cloud principles (which overlap strongly with the 'promises' of 
 - [Bas's war story: SAN/NAS data migrations were weeks of nightmares](bas-san-nas-nightmares.md)
 - [Cloud service models: SaaS, PaaS, IaaS, DaaS](cloud-service-models-saas-paas-iaas-daas.md)
 - [Core cloud building blocks: datacenter, virtualization, APIs, storage, databases, elasticity](core-cloud-components-and-concepts.md)
+- [How Bas teaches the five essential cloud characteristics](five-essential-cloud-characteristics-teaching.md)
 - [The five NIST cloud characteristics](nist-cloud-characteristics.md)
 - [NIST and its definition of Cloud computing](nist-cloud-definition.md)
 - [The promises of the Cloud (and Bas's invitation to challenge them)](the-promises-of-the-cloud.md)

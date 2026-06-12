@@ -30,5 +30,6 @@ The core business-model transformations Bas says cloud drives:
 - [The Evolution of the CIO and CFO Role](evolution-of-cio-cfo-role.md)
 - [From Beheer to Regie: The Regieorganisatie Model](from-beheer-to-regie-organisation.md)
 - [Innovation Comes From Outside the Firewall](innovation-comes-from-outside-the-firewall.md)
+- [IT as a Utility](it-as-a-utility.md)
 - [Key Takeaways Chapter 4: Cloud Transformation Beyond Technology](key-takeaways-chapter-4-cloud-transformation.md)
 - [Opex Is Harder for the Provider Than the Customer](opex-challenge-for-providers.md)

@@ -35,7 +35,10 @@ Rule of thumb: roadmaps generally start from about three months out. Begin small
 
 - [Bas on the Cloud roadmap as a strategic tool](bas-cloud-roadmap-as-strategic-tool.md)
 - [There is no such thing as a cloud strategy](cloud-is-not-a-strategy.md)
+- [Policy is the starting point of every IT project](policy-as-the-start-of-every-it-project.md)
+- [Idea: RaaS, Roadmap as a Service](raas-roadmap-as-a-service.md)
 - [Roadmap as a Service (RaaS)](roadmap-as-a-service-raas.md)
+- [Salomon's IT Roadmap service line (assessment to Roadmap-as-a-Service)](salomon-roadmap-service-line.md)
 - [SWOT Analysis in SCAF](swot-analysis-in-scaf.md)
 - [Technology choices and organizational change are inseparable](technology-and-organization-change-are-inseparable.md)
 - [The Gap Between IT and 'The Business'](the-gap-between-it-and-the-business.md)

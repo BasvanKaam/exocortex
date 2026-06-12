@@ -26,6 +26,7 @@ The progression to per-frame keying and then to AES is the durable principle her
 
 - [DHCP security threats](dhcp-security-threats.md)
 - [Kerberos V5 Authentication](kerberos-v5-authentication.md)
+- [The PCI Standards Landscape: Who Must Comply With What](pci-standards-landscape.md)
 - [Frame security guidance as a living starting point, not a final word](security-checklist-as-living-starting-point.md)
 - [SSL handshake: asymmetric to exchange, symmetric to transfer](ssl-handshake-symmetric-asymmetric.md)
 - [Why the SSL handshake is the expensive part (asymmetric vs symmetric)](ssl-symmetric-asymmetric-handshake.md)

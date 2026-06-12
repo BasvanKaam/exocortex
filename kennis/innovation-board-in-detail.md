@@ -27,6 +27,7 @@ Bas details the full lifecycle of an Innovation Board — a team/committee that 
 - [Bas's reframe: chase trends and innovation only in moderation](bas-innovation-with-moderation.md)
 - [Bas's contrarian tip: get feedback from prospects you lost, not just customers](bas-learn-from-lost-prospects.md)
 - [Bas's Lessons Learned document: a living continuous-learning tool](bas-lessons-learned-document-method.md)
+- [Idea: Cross-BU Collaboration via a Light Forum and Innovation Board](cross-bu-collaboration-innovation-board-idea.md)
 - [The Gartner Hype Cycle and its five stages](gartner-hype-cycle.md)
 - [Where to 'park' innovation: Innovation/Technology Board, Solutions Board, Office of the CTO](innovation-board-technology-board-office-of-cto.md)
 - [Innovation Comes From Outside the Firewall](innovation-comes-from-outside-the-firewall.md)

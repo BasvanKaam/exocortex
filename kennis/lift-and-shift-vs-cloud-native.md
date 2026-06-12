@@ -27,3 +27,5 @@ Reference examples he cites: A Cloud Guru (training platform fully built on Serv
 ## Verwante notities
 
 - [Cloud is not a different way of working, it demands a different way of thinking](cloud-demands-different-thinking-not-different-working.md)
+- [Cloud Value Comes From Rethinking, Not Lift-And-Shift](cloud-lift-and-shift-vs-rethinking.md)
+- [Cloud-Native Control Plane Changes the Delivery Economics (WVD as Exemplar)](cloud-native-control-plane-changes-economics.md)

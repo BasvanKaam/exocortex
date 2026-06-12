@@ -23,6 +23,7 @@ He frames the cloud as a tool in a toolbox: it offers many advantages and possib
 - [Don't think in brands or product boxes](avoid-vendor-and-product-thinking.md)
 - [Bas's list of reasons companies stay (partly) on-premises](bas-objections-to-full-cloud-migration.md)
 - [Bas's paper: Cloud Only? No. Cloud First or Hybrid? Yes.](bas-paper-cloud-only-no-cloud-first-yes.md)
+- [Cloud-First, But Not Everything to the Cloud](cloud-first-tenzij-not-everything-to-the-cloud.md)
 - [Hidden decision factors before going cloud](cloud-hidden-decision-factors.md)
 - [Cloud is a potential solution, not a silver bullet](cloud-is-no-silver-bullet.md)
 - ['The Cloud' Is Not One Thing: Define It First](cloud-is-not-one-thing-define-it.md)

@@ -25,6 +25,7 @@ Source: Bas van Kaam, Salomon IT blog, 2020-03-18.
 - [How the conferencing cheat sheet was researched](conferencing-cheat-sheet-method.md)
 - [Convenience Does Not Excuse Ignoring Privacy](dont-go-blind-on-privacy-during-crisis.md)
 - [Home-Working Policy and Device Standards](home-working-policy-and-device-standards.md)
+- [Skype for Business Online Retirement Milestones and Teams Migration Concerns](skype-for-business-online-retirement-milestones.md)
 - [Technology Should Never Be Leading](technology-should-never-be-leading.md)
 - [Vetting Collaboration Tools for Data and Privacy](vetting-collaboration-tools-data-privacy.md)
 - [Working From Home: Routine and Productivity Practices](working-from-home-routine-and-productivity.md)

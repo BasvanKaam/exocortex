@@ -20,6 +20,8 @@ In August 2015, opening a multi-part NetScaler getting-started series, Bas frame
 - [NetScaler IP terminology: NSIP, SNIP, MIP, VIP, vServer](netscaler-ip-terminology.md)
 - [NetScaler monitors: why load balancing needs health checks](netscaler-monitors-health-checking.md)
 - [NetScaler SNIP, MIP and static routes: how traffic is sourced and routed](netscaler-snip-mip-static-routes.md)
+- [NetScaler Taskforce: a deeper training method than a 3-day course](netscaler-taskforce-deep-training-method.md)
 - [NetScaler binding chain: virtual server to service to server object](netscaler-virtual-service-server-objects.md)
 - [Never skip the basics: start troubleshooting at the event logs](never-skip-the-basics-event-logs.md)
+- [A 3-day course and a cert do not make a specialist](positie-certification-course-not-enough-for-real-expertise.md)
 - [Split tunneling's convenience carries a real, not far-fetched, security risk](positie-split-tunneling-security-tradeoff.md)

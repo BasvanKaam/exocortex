@@ -25,8 +25,10 @@ As part of a hybrid strategy it lets companies run certain workloads on-prem whi
 
 - [AWS Outposts: native AWS services in your own datacenter](aws-outposts-hybrid-native-services-on-prem.md)
 - [Microsoft Azure Profile and Strengths](azure-profile-strengths.md)
+- [Azure Stack / Hybrid-Private Cloud Is the Model for the Next 5-10 Years](azure-stack-hybrid-private-cloud-is-the-model.md)
 - [Paper conclusion: Cloud only? Maybe never](bas-paper-conclusion-cloud-only-never.md)
 - [Bas on the future limits of self-hosting your own data growth](bas-self-hosting-data-growth-limit.md)
 - [Cloud deployment models (public, private, hybrid, community)](cloud-deployment-models.md)
 - [Edge computing and Edge-nodes](edge-computing.md)
+- [Hybrid/private on-prem (Azure Stack-style) is the model for the next 5-10 years](hybrid-cloud-azure-stack-model-for-next-decade.md)
 - [No universal Cloud standard, and the vendor lock-in problem](no-universal-cloud-standard-vendor-lock-in.md)

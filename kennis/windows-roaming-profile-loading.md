@@ -30,4 +30,5 @@ The HKCU-from-NTUSER.DAT loading model is a durable Windows concept.
 - [Profile Portability: an abstraction layer over the user profile](profile-portability-abstraction-engine.md)
 - [Terminal Server registry mapping and the load-balancing timestamp trap](terminal-server-registry-mapping-timestamp-trap.md)
 - [Terminal Server AppSetup key and UsrLogon.cmd (reference)](ts-appsetup-key-and-usrlogon.md)
+- [User Profiles on VDI/RDSH: Bloat, Corruption and Roaming Challenges](user-profiles-roaming-challenges.md)
 - [Windows user profile versions are incompatible across OS releases](windows-user-profile-version-incompatibility.md)

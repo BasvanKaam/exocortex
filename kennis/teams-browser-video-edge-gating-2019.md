@@ -20,3 +20,5 @@ How it worked then. In 2019, Microsoft Teams in-browser video conferencing was s
 
 - [HDX Browser Content Redirection renders client-side via CEF](hdx-browser-content-redirection-cef.md)
 - [Delivering Lync in a XenApp hosted shared desktop: generic vs optimized HDX](lync-xenapp-delivery-options.md)
+- [Remote video-conferencing cheat sheet (v1.0, 2020)](remote-conferencing-cheat-sheet-2020.md)
+- [Skype for Business Online Retirement Milestones and Teams Migration Concerns](skype-for-business-online-retirement-milestones.md)

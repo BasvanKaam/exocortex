@@ -27,6 +27,7 @@ Key advantage over roaming profiles: the admin chooses which data gets written b
 - [Why adding new farm servers can wipe user app settings (shadow key timestamps)](shadow-key-new-farm-server-timestamp-trap.md)
 - [User Environment Management belongs on every workspace, not only virtual](uem-spans-physical-and-virtual.md)
 - [Multi-site brokering is easy, user-data locality is the catch](user-data-locality-is-the-catch-in-multisite.md)
+- [User Profiles on VDI/RDSH: Bloat, Corruption and Roaming Challenges](user-profiles-roaming-challenges.md)
 - [How a Windows user profile loads](windows-roaming-profile-loading.md)
 - [Windows user profile versions are incompatible across OS releases](windows-user-profile-version-incompatibility.md)
 - [Windows user profile versions are not cross-compatible](windows-user-profile-version-incompatibility-2.md)

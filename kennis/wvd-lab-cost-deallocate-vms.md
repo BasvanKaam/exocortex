@@ -23,6 +23,7 @@ The cost lever: most of the time the VMs are shut down, stopped and de-allocated
 - [Azure cost-control habits for a test lab](azure-classic-cost-control-takeaways.md)
 - [Azure Ephemeral OS disks for stateless WVD workloads](azure-ephemeral-os-disks.md)
 - [Moving to the cloud does not automatically save money](cloud-does-not-automatically-save-money.md)
+- [CloudJumper optimization features, platform VM, and pricing (2019)](cloudjumper-optimization-features-and-pricing-2019.md)
 - [EC2 hibernation preserves in-memory state to save compute cost](ec2-hibernation-saves-compute-cost.md)
 - [Ephemeral disks' biggest drawback disappears with the right autoscaler](ephemeral-disks-cons-as-pros.md)
 - [How Nerdio's WVD autoscale worked: triggers, base/burst capacity, graceful drain](nerdio-autoscale-mechanics-2020.md)

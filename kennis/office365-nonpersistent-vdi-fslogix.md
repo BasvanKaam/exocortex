@@ -27,6 +27,7 @@ How it worked then; the underlying search-index/profile problem on non-persisten
 - [The non-persistent Office 365 / Outlook OST and search-index problem](non-persistent-outlook-search-ost-problem.md)
 - [Office 365 cached-mode OST files break on non-persistent desktops](office-365-ost-non-persistent-vdi-problem.md)
 - [Office 365 cached mode breaks on non-persistent VDI/RDSH](office365-cached-mode-nonpersistent-problem.md)
+- [Office 365 on VDI/RDSH: .OST Bloat and the Search-Index Problem](office365-profile-pain-ost-and-search-index.md)
 - [Profile Disk plus VHD container: containerizing the user profile](profile-disk-vhd-container-concept.md)
 - [ProfileDisk: redirect the whole profile to a VHD/VMDK container](profiledisk-container-concept.md)
 - [FSLogix Profile Containers as the WVD profile standard (2019)](wvd-profiles-fslogix-azure-files-2019.md)

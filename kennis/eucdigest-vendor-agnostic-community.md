@@ -17,6 +17,7 @@ At the January 2020 launch of the EUCdigest podcast (co-founded with Jits Langed
 ## Verwante notities
 
 - [Awingu as an HTML5 workspace aggregator](awingu-html5-workspace-aggregator.md)
+- [CGIT x LoginTechcast Collaboration Idea](cgit-logintechcast-collaboration-idea.md)
 - [Stance: curating the community's best content is a contribution worth making](community-curation-as-contribution.md)
 - [Stance: take a vendor job but keep it community-first](community-first-vendor-role.md)
 - [CVE-2019-19781 Citrix ADC / SD-WAN vulnerability (2020 context)](cve-2019-19781-citrix-adc.md)

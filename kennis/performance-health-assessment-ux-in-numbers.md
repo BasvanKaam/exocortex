@@ -24,7 +24,9 @@ Prevention angle: running the process continuously in the background lets proble
 
 - [Growth Assessment: baseline, future state, gap](growth-assessment-baseline-gap.md)
 - [Measure to know (meten = weten)](measure-to-know-meten-is-weten.md)
+- [Performance & Health Assessment (Salomon method)](performance-health-assessment.md)
 - [Quantify user experience objectively](quantify-user-experience-objectively.md)
+- [Salomon's digital-experience measurement proposition](salomon-digital-experience-measurement-proposition.md)
 - [Smart inventory for workplace and application lifecycle](smart-inventory-lifecycle-management.md)
 - [Use health-check tooling proactively, not only when things fall apart](use-monitoring-proactively-not-when-it-breaks.md)
 - [Vulnerability assessment with dual reporting](vulnerability-assessment-two-reports.md)

@@ -28,6 +28,7 @@ Bas is explicit that not every detail can be worked out for every organisation b
 - [Atomic Habits as a Lens on the Strategy Phase](atomic-habits-implementation-intention-strategy.md)
 - [Fictional case: XYZ-Care Health Group](case-xyz-care-health-group.md)
 - [Cloud is about far more than technology](cloud-is-more-than-technology.md)
+- [SCAF: Salomon Cloud Adoptie Framework](salomon-cloud-adoptie-framework-scaf.md)
 - [SCAF Adoption phase: finishing what you started](scaf-adoption-phase-purpose.md)
 - [SCAF Design Principles and Why It Exists](scaf-design-principles.md)
 - [SCAF Key Takeaways - The Four Phases and Strategy](scaf-four-phases-key-takeaways.md)

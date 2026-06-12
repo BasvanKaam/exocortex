@@ -26,6 +26,7 @@ This fits a recurring theme in his writing: understand and operate the layer ben
 - [Director and built-in EdgeSight](director-monitoring-tool.md)
 - [The FMA core services and how they communicate](fma-services-complete-overview.md)
 - [The FMA's 10 (or 12) primary services and their roles](fma-twelve-services-rundown.md)
+- [Learn the database back-end, not just the front-end](learn-the-database-back-end-not-just-the-front-end.md)
 - [Hiding apps (Limit Visibility) vs hiding desktops (PowerShell entitlement filter)](limit-visibility-vs-entitlement.md)
 - [Multi-type licensing in XenDesktop/XenApp 7.14](multi-type-licensing-714.md)
 - [Never skip the basics: start troubleshooting at the event logs](never-skip-the-basics-event-logs.md)

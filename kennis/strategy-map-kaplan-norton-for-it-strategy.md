@@ -27,6 +27,7 @@ In this framework the Strategy Map doubles as a visual representation and summar
 
 - [Mapping IT Capabilities to Strategic Business Goals](map-it-capabilities-to-strategic-business-goals.md)
 - [Position: A Strategy Nobody Knows Is Worthless](position-strategy-must-be-communicated-visually.md)
+- [Blog topic backlog: closing the IT-business gap via cloud adoption](salomon-blog-topic-backlog-cloud-adoption.md)
 - [Strategy Map (Kaplan-Norton) within SCAF Strategy phase](scaf-strategy-map-kaplan-norton.md)
 - [SCAF support tool: the strategy map (read up, build down)](scaf-strategy-map-support-tool.md)
 - [SCAF strategy map: a balanced-scorecard layering for the strategy phase](scaf-strategy-map-teaching-artifact.md)

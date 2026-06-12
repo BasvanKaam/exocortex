@@ -40,6 +40,7 @@ Key takeaways he attaches: leverage the cloud for Burst Capacity and backup; don
 - [Paper conclusion: Cloud only? Maybe never](bas-paper-conclusion-cloud-only-never.md)
 - [Bas on the future limits of self-hosting your own data growth](bas-self-hosting-data-growth-limit.md)
 - [Common Cloud Concerns: Cost, Migration, Loss of Control](cloud-concerns-cost-and-control.md)
+- [The 'Cloud -> On-premises' counter-trend (draft angle)](cloud-to-on-premises-repatriation-angle.md)
 - [Full Cloud Migration Is Rarely a Good Idea](full-cloud-is-rarely-a-good-idea.md)
 - [Bas Disagrees With Gartner on Co-location's Demise](gartner-colocation-prediction-disagreement.md)
 - [Hybrid cloud: best of both worlds via ExpressRoute and low latency](hybrid-cloud-best-of-both-worlds.md)

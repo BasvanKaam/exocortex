@@ -21,6 +21,7 @@ In the SCAF Strategy template's points-of-attention block, Bas takes an explicit
 
 ## Verwante notities
 
+- [Business-IT Alignment Is A People Problem, Not A Tooling Problem](business-alignment-is-a-people-problem.md)
 - [Convergence, Not Alignment, Between Business and IT](business-it-convergence-not-alignment.md)
 - [IT-vs-BIT cooperation scoring assessment](it-vs-bit-cooperation-assessment.md)
 - [Position: Business Objectives Must Drive Cloud Investments](position-business-objectives-drive-cloud-investments.md)

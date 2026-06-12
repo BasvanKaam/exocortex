@@ -19,6 +19,7 @@ Community podcasts Bas recommends:
 
 ## Verwante notities
 
+- [CGIT Podcast Strategy and Formats](cgit-podcast-strategy-and-formats.md)
 - [E2EVC (Expert to Expert Virtualization Congress)](e2evc-community.md)
 - [E2EVC: the Experts-2-Experts Virtualization Conference](e2evc-conference.md)
 - [Community resources: Team RGE and Marius Sandbu's NetScaler e-Book](euc-community-resources-teamrge-msandbu.md)

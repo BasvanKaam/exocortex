@@ -18,6 +18,7 @@ In this August 2016 reflection Bas credits conversations with other self-publish
 
 - [An idea born small can grow huge fast](community-small-ideas-grow-big.md)
 - [Self-publishing a niche Citrix book: the numbers behind Inside Citrix](inside-citrix-book-self-publishing-numbers.md)
+- [Just start writing, the topic and quality come by doing](just-start-writing-it-comes-by-doing.md)
 - [The "I'm no guru" philosophy: blogging as a learning tool, not authority](no-guru-philosophy.md)
 - [Self-publishing via Create Space and KDP: separate the setup from the writing](self-publishing-create-space-vs-kdp.md)
 - [Writing the FMA book was brutal but never regretted](self-publishing-fma-book-worth-it.md)

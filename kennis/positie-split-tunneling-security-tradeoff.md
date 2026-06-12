@@ -23,5 +23,6 @@ In March 2016, Bas frames the split-tunneling trade-off honestly. Full-tunnel (a
 - [Intranet Applications: the subnet objects that define split tunneling](netscaler-intranet-applications-object.md)
 - [NetScaler split tunneling: route only corporate traffic through the VPN](netscaler-split-tunneling-concept.md)
 - [Teaching stance: master the basics before the advanced NetScaler features](netscaler-walk-before-you-run-teaching.md)
+- [Office 365 Network Performance: Service Front Doors and the Basics](office365-network-performance-basics.md)
 - [Optimal NetScaler Gateway routing](optimal-netscaler-gateway-routing.md)
 - [SSL handshake: asymmetric to exchange, symmetric to transfer](ssl-handshake-symmetric-asymmetric.md)

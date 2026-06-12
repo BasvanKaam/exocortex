@@ -18,6 +18,7 @@ Source: Bas van Kaam, Salomon IT blog, 2019-10-23.
 
 ## Verwante notities
 
+- [The Cloud Is Not Automatically Cheaper, And 'No Upfront Investment' Is Often False](cloud-is-not-automatically-cheaper.md)
 - [Worked TCO/ROI exercise: on-prem vs co-lo vs managed vs IaaS](cloud-tco-roi-financial-comparison-exercise.md)
 - [If cost saving is your primary cloud driver, reconsider your strategy](cost-saving-is-the-wrong-primary-cloud-driver.md)
 - [Do Not Fixate on the Financials Alone](dont-fixate-on-financials-alone.md)

@@ -18,5 +18,6 @@ A signature interactive instrument Bas uses in the workshop. It is a set of stat
 
 ## Verwante notities
 
+- [Business-IT Alignment In Plain Language](business-it-alignment-plain-language.md)
 - [Convergence, Not Alignment, Between Business and IT](business-it-convergence-not-alignment.md)
 - [Position: pursue business-IT convergence, not alignment](position-business-it-convergence-over-alignment.md)

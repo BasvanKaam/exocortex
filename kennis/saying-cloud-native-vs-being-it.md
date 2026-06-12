@@ -25,5 +25,6 @@ Source quote: "Dus, zeggen dat je als software ontwikkelaar Cloud native bent en
 - [Bas: 'Wegwerp IT' and the Lift-and-Shift Caution](bas-wegwerp-it-and-lift-and-shift.md)
 - [Cloud delivery models: IaaS, PaaS, SaaS and DaaS](cloud-delivery-models-iaas-paas-saas-daas.md)
 - [Cloud is not a different way of working, it demands a different way of thinking](cloud-demands-different-thinking-not-different-working.md)
+- [Cloud Value Comes From Rethinking, Not Lift-And-Shift](cloud-lift-and-shift-vs-rethinking.md)
 - [Cloud-Native: Designed for the Cloud from the Start](cloud-native-definition.md)
 - [Infrastructure as Code (IaC) and Its Benefits](infrastructure-as-code-basics.md)

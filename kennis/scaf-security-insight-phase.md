@@ -25,6 +25,7 @@ Topics Bas wants information on:
 
 ## Verwante notities
 
+- [Kwetsbaarheden Assessment (Salomon vulnerability method)](kwetsbaarheden-assessment.md)
 - [Definitive Cloud and Refactor Choice (Rationalisation)](rationalisation-refactor-choice-execution.md)
 - [Risk analysis process steps](risk-analysis-process-steps.md)
 - [SCAF: Application, Data and System Inventory via Waves](scaf-application-data-system-inventory.md)

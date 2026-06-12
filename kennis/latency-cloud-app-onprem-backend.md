@@ -24,5 +24,6 @@ It is not always possible to move an outdated application to the Cloud - the dat
 - [Edge computing and Edge-nodes](edge-computing.md)
 - [Hybrid cloud: best of both worlds via ExpressRoute and low latency](hybrid-cloud-best-of-both-worlds.md)
 - [Hybrid Latency and the Region-Choice Pitfall](hybrid-latency-region-choice-pitfall.md)
+- [Office 365 Network Performance: Service Front Doors and the Basics](office365-network-performance-basics.md)
 - [Physical and software performance limits of the cloud](physical-and-software-cloud-performance-limits.md)
 - [Why traditional Windows applications won't disappear](traditional-windows-applications-wont-disappear.md)

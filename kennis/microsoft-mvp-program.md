@@ -27,5 +27,7 @@ How you become an MVP differs sharply from E2EVC. E2E is primarily a few annual 
 - [E2EVC traditions: grandfathers and the networking game](e2evc-grandfathers-and-networking-game.md)
 - [Following Cloud and EUC experts on X (Twitter)](following-experts-on-x-twitter.md)
 - [Local communities and Meetup; Dutch community examples](local-communities-and-meetup.md)
+- [Method: Build Colleagues Toward MVP by Plugging Them Into Communities Early](mvp-mentoring-pipeline-build-credit-early.md)
 - [myCUGC: the Citrix User Group Community](mycugc-citrix-user-group-community.md)
+- [You must understand traditional solutions to give good cloud advice](position-must-know-traditional-solutions-to-advise-on-cloud.md)
 - [Bas on the value of IT communities](value-of-it-communities.md)

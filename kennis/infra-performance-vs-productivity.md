@@ -22,6 +22,7 @@ From the March 2021 EUCdigest episode with Barry Schiffer (who co-created RDanal
 - [Reboots are a necessary evil; handle them proactively](proactive-over-reactive-ops.md)
 - [Processor Queue Length (PQL) as an early UX-degradation signal](processor-queue-length-as-ux-signal.md)
 - [Remote Display Analyzer: detect and live-switch HDX codecs](remote-display-analyzer-tool.md)
+- [Salomon's digital-experience measurement proposition](salomon-digital-experience-measurement-proposition.md)
 - [Use health-check tooling proactively, not only when things fall apart](use-monitoring-proactively-not-when-it-breaks.md)
 - [VDI Drones: free Drone client vs paid Controller](vdi-drones-benchmarking-model.md)
 - [VMTurbo: control the datacenter, don't just monitor it](vmturbo-control-not-monitor.md)

@@ -19,7 +19,9 @@ Two connected convictions: (1) the whole chain counts, since experience is only 
 ## Verwante notities
 
 - [We Give the Insight, You Make the Choice](give-insight-client-decides.md)
+- [Listen to the employee, don't let IT dictate how they work](listen-to-the-employee-not-it-dictates.md)
 - [Measure to know (meten = weten)](measure-to-know-meten-is-weten.md)
 - [Performance & Health Assessment: user experience in numbers](performance-health-assessment-ux-in-numbers.md)
+- [Salomon's digital-experience measurement proposition](salomon-digital-experience-measurement-proposition.md)
 - [Smart inventory for workplace and application lifecycle](smart-inventory-lifecycle-management.md)
 - [Use health-check tooling proactively, not only when things fall apart](use-monitoring-proactively-not-when-it-breaks.md)

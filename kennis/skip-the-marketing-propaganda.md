@@ -21,5 +21,6 @@ His upgrade advice in the comments is pragmatically conservative: "It offers som
 - [Against the 'year of X' prediction ritual](against-yearly-tech-predictions.md)
 - [Have a look, don't evangelize: measured stance on Power Management](have-a-look-dont-evangelize-power-management.md)
 - [Positie: the Citrix XD7-on-Azure design guide was misleading marketing](positie-citrix-azure-design-guide-confusing-2013.md)
+- [Vendor partner congresses are marketing-first roadmap events](vendor-congresses-are-marketing-roadmaps.md)
 - [A technical book should teach the why, not just the clicks](what-a-good-technical-book-should-teach.md)
 - [What a partner conference is actually for (not deep technical depth)](what-summit-is-for.md)

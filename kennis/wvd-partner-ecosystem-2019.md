@@ -19,9 +19,11 @@ When Windows Virtual Desktop (WVD, now Azure Virtual Desktop) moved past tech pr
 ## Verwante notities
 
 - [Bet: WVD third-party vendors are where the action is](betting-on-wvd-third-party-tooling-2020.md)
+- [CloudJumper portfolio: CWMS, CW for Azure, and WVD integration](cloudjumper-portfolio-cwms-cw-for-azure-wvd.md)
 - [A complete, current WVD partner cheat sheet is near impossible to maintain](exhaustive-partner-sheets-are-impossible.md)
 - [Nerdio Manager for WVD deploys into your own Azure tenant](nerdio-manager-wvd-deploys-in-your-tenant.md)
 - [Nerdio Manager for WVD launched March 2020 with fast traction](nerdio-manager-wvd-early-traction.md)
+- [Microsoft deliberately leaves WVD management gaps to partners](positie-microsoft-leaves-wvd-management-to-partners-on-purpose.md)
 - [Framing WVD rollout as phases, mapping partners onto each step](wvd-adoption-as-phases-with-partners.md)
 - [WVD hit general availability on September 30, 2019](wvd-ga-date-sept-2019.md)
 - [WVD is not a click-and-go product](wvd-not-click-and-go.md)

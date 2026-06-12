@@ -25,4 +25,5 @@ Bas's recurring conviction, stated here (Jan 2017) in the Instant Clones context
 - [Personal vDisk: persistence of dedicated, manageability of pooled](personal-vdisk-pvd-concept.md)
 - [Layering and virtualization are partners, and the cons are soon forgotten](positie-layering-and-virtualization-coexist.md)
 - [Positie: Personal vDisk is great and underappreciated](positie-pvd-underappreciated.md)
+- [Profile Layering with FSLogix: Mount Instead of Copy](profile-layering-fslogix.md)
 - [How VMware Instant Clones (vmFork) provision desktops in seconds](vmware-instant-clones-vmfork-mechanics.md)

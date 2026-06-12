@@ -29,4 +29,5 @@ The framework appears at four points (Strategy on day 1; Insight, Execution, Ado
 - [Cloud Masterclass: two-day course structure](cloud-masterclass-course-structure.md)
 - [Cloud adoption goes far beyond technology alone](position-cloud-adoption-is-more-than-tech.md)
 - [Salomon Cloud Masterclass: Two-Day Course Structure](salomon-cloud-masterclass-structure.md)
+- [Original Salomon Cloud Masterclass: pricing and certification basis](salomon-masterclass-original-pricing-and-cert-path.md)
 - [Positioning of the 2-day Salomon Cloud Masterclass](two-day-cloud-masterclass-positioning.md)

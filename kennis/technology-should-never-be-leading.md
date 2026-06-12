@@ -25,6 +25,7 @@ Source: Bas van Kaam, Salomon IT blog, 2020-03-18.
 - [Don't stress so much about the cloud](dont-stress-about-the-cloud.md)
 - [Function before technology: filter requirements against wishes](function-before-technology-requirements-method.md)
 - [IoT is a mindset shift; answer the business questions before the tech](iot-strategy-before-technology.md)
+- [Listen to the employee, don't let IT dictate how they work](listen-to-the-employee-not-it-dictates.md)
 - [Requirements Before Solution: Build the Business Case First](requirements-before-solution-business-case.md)
 - [Technology choices and organizational change are inseparable](technology-and-organization-change-are-inseparable.md)
 - [Working From Home: Routine and Productivity Practices](working-from-home-routine-and-productivity.md)

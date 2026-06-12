@@ -21,3 +21,4 @@ Telling detail on his conviction: the assessor's feedback said he could have emp
 ## Verwante notities
 
 - [Correction: The Cloud-First Paper Dates to 2019, Not 2020](bas-paper-actually-written-2019-ncoi-masterclass.md)
+- [Cloud-First, But Not Everything to the Cloud](cloud-first-tenzij-not-everything-to-the-cloud.md)

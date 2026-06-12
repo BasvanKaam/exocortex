@@ -18,7 +18,9 @@ Bas notes that the fundamental Cloud principles he describes are not his own inv
 ## Verwante notities
 
 - [Bas deconstructs the cloud promises](bas-deconstructs-the-cloud-promises.md)
+- [Cloud Webinar Structure: Workspace vs Infra Through a Shared Lens](cloud-webinar-structure-workspace-vs-infra.md)
 - [Bas's rule: define the Cloud before debating its pros and cons](define-cloud-before-debating-it.md)
+- [How Bas teaches the five essential cloud characteristics](five-essential-cloud-characteristics-teaching.md)
 - [Fundamental principles of the Cloud (per NIST)](fundamental-cloud-principles-nist.md)
 - [NIS 2 vs the rest of the world](nis-2-vs-rest-of-world.md)
 - [The five NIST cloud characteristics](nist-cloud-characteristics.md)

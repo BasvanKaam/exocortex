@@ -18,6 +18,7 @@ Bas's read of the early 2015 survey data: there is 'still plenty of room for inn
 
 - [Framehawk and the Lightweight Framebuffer Protocol (LFP)](framehawk-lfp-protocol.md)
 - [GPUs in VDI: a tool in the toolbox, not a default](gpu-in-vdi-tool-in-the-toolbox.md)
+- [Innovation Is Mostly Creativity, Not New Tech](innovation-is-creativity-not-new-tech.md)
 - [Intel entering vGPU turns the GPU space into a three-way race](intel-enters-vgpu-three-way-race.md)
 - [Converged (hyperconverged) infrastructure collapses compute and storage into one appliance](nutanix-converged-infrastructure-concept.md)
 - [What the Project VRC 2015 survey measured about VDI/SBC](vdi-sbc-trends-2015-survey-scope.md)

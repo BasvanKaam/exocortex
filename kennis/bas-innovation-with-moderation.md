@@ -31,5 +31,6 @@ A characteristic national aside: in his view the Netherlands is far ahead of oth
 - [How an Innovation Board operates, end to end](innovation-board-in-detail.md)
 - [Where to 'park' innovation: Innovation/Technology Board, Solutions Board, Office of the CTO](innovation-board-technology-board-office-of-cto.md)
 - [Innovation Comes From Outside the Firewall](innovation-comes-from-outside-the-firewall.md)
+- [Innovation Is Mostly Creativity, Not New Tech](innovation-is-creativity-not-new-tech.md)
 - [Obvious cloud trends (multi-cloud, edge, zero trust, serverless, green)](obvious-cloud-trends-list.md)
 - [Everett Rogers' technology-adoption categories mapped to the hype cycle](rogers-technology-adoption-categories.md)

@@ -19,3 +19,7 @@ Bas deliberately opens by writing out the NIST definition plus the original clou
 The pedagogical position is that a cloud workshop should start by puncturing the marketing, because the unmeasurable, hidden variables (and these same promises) come back to bite people in the economics later. He treats myth-busting as the entry point to honest cloud advice.
 
 *Bron: Salomon-IT 'Aantekeningen - Bas - Marcel Cloud Workshop'.*
+
+## Verwante notities
+
+- [The Cloud Is Not Automatically Cheaper, And 'No Upfront Investment' Is Often False](cloud-is-not-automatically-cheaper.md)

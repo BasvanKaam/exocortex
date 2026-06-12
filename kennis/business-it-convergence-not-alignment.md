@@ -22,6 +22,8 @@ His position: IT must become (or already be) a strategic, innovative partner of 
 
 ## Verwante notities
 
+- [Business-IT Alignment Is A People Problem, Not A Tooling Problem](business-alignment-is-a-people-problem.md)
+- [Business-IT Alignment In Plain Language](business-it-alignment-plain-language.md)
 - [Bas's terminology: "gebruiker", "business gebruiker" and "de business"](business-user-and-the-business-definitions.md)
 - [IT-vs-BIT cooperation scoring assessment](it-vs-bit-cooperation-assessment.md)
 - [Position: pursue business-IT convergence, not alignment](position-business-it-convergence-over-alignment.md)
@@ -29,3 +31,4 @@ His position: IT must become (or already be) a strategic, innovative partner of 
 - [Position: it should be Business-IT (BIT), not IT alone](position-business-technology-over-it.md)
 - [Cloud adoption goes far beyond technology alone](position-cloud-adoption-is-more-than-tech.md)
 - [SCAF draft: the Business-IT collaboration interface ('where the magic happens')](scaf-business-it-collaboration-interface.md)
+- [Technology Still Matters — and Is Getting More Complex, Not Less](technology-still-matters-and-is-getting-more-complex.md)

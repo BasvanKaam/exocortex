@@ -24,4 +24,5 @@ He is openly a numbers person ('ik ben een statistieken man, ik hou van cijfers 
 - [Bas's Closing Reflection: Good Questions Always Move You Forward](bas-closing-reflection-good-questions.md)
 - [Bas's Roadmap Is Driven by Reader Feedback](bas-reader-feedback-as-roadmap.md)
 - [We Give the Insight, You Make the Choice](give-insight-client-decides.md)
+- [Just start writing, the topic and quality come by doing](just-start-writing-it-comes-by-doing.md)
 - [Measure to know (meten = weten)](measure-to-know-meten-is-weten.md)

@@ -27,5 +27,7 @@ How Bas positions and frames his own 2-day Cloud Masterclass (distinct from the 
 ## Verwante notities
 
 - [Cloud Bootcamp: target audience and learning outcomes](cloud-bootcamp-audience-and-outcomes.md)
+- [Willing to co-invest in building his own training business](position-co-invest-in-your-own-training-business.md)
 - [Salomon Cloud Bootcamp: two-day course structure](salomon-cloud-bootcamp-structure.md)
 - [Salomon Cloud Masterclass: Two-Day Course Structure](salomon-cloud-masterclass-structure.md)
+- [Original Salomon Cloud Masterclass: pricing and certification basis](salomon-masterclass-original-pricing-and-cert-path.md)

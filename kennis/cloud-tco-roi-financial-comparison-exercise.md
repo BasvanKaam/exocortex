@@ -26,6 +26,7 @@ The deck deliberately surfaces the variables that move these numbers: reserved v
 
 - [Reading the Hosting Spectrum - Capex Falls, Opex Rises](capex-opex-shift-across-hosting-spectrum.md)
 - [Cloud business-case template (eleven dimensions)](cloud-business-case-template-eleven-dimensions.md)
+- [Cloud cost-optimization levers](cloud-cost-optimization-levers.md)
 - [If cost saving is your primary cloud driver, reconsider your strategy](cost-saving-is-the-wrong-primary-cloud-driver.md)
 - [Start a DaaS Business Case 'High-Over' First](daas-business-case-high-over-first.md)
 - [From cost model to business case](from-cost-model-to-business-case.md)

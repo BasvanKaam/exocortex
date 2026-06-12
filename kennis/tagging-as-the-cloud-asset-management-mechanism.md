@@ -31,6 +31,7 @@ Tags are also indispensable for operational management. For example, finding all
 ## Verwante notities
 
 - [Cloud makes an accurate central CMDB impossible](cloud-breaks-the-central-cmdb.md)
+- [Cloud cost-optimization levers](cloud-cost-optimization-levers.md)
 - [Scope configuration management to Acceptance and Production](config-management-scope-acceptance-production.md)
 - [Information a cloud deployment request must capture](deployment-request-data-fields.md)
 - [Cloud will repeat the virtualization sprawl mistake unless governed](position-cloud-sprawl-mirrors-virtualization-sprawl.md)

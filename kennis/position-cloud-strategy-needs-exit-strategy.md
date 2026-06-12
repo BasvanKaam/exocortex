@@ -26,5 +26,6 @@ the framework builds reversibility into the definition of a good Cloud Strategy:
 - [Why have a cloud exit strategy - the exit comes before onboarding](cloud-exit-strategy-rationale.md)
 - [What makes a good Cloud Strategy](cloud-strategy-quality-criteria.md)
 - [No universal Cloud standard, and the vendor lock-in problem](no-universal-cloud-standard-vendor-lock-in.md)
-- [SCAF Cloud Exit Strategy Template (On the framework's Backlog)](scaf-cloud-exit-strategy-on-backlog.md)
+- [Plan the cloud exit before you onboard](position-exit-before-onboarding.md)
+- [SCAF Cloud Exit Strategy Template (On Bas's Backlog)](scaf-cloud-exit-strategy-on-backlog.md)
 - [Think about the cloud exit before you onboard](the-exit-comes-before-onboarding-stance.md)

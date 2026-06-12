@@ -36,4 +36,5 @@ The framework is delivered in four passes spread across both days (Strategy, Ins
 - [Teaching Stance: Cloud Adoption Is More Than Technology](masterclass-cloud-is-more-than-tech.md)
 - [Curated cloud self-study resources (Masterclass handout)](masterclass-curated-cloud-learning-resources.md)
 - [Salomon Cloud Bootcamp: two-day course structure](salomon-cloud-bootcamp-structure.md)
+- [Original Salomon Cloud Masterclass: pricing and certification basis](salomon-masterclass-original-pricing-and-cert-path.md)
 - [Positioning of the 2-day Salomon Cloud Masterclass](two-day-cloud-masterclass-positioning.md)

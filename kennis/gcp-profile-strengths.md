@@ -29,3 +29,4 @@ Key differentiators:
 - [Semantic technologies and data science in the cloud](semantic-technologies-and-data-science.md)
 - [Tenant vs Account vs Project: the top-level boundary across Azure, AWS, Google](tenant-account-project-across-providers.md)
 - [The Big Three Cloud Providers (AWS, Azure, GCP)](the-big-three-cloud-providers.md)
+- [Three Cloud Providers in One Line Each](three-cloud-providers-one-line-characterization.md)

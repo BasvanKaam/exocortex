@@ -22,6 +22,8 @@ The durable concept: replicating the profile container across multiple backends 
 
 - [Citrix's native options still lag third-party containers (May 2018)](citrix-still-behind-third-party-containers-2018.md)
 - [E2EVC as a flat, high-value community conference](e2evc-community-conference-value.md)
+- [FSLogix benefits for WVD (and on-premises)](fslogix-benefits-for-wvd-and-on-premises.md)
+- [FSLogix: The Five Capabilities Bas Teaches](fslogix-five-capabilities.md)
 - [FSLogix is not an application layering company; App Disks are doomed](fslogix-not-an-app-layering-company.md)
 - [Office 365 cached mode breaks on non-persistent VDI/RDSH](office365-cached-mode-nonpersistent-problem.md)
 - [Office 365 pain on non-persistent VDI, solved by containers](office365-nonpersistent-vdi-fslogix.md)

@@ -22,6 +22,8 @@ The stated principle is "no assumptions, but facts" covering both the technologi
 
 - [Bas on the Cloud roadmap as a strategic tool](bas-cloud-roadmap-as-strategic-tool.md)
 - [Growth Assessment: baseline, future state, gap](growth-assessment-baseline-gap.md)
+- [Idea: RaaS, Roadmap as a Service](raas-roadmap-as-a-service.md)
+- [Roadmap as a Service (RaaS): Subscription Packaging of a Consulting Offer](roadmap-as-a-service-raas-concept.md)
 - [SCAF: Salomon Cloud Adoptie Framework (Origin)](scaf-salomon-cloud-adoptie-framework.md)
 - [Begin at the beginning](start-from-where-you-are.md)
 - [Technology choices and organizational change are inseparable](technology-and-organization-change-are-inseparable.md)

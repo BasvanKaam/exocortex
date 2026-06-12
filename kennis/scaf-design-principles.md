@@ -36,6 +36,7 @@ Bas illustrates the step-by-step approach with his elephant joke.
 - [EA: Working with Principles (Top-Down and Bottom-Up Balance)](ea-working-with-principles.md)
 - [Enterprise Architecture (EA) and TOGAF](enterprise-architecture-togaf.md)
 - [Loose coupling as a core Cloud design principle](loose-coupling-cloud-architecture.md)
+- [SCAF: Salomon Cloud Adoptie Framework](salomon-cloud-adoptie-framework-scaf.md)
 - [SCAF Cloud Exit Strategy Template (On Bas's Backlog)](scaf-cloud-exit-strategy-on-backlog.md)
 - [SCAF Documentation and Templates](scaf-documentation-templates.md)
 - [SCAF Key Takeaways - The Four Phases and Strategy](scaf-four-phases-key-takeaways.md)

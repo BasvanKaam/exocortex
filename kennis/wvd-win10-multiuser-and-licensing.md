@@ -29,3 +29,4 @@ How it worked then; licensing and channel specifics are dated, but the multi-use
 - [Windows 10 Enterprise multi-session performance debate (Ignite 2019)](wvd-ignite-2019-multisession.md)
 - [Windows Virtual Desktop: multi-user Windows 10 as DaaS on Azure](wvd-multi-user-windows10-daas-2019.md)
 - [FSLogix Profile Containers as the WVD profile standard (2019)](wvd-profiles-fslogix-azure-files-2019.md)
+- [WVD Whitepaper: The Selling Points](wvd-whitepaper-propositions.md)

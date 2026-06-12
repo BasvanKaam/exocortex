@@ -20,5 +20,7 @@ In 2013 Bas was openly invested in certification, both personally and for his em
 - [How Citrix's solution-based certification tracks were structured (2014)](citrix-solution-based-certs-2014.md)
 - [Three foundational cloud certs (2019)](cloud-foundation-certs-2019.md)
 - [Stance: curating the community's best content is a contribution worth making](community-curation-as-contribution.md)
+- [NetScaler Taskforce: a deeper training method than a 3-day course](netscaler-taskforce-deep-training-method.md)
+- [A 3-day course and a cert do not make a specialist](positie-certification-course-not-enough-for-real-expertise.md)
 - [The community's success depends on us; give before you take](stance-give-to-the-community.md)
 - [Re-doing the full cert path from the bottom isn't a bad idea, even for seniors](start-from-the-bottom-even-if-senior.md)

@@ -27,6 +27,7 @@ DSC is agentless, free, flexible, works on-prem and in cloud, and ships with res
 
 - [DSC prerequisites: WMF / PowerShell 4.0 on every machine involved](dsc-prerequisites-wmf4.md)
 - [Infrastructure as Code (IaC) and Its Benefits](infrastructure-as-code-basics.md)
+- [Learn the database back-end, not just the front-end](learn-the-database-back-end-not-just-the-front-end.md)
 - [Prefer PowerShell over the GUI for Citrix FMA work](powershell-over-gui-for-citrix.md)
 - [Citrix's XenDesktop DSC Tech Preview is one to watch](stance-dsc-worth-watching.md)
 - [Everything you do in Studio is PowerShell underneath](studio-is-powershell-underneath.md)

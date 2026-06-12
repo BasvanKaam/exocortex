@@ -24,6 +24,7 @@ Dated as to the specifics (WVD branding, the 2020 partner set), but the durable 
 - [A cheat sheet should orient, not rank vendors](cheat-sheet-as-starting-point-not-comparison.md)
 - [How the conferencing cheat sheet was researched](conferencing-cheat-sheet-method.md)
 - [A complete, current WVD partner cheat sheet is near impossible to maintain](exhaustive-partner-sheets-are-impossible.md)
+- [Microsoft deliberately leaves WVD management gaps to partners](positie-microsoft-leaves-wvd-management-to-partners-on-purpose.md)
 - [WVD hit general availability on September 30, 2019](wvd-ga-date-sept-2019.md)
 - [WVD will only get easier and cheaper, lowering the barrier](wvd-lowering-the-barrier-prediction.md)
 - [WVD is not a click-and-go product](wvd-not-click-and-go.md)

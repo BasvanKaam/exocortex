@@ -32,6 +32,7 @@ For SQL 2000 and 2005, Bas's original notes pointed to saved web pages rather th
 ## Verwante notities
 
 - [High-availability options for the Central Site database](central-site-database-ha-options.md)
+- [Learn the database back-end, not just the front-end](learn-the-database-back-end-not-just-the-front-end.md)
 - [SQL Server 2005 Database Mirroring with a Witness](sql-2005-database-mirroring.md)
 - [SQL Transaction-Log recovery modes for Citrix databases](sql-transaction-log-recovery-modes.md)
 - [SQL HA options for the XenDesktop Site database and when each fits](xendesktop-sql-ha-options.md)

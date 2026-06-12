@@ -20,6 +20,8 @@ In his Synergy 2017 schedule post Bas drops an unhedged product opinion: address
 - [Citrix CloudGateway: AppController, StoreFront and Access Gateway](citrix-cloudgateway-architecture.md)
 - [Workspace Cloud lacked an on-prem control plane in 2015](citrix-workspace-cloud-control-plane-2015.md)
 - [Citrix Workspace Suite and Workspace Services (on Azure) introduced at Synergy 2014](citrix-workspace-suite-services-2014-origins.md)
+- [Detron's 2017 new/in-development proposition portfolio (Bas as Technology Officer)](detron-2017-proposition-portfolio.md)
+- [Innovation Is Mostly Creativity, Not New Tech](innovation-is-creativity-not-new-tech.md)
 - [Microsoft is suddenly winning everything (2017 observation)](microsoft-winning-everything-2017.md)
 - [Positie: Byte Squared is a nice add-on but not a big step](positie-bytesquared-nice-but-not-a-big-step.md)
 - [Positie: Microsoft is closing the gap on VMware and Citrix](positie-microsoft-closing-the-gap-on-vmware-and-citrix.md)

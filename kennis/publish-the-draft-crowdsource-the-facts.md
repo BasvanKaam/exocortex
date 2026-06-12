@@ -21,5 +21,6 @@ In April 2016 Bas did something unusual: he published an entire near-final chapt
 - [Why community surveys are a simple, effective way to gather industry insight](community-surveys-as-method.md)
 - [How the conferencing cheat sheet was researched](conferencing-cheat-sheet-method.md)
 - [The email-gated guide as a deliberate experiment](free-content-subscription-experiment.md)
+- [Good Is Good Enough: Ship Content, Don't Polish to Perfection](good-is-good-enough-for-content.md)
 - [Frame security guidance as a living starting point, not a final word](security-checklist-as-living-starting-point.md)
 - [WorkspacePod is not an honest VIAB replacement (yet)](workspacepod-not-a-viab-replacement.md)

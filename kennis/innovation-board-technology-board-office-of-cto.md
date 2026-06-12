@@ -24,9 +24,11 @@ An alternative/complement is an **Office of the CTO** — a team supporting the 
 ## Verwante notities
 
 - [Bas's reframe: chase trends and innovation only in moderation](bas-innovation-with-moderation.md)
+- [Idea: a cross-unit Technology Board](cross-unit-technology-board.md)
 - [CTO vs Field CTO: internal strategy vs external customer translation](cto-vs-field-cto.md)
 - [The Evolution of the CIO and CFO Role](evolution-of-cio-cfo-role.md)
 - [How an Innovation Board operates, end to end](innovation-board-in-detail.md)
 - [Innovation Comes From Outside the Firewall](innovation-comes-from-outside-the-firewall.md)
 - [Key Takeaways Ch.15: the modern IT professional](key-takeaways-it-professional-and-cloud.md)
+- [Innovation Boards Fail Without Recognized Time](technology-board-needs-recognized-time.md)
 - [The Technology / Innovation Board](technology-innovation-board.md)

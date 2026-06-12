@@ -23,5 +23,6 @@ From Bas's 30-tips AWS cost guide (Jan 2019): beyond on-demand pricing, the main
 - [AWS native cost-management toolset (TCO, Budgets, Cost Explorer, Trusted Advisor)](aws-native-cost-management-tools.md)
 - [Storage tiering and lifecycle policies cut AWS storage cost](aws-storage-tiering-and-lifecycle-cost.md)
 - [How Azure Reserved Instances and Hybrid Benefit work](azure-ri-ahb-mechanics.md)
+- [Cloud cost-optimization levers](cloud-cost-optimization-levers.md)
 - [EC2 hibernation preserves in-memory state to save compute cost](ec2-hibernation-saves-compute-cost.md)
 - [Reserved Instances: 12% early-exit fine and monthly payment](reserved-instance-early-exit-fine.md)

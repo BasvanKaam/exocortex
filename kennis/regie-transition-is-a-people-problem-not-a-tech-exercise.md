@@ -20,6 +20,7 @@ Related: [[masterclass-regie-organization-demand-supply-model]]
 
 ## Verwante notities
 
+- [A company built on family, not a family business](company-built-on-family-not-a-family-business.md)
 - [From Beheer to Regie: The Regieorganisatie Model](from-beheer-to-regie-organisation.md)
 - [Keep IT in control, then turn shadow IT into an enabler](keep-it-in-control-shadow-it-as-enabler.md)
 - [Masterclass: Demand-Supply regie model for the orchestration organization](masterclass-regie-organization-demand-supply-model.md)

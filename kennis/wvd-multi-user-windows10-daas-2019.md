@@ -33,6 +33,7 @@ How WVD was framed at announcement (Ignite 2018, launch expected first half of 2
 - [Windows 7 End of Support and the Windows Virtual Desktop (2019)](windows-7-eol-and-wvd-2019.md)
 - [WVD App Group rules (2019)](wvd-app-groups-rules-2019.md)
 - [Even with managed WVD, the customer still owns the base image](wvd-customer-still-owns-the-base-image.md)
+- [WVD Explained: Bas's Core Story](wvd-explained-bvk-framing.md)
 - [WVD hit general availability on September 30, 2019](wvd-ga-date-sept-2019.md)
 - [Windows 10 Enterprise multi-session performance debate (Ignite 2019)](wvd-ignite-2019-multisession.md)
 - [FSLogix Profile Containers as the WVD profile standard (2019)](wvd-profiles-fslogix-azure-files-2019.md)

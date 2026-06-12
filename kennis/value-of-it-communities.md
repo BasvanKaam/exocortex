@@ -43,6 +43,7 @@ He stresses a community is not one-way traffic - by sharing knowledge you help o
 - [Local communities and Meetup; Dutch community examples](local-communities-and-meetup.md)
 - [Curated cloud self-study resources (Masterclass handout)](masterclass-curated-cloud-learning-resources.md)
 - [The Microsoft MVP program](microsoft-mvp-program.md)
+- [Method: Build Colleagues Toward MVP by Plugging Them Into Communities Early](mvp-mentoring-pipeline-build-credit-early.md)
 - [myCUGC: the Citrix User Group Community](mycugc-citrix-user-group-community.md)
 - [Podcasts as a learning channel for Cloud and EUC](podcasts-for-cloud-euc.md)
 - [Second brain als cognitieve infrastructuur](second-brain-cognitive-infrastructure.md)

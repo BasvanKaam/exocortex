@@ -22,4 +22,5 @@ How it worked then: split tunneling is an SSL VPN feature controlling what traff
 - [Intranet Applications: the subnet objects that define split tunneling](netscaler-intranet-applications-object.md)
 - [NetScaler IP terminology: NSIP, SNIP, MIP, VIP, vServer](netscaler-ip-terminology.md)
 - [NetScaler SNIP, MIP and static routes: how traffic is sourced and routed](netscaler-snip-mip-static-routes.md)
+- [Office 365 Network Performance: Service Front Doors and the Basics](office365-network-performance-basics.md)
 - [Split tunneling's convenience carries a real, not far-fetched, security risk](positie-split-tunneling-security-tradeoff.md)

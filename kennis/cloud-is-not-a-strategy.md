@@ -21,6 +21,7 @@ The consequence he presses: in a world where solutions are increasingly cloud-ba
 ## Verwante notities
 
 - [Cloud Is an Operating Model, Not a Location](cloud-is-an-operating-model-not-a-location.md)
+- [Cloud is not the answer to everything, but baseline knowledge is non-negotiable](cloud-needs-baseline-knowledge-not-hype.md)
 - [Cloud Is Not the Answer to Everything](cloud-not-the-answer-to-everything.md)
 - [ICT Vision: IT and Cloud Strategy Derive from the Digital Strategy](ict-vision-strategy-derivation-from-digital-strategy.md)
 - [Position: Cloud Is a Strategic Derivative, Not a Goal in Itself](position-cloud-is-strategic-derivative-not-goal.md)

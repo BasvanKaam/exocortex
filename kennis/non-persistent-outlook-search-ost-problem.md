@@ -26,5 +26,6 @@ This is the exact gap that container/profile solutions filled: FSLogix Profile a
 - [Office 365 cached-mode OST files break on non-persistent desktops](office-365-ost-non-persistent-vdi-problem.md)
 - [Office 365 cached mode breaks on non-persistent VDI/RDSH](office365-cached-mode-nonpersistent-problem.md)
 - [Office 365 pain on non-persistent VDI, solved by containers](office365-nonpersistent-vdi-fslogix.md)
+- [Outlook Online Mode Is Insufficient on VDI/RDSH](outlook-online-mode-insufficient-on-vdi.md)
 - [Profile Disk plus VHD container: containerizing the user profile](profile-disk-vhd-container-concept.md)
 - [Granular profile handling: write-by-application-level and registry injection](write-by-application-level-profiles.md)

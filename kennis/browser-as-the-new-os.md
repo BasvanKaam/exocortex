@@ -28,4 +28,5 @@ This also eases BYOD adoption, since the endpoint requirement collapses to 'has 
 - [Chromebooks valuable but not enterprise-ready (2014)](chromebooks-not-enterprise-ready-yet-2014.md)
 - [Citrix dropped the Chromebook Receiver for HTML5](citrix-chromebook-receiver-to-html5.md)
 - [HTML5 browser clients: appeal and historical pain points](html5-browser-client-tradeoffs.md)
+- [Secure the data and access, not the device, and give employees freedom](secure-the-data-not-the-device-give-employees-freedom.md)
 - [WFH is not going away anytime soon](wfh-is-here-to-stay-2020.md)

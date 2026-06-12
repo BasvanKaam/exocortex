@@ -34,6 +34,7 @@ The cultural shifts Bas lists when moving to the cloud:
 - [The IT (Cloud) Professional 2.0: from geek to strategic generalist](it-cloud-professional-2-0.md)
 - [ITIL Service Management in Cloud Environments](itil-in-cloud-environments.md)
 - [Key Takeaways Chapter 4: Cloud Transformation Beyond Technology](key-takeaways-chapter-4-cloud-transformation.md)
+- [Learn the database back-end, not just the front-end](learn-the-database-back-end-not-just-the-front-end.md)
 - [Transformation: From Product to Service, Ownership to Usage](product-to-service-ownership-to-usage.md)
 - [Resistance: cloud is more than technology](resistance-to-change-in-cloud-adoption.md)
 - [SCAF Pillars and Design Principles](scaf-pillars-and-design-principles.md)

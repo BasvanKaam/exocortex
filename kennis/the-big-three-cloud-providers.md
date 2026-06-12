@@ -32,3 +32,4 @@ Bas notes these figures were nearly identical a few years earlier; the three gro
 - [Google Cloud Platform Profile and Strengths](gcp-profile-strengths.md)
 - [Azure, AWS and Google sustainability targets](provider-sustainability-targets.md)
 - [Tenant vs Account vs Project: the top-level boundary across Azure, AWS, Google](tenant-account-project-across-providers.md)
+- [Three Cloud Providers in One Line Each](three-cloud-providers-one-line-characterization.md)

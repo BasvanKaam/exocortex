@@ -17,6 +17,7 @@ Bas teaches a cloud exit strategy as a first-class concern, captured in his slog
 ## Verwante notities
 
 - [Cloud Bootcamp: target audience and learning outcomes](cloud-bootcamp-audience-and-outcomes.md)
+- [Cloud exit strategy: why and how](cloud-exit-strategy.md)
 - [A cloud exit strategy is insurance you hope not to need](cloud-exit-strategy-as-insurance.md)
 - [Why have a cloud exit strategy - the exit comes before onboarding](cloud-exit-strategy-rationale.md)
 - [Cloud Masterclass: learning objectives](cloud-masterclass-learning-objectives.md)
@@ -25,4 +26,5 @@ Bas teaches a cloud exit strategy as a first-class concern, captured in his slog
 - [Plan the Exit Before You Commit](plan-the-exit-before-you-commit.md)
 - [Cloud adoption goes far beyond technology alone](position-cloud-adoption-is-more-than-tech.md)
 - [A Cloud Strategy without a reversibility plan is incomplete](position-cloud-strategy-needs-exit-strategy.md)
+- [Plan the cloud exit before you onboard](position-exit-before-onboarding.md)
 - [SCAF Cloud Exit Strategy Template (On Bas's Backlog)](scaf-cloud-exit-strategy-on-backlog.md)

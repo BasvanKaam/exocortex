@@ -35,6 +35,7 @@ Source: Bas van Kaam, Salomon IT blog, 2019-08-28.
 - [Plan the Exit Before You Commit](plan-the-exit-before-you-commit.md)
 - [Reactive vs. Proactive IT and the Service Catalogue](reactive-vs-proactive-it-service-catalogue.md)
 - [Roadmap as a Service (RaaS)](roadmap-as-a-service-raas.md)
+- [SCAF: Salomon Cloud Adoptie Framework](salomon-cloud-adoptie-framework-scaf.md)
 - [SCAF Design Principles and Why It Exists](scaf-design-principles.md)
 - [SCAF Guidelines Handbook: Internal, Reusable Source Document](scaf-handbook-purpose-and-reuse.md)
 - [SCAF Engagement: From First Conversation to Kick-off](scaf-initiation-and-engagement-flow.md)

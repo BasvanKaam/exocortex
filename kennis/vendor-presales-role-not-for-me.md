@@ -22,6 +22,7 @@ His framing is candid and without regret: he is grateful for the chance, learned
 - [Liquidware suite: ProfileUnity, FlexApp, Stratusphere UX (2018)](liquidware-profileunity-flexapp-stratusphere.md)
 - [Liquidware is a US success but underrated in Europe](liquidware-underrated-in-europe.md)
 - [Don't make money your number one priority](money-not-number-one.md)
+- [Why the Salomon Partnership Doesn't Add Up: Too Small to Absorb the Blows](salomon-partnership-economics-too-small-to-absorb-blows.md)
 - [Re-doing the full cert path from the bottom isn't a bad idea, even for seniors](start-from-the-bottom-even-if-senior.md)
 - [Stratusphere UX is the Swiss Army knife of the portfolio](stratusphere-swiss-army-knife.md)
 - [A senior peer group is the best sounding board](value-of-peer-sounding-board-group.md)

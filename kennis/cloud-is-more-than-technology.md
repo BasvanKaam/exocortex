@@ -28,4 +28,5 @@ This is a recurring theme across his 2019-2020 writing and it carries into how h
 - [Loose coupling as a core Cloud design principle](loose-coupling-cloud-architecture.md)
 - [Resistance: cloud is more than technology](resistance-to-change-in-cloud-adoption.md)
 - [The Step-Cloud Adoptie Framework (SCAF) as the book's backbone](scaf-the-red-thread-of-the-book.md)
+- [Technology Still Matters — and Is Getting More Complex, Not Less](technology-still-matters-and-is-getting-more-complex.md)
 - [Virtualization is a part of cloud, not the same thing](virtualization-is-not-cloud.md)

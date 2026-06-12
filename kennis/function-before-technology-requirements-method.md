@@ -30,5 +30,6 @@ The core test: technology serves function, function never bends to technology.
 - [Don't stress so much about the cloud](dont-stress-about-the-cloud.md)
 - [Functionality before technology; business objectives drive cloud adoption](functionality-before-technology-ea-principle.md)
 - [We Give the Insight, You Make the Choice](give-insight-client-decides.md)
+- [Policy is the starting point of every IT project](policy-as-the-start-of-every-it-project.md)
 - [Requirements Before Solution: Build the Business Case First](requirements-before-solution-business-case.md)
 - [Technology Should Never Be Leading](technology-should-never-be-leading.md)

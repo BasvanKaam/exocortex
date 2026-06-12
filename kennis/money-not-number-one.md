@@ -21,6 +21,7 @@ Bas's stance on compensation: getting rewarded for expertise makes sense, but th
 - [Be yourself; impersonating someone else never lasts](be-yourself-authenticity.md)
 - [Crohn's diagnosis and learning to live with it](crohns-diagnosis-2016.md)
 - [Community involvement as the engine of his career](positie-community-as-career-engine.md)
+- [Willing to co-invest in building his own training business](position-co-invest-in-your-own-training-business.md)
 - [Say yes to the unknown, learn to say no, leave the comfort zone](say-yes-say-no-comfort-zone.md)
 - [A pre-sales vendor role wasn't the right fit](vendor-presales-role-not-for-me.md)
 - [Treating the job as a hobby you'd do anyway](work-as-hobby-philosophy.md)

@@ -34,3 +34,4 @@ Use cases he names for keeping Windows 7 longer: an application set dependent on
 - [Windows SAC vs LTSC servicing channels](windows-sac-vs-ltsc-servicing-channels.md)
 - [Windows Virtual Desktop: multi-user Windows 10 as DaaS on Azure](wvd-multi-user-windows10-daas-2019.md)
 - [WVD roadmap signals from the 2019 workshop](wvd-roadmap-signals-2019.md)
+- [WVD Whitepaper: The Selling Points](wvd-whitepaper-propositions.md)

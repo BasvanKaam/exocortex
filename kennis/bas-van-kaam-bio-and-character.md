@@ -33,4 +33,5 @@ The book is dedicated to his late mother-in-law Loes Schellekens (a "powervrouw,
 - [Citrix Technology Professionals (CTP) and Citrix Technology Advocates (CTA)](citrix-technology-professionals-and-advocates.md)
 - [CTO vs Field CTO: internal strategy vs external customer translation](cto-vs-field-cto.md)
 - [The Microsoft MVP program](microsoft-mvp-program.md)
+- [You must understand traditional solutions to give good cloud advice](position-must-know-traditional-solutions-to-advise-on-cloud.md)
 - [We do it differently: culture over recruitment ritual](we-do-it-differently-team-culture.md)

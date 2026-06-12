@@ -22,9 +22,12 @@ Related: [[masterclass-regie-organization-demand-supply-model]]
 
 ## Verwante notities
 
+- [Business-IT Alignment In Plain Language](business-it-alignment-plain-language.md)
 - [Convergence, Not Alignment, Between Business and IT](business-it-convergence-not-alignment.md)
+- [Cloud success is an organisational and adoption problem, not a technical one](cloud-success-is-organisational-not-technical.md)
 - [From Beheer to Regie: The Regieorganisatie Model](from-beheer-to-regie-organisation.md)
 - [Masterclass: Demand-Supply regie model for the orchestration organization](masterclass-regie-organization-demand-supply-model.md)
 - [Position: pursue business-IT convergence, not alignment](position-business-it-convergence-over-alignment.md)
 - [Position: it should be Business-IT (BIT), not IT alone](position-business-technology-over-it.md)
+- [Blog topic backlog: closing the IT-business gap via cloud adoption](salomon-blog-topic-backlog-cloud-adoption.md)
 - [SCAF support tool: the strategy map (read up, build down)](scaf-strategy-map-support-tool.md)

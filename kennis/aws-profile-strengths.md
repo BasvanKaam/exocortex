@@ -31,3 +31,4 @@ Key facts:
 - [Jeff Bezos as the founder of the modern Cloud](jeff-bezos-founder-of-modern-cloud.md)
 - [Tenant vs Account vs Project: the top-level boundary across Azure, AWS, Google](tenant-account-project-across-providers.md)
 - [The Big Three Cloud Providers (AWS, Azure, GCP)](the-big-three-cloud-providers.md)
+- [Three Cloud Providers in One Line Each](three-cloud-providers-one-line-characterization.md)

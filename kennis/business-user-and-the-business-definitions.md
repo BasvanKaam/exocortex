@@ -25,6 +25,7 @@ He flags that a major theme of the book is how these groups collaborate, or fail
 
 - [Bas on feedback as a continuous process from the insight phase](bas-feedback-continuous-process.md)
 - [Put the Business Before the Technology](business-before-technology.md)
+- [Business-IT Alignment In Plain Language](business-it-alignment-plain-language.md)
 - [Convergence, Not Alignment, Between Business and IT](business-it-convergence-not-alignment.md)
 - [EA: Working with Principles (Top-Down and Bottom-Up Balance)](ea-working-with-principles.md)
 - [Opdracht 4 - Cloudkompas (XYZ-Care Health Group)](opdracht-cloudkompas-xyz-care.md)

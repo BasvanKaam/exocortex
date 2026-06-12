@@ -23,6 +23,7 @@ This is a stance against IT making cloud decisions in isolation. He further argu
 
 ## Verwante notities
 
+- [Business-IT Alignment In Plain Language](business-it-alignment-plain-language.md)
 - [Convergence, Not Alignment, Between Business and IT](business-it-convergence-not-alignment.md)
 - [Cloud Governance: Distinct Aims and Business Alignment](cloud-governance-distinct-aims-business-alignment.md)
 - [Functionality before technology; business objectives drive cloud adoption](functionality-before-technology-ea-principle.md)

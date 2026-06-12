@@ -32,3 +32,4 @@ Key strengths:
 - [Microsoft sustainability goal: carbon negative by 2030](microsoft-carbon-negative-2030.md)
 - [Tenant vs Account vs Project: the top-level boundary across Azure, AWS, Google](tenant-account-project-across-providers.md)
 - [The Big Three Cloud Providers (AWS, Azure, GCP)](the-big-three-cloud-providers.md)
+- [Three Cloud Providers in One Line Each](three-cloud-providers-one-line-characterization.md)

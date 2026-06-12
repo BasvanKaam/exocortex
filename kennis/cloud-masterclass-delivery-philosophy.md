@@ -25,5 +25,6 @@ How Bas runs the room: slides with images, text and tables, but deliberately hea
 - [Cloud Masterclass interaction toolkit for engagement](cloud-masterclass-interaction-techniques.md)
 - [Cloud Masterclass teaching playbook (Bas's delivery method)](cloud-masterclass-teaching-playbook.md)
 - [The Learning Pyramid (National Training Laboratories)](learning-pyramid.md)
+- [Method: Ship the Masterclass via Feedback Rounds and a Low-Fee Try-Out](masterclass-iterative-tryout-method.md)
 - [Withhold slides and hand-outs until the end of the training](masterclass-no-materials-during-lesson.md)
 - [Teach the masterclass through recognition and a co-built business case](teaching-through-recognition-and-shared-business-case.md)

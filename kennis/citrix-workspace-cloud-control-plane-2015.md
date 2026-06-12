@@ -25,6 +25,7 @@ Durable takeaway underneath the dated specifics: cloud-managed control planes hi
 - [Citrix Workspace Suite and Workspace Services (on Azure) introduced at Synergy 2014](citrix-workspace-suite-services-2014-origins.md)
 - [A cloud exit strategy is insurance you hope not to need](cloud-exit-strategy-as-insurance.md)
 - [New FMA features go to the cloud first](cloud-first-feature-delivery-citrix.md)
+- [Cloud-Native Control Plane Changes the Delivery Economics (WVD as Exemplar)](cloud-native-control-plane-changes-economics.md)
 - [The key line between Essentials and full Citrix Cloud: VDA placement](essentials-vs-full-citrix-cloud-vda-placement.md)
 - [New FMA features land in Citrix Workspace Cloud first, then on-prem](positie-zones-and-cloud-first-feature-flow.md)
 - [ShareFile is miles ahead of the competition (2017 take)](sharefile-miles-ahead-of-competition.md)

@@ -20,6 +20,7 @@ Even with Microsoft's good documentation and step-by-step guidance, WVD (2019 pr
 
 - [Bet: WVD third-party vendors are where the action is](betting-on-wvd-third-party-tooling-2020.md)
 - [WVD prerequisites Nerdio still relies on: AD sync and FSLogix profiles](nerdio-wvd-prerequisites-ad-fslogix.md)
+- [Microsoft deliberately leaves WVD management gaps to partners](positie-microsoft-leaves-wvd-management-to-partners-on-purpose.md)
 - [Framing WVD rollout as phases, mapping partners onto each step](wvd-adoption-as-phases-with-partners.md)
 - [WVD hit general availability on September 30, 2019](wvd-ga-date-sept-2019.md)
 - [WVD will only get easier and cheaper, lowering the barrier](wvd-lowering-the-barrier-prediction.md)

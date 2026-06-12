@@ -31,6 +31,7 @@ Only after answering these do you look at which solution fits best. The output o
 - [Do Not Fixate on the Financials Alone](dont-fixate-on-financials-alone.md)
 - [Full Cloud Migration Is Rarely a Good Idea](full-cloud-is-rarely-a-good-idea.md)
 - [Function before technology: filter requirements against wishes](function-before-technology-requirements-method.md)
+- [Policy is the starting point of every IT project](policy-as-the-start-of-every-it-project.md)
 - [Begin at the beginning](start-from-where-you-are.md)
 - [TCO and ROI Defined for Cloud Decisions](tco-roi-definitions-cloud.md)
 - [Technology Should Never Be Leading](technology-should-never-be-leading.md)

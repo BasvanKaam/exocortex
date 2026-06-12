@@ -26,3 +26,4 @@ Key durable caveat Bas stresses: there is no 100% secure device; technology only
 - [2013 mobile management vendor landscape](byod-vendor-landscape-2013.md)
 - [Mobile management acronyms: MDM, MAM, MIM, EMM](mdm-mam-mim-emm-glossary.md)
 - [MDX and the MDX Vault: containerizing corporate mobile apps](mdx-mobile-app-containerization.md)
+- [Secure the data and access, not the device, and give employees freedom](secure-the-data-not-the-device-give-employees-freedom.md)

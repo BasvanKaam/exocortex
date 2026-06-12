@@ -20,6 +20,7 @@ Source: Bas van Kaam, Salomon IT blog, 2020-03-18.
 
 ## Verwante notities
 
+- [A company built on family, not a family business](company-built-on-family-not-a-family-business.md)
 - [Home-Working Policy and Device Standards](home-working-policy-and-device-standards.md)
 - [Hybrid Is the Dominant Model, So Build the Best Bridge](hybrid-is-the-dominant-model-build-the-bridge.md)
 - [Make the Best of the Crisis: Prepare for Permanent Remote](make-the-best-of-the-crisis-prepare-for-permanent-remote.md)

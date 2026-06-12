@@ -27,3 +27,4 @@ WVD's architecture descends from RDMI (Remote Desktop Modern Infrastructure). As
 - [Windows Server 2019 at announcement: LTSC/SAC, RDSH question, RDmi](windows-server-2019-ltsc-sac-rdmi.md)
 - [On-prem WVD looks off the table, GA by summer 2019](wvd-on-prem-out-of-question-positie.md)
 - [Not WVD on-prem, but a pragmatic middle ground](wvd-on-prem-workarounds-positie.md)
+- [WVD user connection flow and Reverse Connect](wvd-user-connection-flow-and-reverse-connect.md)

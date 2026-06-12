@@ -29,6 +29,7 @@ SLA Extra notes: resources must meet certain conditions; don't forget supporting
 
 - [Key Takeaways - cloud exit strategy (Chapter 12)](cloud-exit-key-takeaways.md)
 - [Bas's checklist of points of attention for a cloud exit](cloud-exit-points-of-attention.md)
+- [Cloud exit strategy: why and how](cloud-exit-strategy.md)
 - [A cloud exit strategy is insurance you hope not to need](cloud-exit-strategy-as-insurance.md)
 - [The six-step process for building a cloud exit strategy](cloud-exit-strategy-steps.md)
 - [Standard components of a disaster recovery (DR) plan](disaster-recovery-plan-components.md)

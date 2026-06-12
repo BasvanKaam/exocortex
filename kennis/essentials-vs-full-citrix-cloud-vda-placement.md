@@ -23,4 +23,5 @@ How it worked then (2017): the biggest architectural distinction Bas drew betwee
 - [Citrix Workspace Cloud (CWC): a managed control plane over the FMA](citrix-workspace-cloud-overview.md)
 - [CWC as a near-DaaS workaround for Microsoft desktop-OS licensing](cwc-desktop-os-daas-licensing.md)
 - [Machine Creation Services essentials](machine-creation-services-essentials.md)
+- [Cloud, and Citrix especially, is almost always more expensive than on-prem](position-citrix-cloud-is-almost-always-pricier-than-on-prem.md)
 - [Citrix XenDesktop Essentials: what it was and what the price covered](xendesktop-essentials-what-it-was.md)
