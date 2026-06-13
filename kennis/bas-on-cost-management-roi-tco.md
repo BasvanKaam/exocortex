@@ -38,6 +38,7 @@ The Cloud offers many advantages but without good overview and a solid plan cost
 - [Do Not Fixate on the Financials Alone](dont-fixate-on-financials-alone.md)
 - [Bas: frame the business case with an executive summary and added-value story](executive-summary-and-added-value-framing.md)
 - [Google Cloud cost management and optimisation tools](gcp-cost-management-tools.md)
+- [Hard costs vs soft costs (both matter)](hard-costs-vs-soft-costs.md)
 - [Hybrid Latency and the Region-Choice Pitfall](hybrid-latency-region-choice-pitfall.md)
 - [Opdracht 5: build your own business case (the method)](opdracht-5-business-case-exercise.md)
 - [Opex Is Harder for the Provider Than the Customer](opex-challenge-for-providers.md)

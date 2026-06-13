@@ -21,3 +21,4 @@ Writing in mid-2017 after a briefing with the Smart Tools/Insight Services PM (M
 - [Citrix Smart Check: four building blocks and check flow](citrix-smart-check-architecture.md)
 - [Citrix Smart Check: proactive Site health checks on top of Insight Services](citrix-smart-check-proactive-health.md)
 - [Citrix's problem is integration and focus, not lack of products](positie-citrix-should-integrate-not-just-build.md)
+- [Zero Trust extras: patching cadence and CIS-hardened images](zero-trust-hardening-extras-patch-cis-images.md)

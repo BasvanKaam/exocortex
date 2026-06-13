@@ -23,4 +23,5 @@ He closes diplomatically: "I'm not here to bring them down or anything, I just l
 - [Mandatory paid support is not a bad thing per se](customer-success-services-take.md)
 - [Troubleshooting tip #1: document what you've done](document-your-troubleshooting.md)
 - [You don't need Citrix Support all the time - learn to troubleshoot the FMA yourself](dont-need-citrix-support-all-the-time.md)
+- [Support is a Differentiator, Not an Afterthought](support-as-a-differentiator-nerdio.md)
 - [Run a CDF trace before you contact Citrix Support](trace-before-you-call-citrix-support.md)

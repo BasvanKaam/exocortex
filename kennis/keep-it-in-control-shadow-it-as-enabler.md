@@ -19,6 +19,7 @@ Bas's governance stance taught in the Masterclass: cloud makes it easy for anyon
 - [Don't Become the Department of No](avoid-the-department-of-no.md)
 - [Business-IT Alignment Is A People Problem, Not A Tooling Problem](business-alignment-is-a-people-problem.md)
 - [Cloud Masterclass: learning objectives](cloud-masterclass-learning-objectives.md)
+- [Idea: Nerdio vs shadow IT](idee-nerdio-shadow-it-governance.md)
 - [How an Innovation Board operates, end to end](innovation-board-in-detail.md)
 - [IT as Internal Broker and the Regie-Organisatie](it-as-internal-broker-regie-organisatie.md)
 - [Lack of overview, knowledge, governance and Shadow IT](lack-of-overview-knowledge-governance-shadow-it.md)

@@ -35,4 +35,5 @@ Chapter 5 begins the deep dive, starting with Strategie.
 - [The Step-Cloud Adoptie Framework (SCAF) as the book's backbone](scaf-the-red-thread-of-the-book.md)
 - [SCAF timeline: phases, deliverables and gates](scaf-timeline-phases-deliverables-gates.md)
 - [SCAF visual timeline and Bas's preference for visual artifacts](scaf-visual-timeline.md)
+- [Four types of resistance to cloud adoption (Step-Cloud Framework)](step-cloud-four-types-of-resistance.md)
 - [SWOT Analysis in SCAF](swot-analysis-in-scaf.md)

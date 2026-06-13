@@ -47,6 +47,7 @@ The paper's core thesis: the cloud is not a silver bullet. A Cloud-only world is
 - [Lack of overview, knowledge, governance and Shadow IT](lack-of-overview-knowledge-governance-shadow-it.md)
 - [Bas's mini business case: the current-vs-possible mapping table](mini-business-case-current-vs-hybrid-table.md)
 - [Opdracht 2 - Tailored Cloud strategy: the puzzle of models and goals](opdracht-2-cloud-strategy-models-and-goals.md)
+- [Cloud-only is a utopia; cloud-first or hybrid is the only honest answer](positie-cloud-only-is-a-utopia.md)
 - [The promises of the Cloud (and Bas's invitation to challenge them)](the-promises-of-the-cloud.md)
 - [Why traditional Windows applications won't disappear](traditional-windows-applications-wont-disappear.md)
 - [When the Cloud is a good solution - and when it is not](when-cloud-is-and-isnt-a-good-fit.md)

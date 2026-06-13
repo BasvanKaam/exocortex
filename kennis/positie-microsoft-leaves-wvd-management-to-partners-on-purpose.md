@@ -20,6 +20,7 @@ Bas argues that WVD's awkward, roundabout way of configuring and maintaining env
 
 - [CloudJumper optimization features, platform VM, and pricing (2019)](cloudjumper-optimization-features-and-pricing-2019.md)
 - [CloudJumper portfolio: CWMS, CW for Azure, and WVD integration](cloudjumper-portfolio-cwms-cw-for-azure-wvd.md)
+- [Microsoft builds the core, Nerdio closes the management feature gap](microsoft-builds-the-plane-nerdio-fills-the-gap.md)
 - [Windows Virtual Desktop 2019 launch reference](wvd-2019-launch-reference.md)
 - [Framing WVD rollout as phases, mapping partners onto each step](wvd-adoption-as-phases-with-partners.md)
 - [WVD is not a click-and-go product](wvd-not-click-and-go.md)

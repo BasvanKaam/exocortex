@@ -16,7 +16,9 @@ When releasing his AVD security cheat sheet (April 2023), Bas deliberately posit
 
 ## Verwante notities
 
+- [AVD security cheat sheet: the six-category framework](avd-security-cheat-sheet-framework.md)
 - [AVD Security Guidelines cheat sheet: a 35-item starting point](avd-security-cheat-sheet-starting-point.md)
+- [Security is always a fine line against user experience](avd-security-vs-user-experience-balance.md)
 - [A cheat sheet should orient, not rank vendors](cheat-sheet-as-starting-point-not-comparison.md)
 - [Stance: keep the comparison cheat sheet to a single A4 page](cheat-sheet-craft-single-a4-page.md)
 - [Community feedback as the force that shapes the product](community-as-product-shaping-force.md)

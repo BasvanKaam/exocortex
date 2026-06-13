@@ -28,3 +28,4 @@ He also relayed a recurring customer ask: dedicated on-site Citrix support engin
 - [Citrix's constant rebranding confuses customers](citrix-rebranding-confuses-people.md)
 - [A candid critique of Citrix support response times](citrix-support-keep-them-on-their-toes.md)
 - [You don't need Citrix Support all the time - learn to troubleshoot the FMA yourself](dont-need-citrix-support-all-the-time.md)
+- [Support is a Differentiator, Not an Afterthought](support-as-a-differentiator-nerdio.md)

@@ -34,4 +34,5 @@ He welcomes all ideas: specific additions, an online extension of the book, thin
 - [Creative Communication and Putting Responsibility on Staff](creative-communication-and-feedback-loop.md)
 - [Innovation Comes From Outside the Firewall](innovation-comes-from-outside-the-firewall.md)
 - [More Is Not By Definition Better](more-is-not-by-definition-better.md)
+- [Community feedback should shape the product](positie-community-shapes-the-product.md)
 - [Bas on the value of IT communities](value-of-it-communities.md)

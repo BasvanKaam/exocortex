@@ -26,6 +26,7 @@ Dated to 2020 WVD, but the dependency chain (directory + profile container + net
 - [Azure building blocks to extend, protect and migrate RDS/WVD](azure-services-for-rds-wvd-extend-migrate.md)
 - [Nerdio Manager for WVD deploys into your own Azure tenant](nerdio-manager-wvd-deploys-in-your-tenant.md)
 - [Nerdio Manager for WVD core capabilities circa 2020](nmw-core-capabilities-2020.md)
+- [Installing Nerdio Manager for WVD from the Azure Marketplace](nmw-install-from-azure-marketplace.md)
 - [Inspecting prerequisites up front saves the whole deployment](prerequisites-discipline-saves-time.md)
 - [Even with managed WVD, the customer still owns the base image](wvd-customer-still-owns-the-base-image.md)
 - [WVD is not a click-and-go product](wvd-not-click-and-go.md)

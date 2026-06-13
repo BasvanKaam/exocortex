@@ -27,6 +27,8 @@ Apps that can't be virtualized or replaced end up in the base/golden image, and 
 - [Non-persistent plus layering = the best of both worlds](non-persistent-feels-persistent-with-layering.md)
 - [If most VDIs are non-persistent, why aren't more apps virtualised?](non-persistent-vs-app-virtualisation-surprise.md)
 - [Pooled vs dedicated desktops: the durable trade-off](pooled-vs-dedicated-desktops.md)
+- [App layering that keeps the base image clean is the right model for AVD](positie-app-layering-keeps-the-image-clean.md)
 - [Layering and virtualization are partners, and the cons are soon forgotten](positie-layering-and-virtualization-coexist.md)
 - [MCS vs PVS is done to death; pick a lens and stress-test the choice](positie-mcs-not-vs-pvs.md)
+- [Start from a fresh image rather than reusing legacy (Citrix) images](start-from-a-fresh-image.md)
 - [Even with managed WVD, the customer still owns the base image](wvd-customer-still-owns-the-base-image.md)

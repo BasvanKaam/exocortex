@@ -24,4 +24,5 @@ How it worked then: the Remote Display Analyzer (RDA), by Bram Wolfs and Barry S
 - [Framehawk's Lightweight Framebuffer Protocol](framehawk-lfp-protocol-2.md)
 - [Linking infrastructure performance to employee productivity](infra-performance-vs-productivity.md)
 - [RDA is an industry first that out-shipped Citrix itself](positie-rda-industry-first.md)
+- [PowerShell: download the latest release asset from GitHub](powershell-download-latest-github-release.md)
 - [Switching monitor resolution from a Stream Deck via Display Changer](stream-deck-resolution-switch-display-changer.md)

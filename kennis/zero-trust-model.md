@@ -37,6 +37,7 @@ Guiding principle: "Nooit vertrouwen, altijd verifiëren" (never trust, always v
 - [The Security Operations Center (SOC)](soc-security-operations-center.md)
 - [Voorzorg: Assume You Will Be Breached](voorzorg-assume-breach.md)
 - [Wireless Encryption: WEP, WPA and WPA2](wireless-encryption-wep-wpa-wpa2.md)
+- [Zero Trust Identity Controls in Nerdio (AVD + W365)](zero-trust-controls-nerdio-avd-w365.md)
 - [Zero Trust Works From the Outside In (Building Analogy)](zero-trust-outside-in-building-analogy.md)
 - [Zero Trust Principles](zero-trust-principles.md)
 - [Ten-Category Security Portfolio for Zero Trust](zero-trust-ten-category-portfolio.md)

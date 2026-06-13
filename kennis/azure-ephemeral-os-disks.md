@@ -31,6 +31,7 @@ Good fit for WVD pooled session desktops (multi-session / Windows 10), pooled si
 - [How Azure Reserved Instances and Hybrid Benefit work](azure-ri-ahb-mechanics.md)
 - [The 'big bad image' problem: why everything in the base image hurts](big-bad-base-image-problems.md)
 - [Ephemeral disks' biggest drawback disappears with the right autoscaler](ephemeral-disks-cons-as-pros.md)
+- [Ephemeral OS disks: free, fast, stateless, and the deallocate caveat](ephemeral-os-disks-explained.md)
 - [How Nerdio's WVD autoscale worked: triggers, base/burst capacity, graceful drain](nerdio-autoscale-mechanics-2020.md)
 - [Cheap WVD lab: de-allocate VMs, pay only for storage](wvd-lab-cost-deallocate-vms.md)
 - [FSLogix Profile Containers as the WVD profile standard (2019)](wvd-profiles-fslogix-azure-files-2019.md)

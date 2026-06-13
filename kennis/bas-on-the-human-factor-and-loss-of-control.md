@@ -27,6 +27,7 @@ Supporting data, the Nutanix Enterprise Cloud Index (2019) survey of 2,650 IT de
 - [Bas on the helpdesk as first point of contact](bas-on-the-helpdesk-experience.md)
 - [Bas's paper: Cloud Only? No. Cloud First or Hybrid? Yes.](bas-paper-cloud-only-no-cloud-first-yes.md)
 - [Common Cloud Concerns: Cost, Migration, Loss of Control](cloud-concerns-cost-and-control.md)
+- [Governance, shadow IT, and the human factor in cloud adoption](cloud-governance-shadow-it-human-factor.md)
 - [Digital-nomad visas and the future of work](digital-nomad-visas-and-future-of-work.md)
 - [Bas on 'Angst': the human side of cloud adoption](fear-and-the-human-side-of-cloud-adoption.md)
 - [Gartner: 99% of security issues are caused by people](gartner-99-percent-security-issues-are-people.md)

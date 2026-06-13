@@ -36,3 +36,4 @@ Alternatives he considers non-ideal but worth weighing: fat clients / persistent
 - [The 'big bad image' problem: why everything in the base image hurts](big-bad-base-image-problems.md)
 - [How application layering works (filter drivers)](how-application-layering-works.md)
 - [Bas on MCS, workloads and the case for application layering](mcs-application-workloads-layering.md)
+- [Start from a fresh image rather than reusing legacy (Citrix) images](start-from-a-fresh-image.md)

@@ -28,6 +28,7 @@ Reads are less demanding than writes and can be cached (read from memory on repe
 - [In-memory write caching: reducing IOPS needed (PVS RAM Cache with Overflow to Disk)](in-memory-caching-ram-cache-pvs.md)
 - [Bas on IOPS, latency and storage sizing](iops-and-latency-fundamentals.md)
 - [IOPS fundamentals: latency is king](iops-fundamentals-latency.md)
+- [IOPS, latency, and sizing storage for VDI workloads](iops-latency-and-sizing-storage-for-vdi.md)
 - [MCS IOPS profile: ~1.6x PVS average, ~1.2x steady state](mcs-iops-vs-pvs.md)
 - [MCS rollbacks and reboot considerations (boot storms, disconnect policies)](mcs-rollbacks-and-reboot-considerations.md)
 - [Bas's MCS storage implications checklist](mcs-storage-implications.md)

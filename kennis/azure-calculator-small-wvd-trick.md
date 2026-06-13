@@ -26,4 +26,5 @@ Microsoft assumes you hold proper Windows licenses when you pick WVD, so the cal
 - [Autoscaling can beat Reserved Instances, and pairs with them](autoscaling-vs-reserved-instances.md)
 - [How Azure Reserved Instances and Hybrid Benefit work](azure-ri-ahb-mechanics.md)
 - [The Azure calculator is fine, but MSPs need a real one](use-vendor-calculators-not-just-azure.md)
+- [Estimating WVD cost for under-100-user environments with the Azure calculator](wvd-azure-calculator-small-environment-method.md)
 - [WVD session hosts are charged at Linux compute rates](wvd-charged-at-linux-rates.md)

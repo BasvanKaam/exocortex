@@ -24,6 +24,7 @@ While describing how an Innovation Board gathers external feedback, Bas offers a
 - [Bas's reframe: chase trends and innovation only in moderation](bas-innovation-with-moderation.md)
 - [Bas's Roadmap Is Driven by Reader Feedback](bas-reader-feedback-as-roadmap.md)
 - [Bas's 'van proberen kun je leren' philosophy](bas-van-proberen-kun-je-leren.md)
+- [Community feedback should visibly shape the product](community-feedback-shapes-the-product.md)
 - [Creative Communication and Putting Responsibility on Staff](creative-communication-and-feedback-loop.md)
 - [How an Innovation Board operates, end to end](innovation-board-in-detail.md)
 - [Innovation Comes From Outside the Firewall](innovation-comes-from-outside-the-firewall.md)

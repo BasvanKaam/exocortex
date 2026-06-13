@@ -23,4 +23,5 @@ Source: Bas van Kaam, Salomon IT blog, 2019-09-17.
 - ['The Cloud' Is Not One Thing: Define It First](cloud-is-not-one-thing-define-it.md)
 - [Don't stress so much about the cloud](dont-stress-about-the-cloud.md)
 - [Full Cloud Migration Is Rarely a Good Idea](full-cloud-is-rarely-a-good-idea.md)
+- [Cloud-only is a utopia; cloud-first or hybrid is the only honest answer](positie-cloud-only-is-a-utopia.md)
 - [When the Cloud is a good solution - and when it is not](when-cloud-is-and-isnt-a-good-fit.md)

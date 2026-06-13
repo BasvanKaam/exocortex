@@ -25,6 +25,7 @@ The Windows search index indexes data in the background at logon, including mail
 ## Verwante notities
 
 - [Citrix WEM/UPM per-user Outlook search + OST roaming (Synergy 2018)](citrix-wem-upm-ost-search-roaming-2018.md)
+- [Physical and performance limits of working from the cloud](cloud-physical-and-performance-limits.md)
 - [FSLogix benefits for WVD (and on-premises)](fslogix-benefits-for-wvd-and-on-premises.md)
 - [FSLogix: The Five Capabilities Bas Teaches](fslogix-five-capabilities.md)
 - [Migrating homefolders and profiles to OneDrive with ShareGate](migrate-homefolders-profiles-to-onedrive-sharegate.md)

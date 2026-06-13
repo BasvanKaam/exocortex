@@ -26,6 +26,7 @@ Bas's analogy: it's like eating. Either you go to the supermarket, assemble it y
 
 ## Verwante notities
 
+- [AVD Shared Responsibility: Who Secures What](avd-shared-responsibility-model.md)
 - [Bas's challenge: can you do cloud security better yourself?](bas-can-you-do-security-better-yourself.md)
 - [Reading the Hosting Spectrum - Capex Falls, Opex Rises](capex-opex-shift-across-hosting-spectrum.md)
 - [Cloud delivery models: IaaS, PaaS, SaaS and DaaS](cloud-delivery-models-iaas-paas-saas-daas.md)

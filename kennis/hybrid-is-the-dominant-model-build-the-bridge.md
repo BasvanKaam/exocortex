@@ -20,6 +20,7 @@ His closing thesis: 'Wie de beste brug bouwt, wint!' (whoever builds the best br
 
 ## Verwante notities
 
+- [Cloud-First, But On-Prem AVD Has Legitimate Drivers](cloud-first-but-on-prem-has-real-reasons.md)
 - [Cloud-First, But Not Everything to the Cloud](cloud-first-tenzij-not-everything-to-the-cloud.md)
 - [Cloud Is an Operating Model, Not a Location](cloud-is-an-operating-model-not-a-location.md)
 - [De Cloud Professionals vision: focus and hybrid as the main act](de-cloud-professionals-vision-focus.md)

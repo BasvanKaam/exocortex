@@ -37,6 +37,7 @@ Low-risk adoption: start small alongside what you already have, no big upfront i
 - [Fast, Good, Cheap: You Can Now Pick All Three](fast-good-cheap-pick-three.md)
 - [FSLogix: The Five Capabilities Bas Teaches](fslogix-five-capabilities.md)
 - [IT as a Utility](it-as-a-utility.md)
+- [The pandemic compressed VDI/DaaS adoption from months to weeks](pandemic-accelerated-vdi-daas-adoption.md)
 - [Windows 7 End of Support and the Windows Virtual Desktop (2019)](windows-7-eol-and-wvd-2019.md)
 - [WVD Explained: Bas's Core Story](wvd-explained-bvk-framing.md)
 - [WVD introduced multi-user Windows 10 and a license-based entitlement model](wvd-win10-multiuser-and-licensing.md)

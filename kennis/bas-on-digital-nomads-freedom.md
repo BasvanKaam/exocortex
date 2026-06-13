@@ -34,3 +34,4 @@ Bas notes the lifestyle is growing among older generations too (fifties and sixt
 - [Digital-nomad visas and the future of work](digital-nomad-visas-and-future-of-work.md)
 - [War story: the Friday-afternoon Unreal Tournament community](friday-afternoon-unreal-tournament-community.md)
 - [Post-COVID work models and continued cloud growth](post-covid-work-and-cloud-trends.md)
+- [Work-life isn't a balance; work is one part of life's whole package](work-is-part-of-life-not-balanced-against-it.md)

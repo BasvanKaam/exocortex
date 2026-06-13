@@ -21,6 +21,7 @@ How you become an MVP differs sharply from E2EVC. E2E is primarily a few annual 
 
 - [Bas's take on Twitter/X and Bluesky for following experts](bas-on-twitter-x-and-bluesky.md)
 - [Bas van Kaam: experience, character and the people behind the book](bas-van-kaam-bio-and-character.md)
+- [Career milestone: Field CTO EMEA at Nerdio](bvk-career-field-cto-emea-nerdio.md)
 - [Citrix Technology Professionals (CTP) and Citrix Technology Advocates (CTA)](citrix-technology-professionals-and-advocates.md)
 - [E2EVC (Expert to Expert Virtualization Congress)](e2evc-community.md)
 - [E2EVC: the Experts-2-Experts Virtualization Conference](e2evc-conference.md)

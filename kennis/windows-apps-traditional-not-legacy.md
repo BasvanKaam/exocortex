@@ -24,4 +24,5 @@ This ties directly to his app-layering argument: 30-40% of Windows apps cannot b
 - [If most VDIs are non-persistent, why aren't more apps virtualised?](non-persistent-vs-app-virtualisation-surprise.md)
 - [On-prem is still king; a cloud 'big bang' is coming, slowly](on-prem-king-cloud-bigbang-prediction-2018.md)
 - [Layering and virtualization are partners, and the cons are soon forgotten](positie-layering-and-virtualization-coexist.md)
+- [Call them traditional Windows apps, not legacy](positie-windows-apps-traditional-not-legacy.md)
 - [State of the SBC/VDI market in 2018 (survey snapshot)](state-of-vdi-sbc-2018-snapshot.md)

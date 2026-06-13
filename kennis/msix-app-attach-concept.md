@@ -30,6 +30,8 @@ Org note: FSLogix sits under the WVD/RDS team, while app attach was developed by
 - [FSLogix: The Five Capabilities Bas Teaches](fslogix-five-capabilities.md)
 - [How application layering works: filter drivers merging virtual disks](how-application-layering-works-2.md)
 - [App attach is rebranded layering, but Microsoft's marketing will make it win](msix-app-attach-marketing-will-make-it-popular.md)
+- [MSIX AppAttach: what it is and why it matters](msix-appattach-explainer.md)
+- [Setting up MSIX App Attach v2 in Nerdio and publishing apps](msix-appattach-v2-publish-nerdio.md)
 - [MSIX positioned to replace App-V (2019 transition)](msix-replacing-app-v.md)
 - [Nerdio innovating on top of WVD is 'a perfect marriage'](nerdio-plus-microsoft-perfect-marriage.md)
 - [Thesis: Nerdio on top of WVD is a 'perfect marriage'](nerdio-wvd-perfect-marriage-thesis.md)

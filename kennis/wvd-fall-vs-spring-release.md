@@ -28,5 +28,6 @@ Dated marker: ARM is now the only model and "Fall/Spring release" terminology is
 - [How Nerdio's WVD autoscale worked: triggers, base/burst capacity, graceful drain](nerdio-autoscale-mechanics-2020.md)
 - [Nerdio Manager for WVD deploys into your own Azure tenant](nerdio-manager-wvd-deploys-in-your-tenant.md)
 - [WVD Spring (ARM) release: Workspaces vs Fall Tenants in NMW](nmw-spring-update-workspaces-vs-fall-tenants.md)
+- [WVD Classic to ARM migration: the two-step pattern](wvd-classic-to-arm-two-step-migration.md)
 - [WVD roadmap signals from the 2019 workshop](wvd-roadmap-signals-2019.md)
 - [WVD tenant setup gotchas (2019 workshop)](wvd-tenant-setup-gotchas-2019.md)

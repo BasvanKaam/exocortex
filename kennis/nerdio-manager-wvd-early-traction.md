@@ -24,3 +24,4 @@ How it was at the time: Nerdio released Nerdio Manager for Windows Virtual Deskt
 - [Nerdio Manager for WVD deploys into your own Azure tenant](nerdio-manager-wvd-deploys-in-your-tenant.md)
 - [Nerdio innovating on top of WVD is 'a perfect marriage'](nerdio-plus-microsoft-perfect-marriage.md)
 - [WVD technology partner ecosystem reached 13 partners (2019)](wvd-partner-ecosystem-2019.md)
+- [Migrating WVD from Tenant to Workspace (ARM) in Nerdio](wvd-tenant-to-workspace-arm-migration.md)

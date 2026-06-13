@@ -31,6 +31,7 @@ The through-line: combine commercial levers (reserved/spot, region pricing, lice
 - [Reserved, Scheduled and Spot instances as AWS cost levers](aws-instance-purchasing-models-cost.md)
 - [Storage tiering and lifecycle policies cut AWS storage cost](aws-storage-tiering-and-lifecycle-cost.md)
 - [How Azure Reserved Instances and Hybrid Benefit work](azure-ri-ahb-mechanics.md)
+- [B-series burstable VMs: the CPU-credit model and when to use them](b-series-burstable-vms-explained.md)
 - [Cloud Masterclass: the curriculum Bas teaches](cloud-masterclass-curriculum.md)
 - [Cloud Service Ideas: Cost Optimization and Architecture Review](cloud-service-ideas-optimization-and-architecture-review.md)
 - [Worked TCO/ROI exercise: on-prem vs co-lo vs managed vs IaaS](cloud-tco-roi-financial-comparison-exercise.md)

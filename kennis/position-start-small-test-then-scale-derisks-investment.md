@@ -31,6 +31,7 @@ A big-bang cutover bets the whole investment on assumptions that the intake coul
 
 - [Criteria for Selecting the First Workload to Migrate](first-workload-selection-criteria.md)
 - [Indicative cost overview: split the totals, show the assumptions, never call it a quote](indicative-cost-overview-method-assumptions-and-reserved-instances.md)
+- [Method: Agree PoC Success Criteria Up Front](method-poc-success-criteria.md)
 - [Migration strategy framework: transition vs transformation, big-bang vs phased, build-clean-alongside](migration-strategy-decision-framework.md)
 - [Position: phase the rollout and keep part of the legacy estate intact](position-phased-rollout-keep-legacy-intact.md)
 - [Bas: build buy-in with a small PoV or PoC and free resources](start-small-with-pov-or-poc.md)

@@ -18,4 +18,5 @@ How it worked then (2015): Power management in the Citrix FlexCast Management Ar
 
 ## Verwante notities
 
+- [Don't leave desktop power management to users alone](dont-leave-power-management-to-users.md)
 - [Have a look, don't evangelize: measured stance on Power Management](have-a-look-dont-evangelize-power-management.md)

@@ -26,6 +26,7 @@ Combining these creates a robust, highly available environment resilient to both
 ## Verwante notities
 
 - [Autoscaling and the Black Friday Scenario](autoscaling-black-friday-scenario.md)
+- [AVD High Availability: Availability Sets vs Zones and Redundant Storage](avd-high-availability-sets-zones-storage.md)
 - [Azure Availability Sets vs Availability Zones](azure-availability-sets-vs-zones.md)
 - [The Azure cloud hierarchy: tenant down to resources](azure-cloud-hierarchy.md)
 - [Azure Files storage redundancy: LRS, ZRS, GRS](azure-files-storage-redundancy-lrs-zrs-grs.md)

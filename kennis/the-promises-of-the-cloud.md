@@ -29,6 +29,7 @@ Bas lists the powerful promises that made the Cloud attractive, but explicitly i
 - [Bas deconstructs the cloud promises](bas-deconstructs-the-cloud-promises.md)
 - [Bas's paper: Cloud Only? No. Cloud First or Hybrid? Yes.](bas-paper-cloud-only-no-cloud-first-yes.md)
 - [Common Cloud Concerns: Cost, Migration, Loss of Control](cloud-concerns-cost-and-control.md)
+- [The cloud's promises, line by line (Bas's reality check)](cloud-promises-reality-check.md)
 - [Bas's rule: define the Cloud before debating its pros and cons](define-cloud-before-debating-it.md)
 - [Fundamental principles of the Cloud (per NIST)](fundamental-cloud-principles-nist.md)
 - [The five NIST cloud characteristics](nist-cloud-characteristics.md)

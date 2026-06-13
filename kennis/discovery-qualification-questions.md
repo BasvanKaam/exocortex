@@ -46,3 +46,4 @@ I keep an explicit list of **dependencies and points of attention** and I name t
 - [Engagement structure: from first conversation to handover](engagement-structure-presales-to-handover.md)
 - [Interview and assessment intake method](interview-assessment-method.md)
 - [Interview questions are handholds, not a checklist](interviewvragen-zijn-handvatten-geen-checklist.md)
+- [Vertical-tailored discovery deck for smaller opportunities](vertical-discovery-deck-method.md)

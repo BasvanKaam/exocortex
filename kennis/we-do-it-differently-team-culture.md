@@ -24,4 +24,5 @@ The invitation is deliberately informal: evenings, breaks, phone, Skype, a confe
 - [Hey... Biiieeerrrrrtje? — Early Team Bonding](biertje-team-bonding-aside.md)
 - [Cloud ideas for the modern, attractive employer](cloud-ideas-for-the-modern-attractive-employer.md)
 - [A company built on family, not a family business](company-built-on-family-not-a-family-business.md)
+- [Everyone sweeps the floor (the Nerdio culture stance)](position-everyone-sweeps-the-floor.md)
 - [Remote Work Is a Talent Requirement and an Opportunity](remote-work-as-opportunity-and-talent-magnet.md)

@@ -36,4 +36,5 @@ The "doesn't apply to start-ups" objection: true for a real start-up, but not al
 - [Bas's reframe: call them 'traditional' applications, not 'Legacy'](bas-traditional-not-legacy-applications.md)
 - [Bas's warning: Cloud apps with on-premises backends invite latency trouble](latency-cloud-app-onprem-backend.md)
 - [Why the page file matters in Terminal Server](terminal-server-page-file-copy-on-write.md)
+- [Why traditional Windows apps keep hybrid alive for decades](why-windows-apps-keep-hybrid-alive.md)
 - [Survey figures on Windows-app persistence (2019)](windows-app-survey-figures-2019.md)

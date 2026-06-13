@@ -29,5 +29,6 @@ FSLogix products can run anywhere, including on-premises.
 - [FSLogix benefits for WVD (and on-premises)](fslogix-benefits-for-wvd-and-on-premises.md)
 - [FSLogix: The Five Capabilities Bas Teaches](fslogix-five-capabilities.md)
 - [Baseline Criteria for Modern App and Desktop Delivery (anno 2020)](modern-workplace-delivery-baseline-2020.md)
+- [NME image management: prefer the compute gallery over the source VM](nme-image-management-gallery-vs-source-vm.md)
 - [Profile Layering with FSLogix: Mount Instead of Copy](profile-layering-fslogix.md)
 - [Profile-on-VHD vs copy-on-login roaming profiles](profile-on-vhd-vs-copy-on-login.md)

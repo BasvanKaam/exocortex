@@ -23,3 +23,4 @@ He pairs this with a pragmatic stance on Windows 7 migration: take your time pha
 - [Stop calling them 'legacy' apps, call them 'traditional'](positie-legacy-is-a-bad-term-call-them-traditional.md)
 - [You must understand traditional solutions to give good cloud advice](position-must-know-traditional-solutions-to-advise-on-cloud.md)
 - [Position: RDP Suffices in 70%+ of Cases, So Look Beyond Citrix/VMware](position-rdp-suffices-look-beyond-citrix-vmware.md)
+- [Call them traditional Windows apps, not legacy, and AVD keeps them alive](position-traditional-not-legacy-windows-apps.md)

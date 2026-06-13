@@ -27,3 +27,4 @@ Skill readiness planning is the parallel track: the plan drawn up earlier (insig
 - [SCAF Adoption phase: activities and deliverables](scaf-adoption-phase-activities.md)
 - [SCAF: Knowledge, Teams, Roles and Responsibilities](scaf-knowledge-teams-raci-gap.md)
 - [SCAF supporting templates: RACI, Risk Register, Skill Readiness](scaf-supporting-templates-overview.md)
+- [Four types of resistance to cloud adoption (Step-Cloud Framework)](step-cloud-four-types-of-resistance.md)

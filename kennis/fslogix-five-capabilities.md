@@ -37,5 +37,6 @@ Bas's stance: at the time, FSLogix was the only profile solution available withi
 - [Office 365 on VDI/RDSH: .OST Bloat and the Search-Index Problem](office365-profile-pain-ost-and-search-index.md)
 - [Profile Layering with FSLogix: Mount Instead of Copy](profile-layering-fslogix.md)
 - [WVD Explained: Bas's Core Story](wvd-explained-bvk-framing.md)
+- [Size virtual desktops by testing, not by general guidelines](wvd-sizing-test-dont-trust-guidelines.md)
 - [WVD user connection flow and Reverse Connect](wvd-user-connection-flow-and-reverse-connect.md)
 - [WVD Whitepaper: The Selling Points](wvd-whitepaper-propositions.md)

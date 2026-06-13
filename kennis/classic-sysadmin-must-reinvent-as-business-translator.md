@@ -24,3 +24,4 @@ But he frames this as opportunity, not doom. The role does not die; it shifts. T
 - [Cloud success is an organisational and adoption problem, not a technical one](cloud-success-is-organisational-not-technical.md)
 - [IT as a Utility](it-as-a-utility.md)
 - [Systeembeheerder 2.0: from technician to functional broker](sysadmin-2-functional-broker-role.md)
+- [The two kinds of sysadmin, and why 80% of IT should not have to go all-in](two-kinds-of-sysadmin-and-the-80-percent.md)

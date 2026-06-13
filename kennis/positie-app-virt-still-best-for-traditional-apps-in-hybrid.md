@@ -24,4 +24,5 @@ Bas argues that for most companies a full move to the cloud is a long-term effor
 - [Cloud Value Comes From Rethinking, Not Lift-And-Shift](cloud-lift-and-shift-vs-rethinking.md)
 - [Legacy x86 app usage in enterprises is rising, not falling](legacy-app-usage-in-enterprises-is-rising-not-falling.md)
 - [Stop calling them 'legacy' apps, call them 'traditional'](positie-legacy-is-a-bad-term-call-them-traditional.md)
+- [Call them traditional Windows apps, not legacy, and AVD keeps them alive](position-traditional-not-legacy-windows-apps.md)
 - [Stance: hybrid will play the leading role in cloud workspaces](stance-hybrid-cloud-leading-role.md)

@@ -20,6 +20,7 @@ App virtualization (App-V, ThinApp) and application layering are often confused,
 
 - [Application layering: abstract the app from the OS](app-layering-abstraction-durable-concept.md)
 - [Framing: keep application layering and application virtualization distinct](app-layering-not-app-virtualization.md)
+- [App-V is not dead yet, despite MSIX](app-v-not-dead-yet.md)
 - [Application virtualisation tops out around 70-80% in practice](app-virtualisation-ceiling-70-80.md)
 - [Three flavours of application delivery in XenDesktop/XenApp](application-delivery-three-flavours.md)
 - [Application layering vendor landscape circa 2016](application-layering-vendor-landscape-2016.md)

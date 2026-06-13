@@ -29,4 +29,6 @@ Bas's caveat: all of this applies at time of writing (early 2025); given Microso
 
 ## Verwante notities
 
+- [Cloud PC vs AVD: a four-lens decision framework](cloud-pc-vs-avd-decision-framework.md)
 - [Bas's reframe: is AVD and/or Windows 365 Cloud PC really DaaS?](is-avd-and-windows-365-really-daas.md)
+- [Simplicity comes at the cost of flexibility](simplicity-costs-flexibility.md)

@@ -20,6 +20,7 @@ Bas observes the roles increasingly overlap: Field CTOs are more often involved 
 ## Verwante notities
 
 - [Bas van Kaam: experience, character and the people behind the book](bas-van-kaam-bio-and-character.md)
+- [Career milestone: Field CTO EMEA at Nerdio](bvk-career-field-cto-emea-nerdio.md)
 - [The Evolution of the CIO and CFO Role](evolution-of-cio-cfo-role.md)
 - [Where to 'park' innovation: Innovation/Technology Board, Solutions Board, Office of the CTO](innovation-board-technology-board-office-of-cto.md)
 - [Innovation Comes From Outside the Firewall](innovation-comes-from-outside-the-firewall.md)

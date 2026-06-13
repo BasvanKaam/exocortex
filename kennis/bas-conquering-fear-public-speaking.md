@@ -23,5 +23,6 @@ This marks the start of his speaker career (DuCUG, then E2EVC Berlin with Mick G
 - [Be yourself; impersonating someone else never lasts](be-yourself-authenticity.md)
 - [The blog began as a personal knowledge base, and sharing became the point](blog-as-personal-knowledge-base-origin.md)
 - [The "I'm no guru" philosophy: blogging as a learning tool, not authority](no-guru-philosophy.md)
+- [Persistence beats everything: Bas's career and life advice](persistence-over-everything-career-advice.md)
 - [Public speaking: terrified every time, but totally worth it](positie-public-speaking-worth-the-nerves.md)
 - [Say yes to the unknown, learn to say no, leave the comfort zone](say-yes-say-no-comfort-zone.md)

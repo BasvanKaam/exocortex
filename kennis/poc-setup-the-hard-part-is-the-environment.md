@@ -25,6 +25,7 @@ The distinction he draws: a PoC can be effective (you eventually get there) yet 
 - [Good-enough load testing at 10% of the price beats the gold-plated tool](good-enough-load-testing-beats-expensive.md)
 - [The Liquidware portfolio in 2017: Stratusphere, ProfileUnity, FlexApp](liquidware-portfolio-2017.md)
 - [Liquidware suite: ProfileUnity, FlexApp, Stratusphere UX (2018)](liquidware-profileunity-flexapp-stratusphere.md)
+- [Method: Agree PoC Success Criteria Up Front](method-poc-success-criteria.md)
 - [PoC-as-a-Service is genuinely valuable](poc-as-a-service-is-great-positie.md)
 - [Inspecting prerequisites up front saves the whole deployment](prerequisites-discipline-saves-time.md)
 - [Stratusphere UX is the Swiss Army knife of the portfolio](stratusphere-swiss-army-knife.md)

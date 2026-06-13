@@ -30,4 +30,5 @@ How WVD worked at preview; much of this evolved into Azure Virtual Desktop, but 
 - [WVD is what used to be RDMI](wvd-is-rdmi-on-prem-history.md)
 - [WVD: what Microsoft makes HA vs what you must](wvd-managed-vs-customer-responsibility.md)
 - [WVD tenant setup gotchas (2019 workshop)](wvd-tenant-setup-gotchas-2019.md)
+- [Migrating WVD from Tenant to Workspace (ARM) in Nerdio](wvd-tenant-to-workspace-arm-migration.md)
 - [WVD user connection flow and Reverse Connect](wvd-user-connection-flow-and-reverse-connect.md)

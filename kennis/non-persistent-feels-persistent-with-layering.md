@@ -23,6 +23,7 @@ Bas's recurring conviction, stated here (Jan 2017) in the Instant Clones context
 - [The non-persistent Office 365 / Outlook OST and search-index problem](non-persistent-outlook-search-ost-problem.md)
 - [If most VDIs are non-persistent, why aren't more apps virtualised?](non-persistent-vs-app-virtualisation-surprise.md)
 - [Personal vDisk: persistence of dedicated, manageability of pooled](personal-vdisk-pvd-concept.md)
+- [App layering that keeps the base image clean is the right model for AVD](positie-app-layering-keeps-the-image-clean.md)
 - [Layering and virtualization are partners, and the cons are soon forgotten](positie-layering-and-virtualization-coexist.md)
 - [Positie: Personal vDisk is great and underappreciated](positie-pvd-underappreciated.md)
 - [Profile Layering with FSLogix: Mount Instead of Copy](profile-layering-fslogix.md)

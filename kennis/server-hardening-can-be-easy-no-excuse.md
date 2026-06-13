@@ -16,8 +16,10 @@ Bas's stance: people treat server hardening as hard and therefore skip the basic
 
 ## Verwante notities
 
+- [Hardening Nerdio and AVD: Easy Way vs Hard Way](hardening-nerdio-avd-easy-vs-hard.md)
 - [LAPS for managing local admin passwords](laps-local-admin-password-management.md)
 - [Challenges of getting and staying PCI DSS and PTS certified](pci-dss-pts-certification-challenges.md)
 - [The PCI Standards Landscape: Who Must Comply With What](pci-standards-landscape.md)
 - [Policy is the starting point of every IT project](policy-as-the-start-of-every-it-project.md)
+- [Nerdio Is Not Secure Out of the Box, So Always Harden](positie-nerdio-not-secure-out-of-the-box.md)
 - [Security is a process, not a destination](security-is-a-process-not-a-destination.md)

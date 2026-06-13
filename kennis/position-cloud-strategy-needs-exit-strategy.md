@@ -22,6 +22,7 @@ the framework builds reversibility into the definition of a good Cloud Strategy:
 ## Verwante notities
 
 - [A cloud exit strategy is insurance you hope not to need](cloud-exit-strategy-as-insurance.md)
+- [Cloud Exit Strategy (start with the exit)](cloud-exit-strategy-cheat-sheet-idea.md)
 - [Cloud Exit Strategy: What to Plan For](cloud-exit-strategy-checklist.md)
 - [Why have a cloud exit strategy - the exit comes before onboarding](cloud-exit-strategy-rationale.md)
 - [What makes a good Cloud Strategy](cloud-strategy-quality-criteria.md)

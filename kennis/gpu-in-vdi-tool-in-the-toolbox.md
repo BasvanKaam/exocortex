@@ -18,8 +18,10 @@ GPU adoption in VDI/SBC was slow because GPUs were (too) expensive and a properl
 
 ## Verwante notities
 
+- [Azure GPU VMs: NVIDIA vs AMD NVv4, licensing and partitioning](azure-gpu-vms-licensing-and-nvv4-partitioning.md)
 - [Use-cases for VDI/desktop benchmarking](benchmarking-use-cases.md)
 - [Blast Extreme: ports, TCP vs UDP, and GPU offload numbers](blast-extreme-network-and-gpu-behaviour.md)
 - [Intel entering vGPU turns the GPU space into a three-way race](intel-enters-vgpu-three-way-race.md)
 - [Plenty of room left for innovation in HCI, GPU and app delivery (2015)](room-for-innovation-hci-gpu-app-delivery.md)
+- [Test GPU VMs, don't decide on price alone](test-dont-trust-pricing-on-gpu-vms.md)
 - [Categorize users before choosing a desktop model](user-categorization-for-desktop-design.md)

@@ -28,6 +28,7 @@ The domain is judged successful when it eliminates bureaucracy (or creates a smo
 
 ## Verwante notities
 
+- [The 7 Cloud Baby Steps (behavior-driven FinOps)](cloud-baby-steps-behavior-driven-finops.md)
 - [Cloud Financial Management: Role Demarcation](cloud-financial-management-roles-demarcation.md)
 - [Information a cloud deployment request must capture](deployment-request-data-fields.md)
 - [Four-layer segmentation of the cloud cost model](financial-model-four-cost-layers.md)

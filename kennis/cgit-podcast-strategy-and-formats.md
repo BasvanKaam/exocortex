@@ -35,4 +35,5 @@ Challenges flagged: too little time (invest first, show results, then ask for mo
 - [Citrix/EUC community podcasts](euc-citrix-community-podcasts.md)
 - [Good Is Good Enough: Ship Content, Don't Polish to Perfection](good-is-good-enough-for-content.md)
 - [Podcasts as a learning channel for Cloud and EUC](podcasts-for-cloud-euc.md)
+- [Scripting every video first measurably raises quality](position-scripting-raises-video-quality.md)
 - [Quality Over Quantity in Community Content](quality-over-quantity-in-community-content.md)

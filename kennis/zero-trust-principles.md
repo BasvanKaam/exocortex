@@ -28,6 +28,7 @@ Core principles:
 - [Gartner: 99% of security issues are caused by people](gartner-99-percent-security-issues-are-people.md)
 - [The Security Operations Center (SOC)](soc-security-operations-center.md)
 - [Voorzorg: Assume You Will Be Breached](voorzorg-assume-breach.md)
+- [Zero Trust principles mapped to AVD and Windows 365 in NME](zero-trust-mapped-to-avd-w365-nme.md)
 - [Zero Trust Security Model](zero-trust-model.md)
 - [Zero Trust Works From the Outside In (Building Analogy)](zero-trust-outside-in-building-analogy.md)
 - [Ten-Category Security Portfolio for Zero Trust](zero-trust-ten-category-portfolio.md)

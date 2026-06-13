@@ -21,11 +21,14 @@ After COVID, organisations focused on being better prepared for a future event o
 ## Verwante notities
 
 - [Bas on disaster recovery: no blueprint, and don't forget the BUDGET](bas-on-disaster-recovery-and-budget.md)
+- [Cloud is more reliable than on-prem, be realistic](cloud-is-more-reliable-than-on-prem.md)
 - [COVID-19 as a cloud accelerant: the key statistics](covid-19-cloud-acceleration-stats.md)
 - [The less-obvious challenges of building datacenters](datacenter-hidden-challenges.md)
 - [Standard components of a disaster recovery (DR) plan](disaster-recovery-plan-components.md)
 - [Loose coupling as a core Cloud design principle](loose-coupling-cloud-architecture.md)
 - [Bas opens the COVID chapter with a Nostradamus quatrain](nostradamus-pandemic-quatrain.md)
+- [The pandemic compressed VDI/DaaS adoption from months to weeks](pandemic-accelerated-vdi-daas-adoption.md)
 - [Post-COVID work models and continued cloud growth](post-covid-work-and-cloud-trends.md)
 - [Post-Crisis IT Assessment and Future-Proofing](post-crisis-it-assessment-future-proofing.md)
 - [Why high availability and DR matter: ransomware and data hostage](ransomware-data-hostage.md)
+- [Resilience is about identity, not the device](resilience-is-identity-not-device.md)

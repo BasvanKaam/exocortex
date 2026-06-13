@@ -31,6 +31,7 @@ The landscape is improving: containers, Kubernetes and Azure Arc offer more flex
 - [Same cloud service, different name per vendor](cloud-service-naming-differs-per-vendor.md)
 - [Choosing a CSP: Azure as the Default for Microsoft Shops](csp-platform-choice-azure-default.md)
 - [Position: Don't Let MSP Tooling Choices Create Lock-In](position-avoid-msp-tooling-lock-in.md)
+- [Have a cloud exit strategy; lock-in and weak portability are real](position-cloud-exit-strategy.md)
 - [A Cloud Strategy without a reversibility plan is incomplete](position-cloud-strategy-needs-exit-strategy.md)
 - [Think about the cloud exit before you onboard](the-exit-comes-before-onboarding-stance.md)
 - [The promises of the Cloud (and Bas's invitation to challenge them)](the-promises-of-the-cloud.md)

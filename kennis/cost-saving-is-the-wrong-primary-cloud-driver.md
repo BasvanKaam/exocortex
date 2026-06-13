@@ -22,6 +22,7 @@ A position Bas repeats across the Masterclass: if saving money is one of your pr
 - [Worked TCO/ROI exercise: on-prem vs co-lo vs managed vs IaaS](cloud-tco-roi-financial-comparison-exercise.md)
 - [Is the Cloud Cheaper? It Depends](is-cloud-cheaper-it-depends.md)
 - [Decide Why You're in the Cloud Before You Migrate](name-your-cloud-driver-first.md)
+- [Cost Saving Shouldn't Be the Main Reason to Go Cloud](positie-cost-savings-not-the-main-reason.md)
 - [Cloud, and Citrix especially, is almost always more expensive than on-prem](position-citrix-cloud-is-almost-always-pricier-than-on-prem.md)
 - [Cost control is a short-sighted reason to go to cloud](position-cost-control-is-a-short-sighted-cloud-motive.md)
 - [Top-Line vs Bottom-Line Cloud Drivers](top-line-vs-bottom-line-cloud-drivers.md)

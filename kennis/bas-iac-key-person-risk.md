@@ -28,5 +28,8 @@ Bas also has a strong, characteristic opinion on *who* can do IaC: just pointing
 - [Cloud-Native: Designed for the Cloud from the Start](cloud-native-definition.md)
 - [Infrastructure as Code (IaC) and Its Benefits](infrastructure-as-code-basics.md)
 - [The IT (Cloud) Professional 2.0: from geek to strategic generalist](it-cloud-professional-2-0.md)
+- [Key-person dependency on automation is a business risk](key-person-dependency-as-business-risk.md)
+- [Concentrated cloud knowledge in a few seniors is a business risk](knowledge-leaving-the-company-as-a-real-risk.md)
+- [Don't put all your eggs in one basket: knowledge as a single point of failure](knowledge-single-point-of-failure.md)
 - [Bas's 'one is none' rule for resilience](one-is-none-rule.md)
 - [Blind faith in automation will not ensure happy outcomes](position-stay-in-control-of-your-control.md)

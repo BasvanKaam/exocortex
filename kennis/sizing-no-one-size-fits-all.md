@@ -23,6 +23,8 @@ His key warning: don't overdo the calculations. Even weeks of storage/compute ca
 
 ## Verwante notities
 
+- [Azure cost levers: CSP, right-sizing, promos and Reserved Instances](azure-cost-levers-csp-vm-sizing-ri.md)
+- [B-series burstable VMs: the CPU-credit model and when to use them](b-series-burstable-vms-explained.md)
 - [Citrix Project Accelerator: web-based design guidance](citrix-project-accelerator.md)
 - [Bas on CPU over-commit and user baselines (light/medium/heavy)](cpu-overcommit-and-user-baselines.md)
 - [Firm believer in choice: spread options, but cap the platform count](firm-believer-in-choice-no-one-size-fits-all.md)

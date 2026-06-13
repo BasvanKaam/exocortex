@@ -48,4 +48,5 @@ The variables that are hard to quantify still belong in the case, named as such:
 - [If cost saving is your primary cloud driver, reconsider your strategy](cost-saving-is-the-wrong-primary-cloud-driver.md)
 - [Discovery and qualification: the questions I ask](discovery-qualification-questions.md)
 - [Engagement structure: from first conversation to handover](engagement-structure-presales-to-handover.md)
+- [Hard costs vs soft costs (both matter)](hard-costs-vs-soft-costs.md)
 - [Indicative cost overview: split the totals, show the assumptions, never call it a quote](indicative-cost-overview-method-assumptions-and-reserved-instances.md)

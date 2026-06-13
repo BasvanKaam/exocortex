@@ -20,6 +20,7 @@ War-tip on managed/smaller providers: beyond the big names there are many smalle
 ## Verwante notities
 
 - [AWS Profile and Strengths](aws-profile-strengths.md)
+- [Azure cost levers: CSP, right-sizing, promos and Reserved Instances](azure-cost-levers-csp-vm-sizing-ri.md)
 - [Microsoft Azure Profile and Strengths](azure-profile-strengths.md)
 - [Bas's COVID-era asides and skepticism on the stats](bas-covid-asides-and-skepticism.md)
 - [Scope of the book: Azure-leaning, business-plus-tech, durable basics](book-scope-azure-focus-and-durability.md)

@@ -33,6 +33,7 @@ Bas's key reframe: ultimately cloud is just a way of doing IT — a tool in the 
 - [Bas: Pragmatism on Governance and Process Documentation](bas-governance-processes-pragmatism.md)
 - [Bas's paper: Cloud Only? No. Cloud First or Hybrid? Yes.](bas-paper-cloud-only-no-cloud-first-yes.md)
 - [The 'Cloud because of the Cloud' syndrome and poor migration planning](cloud-because-of-cloud-syndrome.md)
+- [Governance, shadow IT, and the human factor in cloud adoption](cloud-governance-shadow-it-human-factor.md)
 - [Bas's rule: define the Cloud before debating its pros and cons](define-cloud-before-debating-it.md)
 - [Keep IT in control, then turn shadow IT into an enabler](keep-it-in-control-shadow-it-as-enabler.md)
 - [Mind The Gap: Shadow IT as Enabler and the Entry Point](mind-the-gap-shadow-it-as-enabler.md)

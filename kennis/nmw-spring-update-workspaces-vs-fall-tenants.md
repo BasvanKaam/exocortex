@@ -23,4 +23,5 @@ How it worked then (mid-2020): the WVD Spring update was officially named 'The W
 - [Nerdio Manager for WVD deploys into your own Azure tenant](nerdio-manager-wvd-deploys-in-your-tenant.md)
 - [Nerdio Manager for WVD core capabilities circa 2020](nmw-core-capabilities-2020.md)
 - [WVD App Group rules (2019)](wvd-app-groups-rules-2019.md)
+- [WVD Classic to ARM migration: the two-step pattern](wvd-classic-to-arm-two-step-migration.md)
 - [WVD Fall vs Spring release (non-ARM vs ARM)](wvd-fall-vs-spring-release.md)

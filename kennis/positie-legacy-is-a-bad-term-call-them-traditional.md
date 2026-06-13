@@ -22,5 +22,6 @@ Bas takes a stance against the term 'legacy applications'. His argument: at most
 - [In a hybrid world, app virtualization beats desktop virtualization](app-virtualization-over-desktop-virtualization-in-hybrid.md)
 - [Legacy x86 app usage in enterprises is rising, not falling](legacy-app-usage-in-enterprises-is-rising-not-falling.md)
 - [App virtualization is still the best way to deliver traditional apps in a hybrid world](positie-app-virt-still-best-for-traditional-apps-in-hybrid.md)
+- [Call them traditional Windows apps, not legacy](positie-windows-apps-traditional-not-legacy.md)
 - [You must understand traditional solutions to give good cloud advice](position-must-know-traditional-solutions-to-advise-on-cloud.md)
 - [Position: RDP Suffices in 70%+ of Cases, So Look Beyond Citrix/VMware](position-rdp-suffices-look-beyond-citrix-vmware.md)

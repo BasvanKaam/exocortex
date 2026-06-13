@@ -19,6 +19,7 @@ June 2020. Bas's core positioning thesis on joining Nerdio: Microsoft owns and k
 - [Bas joined Nerdio as Field CTO EMEA on 1 June 2020](bas-joins-nerdio-field-cto-emea.md)
 - [Bet: WVD third-party vendors are where the action is](betting-on-wvd-third-party-tooling-2020.md)
 - [Framing: the product's job is hiding complexity](hiding-complexity-is-the-product.md)
+- [Microsoft builds the core, Nerdio closes the management feature gap](microsoft-builds-the-plane-nerdio-fills-the-gap.md)
 - [MSIX app attach: VHD-mounted apps via FSLogix filter drivers](msix-app-attach-concept.md)
 - [Nerdio innovating on top of WVD is 'a perfect marriage'](nerdio-plus-microsoft-perfect-marriage.md)
 - [Microsoft's WVD power scripts are not real autoscaling](nerdio-vs-microsoft-power-management-scripts.md)

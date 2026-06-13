@@ -29,6 +29,7 @@ Tools to calculate current load or predict needed configuration/IOPS:
 
 - [Bas on IOPS, latency and storage sizing](iops-and-latency-fundamentals.md)
 - [IOPS fundamentals: latency is king](iops-fundamentals-latency.md)
+- [IOPS, latency, and sizing storage for VDI workloads](iops-latency-and-sizing-storage-for-vdi.md)
 - [Not all IOPS are the same: the three golden parameters](iops-not-all-the-same.md)
 - [MCS IOPS profile: ~1.6x PVS average, ~1.2x steady state](mcs-iops-vs-pvs.md)
 - [The RAID write penalty](raid-write-penalty.md)

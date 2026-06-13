@@ -26,3 +26,5 @@ Bas: there's no 'silver bullet' — in practice both are often combined, with va
 - [From Terminal Services to AVD - The Multi-User History](history-terminal-services-to-avd.md)
 - [Bas's reframe: is AVD and/or Windows 365 Cloud PC really DaaS?](is-avd-and-windows-365-really-daas.md)
 - [Single-User vs Multi-User VDI/DaaS](single-user-vs-multi-user-vdi-daas.md)
+- [Windows 365 Cloud PC: What It Is and How It Differs from AVD](w365-cloud-pc-vs-avd-fundamentals.md)
+- [Windows 365 Reserve (Cloud PC panic button)](windows-365-reserve-explainer.md)

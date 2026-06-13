@@ -39,5 +39,6 @@ Key concerns it protects against: data residency (Netherlands), price volatility
 - [SLA pitfalls to analyse for a cloud exit strategy](cloud-sla-pitfalls-exit.md)
 - [The 'Cloud -> On-premises' counter-trend (draft angle)](cloud-to-on-premises-repatriation-angle.md)
 - [Cloud Webinar Structure: Workspace vs Infra Through a Shared Lens](cloud-webinar-structure-workspace-vs-infra.md)
+- [Have a cloud exit strategy; lock-in and weak portability are real](position-cloud-exit-strategy.md)
 - [Plan the cloud exit before you onboard](position-exit-before-onboarding.md)
 - [Think about the cloud exit before you onboard](the-exit-comes-before-onboarding-stance.md)

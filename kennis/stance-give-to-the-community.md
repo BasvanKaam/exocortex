@@ -31,6 +31,7 @@ Beyond CUGC he actively promotes peers' initiatives rather than just his own: th
 - [On Mark Templeton: it was about the company, not him](mark-templeton-leadership-tribute.md)
 - [Community involvement as the engine of his career](positie-community-as-career-engine.md)
 - [RDA is an industry first that out-shipped Citrix itself](positie-rda-industry-first.md)
+- [Community code stays with its author](positie-scripts-blijven-eigendom-maker.md)
 - [Reboots are a necessary evil; handle them proactively](proactive-over-reactive-ops.md)
 - [Frame security guidance as a living starting point, not a final word](security-checklist-as-living-starting-point.md)
 - [Treating the job as a hobby you'd do anyway](work-as-hobby-philosophy.md)

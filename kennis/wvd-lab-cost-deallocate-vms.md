@@ -28,6 +28,7 @@ The cost lever: most of the time the VMs are shut down, stopped and de-allocated
 - [Ephemeral disks' biggest drawback disappears with the right autoscaler](ephemeral-disks-cons-as-pros.md)
 - [How Nerdio's WVD autoscale worked: triggers, base/burst capacity, graceful drain](nerdio-autoscale-mechanics-2020.md)
 - [Microsoft's WVD power scripts are not real autoscaling](nerdio-vs-microsoft-power-management-scripts.md)
+- [NMW Community Edition: what it is and how to run it on a budget](nmw-community-edition-explainer.md)
 - [Reserved Instances: 12% early-exit fine and monthly payment](reserved-instance-early-exit-fine.md)
 - [WVD will only get easier and cheaper, lowering the barrier](wvd-lowering-the-barrier-prediction.md)
 - [WVD preview constraints (2019)](wvd-preview-good-to-knows.md)

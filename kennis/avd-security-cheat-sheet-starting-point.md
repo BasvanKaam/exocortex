@@ -24,6 +24,8 @@ Structure and caveats:
 
 ## Verwante notities
 
+- [AVD security cheat sheet: the six-category framework](avd-security-cheat-sheet-framework.md)
+- [AVD Security cheat sheet v2.0 — 44 best practices](avd-security-cheat-sheet-v2.md)
 - [A cheat sheet should orient, not rank vendors](cheat-sheet-as-starting-point-not-comparison.md)
 - [Stance: keep the comparison cheat sheet to a single A4 page](cheat-sheet-craft-single-a4-page.md)
 - [CVE-2019-19781 Citrix ADC / SD-WAN vulnerability (2020 context)](cve-2019-19781-citrix-adc.md)

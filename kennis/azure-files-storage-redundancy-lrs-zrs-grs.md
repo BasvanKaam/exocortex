@@ -27,6 +27,7 @@ Cost angle: more copies and more locations cost more; cross-zone egress between 
 - [Azure Availability Sets vs Availability Zones](azure-availability-sets-vs-zones.md)
 - [Azure Ephemeral OS disks for stateless WVD workloads](azure-ephemeral-os-disks.md)
 - [Azure Files: a cloud NAS, plus Azure File Sync for hybrid](azure-files-cloud-nas.md)
+- [Azure Files storage redundancy for WVD profiles: LRS vs ZRS vs GRS](azure-files-storage-redundancy-lrs-zrs-grs-2.md)
 - [Azure high-availability building blocks](azure-high-availability-building-blocks.md)
 - [Nerdio shines where Microsoft's WVD HA docs are missing](nerdio-fills-microsoft-wvd-ha-doc-gap.md)
 - [WVD prerequisites Nerdio still relies on: AD sync and FSLogix profiles](nerdio-wvd-prerequisites-ad-fslogix.md)

@@ -28,6 +28,7 @@ How it worked then, from a Microsoft NL Solution Design Workshop:
 - [Azure building blocks to extend, protect and migrate RDS/WVD](azure-services-for-rds-wvd-extend-migrate.md)
 - [Early WVD architecture: Microsoft-managed PaaS control plane + reverse connect](early-wvd-architecture-control-plane.md)
 - [WVD prerequisites Nerdio still relies on: AD sync and FSLogix profiles](nerdio-wvd-prerequisites-ad-fslogix.md)
+- [NMW Deployment: What to Have Ready Before You Install](nmw-deployment-prereqs-checklist.md)
 - [WVD App Group rules (2019)](wvd-app-groups-rules-2019.md)
 - [WVD Fall vs Spring release (non-ARM vs ARM)](wvd-fall-vs-spring-release.md)
 - [WVD is not a click-and-go product](wvd-not-click-and-go.md)

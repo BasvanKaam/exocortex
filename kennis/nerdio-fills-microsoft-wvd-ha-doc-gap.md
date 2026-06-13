@@ -23,6 +23,7 @@ He closes by reframing NMW's fast rebuild time as a DR metric: NMW setup in ~45 
 - [Azure Availability Sets vs Availability Zones](azure-availability-sets-vs-zones.md)
 - [Azure Files storage redundancy: LRS, ZRS, GRS](azure-files-storage-redundancy-lrs-zrs-grs.md)
 - [Framing: the product's job is hiding complexity](hiding-complexity-is-the-product.md)
+- [Microsoft builds the core, Nerdio closes the management feature gap](microsoft-builds-the-plane-nerdio-fills-the-gap.md)
 - [Nerdio Manager for WVD deploys into your own Azure tenant](nerdio-manager-wvd-deploys-in-your-tenant.md)
 - [Nerdio Manager for WVD core capabilities circa 2020](nmw-core-capabilities-2020.md)
 - [WVD: what Microsoft makes HA vs what you must](wvd-managed-vs-customer-responsibility.md)

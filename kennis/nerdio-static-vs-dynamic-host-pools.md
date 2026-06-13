@@ -26,7 +26,12 @@ The load-bearing trade-off: only dynamic pools autoscale, but dynamic pools can'
 
 - [Ephemeral disks' biggest drawback disappears with the right autoscaler](ephemeral-disks-cons-as-pros.md)
 - [How Nerdio's WVD autoscale worked: triggers, base/burst capacity, graceful drain](nerdio-autoscale-mechanics-2020.md)
+- [Nerdio autoscaling engine: pooled hostpool scaling logic](nerdio-autoscaling-engine-pooled-hostpools.md)
+- [Nerdio autoscaling for personal/persistent desktops](nerdio-autoscaling-personal-persistent-desktops.md)
 - [Microsoft's WVD power scripts are not real autoscaling](nerdio-vs-microsoft-power-management-scripts.md)
+- [NME persists machine names across reimage/rebuild](nme-hostpool-naming-persistence.md)
+- [What the Nerdio autoscale engine does (NMW era)](nmw-autoscale-engine-capabilities.md)
 - [Nerdio Manager for WVD core capabilities circa 2020](nmw-core-capabilities-2020.md)
 - [Static vs dynamic host pools and autoscaling (Nerdio)](static-vs-dynamic-hostpools-nerdio.md)
 - [WVD App Group rules (2019)](wvd-app-groups-rules-2019.md)
+- [WVD Classic to ARM migration: the two-step pattern](wvd-classic-to-arm-two-step-migration.md)

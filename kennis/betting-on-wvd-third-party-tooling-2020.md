@@ -31,3 +31,4 @@ In May 2020, before publicly joining Nerdio, Bas revealed he had spent the prior
 - [WVD is not a click-and-go product](wvd-not-click-and-go.md)
 - [WVD technology partner ecosystem reached 13 partners (2019)](wvd-partner-ecosystem-2019.md)
 - [WVD will evolve quickly because it's cloud-native](wvd-will-evolve-quickly-positie.md)
+- [WVD with Nerdio on top is the new 'RDS with Citrix on top'](wvd-with-nerdio-on-top-citrix-framing.md)

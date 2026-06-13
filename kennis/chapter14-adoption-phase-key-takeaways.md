@@ -34,6 +34,7 @@ The headline reframe: adoption is not the end of a cloud journey but the start o
 - [Bas's Lessons Learned document: a living continuous-learning tool](bas-lessons-learned-document-method.md)
 - [Bas on documentation: the 'undervalued child' of IT](bas-on-documentation-the-undervalued-child.md)
 - [Bas on the helpdesk as first point of contact](bas-on-the-helpdesk-experience.md)
+- [Involve and educate users early or adoption fails](involve-users-early-for-adoption.md)
 - [SCAF Adoption phase: activities and deliverables](scaf-adoption-phase-activities.md)
 - [SCAF Adoption phase: finishing what you started](scaf-adoption-phase-purpose.md)
 - [SCAF Adoption result: the end goal of the Cloud transition](scaf-adoption-phase-result.md)

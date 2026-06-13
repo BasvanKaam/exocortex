@@ -31,6 +31,7 @@ Key quote: 'Selfservice IT gaat over verantwoordelijkheid.'
 
 - [Bas on documentation: the 'undervalued child' of IT](bas-on-documentation-the-undervalued-child.md)
 - [Bas's terminology: "gebruiker", "business gebruiker" and "de business"](business-user-and-the-business-definitions.md)
+- [Governance, shadow IT, and the human factor in cloud adoption](cloud-governance-shadow-it-human-factor.md)
 - [IT as Internal Broker and the Regie-Organisatie](it-as-internal-broker-regie-organisatie.md)
 - [Key Takeaways Chapter 4: Cloud Transformation Beyond Technology](key-takeaways-chapter-4-cloud-transformation.md)
 - [Lack of overview, knowledge, governance and Shadow IT](lack-of-overview-knowledge-governance-shadow-it.md)

@@ -21,4 +21,5 @@ The Remote Display Analyzer is a community tool developed by Bram Wolfs and Barr
 - [Framehawk: ICA over lossy, high-latency networks](framehawk.md)
 - [HDX Monitor: HDX diagnostics tool](hdx-monitor-tool.md)
 - [RDA is an industry first that out-shipped Citrix itself](positie-rda-industry-first.md)
+- [PowerShell: download the latest release asset from GitHub](powershell-download-latest-github-release.md)
 - [ThinWire compatibility mode: the low-footprint fallback for H.264](thinwire-compatibility-mode.md)

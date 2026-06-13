@@ -24,6 +24,7 @@ He pairs this with a related argument under hyperconverged infrastructure: conti
 
 ## Verwante notities
 
+- [Running AVD On-Premises via Azure Stack HCI](avd-on-premises-via-azure-stack-hci.md)
 - [Azure Stack HCI (renamed Azure Local): cloud in your own datacenter](azure-stack-hci-azure-local.md)
 - [Azure Stack / Hybrid-Private Cloud Is the Model for the Next 5-10 Years](azure-stack-hybrid-private-cloud-is-the-model.md)
 - [Cloud-First, But Not Everything to the Cloud](cloud-first-tenzij-not-everything-to-the-cloud.md)

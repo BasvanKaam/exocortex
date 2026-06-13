@@ -19,6 +19,8 @@ Bas's small but pointed product critique (Dec 2013): StoreFront's powerful Multi
 - [Companies overspend on StoreFront branding](branding-storefront-overrated-effort.md)
 - [Call Home will phase out Scout, but not soon](call-home-vs-scout-prediction.md)
 - [FMA dropped zones and Local Host Cache](fma-no-zones-no-lhc.md)
+- [Idea: The psychology of Nerdio's interface design](idee-psychology-of-nerdio-ui-design.md)
+- [Good UI is a business strategy, not decoration](positie-ui-as-product-strategy.md)
 - [Prefer PowerShell over the GUI for Citrix FMA work](powershell-over-gui-for-citrix.md)
 - [Ship sensible defaults, because people don't read the manual](ship-defaults-because-people-dont-read-manuals.md)
 - [StoreFront's powerful features shouldn't be locked behind web.config](storefront-config-should-be-in-the-gui.md)

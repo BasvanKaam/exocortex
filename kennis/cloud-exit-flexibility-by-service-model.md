@@ -23,6 +23,7 @@ Cloud-native solutions like PaaS and serverless are often heavily integrated wit
 - [Key Takeaways - cloud exit strategy (Chapter 12)](cloud-exit-key-takeaways.md)
 - [Bas's checklist of points of attention for a cloud exit](cloud-exit-points-of-attention.md)
 - [A cloud exit strategy is insurance you hope not to need](cloud-exit-strategy-as-insurance.md)
+- [Cloud Exit Strategy (start with the exit)](cloud-exit-strategy-cheat-sheet-idea.md)
 - [Cloud Exit Strategy: What to Plan For](cloud-exit-strategy-checklist.md)
 - [Why have a cloud exit strategy - the exit comes before onboarding](cloud-exit-strategy-rationale.md)
 - [Cloud-Native: Designed for the Cloud from the Start](cloud-native-definition.md)

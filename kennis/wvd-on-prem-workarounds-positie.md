@@ -16,6 +16,7 @@ April 2019 framing. Bas acknowledged that what most people actually wanted (WVD 
 
 ## Verwante notities
 
+- [Running AVD On-Premises via Azure Stack HCI](avd-on-premises-via-azure-stack-hci.md)
 - [Prediction: a multi-user version of Windows 10 is coming](prediction-multi-session-windows-10.md)
 - [WVD is what used to be RDMI](wvd-is-rdmi-on-prem-history.md)
 - [On-prem WVD looks off the table, GA by summer 2019](wvd-on-prem-out-of-question-positie.md)

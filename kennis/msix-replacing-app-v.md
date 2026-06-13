@@ -19,9 +19,12 @@ Context as of 2019. MSIX was introduced at Microsoft Build the year prior and Mi
 ## Verwante notities
 
 - [App-V management from Citrix Studio (XenDesktop 7.8)](app-v-in-xendesktop-7-8.md)
+- [App-V is not dead yet, despite MSIX](app-v-not-dead-yet.md)
 - [Application virtualisation tops out around 70-80% in practice](app-virtualisation-ceiling-70-80.md)
 - [Application layering complements, does not replace, app virtualization](application-layering-vs-virtualization.md)
 - [Excalibur drops Citrix Profiling (app streaming) for App-V (2013 Synergy news)](excalibur-drops-profiling-for-appv.md)
 - [MSIX app attach: VHD-mounted apps via FSLogix filter drivers](msix-app-attach-concept.md)
 - [App attach is rebranded layering, but Microsoft's marketing will make it win](msix-app-attach-marketing-will-make-it-popular.md)
+- [MSIX AppAttach: what it is and why it matters](msix-appattach-explainer.md)
+- [Setting up MSIX App Attach v2 in Nerdio and publishing apps](msix-appattach-v2-publish-nerdio.md)
 - [Windows server/desktop OS licensing and App-V (MDOP)](windows-server-desktop-os-licensing-mdop.md)

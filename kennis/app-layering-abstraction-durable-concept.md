@@ -26,6 +26,7 @@ A durable EUC concept Bas restates here. Managing one or many images with dozens
 - [The 'big bad image' problem: why everything in the base image hurts](big-bad-base-image-problems.md)
 - [Stance: container concepts carry over from Docker/Linux to Windows](containers-concepts-durable-over-platform.md)
 - [FlexApp 6.5: filter drivers replace symbolic links, broadening layering support](flexapp-filter-driver-vs-symbolic-links.md)
+- [FlexApp One application layering, and how it compares to MSIX](flexapp-one-application-layering-explained.md)
 - [How application layering works (filter drivers)](how-application-layering-works.md)
 - [App attach is rebranded layering, but Microsoft's marketing will make it win](msix-app-attach-marketing-will-make-it-popular.md)
 - [Non-persistent plus layering = the best of both worlds](non-persistent-feels-persistent-with-layering.md)

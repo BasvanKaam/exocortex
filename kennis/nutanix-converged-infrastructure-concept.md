@@ -22,6 +22,7 @@ This is the durable architectural concept behind hyperconvergence, even though t
 
 ## Verwante notities
 
+- [Running AVD On-Premises via Azure Stack HCI](avd-on-premises-via-azure-stack-hci.md)
 - [Bas leans into hyper-convergence and web-scale as the future](bas-on-web-scale-as-future-of-it.md)
 - [Citrix Validated Solution: XenDesktop on Nutanix reference architecture](citrix-validated-solution-nutanix.md)
 - [What a converged infrastructure is](converged-infrastructure-definition.md)

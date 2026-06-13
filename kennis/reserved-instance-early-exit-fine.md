@@ -24,5 +24,6 @@ Reserved Instances used to require upfront payment (capex), but by 2020 you coul
 - [Autoscaling can beat Reserved Instances, and pairs with them](autoscaling-vs-reserved-instances.md)
 - [Reserved, Scheduled and Spot instances as AWS cost levers](aws-instance-purchasing-models-cost.md)
 - [How Azure Reserved Instances and Hybrid Benefit work](azure-ri-ahb-mechanics.md)
+- [For steady WVD workloads, reserved instances almost always win](reserved-instances-almost-always-cheaper-position.md)
 - [WVD session hosts are charged at Linux compute rates](wvd-charged-at-linux-rates.md)
 - [Cheap WVD lab: de-allocate VMs, pay only for storage](wvd-lab-cost-deallocate-vms.md)

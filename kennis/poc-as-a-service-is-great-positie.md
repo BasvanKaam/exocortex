@@ -20,4 +20,5 @@ In April 2019 Bas endorsed Liquidware's fully configured, tested, isolated hoste
 - [Liquidware suite: ProfileUnity, FlexApp, Stratusphere UX (2018)](liquidware-profileunity-flexapp-stratusphere.md)
 - [Liquidware is a US success but underrated in Europe](liquidware-underrated-in-europe.md)
 - [In a PoC the software is easy, the environment is the hard part](poc-setup-the-hard-part-is-the-environment.md)
+- [Show, don't sell](positie-show-dont-sell.md)
 - [Owning your own platform means owning the sponsor disclosure](sponsor-transparency-stance.md)

@@ -30,3 +30,5 @@ To grow: read a book, articles, listen to a podcast, talk to an experienced pers
 - [Bas's recommended reading list](bas-recommended-booklist.md)
 - [Bas's year as a competence manager](bas-year-as-competence-manager.md)
 - [The IT (Cloud) Professional 2.0: from geek to strategic generalist](it-cloud-professional-2-0.md)
+- [Persistence beats everything: Bas's career and life advice](persistence-over-everything-career-advice.md)
+- [Work-life isn't a balance; work is one part of life's whole package](work-is-part-of-life-not-balanced-against-it.md)

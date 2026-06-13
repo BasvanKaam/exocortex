@@ -22,4 +22,5 @@ How it worked then (2015): the free trial gave ~150 euros over 32 days, which Ba
 - [Correct build order for an early Azure test lab](azure-classic-test-lab-build-order.md)
 - [How Azure Reserved Instances and Hybrid Benefit work](azure-ri-ahb-mechanics.md)
 - [Moving to the cloud does not automatically save money](cloud-does-not-automatically-save-money.md)
+- [NMW Community Edition: what it is and how to run it on a budget](nmw-community-edition-explainer.md)
 - [Cheap WVD lab: de-allocate VMs, pay only for storage](wvd-lab-cost-deallocate-vms.md)

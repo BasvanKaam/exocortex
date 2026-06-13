@@ -21,6 +21,7 @@ Key biographical anchor. As of 01-06-2020 Bas van Kaam joined Nerdio in the role
 - [Bas van Kaam 2020 career milestones](bas-2020-career-milestones.md)
 - [Bas leans into hyper-convergence and web-scale as the future](bas-on-web-scale-as-future-of-it.md)
 - [Bet: WVD third-party vendors are where the action is](betting-on-wvd-third-party-tooling-2020.md)
+- [Career milestone: Field CTO EMEA at Nerdio](bvk-career-field-cto-emea-nerdio.md)
 - [Stance: take a vendor job but keep it community-first](community-first-vendor-role.md)
 - [Framing: the product's job is hiding complexity](hiding-complexity-is-the-product.md)
 - [Liquidware is a US success but underrated in Europe](liquidware-underrated-in-europe.md)

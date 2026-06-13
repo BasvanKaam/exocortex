@@ -23,6 +23,7 @@ As part of a hybrid strategy it lets companies run certain workloads on-prem whi
 
 ## Verwante notities
 
+- [Running AVD On-Premises via Azure Stack HCI](avd-on-premises-via-azure-stack-hci.md)
 - [AWS Outposts: native AWS services in your own datacenter](aws-outposts-hybrid-native-services-on-prem.md)
 - [Microsoft Azure Profile and Strengths](azure-profile-strengths.md)
 - [Azure Stack / Hybrid-Private Cloud Is the Model for the Next 5-10 Years](azure-stack-hybrid-private-cloud-is-the-model.md)

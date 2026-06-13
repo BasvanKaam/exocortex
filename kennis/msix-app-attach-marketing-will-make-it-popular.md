@@ -19,6 +19,7 @@ But he predicts it wins anyway on distribution, not invention. He draws the para
 ## Verwante notities
 
 - [Application layering: abstract the app from the OS](app-layering-abstraction-durable-concept.md)
+- [App-V is not dead yet, despite MSIX](app-v-not-dead-yet.md)
 - [FSLogix is not an application layering company; App Disks are doomed](fslogix-not-an-app-layering-company.md)
 - [Microsoft is suddenly winning everything (2017 observation)](microsoft-winning-everything-2017.md)
 - [MSIX app attach: VHD-mounted apps via FSLogix filter drivers](msix-app-attach-concept.md)

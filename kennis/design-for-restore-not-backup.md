@@ -30,6 +30,7 @@ The principle generalizes: continuity design is requirements-driven (what must s
 
 - [Standard components of a disaster recovery (DR) plan](disaster-recovery-plan-components.md)
 - [Fault-Tolerance Decision Hierarchy (Application HA Before Hypervisor HA)](fault-tolerance-decision-hierarchy.md)
+- [DR Is About Apps and Data, Not Fancy Infrastructure](positie-dr-is-about-apps-and-data.md)
 - [Why high availability and DR matter: ransomware and data hostage](ransomware-data-hostage.md)
 - [Restore Testing Cadence and Procedure](restore-testing-cadence.md)
 - [SLA availability to allowed-downtime reference (the nines)](sla-availability-nines-downtime-table.md)

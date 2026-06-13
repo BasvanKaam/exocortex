@@ -22,6 +22,7 @@ This shows his skeptical, context-first stance toward industry hype cycles, and 
 - [Don't be fooled: DaaS marketing sells a client desktop you aren't actually getting](daas-marketing-vs-reality.md)
 - [The Gartner Hype Cycle and its five stages](gartner-hype-cycle.md)
 - [Industrial IoT will be the biggest sub-vertical (2017 call)](iiot-the-next-big-thing-2017.md)
+- [The pandemic compressed VDI/DaaS adoption from months to weeks](pandemic-accelerated-vdi-daas-adoption.md)
 - [Summarize the features, spare people the marketing propaganda](skip-the-marketing-propaganda.md)
 - [VDI is more romantic on paper than in reality](vdi-romantic-vs-reality-position.md)
 - [VDI and DaaS are distinct, not interchangeable](vdi-versus-daas-distinct-solutions.md)

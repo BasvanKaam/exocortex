@@ -25,6 +25,7 @@ How it fit together in 2018. Liquidware's Essentials Bundle combined three produ
 - [Citrix WEM/UPM per-user Outlook search + OST roaming (Synergy 2018)](citrix-wem-upm-ost-search-roaming-2018.md)
 - [Don't start from scratch every OS update: vendor-neutral workspace layer](configure-once-migrate-many-vs-lockin.md)
 - [FlexApp 6.5: filter drivers replace symbolic links, broadening layering support](flexapp-filter-driver-vs-symbolic-links.md)
+- [FlexApp One application layering, and how it compares to MSIX](flexapp-one-application-layering-explained.md)
 - [Workspace/app lifecycle management is an unfairly neglected discipline](lifecycle-management-neglected-unfairly.md)
 - [The Liquidware portfolio in 2017: Stratusphere, ProfileUnity, FlexApp](liquidware-portfolio-2017.md)
 - [Liquidware is a US success but underrated in Europe](liquidware-underrated-in-europe.md)

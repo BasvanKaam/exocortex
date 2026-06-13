@@ -29,4 +29,6 @@ Note: Microsoft's own power-management scripts existed but, per Bas, didn't come
 - [How Nerdio's WVD autoscale worked: triggers, base/burst capacity, graceful drain](nerdio-autoscale-mechanics-2020.md)
 - [Static vs dynamic host pools in Nerdio (autoscale eligibility)](nerdio-static-vs-dynamic-host-pools.md)
 - [Microsoft's WVD power scripts are not real autoscaling](nerdio-vs-microsoft-power-management-scripts.md)
+- [NME persists machine names across reimage/rebuild](nme-hostpool-naming-persistence.md)
+- [What the Nerdio autoscale engine does (NMW era)](nmw-autoscale-engine-capabilities.md)
 - [Nerdio Manager for WVD core capabilities circa 2020](nmw-core-capabilities-2020.md)

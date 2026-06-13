@@ -16,6 +16,7 @@ Bas's observed stance from the whitepaper: although Microsoft recommends letting
 
 ## Verwante notities
 
+- [Be realistic about automation as a business](automation-realistic-business-view.md)
 - [ProPlus deployment and update tooling options](o365-proplus-deployment-and-update-options.md)
 - [Controlling ProPlus diagnostic data and connected services](o365-proplus-privacy-controls.md)
 - [Office 365 ProPlus Update Channels model](o365-update-channels-model.md)

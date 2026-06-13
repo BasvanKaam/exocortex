@@ -36,6 +36,7 @@ Source: Bas van Kaam, Salomon IT blog, 2019-08-28.
 
 - [Exit flexibility depends on the cloud service model (IaaS/SaaS/PaaS)](cloud-exit-flexibility-by-service-model.md)
 - [Bas's checklist of points of attention for a cloud exit](cloud-exit-points-of-attention.md)
+- [Cloud Exit Strategy (start with the exit)](cloud-exit-strategy-cheat-sheet-idea.md)
 - [Why have a cloud exit strategy - the exit comes before onboarding](cloud-exit-strategy-rationale.md)
 - [The six-step process for building a cloud exit strategy](cloud-exit-strategy-steps.md)
 - [Plan the Exit Before You Commit](plan-the-exit-before-you-commit.md)
