@@ -26,7 +26,7 @@ The higher aim is continuity of expectations: IT and reality often diverge, so I
 ## Verwante notities
 
 - [Don't Become the Department of No](avoid-the-department-of-no.md)
-- [the framework's reframe: governance is just a fancy word](bas-governance-is-just-a-fancy-word.md)
+- [Bas's reframe: governance is just a fancy word](bas-governance-is-just-a-fancy-word.md)
 - [Cloud Governance: Distinct Aims and Business Alignment](cloud-governance-distinct-aims-business-alignment.md)
 - [Governance Definition and Strategic Hierarchy](governance-definition-and-strategic-hierarchy.md)
 - [Governance Outcomes by Level and the Role of Communication](governance-outcomes-by-level-and-communication.md)

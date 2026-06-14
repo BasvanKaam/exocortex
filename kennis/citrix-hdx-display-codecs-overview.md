@@ -24,7 +24,6 @@ How it worked then (2016): Citrix display modes, with the alternate names they s
 - [Citrix HDX: an extension to ICA, not a replacement](citrix-hdx-extends-ica.md)
 - [EDT and HDX.next milestones announced at Summit 2017](citrix-summit-2017-edt-hdx-gains.md)
 - [Framehawk and the Lightweight Framebuffer Protocol (LFP)](framehawk-lfp-protocol.md)
-- [Framehawk's Lightweight Framebuffer Protocol](framehawk-lfp-protocol-2.md)
 - [HDX Browser Content Redirection renders client-side via CEF](hdx-browser-content-redirection-cef.md)
 - [HDX extends ICA, it does not replace it](hdx-extends-ica-not-replaces.md)
 - [HDX Monitor: HDX diagnostics tool](hdx-monitor-tool.md)

@@ -48,4 +48,3 @@ Tooling: Windows Update (not really enterprise-worthy), SCCM, WSUS, and the then
 - [Windows SAC vs LTSC servicing channels](windows-sac-vs-ltsc-servicing-channels.md)
 - [Windows Server 2019 at announcement: LTSC/SAC, RDSH question, RDmi](windows-server-2019-ltsc-sac-rdmi.md)
 - [Windows user profile versions are incompatible across OS releases](windows-user-profile-version-incompatibility.md)
-- [Windows user profile versions are not cross-compatible](windows-user-profile-version-incompatibility-2.md)

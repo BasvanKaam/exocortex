@@ -41,7 +41,7 @@ This is the low-hanging fruit of an AVD DR plan, not the whole plan.
 ## Verwante notities
 
 - [Azure Availability Sets vs Availability Zones](azure-availability-sets-vs-zones.md)
-- [Azure Files storage redundancy for WVD profiles: LRS vs ZRS vs GRS](azure-files-storage-redundancy-lrs-zrs-grs-2.md)
+- [Azure Files storage redundancy: LRS, ZRS, GRS](azure-files-storage-redundancy-lrs-zrs-grs.md)
 - [Azure high-availability building blocks](azure-high-availability-building-blocks.md)
 - [Don't make the management tool highly available, spend the budget on compute and storage](dont-make-nerdio-manager-highly-available.md)
 - [Don't Spend Budget Making the AVD Management Tool Highly Available](dont-make-the-avd-management-plane-highly-available.md)

@@ -16,8 +16,7 @@ When curating Come Get IT, Bas deliberately picks speakers and sessions that go 
 
 ## Verwante notities
 
-- [Come Get IT Event Format: Dinner, Networking, Two Curated Sessions](come-get-it-event-format.md)
-- [Come Get IT event: Bas's community evening format](come-get-it-event-format-2.md)
+- [Come Get IT event: Bas's community evening format](come-get-it-event-format.md)
 - [Good Is Good Enough: Ship Content, Don't Polish to Perfection](good-is-good-enough-for-content.md)
 - [Stance: the best technical speakers bridge IT and the business and cut to the essence](ideal-speaker-bridge-it-and-business.md)
 - [Stance: lead with the pitfalls instead of routing around them](lead-with-pitfalls-not-around-them.md)

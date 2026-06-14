@@ -27,7 +27,7 @@ How it worked then with the named MPS code lingering from the old Metaframe days
 
 ## Verwante notities
 
-- [Citrix user, device and concurrent licenses](citrix-license-types-user-device-concurrent-2.md)
+- [Citrix license types: user, device and concurrent](citrix-license-types-user-device-concurrent.md)
 - [Citrix Licensing components and FlexNet](citrix-licensing-components-and-flexnet.md)
 - [Multi-type licensing in XenDesktop/XenApp 7.14](multi-type-licensing-714.md)
 - [Platinum grows in worth, but unbundle the editions](platinum-worth-it-and-unbundle-editions.md)

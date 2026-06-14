@@ -36,7 +36,6 @@ Durable architectural distinctions that survive product renames:
 - [AVD vs Cloud PC is a control-vs-simplicity trade-off keyed to your team's Azure skill](avd-vs-cloud-pc-it-depends-on-team-skill.md)
 - [Cloud PC licensing requirements (durable)](cloud-pc-licensing-requirements.md)
 - [Cloud PC: MEM-managed vs self-service (durable distinction)](cloud-pc-mem-managed-vs-self-service.md)
-- [Cloud PC: MEM-managed vs self-service flavours](cloud-pc-mem-managed-vs-self-service-2.md)
 - [Bas's reframe: is AVD and/or Windows 365 Cloud PC really DaaS?](is-avd-and-windows-365-really-daas.md)
 - [Where Nerdio adds value on top of native Cloud PC](nerdio-added-value-on-cloud-pc.md)
 - [Nerdio autoscaling engine: pooled hostpool scaling logic](nerdio-autoscaling-engine-pooled-hostpools.md)

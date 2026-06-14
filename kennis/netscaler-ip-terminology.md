@@ -24,7 +24,7 @@ How it worked then:
 
 ## Verwante notities
 
-- [NetScaler ADC vs NetScaler Gateway editions](netscaler-adc-vs-gateway-2.md)
+- [NetScaler ADC vs NetScaler Gateway](netscaler-adc-vs-gateway.md)
 - [NetScaler content switching: one entry point, many back ends](netscaler-content-switching-basics.md)
 - [NetScaler HA pair: heartbeats, failover and config replication](netscaler-ha-pair-fundamentals.md)
 - [Intranet Applications: the subnet objects that define split tunneling](netscaler-intranet-applications-object.md)

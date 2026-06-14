@@ -18,7 +18,6 @@ Bas's stance, stated explicitly in the Masterclass: the idea that a Cloud Center
 
 - [Promoting the CCoE: the 'kindergarten' war story and strategies](bas-promoting-the-ccoe-kindergarten-war-story.md)
 - [A CCoE Is Not Just for Large Enterprises](ccoe-not-just-for-enterprise.md)
-- [You're Never Too Small for a CCoE](ccoe-not-just-for-enterprise-2.md)
 - [CCoE sizing: keep it lean and mean](ccoe-sizing-lean-and-mean.md)
 - [Cloud Center of Excellence (CCoE): Definition and Why Early](cloud-center-of-excellence-definition.md)
 - [The CCoE is overhead, so keep it lean](position-ccoe-is-overhead-so-keep-it-lean.md)

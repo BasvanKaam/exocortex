@@ -34,7 +34,6 @@ Bas's marker of success: 'Succes is wanneer businessunits met het CCoE willen sa
 - [Bas's reframe: governance is just a fancy word](bas-governance-is-just-a-fancy-word.md)
 - [Bas: Pragmatism on Governance and Process Documentation](bas-governance-processes-pragmatism.md)
 - [A CCoE Is Not Just for Large Enterprises](ccoe-not-just-for-enterprise.md)
-- [You're Never Too Small for a CCoE](ccoe-not-just-for-enterprise-2.md)
 - [A CCoE is not only for enterprises; it's about responsibilities, not headcount](ccoe-not-just-for-enterprise-3.md)
 - [CCoE Roles and Responsibilities](ccoe-roles-and-responsibilities.md)
 - [Cloud Center of Excellence (CCoE): Definition and Why Early](cloud-center-of-excellence-definition.md)

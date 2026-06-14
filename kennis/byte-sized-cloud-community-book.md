@@ -24,7 +24,7 @@ This is a marker of his community-organizer role: co-curating a large internatio
 
 - [CGIT is about people and knowledge sharing, not just the brand](cgit-is-about-people-and-knowledge-sharing.md)
 - [Christiaan Brinkhoff as 'Mister WVD' and the 2020 WVD framing](christiaan-brinkhoff-mister-wvd.md)
-- [Come Get IT Event Format: Dinner, Networking, Two Curated Sessions](come-get-it-event-format.md)
+- [Come Get IT event: Bas's community evening format](come-get-it-event-format.md)
 - [Come Get IT F1 Event Format (4 July 2019)](come-get-it-f1-event-format-2019.md)
 - [Stance: freely sharing knowledge is the best advertising a company can get](free-knowledge-sharing-is-the-best-advertising.md)
 - [Writing the FMA book was brutal but never regretted](self-publishing-fma-book-worth-it.md)

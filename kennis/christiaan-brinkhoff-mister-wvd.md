@@ -25,7 +25,7 @@ The accompanying framing of WVD in 2020: the beta/test/preview phases were passe
 - [Bet: Windows Virtual Desktop Will Be a Major Force in 2019](bet-wvd-major-impact-2019.md)
 - [Byte-Sized Cloud: A Community-Written Book Project](byte-sized-cloud-community-book.md)
 - [Come Get IT event of 2 April 2020 cancelled due to COVID-19](come-get-it-event-2020-cancelled-covid.md)
-- [Come Get IT Event Format: Dinner, Networking, Two Curated Sessions](come-get-it-event-format.md)
+- [Come Get IT event: Bas's community evening format](come-get-it-event-format.md)
 - [FSLogix: the three core technologies after the Microsoft acquisition](fslogix-three-core-technologies.md)
 - [Method: Build Colleagues Toward MVP by Plugging Them Into Communities Early](mvp-mentoring-pipeline-build-credit-early.md)
 - [Windows Virtual Desktop 2019 launch reference](wvd-2019-launch-reference.md)

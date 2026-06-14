@@ -26,7 +26,7 @@ Quick durable reference Bas uses when designing AVD/FSLogix storage. (Mostly kno
 
 ## Verwante notities
 
-- [Azure Files storage redundancy for WVD profiles: LRS vs ZRS vs GRS](azure-files-storage-redundancy-lrs-zrs-grs-2.md)
+- [Azure Files storage redundancy: LRS, ZRS, GRS](azure-files-storage-redundancy-lrs-zrs-grs.md)
 - [IOPS, latency, and sizing storage for VDI workloads](iops-latency-and-sizing-storage-for-vdi.md)
 - [Nerdio Manager storage autoscale for Azure Files Premium](nerdio-azure-files-premium-autoscale.md)
 - [Reserved Capacity still leaves you guessing; autoscale is the better answer](position-reserved-capacity-vs-autoscale.md)

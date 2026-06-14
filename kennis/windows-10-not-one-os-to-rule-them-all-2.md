@@ -21,5 +21,4 @@ In December 2017, ~2.5 years after Windows 10 shipped, Bas pushes back on Micros
 - [Profile Portability: an abstraction layer over the user profile](profile-portability-abstraction-engine.md)
 - [Windows 10 was never the promised 'One OS to rule them all'](windows-10-not-one-os-to-rule-them-all.md)
 - [Windows user profile versions are incompatible across OS releases](windows-user-profile-version-incompatibility.md)
-- [Windows user profile versions are not cross-compatible](windows-user-profile-version-incompatibility-2.md)
 - [Granular profile handling: write-by-application-level and registry injection](write-by-application-level-profiles.md)

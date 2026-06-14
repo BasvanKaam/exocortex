@@ -18,7 +18,7 @@ When a vendor runs a community scripting event, the right model is: the vendor d
 
 - [Community Scripts Should Be Free and Vendor-Neutral](community-scripts-should-be-vendor-neutral-and-free.md)
 - [Idea: crowdsource the Scripted Actions library from the community](idea-community-scripted-actions-library.md)
-- [Idea: Community Scripted Actions Hackathon](idee-nerdio-scripted-actions-hackathon.md)
+- [Idea: Nerdio Scripted Actions Community Hackathon](idee-nerdio-scripted-actions-hackathon.md)
 - [Nerdio Scripted Actions Hackathon: Bas's Community Event Format](nerdio-scripted-actions-hackathon-concept.md)
 - [Community automation should be public and vendor-neutral](positie-community-scripts-publiek-en-vendor-neutraal.md)
 - [Run Community Events Outside the Marketing Funnel](run-community-events-outside-the-marketing-funnel.md)

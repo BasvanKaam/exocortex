@@ -20,7 +20,7 @@ The transferable idea: the most convincing proof of a platform's capability is a
 
 ## Verwante notities
 
-- [Come Get IT Event Format: Dinner, Networking, Two Curated Sessions](come-get-it-event-format.md)
+- [Come Get IT event: Bas's community evening format](come-get-it-event-format.md)
 - [Come Get IT F1 Event Format (4 July 2019)](come-get-it-f1-event-format-2019.md)
 - [Stance: community sessions should be technical substance, not marketing](events-substance-over-marketing.md)
 - [Session proposition: five (cloud) alternatives to Citrix and VMware](five-cloud-alternatives-to-citrix-vmware-session.md)

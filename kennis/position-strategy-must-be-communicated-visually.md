@@ -28,5 +28,5 @@ He prescribes a concrete instrument, the Kaplan & Norton Strategy Map, as both t
 - [Strategy Map (Kaplan-Norton) within SCAF Strategy phase](scaf-strategy-map-kaplan-norton.md)
 - [SCAF support tool: the strategy map (read up, build down)](scaf-strategy-map-support-tool.md)
 - [SCAF strategy map: a balanced-scorecard layering for the strategy phase](scaf-strategy-map-teaching-artifact.md)
-- [SCAF visual timeline and the framework's preference for visual artifacts](scaf-visual-timeline.md)
+- [SCAF visual timeline and Bas's preference for visual artifacts](scaf-visual-timeline.md)
 - [Strategy Map (Kaplan & Norton) for IT Strategy Communication](strategy-map-kaplan-norton-for-it-strategy.md)

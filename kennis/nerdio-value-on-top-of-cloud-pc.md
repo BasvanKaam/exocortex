@@ -28,7 +28,7 @@ Bas's recurring positioning line: pick the right technology for the right use-ca
 ## Verwante notities
 
 - [AVD/WVD Image Management Capabilities with Nerdio](avd-image-management-with-nerdio.md)
-- [Cloud PC: MEM-managed vs self-service flavours](cloud-pc-mem-managed-vs-self-service-2.md)
+- [Cloud PC: MEM-managed vs self-service (durable distinction)](cloud-pc-mem-managed-vs-self-service.md)
 - [Microsoft builds the core, Nerdio closes the management feature gap](microsoft-builds-the-plane-nerdio-fills-the-gap.md)
 - [Where Nerdio adds value on top of native Cloud PC](nerdio-added-value-on-cloud-pc.md)
 - [Nerdio image lifecycle: import, update, re-image](nerdio-image-lifecycle-import-update-reimage.md)

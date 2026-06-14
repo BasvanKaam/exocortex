@@ -37,7 +37,7 @@ Note (dated): Microsoft at the time published no WVD-specific Availability Zones
 ## Verwante notities
 
 - [AVD High Availability: Availability Sets vs Zones and Redundant Storage](avd-high-availability-sets-zones-storage.md)
-- [Azure Files storage redundancy for WVD profiles: LRS vs ZRS vs GRS](azure-files-storage-redundancy-lrs-zrs-grs-2.md)
+- [Azure Files storage redundancy: LRS, ZRS, GRS](azure-files-storage-redundancy-lrs-zrs-grs.md)
 - [Cloud is more reliable than on-prem, be realistic](cloud-is-more-reliable-than-on-prem.md)
 - [Cloud is still more reliable than on-prem, be realistic about it](cloud-still-more-reliable-than-on-prem.md)
 - [Disaster recovery for WVD: keep machines off until needed](wvd-disaster-recovery-cost-angle.md)

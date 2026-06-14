@@ -32,7 +32,7 @@ Security guidance: prefer authentication in the DMZ over passing unauthenticated
 - [External launch process: Hosted Shared Desktop via NetScaler](external-launch-process-hsd-netscaler.md)
 - [Fewer components in the DMZ is more secure (durable principle)](fewer-components-in-dmz-is-more-secure.md)
 - [ISA Server 2004/2006 Configuration Concepts](isa-server-configuration-concepts.md)
-- [NetScaler ADC vs NetScaler Gateway editions](netscaler-adc-vs-gateway-2.md)
+- [NetScaler ADC vs NetScaler Gateway](netscaler-adc-vs-gateway.md)
 - [Content switching policy types and Unified Gateway](netscaler-cs-policy-types-and-unified-gateway.md)
 - [NetScaler HDX Proxy announced to replace the Secure Gateway (Synergy 2016)](netscaler-hdx-proxy-replaces-secure-gateway.md)
 - [NetScaler split tunneling: route only corporate traffic through the VPN](netscaler-split-tunneling-concept.md)

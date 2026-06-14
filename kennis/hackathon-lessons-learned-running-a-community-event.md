@@ -34,4 +34,4 @@ See also: nerdio-scripted-actions-hackathon-concept.
 
 ## Verwante notities
 
-- [Idea: Community Scripted Actions Hackathon](idee-nerdio-scripted-actions-hackathon.md)
+- [Idea: Nerdio Scripted Actions Community Hackathon](idee-nerdio-scripted-actions-hackathon.md)

@@ -27,7 +27,7 @@ Bas framed this as Citrix simplifying licensing without forcing customers to spe
 
 - [Credit to Citrix for simplifying NetScaler licensing without a price grab](citrix-simplifying-licensing-praise.md)
 - [NetScaler edition licenses and Pay-as-you-Grow](netscaler-adc-edition-licenses-pay-as-you-grow.md)
-- [NetScaler ADC vs NetScaler Gateway editions](netscaler-adc-vs-gateway-2.md)
+- [NetScaler ADC vs NetScaler Gateway](netscaler-adc-vs-gateway.md)
 - [NetScaler ADC vs Gateway: same box, different license](netscaler-adc-vs-gateway-licensing.md)
 - [NetScaler HDX Proxy announced to replace the Secure Gateway (Synergy 2016)](netscaler-hdx-proxy-replaces-secure-gateway.md)
 - [NetScaler platforms, editions and HA](netscaler-platforms-and-licensing.md)

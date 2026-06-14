@@ -26,7 +26,6 @@ From Bas's CPC explainer draft, the licensing essentials (same Windows subscript
 
 - [M365 E3 already entitles you to AHU for WVD](ahu-entitlement-via-m365-e3.md)
 - [Cloud PC: MEM-managed vs self-service (durable distinction)](cloud-pc-mem-managed-vs-self-service.md)
-- [Cloud PC: MEM-managed vs self-service flavours](cloud-pc-mem-managed-vs-self-service-2.md)
 - [Cloud PC vs AVD: a four-lens decision framework](cloud-pc-vs-avd-decision-framework.md)
 - [Nerdio consumption-based licensing model](nerdio-licensing-model.md)
 - [Windows 365 Cloud PC: What It Is and How It Differs from AVD](w365-cloud-pc-vs-avd-fundamentals.md)

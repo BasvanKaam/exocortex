@@ -30,7 +30,6 @@ This is the field-CTO playbook: community as content distribution, feedback funn
 - [The content and channel stack behind a community launch](community-launch-content-engine.md)
 - [Bas's Field CTO mandate at Nerdio (the brief he set himself)](field-cto-role-mandate.md)
 - [Idee: Nerdio Tech Insider Community Program](idee-nerdio-tech-insider-community-program.md)
-- [Idea: a sales-free tech community feedback program](idee-nerdio-tech-insider-community-program-2.md)
 - [Designing a Community Advocate Program (NVP)](nvp-community-advocate-program-design.md)
 - [Personal Invitations Beat Mass Sign-Up](personal-invitations-beat-mass-signup.md)
 - [Community feedback should shape the product](positie-community-shapes-the-product.md)

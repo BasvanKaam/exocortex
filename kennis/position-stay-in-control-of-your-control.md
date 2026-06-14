@@ -21,7 +21,7 @@ The framework holds that automation is necessary to stay in control in the cloud
 
 ## Verwante notities
 
-- [the framework: IaC Creates Dangerous Key-Person Dependency](bas-iac-key-person-risk.md)
+- [Bas: IaC Creates Dangerous Key-Person Dependency](bas-iac-key-person-risk.md)
 - [CCoE role and responsibility demarcation for compliance](ccoe-role-compliance-and-controls.md)
 - [Compliance and risk as operational governance](compliance-risk-operational-governance.md)
 - [Governance Outcomes by Level and the Role of Communication](governance-outcomes-by-level-and-communication.md)

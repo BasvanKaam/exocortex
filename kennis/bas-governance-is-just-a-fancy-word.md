@@ -26,7 +26,6 @@ His signature deflation of the buzzword: 'governance is niets meer dan een duur 
 - [Bas on handover: 'simple is better'](bas-on-simplicity-handover-checklist.md)
 - [Promoting the CCoE: the 'kindergarten' war story and strategies](bas-promoting-the-ccoe-kindergarten-war-story.md)
 - [A CCoE Is Not Just for Large Enterprises](ccoe-not-just-for-enterprise.md)
-- [You're Never Too Small for a CCoE](ccoe-not-just-for-enterprise-2.md)
 - [The CCoE's role in AVG compliance and governance](ccoe-role-in-avg-compliance.md)
 - [Cloud Center of Excellence (CCoE): Definition and Why Early](cloud-center-of-excellence-definition.md)
 - [Governance Definition and Strategic Hierarchy](governance-definition-and-strategic-hierarchy.md)

@@ -25,7 +25,7 @@ How it worked then in 7.14.
 ## Verwante notities
 
 - [Citrix license type vs edition vs consumption model](citrix-license-type-vs-edition.md)
-- [Citrix user, device and concurrent licenses](citrix-license-types-user-device-concurrent-2.md)
+- [Citrix license types: user, device and concurrent](citrix-license-types-user-device-concurrent.md)
 - [Platinum grows in worth, but unbundle the editions](platinum-worth-it-and-unbundle-editions.md)
 - [Prefer PowerShell over the GUI for Citrix FMA work](powershell-over-gui-for-citrix.md)
 - [How the Citrix license server allocates user/device licenses](user-device-license-server-allocation.md)

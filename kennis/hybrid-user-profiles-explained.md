@@ -30,5 +30,4 @@ Key advantage over roaming profiles: the admin chooses which data gets written b
 - [User Profiles on VDI/RDSH: Bloat, Corruption and Roaming Challenges](user-profiles-roaming-challenges.md)
 - [How a Windows user profile loads](windows-roaming-profile-loading.md)
 - [Windows user profile versions are incompatible across OS releases](windows-user-profile-version-incompatibility.md)
-- [Windows user profile versions are not cross-compatible](windows-user-profile-version-incompatibility-2.md)
 - [Granular profile handling: write-by-application-level and registry injection](write-by-application-level-profiles.md)

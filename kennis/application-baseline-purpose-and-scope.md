@@ -37,7 +37,7 @@ Part of the Weolcan Cloud Governance Framework (WCGF), Migration section. Feeds 
 
 - [Application Assessment Canvas](application-assessment-canvas.md)
 - [Two-phase scan method for the Application Baseline](application-baseline-two-phase-scan.md)
-- [the framework: The 6 R's for Application Rationalization](bas-6-rs-cloud-migration.md)
+- [Bas: The 6 R's for Application Rationalization](bas-6-rs-cloud-migration.md)
 - [Purpose of the cloud financial analysis (business case)](cloud-financial-analysis-purpose.md)
 - [Cloud Placement Decisions: the application lifecycle quadrant](cloud-placement-decisions-quadrant.md)
 - [Commodity vs competitive applications as the core strategy lens](commodity-vs-competitive-application-lens.md)

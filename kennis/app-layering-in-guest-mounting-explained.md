@@ -27,5 +27,4 @@ He also noted FSLogix is not strictly an application layering technology, but so
 - [FlexApp 6.5: filter drivers replace symbolic links, broadening layering support](flexapp-filter-driver-vs-symbolic-links.md)
 - [FSLogix is not an application layering company; App Disks are doomed](fslogix-not-an-app-layering-company.md)
 - [How application layering works (filter drivers)](how-application-layering-works.md)
-- [How application layering works: filter drivers merging virtual disks](how-application-layering-works-2.md)
 - [MSIX app attach: VHD-mounted apps via FSLogix filter drivers](msix-app-attach-concept.md)

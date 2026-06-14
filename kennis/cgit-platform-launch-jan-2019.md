@@ -26,4 +26,4 @@ At launch the platform already had its first blogs published and its first podca
 - [Method: the Bloggers Borrel as an internal blogging flywheel](bloggers-borrel-internal-blogging-flywheel.md)
 - [CGIT community + content engine: events, whitepapers, podcasts, ambassadors](cgit-community-content-engine-2019.md)
 - [CGIT positioning: by IT pros, for IT pros](cgit-positioning-knowledge-community.md)
-- [Come Get IT Event Format: Dinner, Networking, Two Curated Sessions](come-get-it-event-format.md)
+- [Come Get IT event: Bas's community evening format](come-get-it-event-format.md)

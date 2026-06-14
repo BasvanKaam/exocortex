@@ -32,6 +32,5 @@ Historical product note. Nerdio Manager for WVD (NMW) Community Edition (CE) lau
 ## Verwante notities
 
 - [Idee: Nerdio Tech Insider Community Program](idee-nerdio-tech-insider-community-program.md)
-- [Idea: a sales-free tech community feedback program](idee-nerdio-tech-insider-community-program-2.md)
 - [NMW Community Edition: what it is and how to run it on a budget](nmw-community-edition-explainer.md)
 - [Hybrid WVD Object Model (NMW, Fall/Spring era)](nmw-hybrid-wvd-object-model.md)

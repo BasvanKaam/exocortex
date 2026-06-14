@@ -26,6 +26,5 @@ It was based on the H.264 codec (decoded in client hardware where available, els
 - [Take: Blast Extreme is an option, not a PCoIP killer](blast-extreme-not-a-pcoip-replacement.md)
 - [Citrix HDX display codecs and their confusing alternate names](citrix-hdx-display-codecs-overview.md)
 - [Framehawk and the Lightweight Framebuffer Protocol (LFP)](framehawk-lfp-protocol.md)
-- [Framehawk's Lightweight Framebuffer Protocol](framehawk-lfp-protocol-2.md)
 - [ThinWire compatibility mode: the low-footprint fallback for H.264](thinwire-compatibility-mode.md)
 - [VMware Cloud Pod Architecture aggregates pods behind one entitlement layer](vmware-cloud-pod-architecture.md)

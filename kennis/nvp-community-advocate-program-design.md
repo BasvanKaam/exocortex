@@ -34,7 +34,7 @@ This is Bas's own program design at Nerdio; the pattern transfers to any vendor 
 ## Verwante notities
 
 - [Build a practitioner community as a go-to-market motion](community-program-as-go-to-market-idea.md)
-- [Idea: a sales-free tech community feedback program](idee-nerdio-tech-insider-community-program-2.md)
+- [Idee: Nerdio Tech Insider Community Program](idee-nerdio-tech-insider-community-program.md)
 - [Be a Learn-It-All Organization, Not a Know-It-All One](learn-it-all-not-know-it-all.md)
 - [NVP Captains: Seeding a Community Program With Founding Members](nvp-captains-model.md)
 - [NVP Newsletter: Bas's Recurring Community Update Format](nvp-newsletter-format.md)

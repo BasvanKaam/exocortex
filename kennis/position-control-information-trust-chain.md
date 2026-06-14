@@ -23,7 +23,7 @@ The stance reframes governance reporting as the enabler of organizational autono
 
 ## Verwante notities
 
-- [the framework's reframe: governance is just a fancy word](bas-governance-is-just-a-fancy-word.md)
+- [Bas's reframe: governance is just a fancy word](bas-governance-is-just-a-fancy-word.md)
 - [Governance communication as the continuous-improvement loop](continuous-improvement-feedback-loop.md)
 - [Creative Communication and Putting Responsibility on Staff](creative-communication-and-feedback-loop.md)
 - [Cultural Shift: Communicate, Communicate, Communicate](cultural-shift-communicate-communicate.md)

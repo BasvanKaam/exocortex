@@ -25,7 +25,7 @@ App virtualization (App-V, ThinApp) and application layering are often confused,
 - [Three flavours of application delivery in XenDesktop/XenApp](application-delivery-three-flavours.md)
 - [Application layering vendor landscape circa 2016](application-layering-vendor-landscape-2016.md)
 - [Bas: only ~50-60% of apps can be virtualised](bas-on-virtualisation-coverage-50-60-percent.md)
-- [How application layering works: filter drivers merging virtual disks](how-application-layering-works-2.md)
+- [How application layering works (filter drivers)](how-application-layering-works.md)
 - [MSIX positioned to replace App-V (2019 transition)](msix-replacing-app-v.md)
 - [If most VDIs are non-persistent, why aren't more apps virtualised?](non-persistent-vs-app-virtualisation-surprise.md)
 - [Layering and virtualization are partners, and the cons are soon forgotten](positie-layering-and-virtualization-coexist.md)

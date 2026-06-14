@@ -38,7 +38,6 @@ Bas's framing of Windows 365 (announced at Microsoft Inspire, 14 July 2021) for 
 
 - [Cloud PC licensing requirements (durable)](cloud-pc-licensing-requirements.md)
 - [Cloud PC: MEM-managed vs self-service (durable distinction)](cloud-pc-mem-managed-vs-self-service.md)
-- [Cloud PC: MEM-managed vs self-service flavours](cloud-pc-mem-managed-vs-self-service-2.md)
 - [Cloud PC vs AVD: a four-lens decision framework](cloud-pc-vs-avd-decision-framework.md)
 - [AVD and Cloud PC go hand in hand, pick per use case](positie-avd-en-cloud-pc-gaan-hand-in-hand.md)
 - [Windows 365 and AVD Are Complementary, Not Competing](positie-w365-and-avd-coexist.md)

@@ -26,7 +26,6 @@ Web Interface (EOL June 2018) works differently: it has NO internal authenticati
 ## Verwante notities
 
 - [Bas's distinction: authentication versus verification](authentication-vs-verification-distinction.md)
-- [Bas's distinction between authentication and verification](authentication-vs-verification-distinction-2.md)
 - [Beacon-based Receiver connection routing](beacon-based-receiver-connection-routing.md)
 - [Broker Service: XML, STA and the Principal Broker](broker-service-xml-sta-principal.md)
 - [A Citrix external logon validates against LDAP three times](citrix-three-ldap-validations-logon.md)

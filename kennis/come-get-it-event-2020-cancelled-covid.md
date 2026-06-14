@@ -22,8 +22,7 @@ The Come Get IT community event scheduled for 2 April 2020 was cancelled because
 
 - [CGIT proposal model: fund event attendance via content output](cgit-ignite-2020-proposal-model.md)
 - [Christiaan Brinkhoff as 'Mister WVD' and the 2020 WVD framing](christiaan-brinkhoff-mister-wvd.md)
-- [Come Get IT Event Format: Dinner, Networking, Two Curated Sessions](come-get-it-event-format.md)
-- [Come Get IT event: Bas's community evening format](come-get-it-event-format-2.md)
+- [Come Get IT event: Bas's community evening format](come-get-it-event-format.md)
 - [Come Get IT Event Production Playbook](come-get-it-event-playbook.md)
 - [Come Get IT F1 Event Format (4 July 2019)](come-get-it-f1-event-format-2019.md)
 - [Stance: the best technical speakers bridge IT and the business and cut to the essence](ideal-speaker-bridge-it-and-business.md)

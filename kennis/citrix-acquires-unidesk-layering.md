@@ -29,5 +29,4 @@ What it meant then: Unidesk layering would be made available to all editions of 
 - [Citrix WEM/UPM per-user Outlook search + OST roaming (Synergy 2018)](citrix-wem-upm-ost-search-roaming-2018.md)
 - [FSLogix is not an application layering company; App Disks are doomed](fslogix-not-an-app-layering-company.md)
 - [How application layering works (filter drivers)](how-application-layering-works.md)
-- [How application layering works: filter drivers merging virtual disks](how-application-layering-works-2.md)
 - [Non-persistent plus layering = the best of both worlds](non-persistent-feels-persistent-with-layering.md)

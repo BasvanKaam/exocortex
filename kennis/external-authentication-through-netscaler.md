@@ -29,7 +29,7 @@ FMA fact: if you don't enable authentication on the NetScaler login page, NetSca
 
 ## Verwante notities
 
-- [Bas's distinction between authentication and verification](authentication-vs-verification-distinction-2.md)
+- [Bas's distinction: authentication versus verification](authentication-vs-verification-distinction.md)
 - [Bas's key takeaways on the user login process](bas-key-takeaways-user-login-process.md)
 - [Beacon-based Receiver connection routing](beacon-based-receiver-connection-routing.md)
 - [Citrix Site policies: Entitlement, Assignment, Site Access](citrix-site-policies-powershell.md)

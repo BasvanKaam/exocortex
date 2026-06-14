@@ -26,7 +26,6 @@ If the default method can't kick in (insufficient client CPU, or an older unsupp
 - [Citrix HDX: an extension to ICA, not a replacement](citrix-hdx-extends-ica.md)
 - [Framehawk: ICA over lossy, high-latency networks](framehawk.md)
 - [Framehawk and the Lightweight Framebuffer Protocol (LFP)](framehawk-lfp-protocol.md)
-- [Framehawk's Lightweight Framebuffer Protocol](framehawk-lfp-protocol-2.md)
 - [HDX Browser Content Redirection renders client-side via CEF](hdx-browser-content-redirection-cef.md)
 - [HDX extends ICA, it does not replace it](hdx-extends-ica-not-replaces.md)
 - [HDX is not a replacement for ICA](hdx-not-a-replacement-for-ica.md)

@@ -22,5 +22,4 @@ In this Nov 2017 post Bas pushes back on Microsoft's Windows 10 marketing. Micro
 - [Bas: the direction is already clear, enough has been said](win10-multiuser-direction-is-clear-2018.md)
 - [Microsoft's 'one Windows 10 to rule them all' promise was false](windows-10-not-one-os-to-rule-them-all-2.md)
 - [Windows user profile versions are incompatible across OS releases](windows-user-profile-version-incompatibility.md)
-- [Windows user profile versions are not cross-compatible](windows-user-profile-version-incompatibility-2.md)
 - [Windows 10 servicing branches and deployment rings](windows10-servicing-branches-rings.md)

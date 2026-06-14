@@ -25,7 +25,7 @@ A formal governance framework establishes chains of responsibility, authority an
 
 ## Verwante notities
 
-- [the framework's reframe: governance is just a fancy word](bas-governance-is-just-a-fancy-word.md)
+- [Bas's reframe: governance is just a fancy word](bas-governance-is-just-a-fancy-word.md)
 - [Governance Outcomes by Level and the Role of Communication](governance-outcomes-by-level-and-communication.md)
 - [ICT Vision: IT and Cloud Strategy Derive from the Digital Strategy](ict-vision-strategy-derivation-from-digital-strategy.md)
 - [Nested Governance: Corporate over IT over Cloud](nested-governance-corporate-it-cloud.md)

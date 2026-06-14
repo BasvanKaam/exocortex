@@ -24,7 +24,6 @@ There is also a free **VPX Express** edition, good for small deployments, PoCs a
 
 - [NetScaler edition licenses and Pay-as-you-Grow](netscaler-adc-edition-licenses-pay-as-you-grow.md)
 - [NetScaler ADC vs NetScaler Gateway](netscaler-adc-vs-gateway.md)
-- [NetScaler ADC vs NetScaler Gateway editions](netscaler-adc-vs-gateway-2.md)
 - [NetScaler ADC vs Gateway: same box, different license](netscaler-adc-vs-gateway-licensing.md)
 - [NetScaler high availability and clustering](netscaler-high-availability-clustering.md)
 - [NetScaler platforms, editions and HA](netscaler-platforms-and-licensing.md)

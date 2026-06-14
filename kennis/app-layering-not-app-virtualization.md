@@ -21,7 +21,7 @@ Reviewing Liquidware FlexApp in September 2015, Bas is careful to draw a line th
 - [Application layering complements, does not replace, app virtualization](application-layering-vs-virtualization.md)
 - [Citrix Streaming Profile and AIE Data Paths](citrix-streaming-profile-paths.md)
 - [FlexApp 6.5: filter drivers replace symbolic links, broadening layering support](flexapp-filter-driver-vs-symbolic-links.md)
-- [How application layering works: filter drivers merging virtual disks](how-application-layering-works-2.md)
+- [How application layering works (filter drivers)](how-application-layering-works.md)
 - [Liquidware suite: ProfileUnity, FlexApp, Stratusphere UX (2018)](liquidware-profileunity-flexapp-stratusphere.md)
 - [App layering that keeps the base image clean is the right model for AVD](positie-app-layering-keeps-the-image-clean.md)
 - [Layering and virtualization are partners, and the cons are soon forgotten](positie-layering-and-virtualization-coexist.md)

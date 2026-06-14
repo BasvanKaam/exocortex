@@ -25,7 +25,6 @@ Which format an app uses is determined by how it was written/coded.
 
 - [Citrix Universal Print Driver (UPD)](citrix-universal-print-driver.md)
 - [EMF vs XPS print file formats](emf-vs-xps-print-formats.md)
-- [EMF vs XPS: the two Windows print file formats](emf-vs-xps-print-formats-2.md)
 - [Microsoft print file formats: EMF vs XPS](microsoft-print-formats-emf-xps.md)
 - [Print architecture is decided by all elements combined, not one knob](print-architecture-is-all-elements-combined.md)
 - [Print spooling and the kernel-mode to user-mode driver history](windows-print-spooling-and-driver-history.md)

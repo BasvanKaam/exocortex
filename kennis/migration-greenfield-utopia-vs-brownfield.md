@@ -29,4 +29,3 @@ A durable migration truth: design for brownfield, not greenfield.
 - [Categorize users before choosing a desktop model](user-categorization-for-desktop-design.md)
 - [Keep Web Interface when migrating, choose StoreFront when greenfield (April 2013)](web-interface-vs-storefront-migration-call.md)
 - [Windows user profile versions are incompatible across OS releases](windows-user-profile-version-incompatibility.md)
-- [Windows user profile versions are not cross-compatible](windows-user-profile-version-incompatibility-2.md)

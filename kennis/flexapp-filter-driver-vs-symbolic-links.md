@@ -32,7 +32,7 @@ Flavours/scope: VHD (mounted in-guest, works on virtual and physical) and VMDK f
 - [In-guest vs hypervisor-level mounting in application layering](app-layering-in-guest-mounting-explained.md)
 - [Framing: keep application layering and application virtualization distinct](app-layering-not-app-virtualization.md)
 - [Citrix App Layering's reputation problem (2018)](citrix-app-layering-reputation-2018.md)
-- [How application layering works: filter drivers merging virtual disks](how-application-layering-works-2.md)
+- [How application layering works (filter drivers)](how-application-layering-works.md)
 - [Liquidware suite: ProfileUnity, FlexApp, Stratusphere UX (2018)](liquidware-profileunity-flexapp-stratusphere.md)
 - [ProfileDisk: redirect the whole profile to a VHD/VMDK container](profiledisk-container-concept.md)
 - [ProfileUnity feature set and all-in-one model (2017)](profileunity-feature-overview-2017.md)

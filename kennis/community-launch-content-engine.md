@@ -29,7 +29,6 @@ Channel mechanics he uses: a **Meetup page** as the public home and RSVP point f
 
 - [Build a practitioner community as a go-to-market motion](community-program-as-go-to-market-idea.md)
 - [Idee: Nerdio Tech Insider Community Program](idee-nerdio-tech-insider-community-program.md)
-- [Idea: a sales-free tech community feedback program](idee-nerdio-tech-insider-community-program-2.md)
 - [NVP Newsletter: Bas's Recurring Community Update Format](nvp-newsletter-format.md)
 - [Personal Invitations Beat Mass Sign-Up](personal-invitations-beat-mass-signup.md)
 - [Quiz as Community Engagement](quiz-as-community-engagement.md)

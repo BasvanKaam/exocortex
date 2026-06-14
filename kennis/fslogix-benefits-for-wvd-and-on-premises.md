@@ -29,7 +29,7 @@ The framing he stresses: these are not WVD-only benefits — the same FSLogix va
 
 ## Verwante notities
 
-- [Azure Files storage redundancy for WVD profiles: LRS vs ZRS vs GRS](azure-files-storage-redundancy-lrs-zrs-grs-2.md)
+- [Azure Files storage redundancy: LRS, ZRS, GRS](azure-files-storage-redundancy-lrs-zrs-grs.md)
 - [FSLogix Cloud Cache (tech preview, 2018)](fslogix-cloud-cache-2018.md)
 - [FSLogix: The Five Capabilities Bas Teaches](fslogix-five-capabilities.md)
 - [FSLogix: the three core technologies after the Microsoft acquisition](fslogix-three-core-technologies.md)

@@ -21,7 +21,6 @@ How it worked then: the Remote Display Analyzer (RDA), by Bram Wolfs and Barry S
 - [Take: Blast Extreme is an option, not a PCoIP killer](blast-extreme-not-a-pcoip-replacement.md)
 - [Citrix HDX display codecs and their confusing alternate names](citrix-hdx-display-codecs-overview.md)
 - [Framehawk and the Lightweight Framebuffer Protocol (LFP)](framehawk-lfp-protocol.md)
-- [Framehawk's Lightweight Framebuffer Protocol](framehawk-lfp-protocol-2.md)
 - [Linking infrastructure performance to employee productivity](infra-performance-vs-productivity.md)
 - [RDA is an industry first that out-shipped Citrix itself](positie-rda-industry-first.md)
 - [PowerShell: download the latest release asset from GitHub](powershell-download-latest-github-release.md)

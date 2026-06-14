@@ -20,7 +20,7 @@ Community-contribution model for the Scripted Actions library: invite the commun
 
 - [Community Scripts Should Be Free and Vendor-Neutral](community-scripts-should-be-vendor-neutral-and-free.md)
 - [Structured Idea / Feature-Request Form as a Product Feedback Loop](idea-form-feedback-loop.md)
-- [Idea: Community Scripted Actions Hackathon](idee-nerdio-scripted-actions-hackathon.md)
+- [Idea: Nerdio Scripted Actions Community Hackathon](idee-nerdio-scripted-actions-hackathon.md)
 - [Idee: Nerdio Tech Insider Community Program](idee-nerdio-tech-insider-community-program.md)
 - [What Nerdio Scripted Actions are](nmw-scripted-actions-explainer.md)
 - [Community automation should be public and vendor-neutral](positie-community-scripts-publiek-en-vendor-neutraal.md)

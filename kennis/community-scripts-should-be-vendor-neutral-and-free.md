@@ -17,5 +17,5 @@ When Bas designed the Nerdio Hackathon, the stance was explicit: all scripted ac
 ## Verwante notities
 
 - [Idea: crowdsource the Scripted Actions library from the community](idea-community-scripted-actions-library.md)
-- [Idea: Community Scripted Actions Hackathon](idee-nerdio-scripted-actions-hackathon.md)
+- [Idea: Nerdio Scripted Actions Community Hackathon](idee-nerdio-scripted-actions-hackathon.md)
 - [Community code stays with its author](positie-scripts-blijven-eigendom-maker.md)

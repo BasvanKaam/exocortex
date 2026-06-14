@@ -18,7 +18,7 @@ From running Come Get IT, Bas takes the stance that personal, individually addre
 
 - [CGIT 'Come Get IT On Tour' as a Community Flywheel](cgit-community-flywheel-on-tour.md)
 - [CGIT positioning: by IT pros, for IT pros](cgit-positioning-knowledge-community.md)
-- [Come Get IT Event Format: Dinner, Networking, Two Curated Sessions](come-get-it-event-format.md)
+- [Come Get IT event: Bas's community evening format](come-get-it-event-format.md)
 - [Come Get IT Event Production Playbook](come-get-it-event-playbook.md)
 - [Come Get IT F1 Event Format (4 July 2019)](come-get-it-f1-event-format-2019.md)
 - [The content and channel stack behind a community launch](community-launch-content-engine.md)

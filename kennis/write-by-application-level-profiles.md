@@ -28,4 +28,4 @@ Loading works via 'registry injection': the NTUSER.DAT is not altered directly; 
 - [ProfileUnity feature set and all-in-one model (2017)](profileunity-feature-overview-2017.md)
 - [UEM should be simple, single-console, and not sold in tiers](uem-should-be-simple-no-modules.md)
 - [Microsoft's 'one Windows 10 to rule them all' promise was false](windows-10-not-one-os-to-rule-them-all-2.md)
-- [Windows user profile versions are not cross-compatible](windows-user-profile-version-incompatibility-2.md)
+- [Windows user profile versions are incompatible across OS releases](windows-user-profile-version-incompatibility.md)

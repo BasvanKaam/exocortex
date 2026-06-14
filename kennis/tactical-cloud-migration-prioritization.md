@@ -29,7 +29,7 @@ This turns the strategic drivers into a concrete prioritization filter for the m
 
 ## Verwante notities
 
-- [the framework: The 6 R's for Application Rationalization](bas-6-rs-cloud-migration.md)
+- [Bas: The 6 R's for Application Rationalization](bas-6-rs-cloud-migration.md)
 - [Criteria for Selecting the First Workload to Migrate](first-workload-selection-criteria.md)
 - [Migrate vs Modernize as a Per-Workload Decision](migrate-vs-modernize-distinction.md)
 - [Decide Why You're in the Cloud Before You Migrate](name-your-cloud-driver-first.md)

@@ -22,7 +22,7 @@ Bas's rule of thumb when fronting the MDM components with a hardware load balanc
 - [If traffic is inspected and users authenticated, the DMZ is at least as safe as the LAN](dmz-not-automatically-safer-than-lan.md)
 - [A framework for deciding DMZ vs internal LAN server placement](dmz-placement-decision-framework.md)
 - [Getting the XenMobile MDM server out of the DMZ was overdue and underdiscussed](mdm-out-of-dmz-relief.md)
-- [NetScaler ADC vs NetScaler Gateway editions](netscaler-adc-vs-gateway-2.md)
+- [NetScaler ADC vs NetScaler Gateway](netscaler-adc-vs-gateway.md)
 - [NetScaler Gateway remote-access traffic flow](netscaler-gateway-traffic-flow.md)
 - [NetScaler HDX Proxy announced to replace the Secure Gateway (Synergy 2016)](netscaler-hdx-proxy-replaces-secure-gateway.md)
 - [Intranet Applications: the subnet objects that define split tunneling](netscaler-intranet-applications-object.md)

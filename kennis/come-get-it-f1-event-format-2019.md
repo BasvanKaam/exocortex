@@ -27,8 +27,7 @@ The takeaway as a reusable method: pick a vivid, accessible theme, then recruit 
 
 - [Byte-Sized Cloud: A Community-Written Book Project](byte-sized-cloud-community-book.md)
 - [Come Get IT event of 2 April 2020 cancelled due to COVID-19](come-get-it-event-2020-cancelled-covid.md)
-- [Come Get IT Event Format: Dinner, Networking, Two Curated Sessions](come-get-it-event-format.md)
-- [Come Get IT event: Bas's community evening format](come-get-it-event-format-2.md)
+- [Come Get IT event: Bas's community evening format](come-get-it-event-format.md)
 - [Come Get IT Event Production Playbook](come-get-it-event-playbook.md)
 - [Personal Invitations Beat Mass Sign-Up](personal-invitations-beat-mass-signup.md)
 - [Idea: build a flagship demo (F1 sim on VDI) to prove a technology's limits](vdi-f1-simulator-showcase-idea.md)

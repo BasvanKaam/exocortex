@@ -19,6 +19,6 @@ The same formula helps you work out the break-even point where concurrent licens
 
 ## Verwante notities
 
-- [Citrix user, device and concurrent licenses](citrix-license-types-user-device-concurrent-2.md)
+- [Citrix license types: user, device and concurrent](citrix-license-types-user-device-concurrent.md)
 - [Citrix Server, Farm and Zone Design Trade-offs](citrix-server-farm-zone-design.md)
 - [How the license server reassigns user/device licenses](license-server-user-device-reassignment-logic.md)

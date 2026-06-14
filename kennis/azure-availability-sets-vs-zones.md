@@ -24,7 +24,6 @@ SLA: 99.99% VM uptime when two or more VMs are deployed across two or more Avail
 
 - [AVD High Availability: Availability Sets vs Zones and Redundant Storage](avd-high-availability-sets-zones-storage.md)
 - [Azure Files storage redundancy: LRS, ZRS, GRS](azure-files-storage-redundancy-lrs-zrs-grs.md)
-- [Azure Files storage redundancy for WVD profiles: LRS vs ZRS vs GRS](azure-files-storage-redundancy-lrs-zrs-grs-2.md)
 - [Azure high-availability building blocks](azure-high-availability-building-blocks.md)
 - [High-availability options for the Central Site database](central-site-database-ha-options.md)
 - [Nerdio shines where Microsoft's WVD HA docs are missing](nerdio-fills-microsoft-wvd-ha-doc-gap.md)

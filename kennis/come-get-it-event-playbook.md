@@ -43,8 +43,7 @@ Assign every task an explicit owner, write it down in a draaiboek, share access 
 
 - [CGIT 'Come Get IT On Tour' as a Community Flywheel](cgit-community-flywheel-on-tour.md)
 - [Come Get IT event of 2 April 2020 cancelled due to COVID-19](come-get-it-event-2020-cancelled-covid.md)
-- [Come Get IT Event Format: Dinner, Networking, Two Curated Sessions](come-get-it-event-format.md)
-- [Come Get IT event: Bas's community evening format](come-get-it-event-format-2.md)
+- [Come Get IT event: Bas's community evening format](come-get-it-event-format.md)
 - [Come Get IT F1 Event Format (4 July 2019)](come-get-it-f1-event-format-2019.md)
 - [Event runbook method: Wanneer, Waar, Wat, Wie](event-runbook-method.md)
 - [Personal Invitations Beat Mass Sign-Up](personal-invitations-beat-mass-signup.md)

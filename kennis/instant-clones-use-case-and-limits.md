@@ -18,7 +18,7 @@ The primary (and at the time only sensible) use case for Instant Clones is non-p
 
 ## Verwante notities
 
-- [How application layering works: filter drivers merging virtual disks](how-application-layering-works-2.md)
+- [How application layering works (filter drivers)](how-application-layering-works.md)
 - [MCS desktop types: pooled-random, pooled-static, dedicated](mcs-desktop-types-pooled-dedicated.md)
 - [Non-persistent plus layering = the best of both worlds](non-persistent-feels-persistent-with-layering.md)
 - [Pooled vs dedicated desktops: the durable trade-off](pooled-vs-dedicated-desktops.md)

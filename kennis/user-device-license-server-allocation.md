@@ -29,6 +29,6 @@ How it worked then.
 ## Verwante notities
 
 - [Citrix license type vs edition vs consumption model](citrix-license-type-vs-edition.md)
-- [Citrix user, device and concurrent licenses](citrix-license-types-user-device-concurrent-2.md)
+- [Citrix license types: user, device and concurrent](citrix-license-types-user-device-concurrent.md)
 - [Microsoft VDA vs RDS licensing for Citrix](microsoft-vda-rds-licensing-for-citrix.md)
 - [Multi-type licensing in XenDesktop/XenApp 7.14](multi-type-licensing-714.md)

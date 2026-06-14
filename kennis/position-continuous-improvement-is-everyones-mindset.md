@@ -21,7 +21,7 @@ The framework's stance is that it is very easy to just go through the motions, d
 
 ## Verwante notities
 
-- [the framework's Lessons Learned document: a living continuous-learning tool](bas-lessons-learned-document-method.md)
+- [Bas's Lessons Learned document: a living continuous-learning tool](bas-lessons-learned-document-method.md)
 - [CCoE owns service-lifecycle completion and currency](ccoe-service-lifecycle-completion.md)
 - [Cloud Governance: Distinct Aims and Business Alignment](cloud-governance-distinct-aims-business-alignment.md)
 - [Governance communication as the continuous-improvement loop](continuous-improvement-feedback-loop.md)

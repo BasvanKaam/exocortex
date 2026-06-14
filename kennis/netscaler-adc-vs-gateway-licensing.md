@@ -29,7 +29,7 @@ How it worked around NetScaler 10.x (2014):
 - [Credit to Citrix for simplifying NetScaler licensing without a price grab](citrix-simplifying-licensing-praise.md)
 - [NetScaler 10.5 made ICA proxy built-in and unlimited](netscaler-105-ica-proxy-built-in.md)
 - [NetScaler edition licenses and Pay-as-you-Grow](netscaler-adc-edition-licenses-pay-as-you-grow.md)
-- [NetScaler ADC vs NetScaler Gateway editions](netscaler-adc-vs-gateway-2.md)
+- [NetScaler ADC vs NetScaler Gateway](netscaler-adc-vs-gateway.md)
 - [NetScaler appliance models: VPX, MPX, SDX, CPX](netscaler-appliance-models-vpx-mpx-sdx-cpx.md)
 - [NetScaler platforms, editions and HA](netscaler-platforms-and-licensing.md)
 - [Teaching stance: master the basics before the advanced NetScaler features](netscaler-walk-before-you-run-teaching.md)

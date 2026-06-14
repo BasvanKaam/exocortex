@@ -20,7 +20,6 @@ As of StoreFront 3.0, Citrix reintroduced XML-based authentication: running a fe
 ## Verwante notities
 
 - [Bas's distinction: authentication versus verification](authentication-vs-verification-distinction.md)
-- [Bas's distinction between authentication and verification](authentication-vs-verification-distinction-2.md)
 - [Broker Service: XML, STA and the Principal Broker](broker-service-xml-sta-principal.md)
 - [Connection Leasing mechanism](connection-leasing-mechanism.md)
 - [External user authentication through NetScaler](external-authentication-through-netscaler.md)

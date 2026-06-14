@@ -32,7 +32,7 @@ The value of this overview is the visual framing: it turns the broad, slippery w
 
 ## Verwante notities
 
-- [the framework's reframe: governance is just a fancy word](bas-governance-is-just-a-fancy-word.md)
+- [Bas's reframe: governance is just a fancy word](bas-governance-is-just-a-fancy-word.md)
 - [Governance Definition and Strategic Hierarchy](governance-definition-and-strategic-hierarchy.md)
 - [SCAF Adoption cloud-governance go-live checklist](scaf-adoption-governance-golive-checklist.md)
 - [SCAF Cloud governance: putting the dots on the i](scaf-cloud-governance-checklist.md)

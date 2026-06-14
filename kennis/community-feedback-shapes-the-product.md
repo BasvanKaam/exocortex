@@ -20,7 +20,6 @@ Bas's stance: a vendor community is only worth running if members can see their 
 - [Consistency Beats Volume in Community Advocacy](consistency-beats-volume-in-community-advocacy.md)
 - [Structured Idea / Feature-Request Form as a Product Feedback Loop](idea-form-feedback-loop.md)
 - [Idee: Nerdio Tech Insider Community Program](idee-nerdio-tech-insider-community-program.md)
-- [Idea: a sales-free tech community feedback program](idee-nerdio-tech-insider-community-program-2.md)
 - [Be a Learn-It-All Organization, Not a Know-It-All One](learn-it-all-not-know-it-all.md)
 - [Community feedback should shape the product](positie-community-shapes-the-product.md)
 - [Don't hide costs from customers: full-disclosure pricing builds trust](radical-pricing-transparency-position.md)

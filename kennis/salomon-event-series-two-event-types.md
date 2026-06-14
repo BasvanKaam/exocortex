@@ -28,7 +28,7 @@ A further idea he floats: Salomon should fully own at least one event end-to-end
 - [Bet: Windows Virtual Desktop Will Be a Major Force in 2019](bet-wvd-major-impact-2019.md)
 - [CGIT x LoginTechcast Collaboration Idea](cgit-logintechcast-collaboration-idea.md)
 - [Cloud Webinar Structure: Workspace vs Infra Through a Shared Lens](cloud-webinar-structure-workspace-vs-infra.md)
-- [Come Get IT Event Format: Dinner, Networking, Two Curated Sessions](come-get-it-event-format.md)
+- [Come Get IT event: Bas's community evening format](come-get-it-event-format.md)
 - [Come Get IT Event Production Playbook](come-get-it-event-playbook.md)
 - [Stance: community sessions should be technical substance, not marketing](events-substance-over-marketing.md)
 - [Stance: freely sharing knowledge is the best advertising a company can get](free-knowledge-sharing-is-the-best-advertising.md)

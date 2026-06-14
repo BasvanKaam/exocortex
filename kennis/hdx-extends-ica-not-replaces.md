@@ -22,7 +22,6 @@ How it worked then (XenApp/XenDesktop 7.x era): HDX is not a replacement for the
 - [Citrix HDX display codecs and their confusing alternate names](citrix-hdx-display-codecs-overview.md)
 - [Citrix HDX: an extension to ICA, not a replacement](citrix-hdx-extends-ica.md)
 - [Framehawk and the Lightweight Framebuffer Protocol (LFP)](framehawk-lfp-protocol.md)
-- [Framehawk's Lightweight Framebuffer Protocol](framehawk-lfp-protocol-2.md)
 - [HDX Browser Content Redirection renders client-side via CEF](hdx-browser-content-redirection-cef.md)
 - [ICA connection renamed HDX connection (terminology shift, 2013)](ica-connection-becomes-hdx-connection.md)
 - [Delivering Lync in a XenApp hosted shared desktop: generic vs optimized HDX](lync-xenapp-delivery-options.md)
