@@ -18,6 +18,7 @@ Bas hammers a recurring migration truth: when you move from a 32-bit OS to a 64-
 
 ## Verwante notities
 
+- [AVD/Azure project readiness framework](avd-project-readiness-framework.md)
 - [Cloud-migration suitability checklist for client/server applications](cloud-migration-suitability-checklist-client-server-apps.md)
 - [Delivering five Windows generations from one infrastructure](five-generations-of-windows-one-infrastructure.md)
 - [Greenfield onboarding is a utopia; plan for existing profiles and data](migration-greenfield-utopia-vs-brownfield.md)

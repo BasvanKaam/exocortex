@@ -22,5 +22,6 @@ A durable orientation point from Bas's 2018 cheat sheet: every major cloud (AWS,
 - [A cheat sheet should orient, not rank vendors](cheat-sheet-as-starting-point-not-comparison.md)
 - [No real standards across cloud providers; identical services, different names](cloud-providers-no-standards-naming.md)
 - [Core cloud building blocks: datacenter, virtualization, APIs, storage, databases, elasticity](core-cloud-components-and-concepts.md)
+- [A simple DIY method to compare Cloud datacenter latency](diy-cloud-latency-ping-test-method.md)
 - [No universal Cloud standard, and the vendor lock-in problem](no-universal-cloud-standard-vendor-lock-in.md)
 - [The Big Three Cloud Providers (AWS, Azure, GCP)](the-big-three-cloud-providers.md)

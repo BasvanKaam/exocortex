@@ -37,3 +37,4 @@ This is the conceptual ancestor of later MAM/per-app-VPN approaches still used t
 - [How StoreFront and XenMobile App Controller aggregated apps via a trust](storefront-appcontroller-trust-aggregation.md)
 - [How XenMobile app wrapping, MDX and app signing worked (needed a Mac)](xenmobile-mdx-app-signing-2014.md)
 - [XenMobile MDX: Vault, Interapp and Access](xenmobile-mdx-vault-interapp-access.md)
+- [XenMobile PIN + certificate as two-factor auth](xenmobile-pin-certificate-2fa.md)

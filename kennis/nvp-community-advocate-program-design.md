@@ -38,4 +38,5 @@ This is Bas's own program design at Nerdio; the pattern transfers to any vendor 
 - [Be a Learn-It-All Organization, Not a Know-It-All One](learn-it-all-not-know-it-all.md)
 - [NVP Captains: Seeding a Community Program With Founding Members](nvp-captains-model.md)
 - [NVP Newsletter: Bas's Recurring Community Update Format](nvp-newsletter-format.md)
+- [NVP Community Award Program: Code of Conduct Design](nvp-program-code-of-conduct-design.md)
 - [NVP Program: How Bas Onboards Community Members](nvp-program-onboarding-playbook.md)

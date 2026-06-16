@@ -21,6 +21,7 @@ The broader point: spend HA budget where the risk actually lives (your VMs and d
 ## Verwante notities
 
 - [AVD High Availability: Availability Sets vs Zones and Redundant Storage](avd-high-availability-sets-zones-storage.md)
+- [AVD / NME outbound firewall allow-list](avd-nme-outbound-firewall-allowlist.md)
 - [Don't Spend Budget Making the AVD Management Tool Highly Available](dont-make-the-avd-management-plane-highly-available.md)
 - [Nerdio AVD resilience and DR features](nerdio-avd-resilience-features.md)
 - [Onboarding an existing WVD deployment into Nerdio (non-disruptive)](onboarding-existing-wvd-into-nerdio-non-disruptive.md)

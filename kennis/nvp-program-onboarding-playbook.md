@@ -32,3 +32,4 @@ The through-line: make members feel seen, give them shareable status, and open a
 - [Designing a Community Advocate Program (NVP)](nvp-community-advocate-program-design.md)
 - [NVP Newsletter: Bas's Recurring Community Update Format](nvp-newsletter-format.md)
 - [NVP Program: Application and Selection Design](nvp-program-application-and-selection-design.md)
+- [NVP Community Award Program: Code of Conduct Design](nvp-program-code-of-conduct-design.md)

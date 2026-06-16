@@ -17,3 +17,11 @@ A content idea for a Salomon update session: present "how to move to the cloud" 
 A related sub-idea from a colleague (EJP): contrast working as a seconded engineer (gedetacheerd) versus working as a member of a project team, and the different behaviour each working mode demands of an engineer or consultant.
 
 *Bron: Salomon-IT 'Ideen inhoud' (Update sessie Salomon 2 x per jaar).*
+
+## Verwante notities
+
+- [Cloud adoption goes far beyond technology alone](position-cloud-adoption-is-more-than-tech.md)
+- [Blog topic backlog: closing the IT-business gap via cloud adoption](salomon-blog-topic-backlog-cloud-adoption.md)
+- [SCAF: Salomon Cloud Adoptie Framework](salomon-cloud-adoptie-framework-scaf.md)
+- [Salomon's Two Event Formats: Internal Technical vs Bigger-Picture](salomon-event-series-two-event-types.md)
+- [SCAF: The Step-Cloud Adoptie Framework Overview](scaf-step-cloud-adoption-framework-overview.md)

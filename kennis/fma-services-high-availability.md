@@ -19,6 +19,8 @@ A benefit of all services running under NT AUTHORITY\Network and using the local
 
 ## Verwante notities
 
+- [FMA architecture: Controllers, Agents and a critical central database (durable)](fma-controllers-agents-central-database.md)
+- [FMA services run independently, with separate DB connection strings](fma-services-independent-registry-accounts.md)
 - [FMA services: Network Service account and service isolation](fma-services-network-account-and-isolation.md)
 - [FMA Zones VDA registration and Controller failover](fma-zones-vda-registration-and-failover.md)
 - [The 'one is none' rule and Delivery Controller high availability](one-is-none-delivery-controller-ha.md)

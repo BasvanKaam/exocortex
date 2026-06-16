@@ -24,3 +24,11 @@ Delivery mechanic: every session starts with practitioner input (three selected 
 Audience: IT directors/managers and (internal or external) consultants wanting to deepen their change craft; participants must bring their own practice case. Each participant also gets a roughly 2-hour personal advisory session afterwards to apply the learning to their own situation. Listed price: EUR 1.495 p.p. excl. VAT.
 
 *Bron: Salomon-IT 'Masterclass_Organisatieverandering'.*
+
+## Verwante notities
+
+- [The 10S change-management method (Deming-derived)](10s-change-method.md)
+- [Bas's Candid Critique of the Masterclass Material](bas-critique-of-masterclass-material.md)
+- [Cloud Bootcamp: target audience and learning outcomes](cloud-bootcamp-audience-and-outcomes.md)
+- [Cloud Masterclass teaching playbook (Bas's delivery method)](cloud-masterclass-teaching-playbook.md)
+- [XpressLabs facilitation craft: how Bas runs the room](xpresslabs-facilitation-craft.md)

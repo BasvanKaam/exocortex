@@ -28,6 +28,7 @@ His design tips (key takeaways): virtualize Controllers for flexibility; keep th
 - [The Delivery Controller as the heart of the FMA](delivery-controller-heart-of-fma.md)
 - [Delivery Controller as the heart of the FMA](delivery-controller-is-heart-of-fma.md)
 - [Delivery Controller server sizing and supported OS](delivery-controller-sizing.md)
+- [FMA architecture: Controllers, Agents and a critical central database (durable)](fma-controllers-agents-central-database.md)
 - [FMA service high availability via peer service groups](fma-services-high-availability.md)
 - [NetScaler high availability and clustering](netscaler-high-availability-clustering.md)
 - [Bas's 'one is none' rule for resilience](one-is-none-rule.md)

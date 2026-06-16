@@ -18,6 +18,7 @@ And a stance on timing: hardening belongs in the post-sales / PoV phase, not the
 
 ## Verwante notities
 
+- [AVD / NME outbound firewall allow-list](avd-nme-outbound-firewall-allowlist.md)
 - [Security is always a fine line against user experience](avd-security-vs-user-experience-balance.md)
 - [Hardening Nerdio and AVD: Easy Way vs Hard Way](hardening-nerdio-avd-easy-vs-hard.md)
 - [Always Test Before Revoking API Permissions](positie-test-before-revoking-api-permissions.md)

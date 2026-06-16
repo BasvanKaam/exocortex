@@ -30,4 +30,5 @@ Bas's bottom line: offsetting and certificates are usually less direct than gene
 - [Microsoft sustainability goal: carbon negative by 2030](microsoft-carbon-negative-2030.md)
 - [Obvious cloud trends (multi-cloud, edge, zero trust, serverless, green)](obvious-cloud-trends-list.md)
 - [Azure, AWS and Google sustainability targets](provider-sustainability-targets.md)
+- [RECs and the reality of cloud datacenter 'green' energy claims](rec-renewable-energy-credits-cloud.md)
 - [Bas on the physical scale: subsea cables and an Azure datacenter tour](submarine-cables-and-datacenter-scale.md)

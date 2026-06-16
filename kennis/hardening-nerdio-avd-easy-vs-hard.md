@@ -30,6 +30,7 @@ Key point he stresses: locking resources down does not cost anything, so it shou
 ## Verwante notities
 
 - [Hardening a Nerdio Manager install (AVD)](avd-nerdio-manager-hardening-items.md)
+- [AVD / NME outbound firewall allow-list](avd-nme-outbound-firewall-allowlist.md)
 - [AVD Security cheat sheet v2.0 — 44 best practices](avd-security-cheat-sheet-v2.md)
 - [Harden step by step and verify between steps, don't lock everything at once](harden-step-by-step-not-all-at-once.md)
 - [Hardening the Nerdio Manager Console Itself](nerdio-manager-hardening-checklist.md)

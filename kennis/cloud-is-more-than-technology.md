@@ -20,6 +20,7 @@ This is a recurring theme across his 2019-2020 writing and it carries into how h
 
 ## Verwante notities
 
+- [Definition: Business Technology](business-technology-definition.md)
 - [Capex vs Opex in IT and Cloud](capex-vs-opex-in-it.md)
 - [Cloud Cultural Shifts: DevOps, Automation, New Roles](cloud-cultural-shifts-overview.md)
 - [Cloud Is an Operating Model, Not a Location](cloud-is-an-operating-model-not-a-location.md)

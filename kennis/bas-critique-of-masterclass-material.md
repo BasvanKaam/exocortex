@@ -20,4 +20,5 @@ The stance worth keeping: training content has a shelf life, and cloud material 
 
 - [Correction: The Cloud-First Paper Dates to 2019, Not 2020](bas-paper-actually-written-2019-ncoi-masterclass.md)
 - [Bas's paper: Cloud Only? No. Cloud First or Hybrid? Yes.](bas-paper-cloud-only-no-cloud-first-yes.md)
+- [Four-session, case-driven structure of the change masterclass](change-masterclass-four-session-structure.md)
 - [IT as Internal Broker and the Regie-Organisatie](it-as-internal-broker-regie-organisatie.md)

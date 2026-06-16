@@ -28,6 +28,7 @@ The choice between them is a function of where the organization sits on its clou
 
 - [The CCoE at the heart of the Target Operating Model](ccoe-in-target-operating-model.md)
 - [CCoE left brain / right brain split across the Cloud Service Lifecycle](ccoe-left-brain-right-brain.md)
+- [A CCoE Is Not Just for Large Enterprises](ccoe-not-just-for-enterprise.md)
 - [Cloud Center of Excellence (CCoE): Definition and Why Early](cloud-center-of-excellence-definition.md)
 - [Cloud Financial Management: Role Demarcation](cloud-financial-management-roles-demarcation.md)
 - [Financial Reporting: Role Demarcation and Tooling](financial-reporting-roles-and-tooling-demarcation.md)

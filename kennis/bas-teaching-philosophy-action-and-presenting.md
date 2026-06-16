@@ -34,3 +34,4 @@ He goes a step further and leans on the pyramid's top method, teaching others (9
 - [Switching monitor resolution from a Stream Deck via Display Changer](stream-deck-resolution-switch-display-changer.md)
 - [Teach the masterclass through recognition and a co-built business case](teaching-through-recognition-and-shared-business-case.md)
 - [Why the book uses a fictional case](why-a-fictional-case.md)
+- [XpressLabs facilitation craft: how Bas runs the room](xpresslabs-facilitation-craft.md)

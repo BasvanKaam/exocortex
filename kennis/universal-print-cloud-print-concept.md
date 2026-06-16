@@ -21,4 +21,6 @@ The durable concept under the (now-dated) preview details: print management is a
 ## Verwante notities
 
 - [How AWS AppStream 2.0 streams apps (2019)](appstream-fleets-image-builder.md)
+- [Why RDS Easy Print falls short for cloud/remote printing](easy-print-limitations-cloud.md)
 - [Printing is still critical; Citrix deprioritized it for cloud](printing-still-critical-citrix-deprioritized-it.md)
+- [RDS Easy Print and its limitations](rds-easy-print-limitations.md)

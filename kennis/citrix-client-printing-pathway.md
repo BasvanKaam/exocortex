@@ -25,6 +25,7 @@ How it worked then (XenApp era): in the client-printing pathway there is no prin
 - [Citrix network vs client printing pathway](citrix-print-pathways-network-vs-client.md)
 - [Citrix printing pathways: client vs network](citrix-printing-pathways-client-vs-network.md)
 - [Citrix XenApp Printing Pathways](citrix-xenapp-printing-pathways.md)
+- [EMF vs XPS print file formats](emf-vs-xps-print-formats.md)
 - [Forcing the client pathway for network printers, and when not to](forcing-client-pathway-direct-connections-policy.md)
 - [Print Driver Isolation modes and the Citrix Print Management Service](print-driver-isolation-and-citrix-print-mgmt.md)
 - [Print spooling and the kernel-mode to user-mode driver history](windows-print-spooling-and-driver-history.md)

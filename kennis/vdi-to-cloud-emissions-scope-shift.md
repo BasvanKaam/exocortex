@@ -24,3 +24,7 @@ The argument: cloud VDI is not automatically greener, but cloud plus autoscaling
 This is the conceptual core; the specific percentages are illustrative and version-dependent.
 
 *Bron: Nerdio-content 'Nerdio Vision & Strategy - BvK' (Innovation Days).*
+
+## Verwante notities
+
+- [RECs and the reality of cloud datacenter 'green' energy claims](rec-renewable-energy-credits-cloud.md)

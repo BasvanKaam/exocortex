@@ -20,6 +20,7 @@ He also mentions the smaller, very informal vBeers gatherings, where five or six
 ## Verwante notities
 
 - [Citrix Technology Professionals (CTP) and Citrix Technology Advocates (CTA)](citrix-technology-professionals-and-advocates.md)
+- [Come Get IT event: Bas's community evening format](come-get-it-event-format.md)
 - [E2EVC: the Experts-2-Experts Virtualization Conference](e2evc-conference.md)
 - [E2EVC traditions: grandfathers and the networking game](e2evc-grandfathers-and-networking-game.md)
 - [Citrix/EUC community podcasts](euc-citrix-community-podcasts.md)

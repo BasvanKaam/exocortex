@@ -21,6 +21,7 @@ Driver history (why printing was a pain): Windows NT had only v2 kernel-mode dri
 ## Verwante notities
 
 - [Citrix client-printing pathway: spool on server, send back over ICA](citrix-client-printing-pathway.md)
+- [EMF vs XPS print file formats](emf-vs-xps-print-formats.md)
 - [Print architecture is decided by all elements combined, not one knob](print-architecture-is-all-elements-combined.md)
 - [Print driver versions and Print Driver Isolation](print-driver-history-and-modes.md)
 - [Print Driver Isolation modes and the Citrix Print Management Service](print-driver-isolation-and-citrix-print-mgmt.md)

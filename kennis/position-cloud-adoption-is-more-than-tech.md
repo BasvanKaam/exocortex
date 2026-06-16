@@ -20,6 +20,7 @@ The pedagogical corollary: he runs an independent, pragmatic adoption framework 
 
 - [Convergence, Not Alignment, Between Business and IT](business-it-convergence-not-alignment.md)
 - [Cloud Bootcamp: target audience and learning outcomes](cloud-bootcamp-audience-and-outcomes.md)
+- [In four steps to the cloud: an adoption-framework session angle](in-four-steps-to-the-cloud-adoption-framework-angle.md)
 - [Teaching Stance: Cloud Adoption Is More Than Technology](masterclass-cloud-is-more-than-tech.md)
 - [Salomon Cloud Bootcamp: two-day course structure](salomon-cloud-bootcamp-structure.md)
 - [Technology choices and organizational change are inseparable](technology-and-organization-change-are-inseparable.md)

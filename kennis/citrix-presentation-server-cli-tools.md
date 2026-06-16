@@ -21,3 +21,12 @@ Reference list of legacy Citrix Presentation Server / Terminal Server commands:
 - **Other**: `PRINTUI` (print driver/printer tasks), `AUDITLOG` (logon/logoff reports from the security event log).
 
 *Bron: Core Knowledge doc 'Command - line Tooling Core Doc' (Bas zijn vroege sysadmin-naslag).*
+
+## Verwante notities
+
+- [Active Directory Command-Line Tools](active-directory-cli-tools.md)
+- [Citrix Data Collector Elections](citrix-data-collector-elections.md)
+- [Citrix IMA Architecture: Data Store and Local Host Cache](citrix-ima-architecture.md)
+- [Citrix / Terminal Services logon sequence (reference)](citrix-ts-logon-sequence.md)
+- [DNS and DHCP Command-Line Tools](dns-dhcp-cli-tools.md)
+- [IMA-to-FMA terminology: Farm to Site, Data Collector to Delivery Controller](ima-to-fma-terminology-map.md)

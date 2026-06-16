@@ -26,5 +26,6 @@ Durable communication discipline that still holds: name the layer before arguing
 - [Cloud deployment models (public, private, hybrid, community)](cloud-deployment-models.md)
 - ['The Cloud' Is Not One Thing: Define It First](cloud-is-not-one-thing-define-it.md)
 - [Cloud service models: SaaS, PaaS, IaaS, DaaS](cloud-service-models-saas-paas-iaas-daas.md)
+- [Worked example: bank treats core-banking software as commodity](core-banking-saas-worked-example.md)
 - [Bas's rule: define the Cloud before debating its pros and cons](define-cloud-before-debating-it.md)
 - [Virtualization is a part of cloud, not the same thing](virtualization-is-not-cloud.md)

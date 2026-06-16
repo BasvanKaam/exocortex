@@ -20,3 +20,16 @@ XPS (XML Paper Specification) arrived with Windows Vista / Server 2008 and is us
 High-level spooling: the spooler service receives output, the print driver renders the metafile into raw data the device can read (the actual print job), and the spooler sends it to the device. Spooling locally uses local CPU/memory with no network traffic; spooling remotely on a print server uses remote resources and generates extra XenApp-to-print-server network traffic.
 
 *Bron: blogpost 'The ultimate Citrix printing internals cheat sheet - version 2.0' (2017-08-28), basvankaam.com. Aanvullend: Inside Citrix - the FlexCast Management Architecture.*
+
+## Verwante notities
+
+- [Citrix client-printing pathway: spool on server, send back over ICA](citrix-client-printing-pathway.md)
+- [Citrix Print Management Service](citrix-print-management-service.md)
+- [Citrix Universal Print Driver (UPD)](citrix-universal-print-driver.md)
+- [Why RDS Easy Print falls short for cloud/remote printing](easy-print-limitations-cloud.md)
+- [Microsoft print file formats: EMF vs XPS](microsoft-print-formats-emf-xps.md)
+- [Print driver versions and Print Driver Isolation](print-driver-history-and-modes.md)
+- [Print spooling: local vs remote](print-spooling-local-vs-remote.md)
+- [Printing is still critical; Citrix deprioritized it for cloud](printing-still-critical-citrix-deprioritized-it.md)
+- [EMF vs XPS print file formats](windows-print-emf-vs-xps.md)
+- [Print spooling and the kernel-mode to user-mode driver history](windows-print-spooling-and-driver-history.md)

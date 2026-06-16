@@ -19,6 +19,7 @@ bron: core-knowledge-docs
 
 ## Verwante notities
 
+- [Citrix Presentation Server Command-Line Tools](citrix-presentation-server-cli-tools.md)
 - [Domain Controller Health-Check CLI Routine](dc-health-check-cli-routine.md)
 - [DHCP DORA lease process](dhcp-dora-lease-process.md)
 - [DHCP lease renewal timers](dhcp-lease-renewal-timers.md)

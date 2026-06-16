@@ -30,5 +30,6 @@ The DS family and supporting tools for managing AD from the command line:
 
 - [AD FSMO Roles](ad-fsmo-roles.md)
 - [Active Directory Multimaster Replication](ad-multimaster-replication-fundamentals.md)
+- [Citrix Presentation Server Command-Line Tools](citrix-presentation-server-cli-tools.md)
 - [Domain Controller Health-Check CLI Routine](dc-health-check-cli-routine.md)
 - [Domain Controller System State Restore (DSRM)](dc-system-state-restore-dsrm.md)

@@ -29,9 +29,11 @@ Licenses now live on a separate license server; earlier they were stored in the 
 
 - [Citrix Data Collector Elections](citrix-data-collector-elections.md)
 - [Citrix policy precedence: IMA vs Citrix AD vs normal AD policies](citrix-policy-precedence-ima-ad.md)
+- [Citrix Presentation Server Command-Line Tools](citrix-presentation-server-cli-tools.md)
 - [Citrix Server, Farm and Zone Design Trade-offs](citrix-server-farm-zone-design.md)
 - [Citrix XenApp Lineage and Client Types](citrix-xenapp-lineage-and-clients.md)
 - [Citrix Zones and Data Collectors](citrix-zones-and-data-collectors.md)
 - [Connection Leasing is not Local Host Cache, and it's not HA](cl-is-not-lhc-and-not-ha.md)
 - [Delivery Controller vs Data Collector differences](delivery-controller-vs-data-collector.md)
 - [Delivery Controller vs. Data Collector (FMA vs. IMA)](delivery-controller-vs-data-collector-2.md)
+- [XenApp migration tooling: Migration Center and 6.0-to-6.5 Upgrade Utility (2013)](xenapp-migration-tooling-2013.md)

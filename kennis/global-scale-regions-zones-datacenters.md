@@ -26,5 +26,6 @@ Nearly every continent has datacenters from the big providers. Bas poses a riddl
 - [Cloud providers build their own servers and hypervisors](cloud-providers-build-own-servers-hypervisor.md)
 - [The less-obvious challenges of building datacenters](datacenter-hidden-challenges.md)
 - [Standard components of a disaster recovery (DR) plan](disaster-recovery-plan-components.md)
+- [A simple DIY method to compare Cloud datacenter latency](diy-cloud-latency-ping-test-method.md)
 - [Hybrid Latency and the Region-Choice Pitfall](hybrid-latency-region-choice-pitfall.md)
 - [Bas on the physical scale: subsea cables and an Azure datacenter tour](submarine-cables-and-datacenter-scale.md)

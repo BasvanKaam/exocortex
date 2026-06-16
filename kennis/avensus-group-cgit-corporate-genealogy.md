@@ -33,6 +33,7 @@ Come Get IT (CGIT): an independent central IT knowledge-sharing platform, open t
 - [CGIT is about people and knowledge sharing, not just the brand](cgit-is-about-people-and-knowledge-sharing.md)
 - [CGIT (comegetit.nl) launched 16 January 2019](cgit-platform-launch-jan-2019.md)
 - [Idea: De Cloud Professionals / CGIT as a cross-unit collective](cloud-generation-it-cgit-genesis.md)
+- [Come Get IT event: Bas's community evening format](come-get-it-event-format.md)
 - [Come Get IT platform and the role Bas wanted inside the group](come-get-it-platform-role-scope-idee.md)
 - [Come Get IT Proposition and Contributor Pitch](come-get-it-proposition-and-contributor-pitch.md)
 - [Salomon's IT Roadmap service line (assessment to Roadmap-as-a-Service)](salomon-roadmap-service-line.md)

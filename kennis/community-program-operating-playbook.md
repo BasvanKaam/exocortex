@@ -38,6 +38,8 @@ The through-line: make recognition renewable, visible, and earned through consis
 
 ## Verwante notities
 
+- [Idee: Nerdio Tech Insider Community Program](idee-nerdio-tech-insider-community-program.md)
 - [NVP Captains: Seeding a Community Program With Founding Members](nvp-captains-model.md)
 - [NVP Newsletter: Bas's Recurring Community Update Format](nvp-newsletter-format.md)
+- [NVP Community Award Program: Code of Conduct Design](nvp-program-code-of-conduct-design.md)
 - [NVP Program: How Bas Onboards Community Members](nvp-program-onboarding-playbook.md)

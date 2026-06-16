@@ -36,5 +36,6 @@ Key troubleshooting fact: the print driver on the Server OS/VDI VM and the clien
 - [Print driver versions and Print Driver Isolation](print-driver-history-and-modes.md)
 - [Print Driver Isolation modes and the Citrix Print Management Service](print-driver-isolation-and-citrix-print-mgmt.md)
 - [Printing is the perennial pain admins shouldn't have to focus on](printing-is-a-perennial-euc-pain.md)
+- [RDS Easy Print and its limitations](rds-easy-print-limitations.md)
 - [Universal Print Driver, Universal Printer and Universal Print Server](universal-print-driver-server-printer.md)
 - [EMF vs XPS print file formats](windows-print-emf-vs-xps.md)

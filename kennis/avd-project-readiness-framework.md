@@ -25,3 +25,12 @@ Cross-cutting checks for apps and data: legal/compliance restrictions on running
 There is no single golden approach; tailor per company.
 
 *Bron: Nerdio-content 'Top 5 things to consider before starting your AVD / Azure journey' (Blogs).*
+
+## Verwante notities
+
+- [Moving 32-bit to 64-bit (and 2003 to 2008) means app-compat work (durable lesson)](32bit-to-64bit-app-compat-is-a-fact-of-life.md)
+- [Ambassadors and skill readiness in the execution phase](ambassadors-skill-readiness.md)
+- [AVD / Windows 365 Discovery Questions (Bas's Talking Points)](avd-w365-discovery-questions.md)
+- [Bas: The 6 R's for Application Rationalization](bas-6-rs-cloud-migration.md)
+- [Common WVD/Azure adoption challenges (from the field)](common-wvd-adoption-challenges.md)
+- [Criteria for Selecting the First Workload to Migrate](first-workload-selection-criteria.md)

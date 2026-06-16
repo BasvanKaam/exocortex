@@ -22,5 +22,6 @@ How it worked then: announced at Citrix Synergy in May 2016, the NetScaler HDX P
 - [EDT and HDX.next milestones announced at Summit 2017](citrix-summit-2017-edt-hdx-gains.md)
 - [Fewer components in the DMZ is more secure (durable principle)](fewer-components-in-dmz-is-more-secure.md)
 - [NetScaler 10.5 made ICA proxy built-in and unlimited](netscaler-105-ica-proxy-built-in.md)
+- [NetScaler ADC vs NetScaler Gateway](netscaler-adc-vs-gateway.md)
 - [NetScaler Gateway remote-access traffic flow](netscaler-gateway-traffic-flow.md)
 - [A supported all-in-one XenApp box: Delivery Controller + StoreFront + VDA + SQL Express](xenapp-single-machine-supported-stack.md)

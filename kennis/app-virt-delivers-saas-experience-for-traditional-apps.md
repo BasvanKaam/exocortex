@@ -21,6 +21,7 @@ Bas's method for handling traditional (Windows) applications in a SaaS-dominated
 ## Verwante notities
 
 - [In a hybrid world, app virtualization beats desktop virtualization](app-virtualization-over-desktop-virtualization-in-hybrid.md)
+- [Worked example: bank treats core-banking software as commodity](core-banking-saas-worked-example.md)
 - [The Digital Workspace Is More Complex Than People Make It Look](digital-workspace-is-more-complex-than-it-looks.md)
 - [Legacy x86 app usage in enterprises is rising, not falling](legacy-app-usage-in-enterprises-is-rising-not-falling.md)
 - [Listen to the employee, don't let IT dictate how they work](listen-to-the-employee-not-it-dictates.md)

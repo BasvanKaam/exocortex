@@ -35,6 +35,7 @@ After the inventory, use the SCAF Wave 1&2 templates to write a brief summary of
 
 - [Additional Topics to Weigh in a Cloud Business Case](additional-businesscase-topics.md)
 - [Application Baseline: purpose and scope](application-baseline-purpose-and-scope.md)
+- [AVD/Azure project readiness framework](avd-project-readiness-framework.md)
 - [Bas: 'Wegwerp IT' and the Lift-and-Shift Caution](bas-wegwerp-it-and-lift-and-shift.md)
 - [The 'Cloud because of the Cloud' syndrome and poor migration planning](cloud-because-of-cloud-syndrome.md)
 - [Cloud inventory method: joint assessment, waves, and the R's](cloud-inventarisatie-methode-waves-en-rs.md)

@@ -23,6 +23,7 @@ The framework frames the high-priority goal of a cloud strategy as relieving IT 
 
 - [Cloud Placement Decisions: the application lifecycle quadrant](cloud-placement-decisions-quadrant.md)
 - [Commodity vs competitive applications as the core strategy lens](commodity-vs-competitive-application-lens.md)
+- [Worked example: bank treats core-banking software as commodity](core-banking-saas-worked-example.md)
 - [Functionality before technology; business objectives drive cloud adoption](functionality-before-technology-ea-principle.md)
 - ['Keeping the lights on' starves innovation; offload commodity to fix it](position-keeping-the-lights-on-starves-innovation.md)
 - [Service-model preference: SaaS over PaaS over IaaS](service-model-preference-saas-paas-iaas.md)

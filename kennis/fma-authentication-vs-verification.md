@@ -18,5 +18,6 @@ A recurring distinction Bas drills throughout the FMA: authentication and verifi
 
 ## Verwante notities
 
+- [Bas's distinction: authentication versus verification](authentication-vs-verification-distinction.md)
 - [A Citrix external logon validates against LDAP three times](citrix-three-ldap-validations-logon.md)
 - [StoreFront authenticates locally, Web Interface delegates via XML](storefront-vs-webinterface-auth-flow.md)

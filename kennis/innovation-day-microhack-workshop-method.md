@@ -45,3 +45,4 @@ Cap the day with a MicroHack competition (a prize on the line) - a scored build 
 - [Idea: Nerdio Fusion - a merged event format](idee-nerdio-fusion-merged-event-format.md)
 - [Method: The Learning Pyramid Applied to Technical Training](learning-pyramid-training-method.md)
 - [The Innovation Day / MicroHack hands-on event format](nerdio-innovation-day-microhack-format.md)
+- [XpressLabs facilitation craft: how Bas runs the room](xpresslabs-facilitation-craft.md)

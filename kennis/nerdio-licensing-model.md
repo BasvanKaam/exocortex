@@ -30,5 +30,6 @@ This is Bas's go-to answer to the 'quanta costa?' question that every prospect a
 
 - [Cloud PC licensing requirements (durable)](cloud-pc-licensing-requirements.md)
 - [Idea: Turn recurring MSP work into repeatable revenue with Nerdio](idee-nerdio-recurring-work-repeatable-revenue.md)
+- [A license is free if it returns more than it costs](licenses-that-make-you-money.md)
 - [NMW architecture: PaaS-only deploy, metering-only billing](nmw-paas-architecture-and-billing-model.md)
 - [MSPs should charge per outcome, not per hour](positie-charge-per-outcome-not-per-hour.md)

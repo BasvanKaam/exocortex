@@ -20,3 +20,4 @@ Microsoft puts significant focus on sustainability and energy efficiency when de
 - [The less-obvious challenges of building datacenters](datacenter-hidden-challenges.md)
 - [Bas: look critically at 'green' datacenter claims](green-cloud-claims-critical-look.md)
 - [Azure, AWS and Google sustainability targets](provider-sustainability-targets.md)
+- [RECs and the reality of cloud datacenter 'green' energy claims](rec-renewable-energy-credits-cloud.md)

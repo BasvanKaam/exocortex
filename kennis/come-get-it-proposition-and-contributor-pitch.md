@@ -40,5 +40,6 @@ Come Get IT runs on volunteer contribution, so the deck sells the upside to the 
 - [CGIT 'Come Get IT On Tour' as a Community Flywheel](cgit-community-flywheel-on-tour.md)
 - [CGIT contributor pitch and roadmap (quality over quantity)](cgit-contributor-value-and-roadmap.md)
 - [CGIT positioning: by IT pros, for IT pros](cgit-positioning-knowledge-community.md)
+- [Come Get IT event: Bas's community evening format](come-get-it-event-format.md)
 - [Idea: Cross-BU Collaboration via a Light Forum and Innovation Board](cross-bu-collaboration-innovation-board-idea.md)
 - [Community involvement as the engine of his career](positie-community-as-career-engine.md)

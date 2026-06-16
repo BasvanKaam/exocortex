@@ -38,6 +38,7 @@ The through-line: numbers are allowed and useful, but every number carries its a
 - [How Bas Structures a Cloud Proposal: Recap, Then Scenarios, Then Split Costs](bas-proposal-structure-recap-then-scenarios.md)
 - [Cloud business case: TCO to ROI, with the soft variables named](cloud-tco-roi-business-case.md)
 - [The 'conclusion and next steps' pattern with split effort estimates](conclusion-and-next-steps-effort-estimates.md)
+- [A simple DIY method to compare Cloud datacenter latency](diy-cloud-latency-ping-test-method.md)
 - [IST/SOLL report skeleton](ist-soll-report-skeleton.md)
 - [Start small, test, then scale — because it de-risks the client's investment](position-start-small-test-then-scale-derisks-investment.md)
 - [How I structure a transformation offer and its costing](transformation-offer-costing-model.md)

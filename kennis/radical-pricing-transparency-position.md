@@ -17,7 +17,10 @@ Bas's stance, written in response to public scrutiny (Claudio Rodrigues raised t
 ## Verwante notities
 
 - [Community feedback should visibly shape the product](community-feedback-shapes-the-product.md)
+- [If you have to give a discount, you were already too expensive](if-you-have-to-give-a-discount-you-were-already-too-expensive.md)
+- [A license is free if it returns more than it costs](licenses-that-make-you-money.md)
 - [NMW architecture: PaaS-only deploy, metering-only billing](nmw-paas-architecture-and-billing-model.md)
 - [NMW is built for enterprise scale; small shops should look elsewhere in the portfolio](nmw-targets-enterprise-not-small-shops-position.md)
 - [MSPs should charge per outcome, not per hour](positie-charge-per-outcome-not-per-hour.md)
 - [Community feedback should shape the product](positie-community-shapes-the-product.md)
+- [Price is not always the most important thing in a deal](price-is-not-always-the-most-important-thing.md)

@@ -37,6 +37,7 @@ The through-line: cloud success is mostly an organisational, governance, and ado
 - [Business-IT Alignment In Plain Language](business-it-alignment-plain-language.md)
 - [Cloud success is an organisational and adoption problem, not a technical one](cloud-success-is-organisational-not-technical.md)
 - [Idea: NMW Blog/Content Backlog](idee-nmw-blog-backlog.md)
+- [In four steps to the cloud: an adoption-framework session angle](in-four-steps-to-the-cloud-adoption-framework-angle.md)
 - [Salomon 2020 marketing: knowledge-first, strategic over technical, no hard CTAs](salomon-2020-marketing-strategy-knowledge-first.md)
 - [SCAF: Salomon Cloud Adoptie Framework](salomon-cloud-adoptie-framework-scaf.md)
 - [SCAF draft: the Business-IT collaboration interface ('where the magic happens')](scaf-business-it-collaboration-interface.md)

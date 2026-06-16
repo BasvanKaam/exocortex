@@ -25,6 +25,7 @@ Chapter 5 begins the deep dive, starting with Strategie.
 - [The 'Cloud because of the Cloud' syndrome and poor migration planning](cloud-because-of-cloud-syndrome.md)
 - [Bas's navigation metaphor: a cloud journey needs a destination](cloud-journey-navigation-metaphor.md)
 - [Enterprise Architecture (EA) and TOGAF](enterprise-architecture-togaf.md)
+- [In four steps to the cloud: an adoption-framework session angle](in-four-steps-to-the-cloud-adoption-framework-angle.md)
 - [SCAF Adoption phase: finishing what you started](scaf-adoption-phase-purpose.md)
 - [SCAF Design Principles and Why It Exists](scaf-design-principles.md)
 - [SCAF Execution Phase (Uitvoeringsfase) Overview](scaf-execution-phase-overview.md)

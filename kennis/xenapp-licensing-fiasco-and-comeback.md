@@ -26,3 +26,4 @@ The comeback: Citrix listened. They established a separate license Trade-Up Prog
 ## Verwante notities
 
 - [Credit to Citrix for simplifying NetScaler licensing without a price grab](citrix-simplifying-licensing-praise.md)
+- [XenApp 7.5 is a name change dressed as a comeback, and that's fine](xenapp-75-marketing-skepticism.md)

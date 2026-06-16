@@ -19,6 +19,7 @@ Framehawk generally consumes more bandwidth and CPU than ThinWire compatibility 
 
 - [Citrix Adaptive Transport (Enlightened Data Transport / EDT)](citrix-adaptive-transport-edt.md)
 - [Citrix HDX: an extension to ICA, not a replacement](citrix-hdx-extends-ica.md)
+- [Framehawk and the Lightweight Framebuffer Protocol (LFP)](framehawk-lfp-protocol.md)
 - [HDX is not a replacement for ICA](hdx-not-a-replacement-for-ica.md)
 - [ICA virtual channels: 32 total, 17 reserved by Citrix](ica-virtual-channels.md)
 - [Multi-Stream ICA: true network-level QoS via separate TCP/IP ports](multi-stream-ica.md)

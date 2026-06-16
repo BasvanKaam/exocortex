@@ -23,3 +23,10 @@ Data-side HA for WVD, where profile/user/departmental data sits on Azure Files (
 Cost angle: cross-zone egress between VMs became billable from Feb 2021, and cross-region (GEO) transfer is charged. Standard premium-tier Azure Files had a ~33% price drop announced around late 2020.
 
 *Bron: blogpost 'How to Make Your 1,000+ User WVD Deployment Highly Available' (2020-12-07), basvankaam.com / Nerdio-content 'Making your 1000+ user WVD deployment highly available!' (Blogs).*
+
+## Verwante notities
+
+- [AVD High Availability: Availability Sets vs Zones and Redundant Storage](avd-high-availability-sets-zones-storage.md)
+- [Azure Availability Sets vs Availability Zones](azure-availability-sets-vs-zones.md)
+- [Azure Files: a cloud NAS, plus Azure File Sync for hybrid](azure-files-cloud-nas.md)
+- [Azure Files tiers and pricing model (reference)](azure-files-tiers-reference.md)

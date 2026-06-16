@@ -19,3 +19,11 @@ Enable it via two manually created registry keys: HighAvailability (1/0) and HaR
 Limitations: dedicated desktops only (not pooled); no user roaming across devices; Controller-originated policies (client drive mapping, clipboard) don't apply and stale policies from a prior registration may persist; affects power-management and NetScaler Gateway/Remote Access scenarios.
 
 *Bron: blogpost 'XenDesktop 7 Site Configuration Database... What about it?' (2013-07-22), basvankaam.com.*
+
+## Verwante notities
+
+- [The Broker Service bundles brokering, XML and STA in one process](citrix-broker-service-three-roles.md)
+- [How Local Host Cache works in the FMA](local-host-cache-712-architecture.md)
+- [Losing Local Host Cache was a real FMA regression](no-local-host-cache-fma-drawback.md)
+- [VDA high-availability mode (direct ICA, last resort)](vda-high-availability-mode.md)
+- [Zone VDA registration and failover behaviour (7.7)](zones-vda-registration-failover.md)

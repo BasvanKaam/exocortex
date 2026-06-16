@@ -26,6 +26,7 @@ While this first workload runs, keep rationalizing, prioritizing and scheduling 
 
 ## Verwante notities
 
+- [AVD/Azure project readiness framework](avd-project-readiness-framework.md)
 - [Cloud inventory method: joint assessment, waves, and the R's](cloud-inventarisatie-methode-waves-en-rs.md)
 - [Positions I apply in a cloud transition](cloud-transitie-posities.md)
 - [Selecting the First Migration Workload (Simple to Complex)](first-migration-workload-selection.md)

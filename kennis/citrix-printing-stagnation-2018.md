@@ -20,6 +20,7 @@ A release-by-release record Bas compiled (Jan 2019): across XenApp/XenDesktop 7.
 
 - [Citrix printing troubleshooting and verification tools](citrix-printing-troubleshooting-tools.md)
 - [Citrix Universal Print Server (UPS)](citrix-universal-print-server.md)
+- [Why RDS Easy Print falls short for cloud/remote printing](easy-print-limitations-cloud.md)
 - [Most Citrix printing pain is still bad drivers and bad architecture](positie-citrix-printing-still-driver-and-design-problem.md)
 - [Printing is the perennial pain admins shouldn't have to focus on](printing-is-a-perennial-euc-pain.md)
 - [Printing is still critical; Citrix deprioritized it for cloud](printing-still-critical-citrix-deprioritized-it.md)

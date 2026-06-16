@@ -28,5 +28,6 @@ The stance: don't let the spreadsheet decide. Quantify what you can, but the ope
 - [Bas's product/partner inventory and selection process (Detron, 2017)](detron-inventory-and-selection-process.md)
 - [Bas's vendor/partner feedback form method (Detron, 2017)](detron-partner-feedback-form-method.md)
 - [Meten is weten: fact-based IT decisions](measure-to-know-decision-philosophy.md)
+- [Price is not always the most important thing in a deal](price-is-not-always-the-most-important-thing.md)
 - [Product/Partner Advice Report (Draft Proposition Structure)](product-partner-advice-report-structure.md)
 - [What a Proposition Must Contain](proposition-must-haves-checklist.md)

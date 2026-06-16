@@ -20,3 +20,11 @@ Three Citrix tools for moving Farm objects:
 Clever combined workflow Bas describes: migrate all published-app configurations with the Migration Center, then run the Upgrade Utility in place on the boxes that hold the actual application bits - so you don't have to reconfigure 'horror apps' by hand.
 
 *Bron: blogpost 'End of Life... to Migrate or not to Migrate?' (2013-04-28), basvankaam.com.*
+
+## Verwante notities
+
+- [Citrix IMA Architecture: Data Store and Local Host Cache](citrix-ima-architecture.md)
+- [What FMA 7.6 changed vs IMA: LHC gone, MCS for servers, Connection Leasing](fma-76-migration-improvements.md)
+- [XenDesktop 7 component upgrade sequence and what is excluded](xd7-component-upgrade-sequence.md)
+- [Upgrade vs migrate to XenDesktop 7: two different paths](xd7-upgrade-vs-migrate.md)
+- [XenApp Farms must be migrated in parallel, not upgraded in place (2013)](xenapp-no-in-place-upgrade-build-in-parallel.md)

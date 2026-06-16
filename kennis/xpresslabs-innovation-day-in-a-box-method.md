@@ -44,3 +44,4 @@ This whole structure is reusable as Bas's template for any hands-on technical en
 ## Verwante notities
 
 - [Nerdio Fusion: a hybrid vision + skill event concept](nerdio-fusion-hybrid-event-concept.md)
+- [XpressLabs facilitation craft: how Bas runs the room](xpresslabs-facilitation-craft.md)

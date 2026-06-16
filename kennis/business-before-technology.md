@@ -18,7 +18,9 @@ Source: Bas van Kaam, Salomon IT blog, 2019-09-17.
 
 ## Verwante notities
 
+- [Definition: Business Technology](business-technology-definition.md)
 - [Bas's terminology: "gebruiker", "business gebruiker" and "de business"](business-user-and-the-business-definitions.md)
+- [Worked example: bank treats core-banking software as commodity](core-banking-saas-worked-example.md)
 - [Don't stress so much about the cloud](dont-stress-about-the-cloud.md)
 - [Function before technology: filter requirements against wishes](function-before-technology-requirements-method.md)
 - [Functionality before technology; business objectives drive cloud adoption](functionality-before-technology-ea-principle.md)

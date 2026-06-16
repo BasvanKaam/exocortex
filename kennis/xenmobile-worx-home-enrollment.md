@@ -24,3 +24,4 @@ How it worked then (2014): before a device could be managed or have apps pushed,
 - [How Citrix made apps Worx-enabled with MDX wrapping](mdx-worx-app-wrapping.md)
 - [Adding mobile gestures to Windows apps via the Worx App SDK](mobilizing-windows-apps-worx-sdk.md)
 - [How StoreFront and XenMobile App Controller aggregated apps via a trust](storefront-appcontroller-trust-aggregation.md)
+- [XenMobile PIN + certificate as two-factor auth](xenmobile-pin-certificate-2fa.md)

@@ -37,3 +37,17 @@ The through-line: content must connect one-to-one to the attendees' daily work a
 
 *Bron: Salomon-IT 'Aankondiging 28 november' (CGIT Blogs).*
 *Bron: Salomon-IT 'Uitgelicht! Come Get IT event spreker Bart Groot Zevert' (CGIT Blogs).*
+
+## Verwante notities
+
+- [The Avensus group, Salomon IT and Come Get IT (CGIT): how they fit together](avensus-group-cgit-corporate-genealogy.md)
+- [Byte-Sized Cloud: A Community-Written Book Project](byte-sized-cloud-community-book.md)
+- [CGIT community + content engine: events, whitepapers, podcasts, ambassadors](cgit-community-content-engine-2019.md)
+- [CGIT 'Come Get IT On Tour' as a Community Flywheel](cgit-community-flywheel-on-tour.md)
+- [Come Get IT Event Production Playbook](come-get-it-event-playbook.md)
+- [Come Get IT F1 Event Format (4 July 2019)](come-get-it-f1-event-format-2019.md)
+- [Come Get IT platform and the role Bas wanted inside the group](come-get-it-platform-role-scope-idee.md)
+- [Come Get IT Proposition and Contributor Pitch](come-get-it-proposition-and-contributor-pitch.md)
+- [E2EVC (Expert to Expert Virtualization Congress)](e2evc-community.md)
+- [Stance: community sessions should be technical substance, not marketing](events-substance-over-marketing.md)
+- [Prefers the technical keynotes, but seeks out 'different' speakers](prefers-technical-keynotes-and-different-speakers.md)

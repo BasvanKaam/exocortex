@@ -25,3 +25,8 @@ User clicks print -> local ScrewDriver builds a virtual printer on the WVD machi
 *Bron: blogpost 'A big step forward for Windows Virtual Desktop printing. Part one' (2019-06-26), basvankaam.com.*
 
 *Bron: blogpost 'A big step forward for Windows Virtual Desktop printing. Part two' (2019-11-28), basvankaam.com.*
+
+## Verwante notities
+
+- [Why RDS Easy Print falls short for cloud/remote printing](easy-print-limitations-cloud.md)
+- [RDS Easy Print and its limitations](rds-easy-print-limitations.md)

@@ -31,6 +31,7 @@ This is a recurring positioning Bas uses: there is no single right way to delive
 - [EUC alternatives feature comparison (CloudJumper, Workspot, Parallels)](euc-vendor-comparison-matrix-2019.md)
 - [Baseline Criteria for Modern App and Desktop Delivery (anno 2020)](modern-workplace-delivery-baseline-2020.md)
 - [There is no single right way to deliver apps and desktops](no-single-right-way-to-deliver-apps-desktops.md)
+- [Parallels RAS (Remote Application Server)](parallels-ras.md)
 - [Position: RDP Suffices in 70%+ of Cases, So Look Beyond Citrix/VMware](position-rdp-suffices-look-beyond-citrix-vmware.md)
 - [Proposition fragments: cloud-workplace advisory at Salomon](salomon-cloud-workplace-proposition-fragments.md)
 - [Idea: build a flagship demo (F1 sim on VDI) to prove a technology's limits](vdi-f1-simulator-showcase-idea.md)

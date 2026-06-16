@@ -24,6 +24,7 @@ Registration: on OS boot the VDA tries to register with a known Controller. The 
 ## Verwante notities
 
 - [Desktop VDA core services: Citrix Desktop Service and Citrix ICA Service](desktop-vda-two-main-services.md)
+- [FMA architecture: Controllers, Agents and a critical central database (durable)](fma-controllers-agents-central-database.md)
 - [PortICA / picaSvc2.exe: the critical VDA ICA service](portica-picasvc2-service.md)
 - [Server VDA vs Desktop VDA: the often-overlooked new component](server-vda-vs-desktop-vda.md)
 - [Two VDA types and the single-user vs multi-user ICA stack](two-vda-types-ica-stack-difference.md)

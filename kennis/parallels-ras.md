@@ -22,3 +22,10 @@ Profile of Parallels RAS as a Citrix/EUC alternative (2019).
 - Strong focus on Mac (Win on Mac); integrations for Turbo Containers and App-V; known for being very transparent with lots of public documentation.
 
 *Bron: Salomon-IT '5 alternatieven' (CGIT Event).*
+
+## Verwante notities
+
+- [DaaS / VDI Additions to the Technical Design](daas-vdi-technical-design-considerations.md)
+- [Session proposition: five (cloud) alternatives to Citrix and VMware](five-cloud-alternatives-to-citrix-vmware-session.md)
+- [Position: RDP Suffices in 70%+ of Cases, So Look Beyond Citrix/VMware](position-rdp-suffices-look-beyond-citrix-vmware.md)
+- [When Citrix still makes sense (and when an alternative is better)](when-citrix-still-makes-sense.md)

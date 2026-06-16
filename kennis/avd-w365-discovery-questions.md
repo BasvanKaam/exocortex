@@ -37,6 +37,7 @@ See also: nerdio-cost-optimization-levers.
 ## Verwante notities
 
 - [AVD Cost Modelling: Modeler + User Cost Attribution](avd-cost-modelling-modeler-and-cost-attribution.md)
+- [AVD/Azure project readiness framework](avd-project-readiness-framework.md)
 - [DR/HA Discovery Questions for AVD and Nerdio](dr-ha-discovery-questions-avd.md)
 - [Active/Active DR for AVD Across Two Regions](nerdio-active-active-dr.md)
 - [Nerdio Cost-Optimization Levers (Bas's Assessment Method)](nerdio-cost-optimization-levers.md)

@@ -34,6 +34,7 @@ Dated: specific 2019 events, the Office 365 ProPlus naming, and a NetScaler task
 - [CGIT (comegetit.nl) launched 16 January 2019](cgit-platform-launch-jan-2019.md)
 - [CGIT Podcast Strategy and Formats](cgit-podcast-strategy-and-formats.md)
 - [CGIT positioning: by IT pros, for IT pros](cgit-positioning-knowledge-community.md)
+- [Come Get IT event: Bas's community evening format](come-get-it-event-format.md)
 - [Come Get IT platform and the role Bas wanted inside the group](come-get-it-platform-role-scope-idee.md)
 - [NetScaler Taskforce: a deeper training method than a 3-day course](netscaler-taskforce-deep-training-method.md)
 - [Method: a per-quarter themed content calendar](quarterly-content-calendar-method.md)

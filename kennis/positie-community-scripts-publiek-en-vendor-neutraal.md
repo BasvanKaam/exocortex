@@ -19,4 +19,5 @@ The reasoning: when the work is genuinely useful to the whole WVD/Azure communit
 ## Verwante notities
 
 - [Idea: crowdsource the Scripted Actions library from the community](idea-community-scripted-actions-library.md)
+- [Idea: Nerdio Scripted Actions Community Hackathon](idee-nerdio-scripted-actions-hackathon.md)
 - [Community code stays with its author](positie-scripts-blijven-eigendom-maker.md)

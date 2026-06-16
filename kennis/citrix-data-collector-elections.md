@@ -25,6 +25,7 @@ Elections occur when: the IMA service starts on any server; a PS fails to contac
 ## Verwante notities
 
 - [Citrix IMA Architecture: Data Store and Local Host Cache](citrix-ima-architecture.md)
+- [Citrix Presentation Server Command-Line Tools](citrix-presentation-server-cli-tools.md)
 - [Citrix Server, Farm and Zone Design Trade-offs](citrix-server-farm-zone-design.md)
 - [Citrix Zones and Data Collectors](citrix-zones-and-data-collectors.md)
 - [Cluster Quorum Models](cluster-quorum-models.md)

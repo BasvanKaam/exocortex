@@ -32,5 +32,6 @@ A further idea he floats: Salomon should fully own at least one event end-to-end
 - [Come Get IT Event Production Playbook](come-get-it-event-playbook.md)
 - [Stance: community sessions should be technical substance, not marketing](events-substance-over-marketing.md)
 - [Stance: freely sharing knowledge is the best advertising a company can get](free-knowledge-sharing-is-the-best-advertising.md)
+- [In four steps to the cloud: an adoption-framework session angle](in-four-steps-to-the-cloud-adoption-framework-angle.md)
 - [Internal Knowledge-Sharing Offsite Format](internal-knowledge-sharing-offsite-format.md)
 - [At the Bigger Picture, Stay Vendor-Agnostic](positie-vendor-agnostic-at-the-bigger-picture.md)

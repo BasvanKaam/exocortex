@@ -26,6 +26,7 @@ Combine HA with regular backups and a SQL Maintenance Plan to keep the database 
 - [Azure Availability Sets vs Availability Zones](azure-availability-sets-vs-zones.md)
 - [Bas's take on application-aware HA alternatives for SQL](bas-on-application-aware-ha-alternatives.md)
 - [Connection Leasing failover behavior and limitations](connection-leasing-failover-behavior.md)
+- [FMA architecture: Controllers, Agents and a critical central database (durable)](fma-controllers-agents-central-database.md)
 - [MSCS Cluster Building Blocks](mscs-cluster-building-blocks.md)
 - [The 'one is none' rule and Delivery Controller high availability](one-is-none-delivery-controller-ha.md)
 - [Bas's 'one is none' rule for resilience](one-is-none-rule.md)

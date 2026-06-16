@@ -22,6 +22,7 @@ Note the framing 'exit strategy is a necessary evil' and the recurring emphasis 
 
 ## Verwante notities
 
+- [Four-session, case-driven structure of the change masterclass](change-masterclass-four-session-structure.md)
 - [Cloud Masterclass: learning objectives](cloud-masterclass-learning-objectives.md)
 - [Cloud adoption goes far beyond technology alone](position-cloud-adoption-is-more-than-tech.md)
 - [Salomon Cloud Bootcamp: two-day course structure](salomon-cloud-bootcamp-structure.md)

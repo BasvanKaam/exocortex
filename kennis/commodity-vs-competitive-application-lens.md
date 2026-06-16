@@ -28,6 +28,7 @@ The rationale: procuring commodity functionality from SaaS or BPaaS providers ou
 
 - [Application Baseline: purpose and scope](application-baseline-purpose-and-scope.md)
 - [Cloud Placement Decisions: the application lifecycle quadrant](cloud-placement-decisions-quadrant.md)
+- [Worked example: bank treats core-banking software as commodity](core-banking-saas-worked-example.md)
 - [Migrate vs Modernize as a Per-Workload Decision](migrate-vs-modernize-distinction.md)
 - [The point of cloud strategy is to free IT from commodity toil](position-free-it-ops-from-commodity-burden.md)
 - ['Keeping the lights on' starves innovation; offload commodity to fix it](position-keeping-the-lights-on-starves-innovation.md)

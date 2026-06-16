@@ -28,4 +28,5 @@ Implicit corollary: for smaller scale, good networks, cloud-first automation and
 - [Citrix Cloud / Essentials commercial reality vs the cloud promise](citrix-cloud-essentials-commercial-reality-2017.md)
 - [Session proposition: five (cloud) alternatives to Citrix and VMware](five-cloud-alternatives-to-citrix-vmware-session.md)
 - [There is no single right way to deliver apps and desktops](no-single-right-way-to-deliver-apps-desktops.md)
+- [Parallels RAS (Remote Application Server)](parallels-ras.md)
 - [Position: RDP Suffices in 70%+ of Cases, So Look Beyond Citrix/VMware](position-rdp-suffices-look-beyond-citrix-vmware.md)

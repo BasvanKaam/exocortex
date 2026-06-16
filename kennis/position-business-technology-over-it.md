@@ -17,6 +17,7 @@ In his workshop framing, Bas argues that the right framing is Business Technolog
 ## Verwante notities
 
 - [Convergence, Not Alignment, Between Business and IT](business-it-convergence-not-alignment.md)
+- [Definition: Business Technology](business-technology-definition.md)
 - [Keep IT in control, then turn shadow IT into an enabler](keep-it-in-control-shadow-it-as-enabler.md)
 - [Position: pursue business-IT convergence, not alignment](position-business-it-convergence-over-alignment.md)
 - [SCAF draft: the Business-IT collaboration interface ('where the magic happens')](scaf-business-it-collaboration-interface.md)

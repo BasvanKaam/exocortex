@@ -39,3 +39,14 @@ Performance and cost optimization, image/app management, integrations, AVD/Azure
 **'100 days of Scripted Actions'** as an ongoing content series, and sharing all Scripted Actions publicly via GitHub rather than only inside the product.
 
 *Bron: Nerdio-content 'SA, GitHub, Hackathon' (Blogs) en 'Hackathon overview doc.docx' (Hackathon).*
+
+## Verwante notities
+
+- [CGIT 'Come Get IT On Tour' as a Community Flywheel](cgit-community-flywheel-on-tour.md)
+- [Community Scripts Should Be Free and Vendor-Neutral](community-scripts-should-be-vendor-neutral-and-free.md)
+- [Lessons Learned: Running a Community Hackathon](hackathon-lessons-learned-running-a-community-event.md)
+- [Idea: crowdsource the Scripted Actions library from the community](idea-community-scripted-actions-library.md)
+- [Idea: The self-healing MSP environment](idee-self-healing-msp-environment.md)
+- [Nerdio Scripted Actions Hackathon: Bas's Community Event Format](nerdio-scripted-actions-hackathon-concept.md)
+- [Community automation should be public and vendor-neutral](positie-community-scripts-publiek-en-vendor-neutraal.md)
+- [Scripted-Action Review Rubric (Hackathon judging)](scripted-action-scoring-rubric.md)

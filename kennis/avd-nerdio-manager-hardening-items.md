@@ -28,6 +28,7 @@ Nerdio-specific hardening steps for the Nerdio Manager PaaS install, distinct fr
 
 ## Verwante notities
 
+- [AVD / NME outbound firewall allow-list](avd-nme-outbound-firewall-allowlist.md)
 - [AVD security cheat sheet: the six-category framework](avd-security-cheat-sheet-framework.md)
 - [Hardening Nerdio and AVD: Easy Way vs Hard Way](hardening-nerdio-avd-easy-vs-hard.md)
 - [Hardening the Nerdio Manager Console Itself](nerdio-manager-hardening-checklist.md)

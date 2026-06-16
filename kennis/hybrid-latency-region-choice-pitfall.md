@@ -19,6 +19,7 @@ If you split systems — e.g. publishing a web portal in your cloud (desktop) en
 
 - [Bas on cost management: cost vs. value and ROI/TCO](bas-on-cost-management-roi-tco.md)
 - [Physical and performance limits of working from the cloud](cloud-physical-and-performance-limits.md)
+- [A simple DIY method to compare Cloud datacenter latency](diy-cloud-latency-ping-test-method.md)
 - [Global cloud scale: regions, zones, and which continent has no datacenters](global-scale-regions-zones-datacenters.md)
 - [Hybrid cloud: best of both worlds via ExpressRoute and low latency](hybrid-cloud-best-of-both-worlds.md)
 - [Bas's warning: Cloud apps with on-premises backends invite latency trouble](latency-cloud-app-onprem-backend.md)

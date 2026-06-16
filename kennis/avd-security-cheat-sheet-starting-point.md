@@ -24,6 +24,7 @@ Structure and caveats:
 
 ## Verwante notities
 
+- [AVD / NME outbound firewall allow-list](avd-nme-outbound-firewall-allowlist.md)
 - [AVD security cheat sheet: the six-category framework](avd-security-cheat-sheet-framework.md)
 - [AVD Security cheat sheet v2.0 — 44 best practices](avd-security-cheat-sheet-v2.md)
 - [A cheat sheet should orient, not rank vendors](cheat-sheet-as-starting-point-not-comparison.md)

@@ -23,4 +23,5 @@ Across every event format Bas designs, the hands-on lab is the point and the pre
 - [The Innovation Day / MicroHack hands-on event format](nerdio-innovation-day-microhack-format.md)
 - [Show, don't sell](positie-show-dont-sell.md)
 - [Active Learning Beats Passive: Design Training for Retention, Not Coverage](position-active-learning-beats-passive.md)
+- [XpressLabs facilitation craft: how Bas runs the room](xpresslabs-facilitation-craft.md)
 - [Zero Trust session method: lead with the weakest link](zero-trust-session-method-weakest-link.md)

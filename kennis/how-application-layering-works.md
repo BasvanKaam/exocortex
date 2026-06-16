@@ -20,3 +20,13 @@ How it worked then (2015), across vendors (UniDesk, VMware App Volumes, Citrix A
 Trade-offs vs app virtualisation: layering adds another product and interface to learn, has licensing cost, and apps are not isolated the way virtualised apps are.
 
 *Bron: blogpost 'Application Layering questions? I got answers. Graphical cheat sheet included!' (2015-12-01), basvankaam.com.*
+
+## Verwante notities
+
+- [Application layering: abstract the app from the OS](app-layering-abstraction-durable-concept.md)
+- [In-guest vs hypervisor-level mounting in application layering](app-layering-in-guest-mounting-explained.md)
+- [Application layering vendor landscape circa 2016](application-layering-vendor-landscape-2016.md)
+- [Application layering complements, does not replace, app virtualization](application-layering-vs-virtualization.md)
+- [Citrix acquired Unidesk to own application layering](citrix-acquires-unidesk-layering.md)
+- [Citrix AppDisks: application layering for golden images](citrix-appdisks-application-layering.md)
+- [FlexApp 6.5: filter drivers replace symbolic links, broadening layering support](flexapp-filter-driver-vs-symbolic-links.md)

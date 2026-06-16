@@ -26,3 +26,12 @@ Citrix XenApp/XenDesktop licensing distinguishes three license forms. Licensing 
 **Product support.** XenApp (bought separately) only supports concurrent licenses, while XenDesktop supports user, device and concurrent. Buying XenDesktop Enterprise or Platinum includes the use rights to XenApp, so user/device licenses can be used with XenApp — Citrix will not even know the difference.
 
 *Bron: blogpost 'Citrix licensing (and Microsoft) demystified? I need your help!' (2016-04-18), basvankaam.com. Aanvullend: inside-citrix-fma.*
+
+## Verwante notities
+
+- [Formula for sizing user/device licenses](calculating-citrix-license-count-formula.md)
+- [Citrix license grace periods and supplemental grace period](citrix-license-grace-periods.md)
+- [Citrix license type vs edition vs consumption model](citrix-license-type-vs-edition.md)
+- [Citrix Licensing components and FlexNet](citrix-licensing-components-and-flexnet.md)
+- [Citrix licensing: user, device and concurrent](citrix-licensing-models.md)
+- [Startup license and the license checkout process](citrix-startup-license-and-checkout.md)

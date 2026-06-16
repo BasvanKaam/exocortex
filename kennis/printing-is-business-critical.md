@@ -18,10 +18,12 @@ Bas openly likes printing, an unfashionable EUC opinion he owns (June 2016): "Fi
 
 - [Bas on why he likes Citrix printing](bas-likes-printing.md)
 - [Bas's research workflow: pen-and-paper first, then digitalise](bas-pen-to-digital-research-workflow.md)
+- [Why RDS Easy Print falls short for cloud/remote printing](easy-print-limitations-cloud.md)
 - [Take notes by hand: the pen beats the keyboard](handwriting-beats-keyboard.md)
 - [Stance: no public PDF of the book, full stop](no-pdf-no-piracy-stance.md)
 - [Most Citrix printing pain is still bad drivers and bad architecture](positie-citrix-printing-still-driver-and-design-problem.md)
 - [Print architecture is decided by all elements combined, not one knob](print-architecture-is-all-elements-combined.md)
 - [Printing is the perennial pain admins shouldn't have to focus on](printing-is-a-perennial-euc-pain.md)
 - [Printing is still critical; Citrix deprioritized it for cloud](printing-still-critical-citrix-deprioritized-it.md)
+- [RDS Easy Print and its limitations](rds-easy-print-limitations.md)
 - [Universal Print Server load balancing and HA (7.9)](ups-load-balancing-79.md)

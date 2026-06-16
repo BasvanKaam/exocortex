@@ -24,3 +24,4 @@ In the comments on this post (late 2014), Bas flags a genuine drawback of early 
 - [Use LHC over Connection Leasing, and the FMA's modularity proves itself](lhc-over-connection-leasing.md)
 - [How Local Host Cache works in the FMA](local-host-cache-712-architecture.md)
 - [Writing the FMA book was brutal but never regretted](self-publishing-fma-book-worth-it.md)
+- [VDA high-availability mode for Controller outages](xd7-vda-high-availability-mode.md)

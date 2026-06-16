@@ -30,6 +30,7 @@ This is the facilitation layer that wraps the SCAF/book content during a live ma
 ## Verwante notities
 
 - [Bas's teaching philosophy: action and presenting beat passive reading](bas-teaching-philosophy-action-and-presenting.md)
+- [Four-session, case-driven structure of the change masterclass](change-masterclass-four-session-structure.md)
 - [Cloud Masterclass: delivery philosophy](cloud-masterclass-delivery-philosophy.md)
 - [Cloud Masterclass delivery setup and materials checklist](cloud-masterclass-delivery-setup.md)
 - [Cloud Masterclass interaction toolkit for engagement](cloud-masterclass-interaction-techniques.md)

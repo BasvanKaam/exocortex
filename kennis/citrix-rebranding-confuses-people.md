@@ -22,4 +22,5 @@ In July 2013, with the CloudGateway brand killed off and its components scattere
 - [Genuinely enthusiastic about Citrix mobility, MDX as the standout](cloudgateway-fan-not-employee.md)
 - [Mandatory paid support is not a bad thing per se](customer-success-services-take.md)
 - [The rapid Current Release cadence makes sense](defence-of-citrix-rapid-release-cycle.md)
+- [XenApp 7.5 is a name change dressed as a comeback, and that's fine](xenapp-75-marketing-skepticism.md)
 - [XenMobile is hard to deploy even when you know what you're doing](xenmobile-complex-even-if-you-know-how.md)

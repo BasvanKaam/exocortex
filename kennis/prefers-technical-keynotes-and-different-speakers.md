@@ -17,6 +17,7 @@ A small but telling self-disclosure from the Synergy 2017 schedule post: across 
 ## Verwante notities
 
 - [EDT and HDX.next milestones announced at Summit 2017](citrix-summit-2017-edt-hdx-gains.md)
+- [Come Get IT event: Bas's community evening format](come-get-it-event-format.md)
 - [CTP-hosted sessions are the technical, unbiased ones](ctp-sessions-are-technical-and-unbiased.md)
 - [On Mark Templeton: it was about the company, not him](mark-templeton-leadership-tribute.md)
 - [Positie: the 2014 Summit/Synergy split forces a real choice](positie-summit-vs-synergy-2014.md)

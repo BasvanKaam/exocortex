@@ -17,3 +17,12 @@ He consistently models a measured posture, telling readers to "hold your horses"
 His open questions centre on licensing fairness, whether existing XD 7.x customers with SA, and former XenApp Advanced customers pushed onto XenDesktop App Edition, can migrate without extra cost, showing his instinct to protect the customer's interest amid rebrands.
 
 *Bron: blogpost 'Citrix XenApp 7.5… What's (really) new?!' (2014-01-27), basvankaam.com.*
+
+## Verwante notities
+
+- [Citrix's constant rebranding confuses customers](citrix-rebranding-confuses-people.md)
+- [FMA is not new technology, but it is definitely improved (May 2013)](fma-not-new-but-definitely-improved.md)
+- [Framehawk and the Lightweight Framebuffer Protocol (LFP)](framehawk-lfp-protocol.md)
+- [XenApp 7.5 returns as a brand on FMA, not a return of IMA](xenapp-75-return-on-fma.md)
+- [XenApp folded into the FMA: the Excalibur / XenDesktop 7.0 moment](xenapp-joins-fma-excalibur-2013.md)
+- [The XenDesktop App Edition licensing fiasco and XenApp's comeback](xenapp-licensing-fiasco-and-comeback.md)

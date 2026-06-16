@@ -36,6 +36,7 @@ The through-line: content engine + events + evangelism + his own training busine
 - [CGIT internal go-to-market: promo evening + 'On Tour' (idea)](cgit-internal-go-to-market-idea.md)
 - [CGIT positioning: by IT pros, for IT pros](cgit-positioning-knowledge-community.md)
 - [Idea: De Cloud Professionals / CGIT as a cross-unit collective](cloud-generation-it-cgit-genesis.md)
+- [Come Get IT event: Bas's community evening format](come-get-it-event-format.md)
 - [De Cloud Professionals: focused cloud-workspace advisory proposition](de-cloud-professionals-proposition.md)
 - [Method: activating your personal brand when you join a new employer](personal-brand-activation-at-a-new-employer.md)
 - [Willing to co-invest in building his own training business](position-co-invest-in-your-own-training-business.md)

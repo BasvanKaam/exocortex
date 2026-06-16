@@ -23,3 +23,12 @@ User authentication and resource enumeration go hand-in-hand. During login the D
 > Note how I mention user authentication and user validation. There is a difference. Authentication is to make sure that somebody is who he or she claims to be. Verification is done to find out which resources are assigned (permissions) to the user.
 
 > Note how I mention user authentication and user validation. There is a distinct difference.
+
+## Verwante notities
+
+- [Bas's key takeaways on the user login process](bas-key-takeaways-user-login-process.md)
+- [Broker Service: XML, STA and the Principal Broker](broker-service-xml-sta-principal.md)
+- [A Citrix external logon validates against LDAP three times](citrix-three-ldap-validations-logon.md)
+- [The Delivery Controller as the heart of the FMA](delivery-controller-heart-of-fma.md)
+- [Authentication vs verification are two distinct steps](fma-authentication-vs-verification.md)
+- [XenMobile PIN + certificate as two-factor auth](xenmobile-pin-certificate-2fa.md)

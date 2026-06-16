@@ -30,3 +30,11 @@ Why the roles matter (Bas's four reasons):
 > "Een CCoE klinkt groot en alleen toepasbaar voor (grote) Enterprise omgevingen, maar dat is ONJUIST."
 >
 > Je bent nooit te klein voor een CCoE.
+
+## Verwante notities
+
+- [Bas's reframe: governance is just a fancy word](bas-governance-is-just-a-fancy-word.md)
+- [Promoting the CCoE: the 'kindergarten' war story and strategies](bas-promoting-the-ccoe-kindergarten-war-story.md)
+- [Two types of CCoE: Advisory vs Prescriptive](ccoe-advisory-vs-prescriptive.md)
+- [A CCoE is not only for enterprises; it's about responsibilities, not headcount](ccoe-not-just-for-enterprise-3.md)
+- [Cloud Center of Excellence (CCoE): Definition and Why Early](cloud-center-of-excellence-definition.md)

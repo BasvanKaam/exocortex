@@ -24,6 +24,7 @@ Key nuance Bas highlights: authentication (building the token) and validation (f
 
 ## Verwante notities
 
+- [Bas's distinction: authentication versus verification](authentication-vs-verification-distinction.md)
 - [The Broker Service bundles brokering, XML and STA in one process](citrix-broker-service-three-roles.md)
 - [The STA only comes into play when traffic traverses a NetScaler](citrix-sta-only-with-netscaler.md)
 - [External user authentication through NetScaler](external-authentication-through-netscaler.md)

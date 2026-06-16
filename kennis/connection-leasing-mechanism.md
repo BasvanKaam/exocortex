@@ -32,6 +32,7 @@ By default each Controller synchronizes up to 1000 leases every 10 seconds until
 - [The Delivery Controller as the heart of the FMA](delivery-controller-heart-of-fma.md)
 - [Delivery Controller vs Data Collector differences](delivery-controller-vs-data-collector.md)
 - [Delivery Controller vs. Data Collector (FMA vs. IMA)](delivery-controller-vs-data-collector-2.md)
+- [FMA architecture: Controllers, Agents and a critical central database (durable)](fma-controllers-agents-central-database.md)
 - [FMA Local Host Cache: Principal Broker, Secondary Broker (HA) and CSS](fma-local-host-cache-services.md)
 - [IMA Zones vs. FMA Zones comparison](ima-zones-vs-fma-zones-comparison.md)
 - [Local Host Cache in XenApp 6.5 (IMA)](local-host-cache-ima.md)

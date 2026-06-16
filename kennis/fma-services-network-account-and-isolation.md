@@ -28,4 +28,5 @@ All services run under the NT AUTHORITY\Network Service account and authenticate
 - [The four most prominent FMA core services](fma-four-prominent-core-services.md)
 - [FMA internal communication over WCF endpoints (port 80)](fma-internal-communication-wcf.md)
 - [FMA service high availability via peer service groups](fma-services-high-availability.md)
+- [FMA services run independently, with separate DB connection strings](fma-services-independent-registry-accounts.md)
 - [The FlexCast Management Architecture and its thirteen core services](fma-thirteen-core-services-overview.md)

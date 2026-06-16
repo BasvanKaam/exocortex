@@ -34,3 +34,4 @@ His framing of the consequences:
 - [IMA-to-FMA terminology mapping table](ima-vs-fma-terminology-mapping.md)
 - [Server 2012 .NET 3.5 Feature on Demand install gotcha (how it worked then)](server-2012-net35-feature-on-demand-gotcha.md)
 - [Server VDA vs Desktop VDA: the often-overlooked new component](server-vda-vs-desktop-vda.md)
+- [XenApp 7.5 is a name change dressed as a comeback, and that's fine](xenapp-75-marketing-skepticism.md)

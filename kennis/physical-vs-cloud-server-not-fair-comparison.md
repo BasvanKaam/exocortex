@@ -28,5 +28,6 @@ His summary of the trade-off: the choice between Capex and Opex depends heavily 
 - [Capex vs Opex in IT and Cloud](capex-vs-opex-in-it.md)
 - [Moving to the cloud does not automatically save money](cloud-does-not-automatically-save-money.md)
 - [Worked TCO/ROI exercise: on-prem vs co-lo vs managed vs IaaS](cloud-tco-roi-financial-comparison-exercise.md)
+- [A simple DIY method to compare Cloud datacenter latency](diy-cloud-latency-ping-test-method.md)
 - [Opex Is Harder for the Provider Than the Customer](opex-challenge-for-providers.md)
 - [Physical and software performance limits of the cloud](physical-and-software-cloud-performance-limits.md)

@@ -26,6 +26,7 @@ Key points:
 - [Connection Leasing failover behavior and limitations](connection-leasing-failover-behavior.md)
 - [Connection Leasing mechanism](connection-leasing-mechanism.md)
 - [The Delivery Controller as the heart of the FMA](delivery-controller-heart-of-fma.md)
+- [FMA architecture: Controllers, Agents and a critical central database (durable)](fma-controllers-agents-central-database.md)
 - [Local Host Cache in XenApp 6.5 (IMA)](local-host-cache-ima.md)
 - [VDA high-availability mode (direct ICA, last resort)](vda-high-availability-mode.md)
 - [The three XenDesktop databases](xendesktop-three-databases.md)

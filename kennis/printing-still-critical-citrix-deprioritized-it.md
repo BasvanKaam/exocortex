@@ -17,6 +17,8 @@ Bas's take (Jan 2019): 'Printing needs to be taken more seriously', not just by 
 ## Verwante notities
 
 - [Citrix printing barely changed across 2018 releases](citrix-printing-stagnation-2018.md)
+- [Why RDS Easy Print falls short for cloud/remote printing](easy-print-limitations-cloud.md)
+- [EMF vs XPS print file formats](emf-vs-xps-print-formats.md)
 - [Most Citrix printing pain is still bad drivers and bad architecture](positie-citrix-printing-still-driver-and-design-problem.md)
 - [Printing is the perennial pain admins shouldn't have to focus on](printing-is-a-perennial-euc-pain.md)
 - [Printing is business critical, and underrated](printing-is-business-critical.md)

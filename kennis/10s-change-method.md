@@ -27,5 +27,6 @@ Successful completion of the masterclass qualifies the participant for 10S certi
 
 ## Verwante notities
 
+- [Four-session, case-driven structure of the change masterclass](change-masterclass-four-session-structure.md)
 - [Position: force the old way out, but only after early involvement and training](position-adoption-force-old-way-out.md)
 - [Four types of resistance to cloud adoption (Step-Cloud Framework)](step-cloud-four-types-of-resistance.md)

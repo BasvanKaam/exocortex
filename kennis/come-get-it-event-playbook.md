@@ -48,3 +48,4 @@ Assign every task an explicit owner, write it down in a draaiboek, share access 
 - [Event runbook method: Wanneer, Waar, Wat, Wie](event-runbook-method.md)
 - [Personal Invitations Beat Mass Sign-Up](personal-invitations-beat-mass-signup.md)
 - [Salomon's Two Event Formats: Internal Technical vs Bigger-Picture](salomon-event-series-two-event-types.md)
+- [XpressLabs facilitation craft: how Bas runs the room](xpresslabs-facilitation-craft.md)

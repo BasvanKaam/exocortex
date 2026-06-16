@@ -24,3 +24,4 @@ How it worked then (early 2014): after XenApp had been folded into XenDesktop 7 
 ## Verwante notities
 
 - [Excalibur is XenDesktop-centric and steals XenApp's thunder (April 2013)](excalibur-steals-xenapp-thunder.md)
+- [XenApp 7.5 is a name change dressed as a comeback, and that's fine](xenapp-75-marketing-skepticism.md)

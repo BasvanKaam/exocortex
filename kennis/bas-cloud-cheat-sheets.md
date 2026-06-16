@@ -25,4 +25,5 @@ Bas recounts that he previously built several 'Cheat Sheets' listing commonly us
 - [Cloud service models: SaaS, PaaS, IaaS, DaaS](cloud-service-models-saas-paas-iaas-daas.md)
 - [Same cloud service, different name per vendor](cloud-service-naming-differs-per-vendor.md)
 - [How the conferencing cheat sheet was researched](conferencing-cheat-sheet-method.md)
+- [A simple DIY method to compare Cloud datacenter latency](diy-cloud-latency-ping-test-method.md)
 - [No universal Cloud standard, and the vendor lock-in problem](no-universal-cloud-standard-vendor-lock-in.md)

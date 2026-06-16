@@ -30,6 +30,7 @@ UPS is disabled by default; enable it via the 'Universal Print Server Enable' po
 - [Citrix proximity printing](citrix-proximity-printing.md)
 - [Citrix Universal Print Driver (UPD)](citrix-universal-print-driver.md)
 - [Citrix Universal Printer (logical print object)](citrix-universal-printer.md)
+- [Why RDS Easy Print falls short for cloud/remote printing](easy-print-limitations-cloud.md)
 - [Print spooling: local vs remote](print-spooling-local-vs-remote.md)
 - [Print-related troubleshooting tools (Print Detective, UPS Cert Tool, StressPrinters)](print-troubleshooting-tools.md)
 - [Tools are fine, but understand the architecture before you troubleshoot](printing-troubleshooting-understand-architecture-first.md)

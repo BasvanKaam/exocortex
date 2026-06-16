@@ -20,6 +20,7 @@ How it worked then (2015). With XenDesktop 7.x, XenApp moved into the Flexcast M
 
 - [Stance: keep the comparison cheat sheet to a single A4 page](cheat-sheet-craft-single-a4-page.md)
 - [Citrix policy precedence: IMA vs Citrix AD vs normal AD policies](citrix-policy-precedence-ima-ad.md)
+- [Citrix Presentation Server Command-Line Tools](citrix-presentation-server-cli-tools.md)
 - [Excalibur merges XenApp and XenDesktop onto FMA](excalibur-merges-xenapp-xendesktop-fma.md)
 - [FMA unified XenApp and XenDesktop on one architecture](fma-shared-xenapp-xendesktop.md)
 - [FMA Site database vs IMA store and the missing LHC](fma-site-db-vs-ima-store-lhc.md)

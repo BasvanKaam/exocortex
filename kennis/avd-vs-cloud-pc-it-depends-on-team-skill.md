@@ -16,6 +16,7 @@ Bas's stance on choosing between AVD and Windows 365 Cloud PC: it comes down to 
 
 ## Verwante notities
 
+- [Cloud PC: MEM-managed vs self-service (durable distinction)](cloud-pc-mem-managed-vs-self-service.md)
 - [Cloud PC vs AVD: a four-lens decision framework](cloud-pc-vs-avd-decision-framework.md)
 - [AVD and Cloud PC go hand in hand, pick per use case](positie-avd-en-cloud-pc-gaan-hand-in-hand.md)
 - [Windows 365 and AVD Are Complementary, Not Competing](positie-w365-and-avd-coexist.md)

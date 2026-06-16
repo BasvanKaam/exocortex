@@ -30,6 +30,7 @@ Bas notes that when the modern workplace based on Cloud technology is in play, D
 - [DaaS versus VDI](daas-vs-vdi.md)
 - [Functional Design with Functional Tests](functional-design-and-functional-tests.md)
 - [Bas's mini business case: the current-vs-possible mapping table](mini-business-case-current-vs-hybrid-table.md)
+- [Parallels RAS (Remote Application Server)](parallels-ras.md)
 - [Single-User vs Multi-User VDI/DaaS](single-user-vs-multi-user-vdi-daas.md)
 - [Technical/Functional Design as Cloud Blueprint](technical-functional-design-blueprint.md)
 - [Windows 365 Cloud PC](windows-365-cloud-pc.md)

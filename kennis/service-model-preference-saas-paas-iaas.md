@@ -28,6 +28,7 @@ The logic is that moving up the stack outsources more of the operational burden,
 ## Verwante notities
 
 - [Cloud Placement Decisions: the application lifecycle quadrant](cloud-placement-decisions-quadrant.md)
+- [Worked example: bank treats core-banking software as commodity](core-banking-saas-worked-example.md)
 - [Four-layer segmentation of the cloud cost model](financial-model-four-cost-layers.md)
 - [Office 365 subscription families and plans](office-365-subscription-families-and-plans.md)
 - [The point of cloud strategy is to free IT from commodity toil](position-free-it-ops-from-commodity-burden.md)

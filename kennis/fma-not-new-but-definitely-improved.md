@@ -18,3 +18,4 @@ Bas deflates the marketing hype while still endorsing the change: "Is it new tec
 
 - [Early bullish take on Excalibur: impressive, simplified, the right direction](excalibur-impressed-early-take.md)
 - [Excalibur is XenDesktop on steroids and here to stay (April 2013)](excalibur-is-here-to-stay.md)
+- [XenApp 7.5 is a name change dressed as a comeback, and that's fine](xenapp-75-marketing-skepticism.md)

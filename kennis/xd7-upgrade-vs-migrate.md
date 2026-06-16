@@ -22,3 +22,7 @@ How it worked then (XenDesktop 7 era, 2013): in-place upgrade and migration were
 At the time of writing Citrix had announced there was no upgrade or migration path for existing XenApp 6.5 customers yet; a toolset of scripts was promised for a future release.
 
 *Bron: blogpost 'Upgrade and or migrate to XD7. What's involved?!' (2013-08-12), basvankaam.com.*
+
+## Verwante notities
+
+- [XenApp migration tooling: Migration Center and 6.0-to-6.5 Upgrade Utility (2013)](xenapp-migration-tooling-2013.md)

@@ -17,6 +17,7 @@ Skill readiness planning is the parallel track: the plan drawn up earlier (insig
 
 ## Verwante notities
 
+- [AVD/Azure project readiness framework](avd-project-readiness-framework.md)
 - [Promoting the CCoE: the 'kindergarten' war story and strategies](bas-promoting-the-ccoe-kindergarten-war-story.md)
 - [Bas's year as a competence manager](bas-year-as-competence-manager.md)
 - [Key Takeaways: the adoption phase is a beginning, not an end](chapter14-adoption-phase-key-takeaways.md)

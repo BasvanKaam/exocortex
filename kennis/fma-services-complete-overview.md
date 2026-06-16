@@ -40,4 +40,6 @@ The services:
 ## Verwante notities
 
 - [Check FMA service health with PowerShell, not just Director](check-fma-services-with-powershell.md)
+- [FMA architecture: Controllers, Agents and a critical central database (durable)](fma-controllers-agents-central-database.md)
+- [FMA services run independently, with separate DB connection strings](fma-services-independent-registry-accounts.md)
 - [Prefer PowerShell over the GUI for Citrix FMA work](powershell-over-gui-for-citrix.md)

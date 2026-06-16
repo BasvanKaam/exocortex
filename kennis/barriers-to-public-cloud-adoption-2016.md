@@ -31,4 +31,5 @@ Framing worth keeping: "considering the cloud just because it will be cheaper do
 - [Moving to the cloud does not automatically save money](cloud-does-not-automatically-save-money.md)
 - [Cloud is a potential solution, not a silver bullet](cloud-is-no-silver-bullet.md)
 - [The cloud is taking over, but in 2016 it is not yet proven for everybody](cloud-is-not-mature-yet-2016.md)
+- [A simple DIY method to compare Cloud datacenter latency](diy-cloud-latency-ping-test-method.md)
 - [On-prem is still king; a cloud 'big bang' is coming, slowly](on-prem-king-cloud-bigbang-prediction-2018.md)

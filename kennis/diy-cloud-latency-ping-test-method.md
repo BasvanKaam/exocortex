@@ -17,3 +17,15 @@ His method (2019) to give an indication of latency to European datacenters acros
 How it did it then. He explicitly framed it as indicative only: 'do your own research before you commit to anything.'
 
 *Bron: blogpost 'Version 2.0 of the Cloud Services Cheat Sheet is now live' (2019-02-06), basvankaam.com.*
+
+## Verwante notities
+
+- [Durable barriers to public cloud adoption](barriers-to-public-cloud-adoption-2016.md)
+- [Bas's Cloud 'Cheat Sheets' mapping provider service names](bas-cloud-cheat-sheets.md)
+- [Physical and performance limits of working from the cloud](cloud-physical-and-performance-limits.md)
+- [Same cloud service, different name per vendor](cloud-service-naming-differs-per-vendor.md)
+- [Global cloud scale: regions, zones, and which continent has no datacenters](global-scale-regions-zones-datacenters.md)
+- [Hybrid Latency and the Region-Choice Pitfall](hybrid-latency-region-choice-pitfall.md)
+- [Indicative cost overview: split the totals, show the assumptions, never call it a quote](indicative-cost-overview-method-assumptions-and-reserved-instances.md)
+- [Bas's warning: Cloud apps with on-premises backends invite latency trouble](latency-cloud-app-onprem-backend.md)
+- [Comparing a Physical Server to Cloud Isn't Fair](physical-vs-cloud-server-not-fair-comparison.md)

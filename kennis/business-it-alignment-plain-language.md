@@ -32,6 +32,7 @@ The payoff: IT changes step by step into a strategic, innovative partner, enabli
 
 - [Business-IT Alignment Is A People Problem, Not A Tooling Problem](business-alignment-is-a-people-problem.md)
 - [Convergence, Not Alignment, Between Business and IT](business-it-convergence-not-alignment.md)
+- [Definition: Business Technology](business-technology-definition.md)
 - [Bas's terminology: "gebruiker", "business gebruiker" and "de business"](business-user-and-the-business-definitions.md)
 - [The classic sysadmin must reinvent as a business translator](classic-sysadmin-must-reinvent-as-business-translator.md)
 - [Cloud success is an organisational and adoption problem, not a technical one](cloud-success-is-organisational-not-technical.md)

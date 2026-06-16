@@ -23,4 +23,5 @@ Stated sustainability goals of the three big providers (per their websites/repor
 - [Bas: look critically at 'green' datacenter claims](green-cloud-claims-critical-look.md)
 - [Microsoft sustainability goal: carbon negative by 2030](microsoft-carbon-negative-2030.md)
 - [Obvious cloud trends (multi-cloud, edge, zero trust, serverless, green)](obvious-cloud-trends-list.md)
+- [RECs and the reality of cloud datacenter 'green' energy claims](rec-renewable-energy-credits-cloud.md)
 - [The Big Three Cloud Providers (AWS, Azure, GCP)](the-big-three-cloud-providers.md)

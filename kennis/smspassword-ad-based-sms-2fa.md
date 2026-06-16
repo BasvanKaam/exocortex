@@ -20,3 +20,7 @@ How it worked then (2016): SMSPassword was an on-premises SMS-based two-factor a
 - Scales horizontally: multiple SMSPassword servers and SMS dispatch modems behind a load balancer (e.g. NetScaler) with heartbeat monitors for HA. Lifetime licenses in a flexible, reassignable pool.
 
 *Bron: blogpost 'Two factor (SMS) authentication -- done right with SMSPassword!' (2016-10-04), basvankaam.com.*
+
+## Verwante notities
+
+- [XenMobile PIN + certificate as two-factor auth](xenmobile-pin-certificate-2fa.md)

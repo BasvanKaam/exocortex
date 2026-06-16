@@ -26,3 +26,4 @@ History worth keeping: the STA became part of the Broker Service as of Presentat
 - [The eighteen Broker Service Site services (distributed housekeeping)](fma-broker-eighteen-site-services.md)
 - [FMA Broker Service (XML/STA) and its responsibilities](fma-broker-service.md)
 - [How Local Host Cache works in the FMA](local-host-cache-712-architecture.md)
+- [VDA high-availability mode for Controller outages](xd7-vda-high-availability-mode.md)

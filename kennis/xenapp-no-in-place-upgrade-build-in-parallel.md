@@ -21,3 +21,4 @@ Advantage of building in parallel: you get to redesign, e.g. move policies from 
 ## Verwante notities
 
 - [Moving 32-bit to 64-bit (and 2003 to 2008) means app-compat work (durable lesson)](32bit-to-64bit-app-compat-is-a-fact-of-life.md)
+- [XenApp migration tooling: Migration Center and 6.0-to-6.5 Upgrade Utility (2013)](xenapp-migration-tooling-2013.md)

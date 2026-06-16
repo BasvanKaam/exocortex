@@ -42,3 +42,11 @@ When session-host VMs or the vNet-integrated NME app have restricted egress (cus
 Note: Microsoft has retired older agent URLs; allow the new `*.prod.warm.ingest.monitor.core.windows.net` and remove deprecated endpoints. Adjust outbound rules for inline scripts when using Inline Execution Mode without a Hybrid Worker.
 
 *Bron: Nerdio-content 'Hardening Nerdio Manager for Enterprise Services v1.0' (Training).*
+
+## Verwante notities
+
+- [Hardening a Nerdio Manager install (AVD)](avd-nerdio-manager-hardening-items.md)
+- [AVD Security Guidelines cheat sheet: a 35-item starting point](avd-security-cheat-sheet-starting-point.md)
+- [Don't make the management tool highly available, spend the budget on compute and storage](dont-make-nerdio-manager-highly-available.md)
+- [Harden step by step and verify between steps, don't lock everything at once](harden-step-by-step-not-all-at-once.md)
+- [Hardening Nerdio and AVD: Easy Way vs Hard Way](hardening-nerdio-avd-easy-vs-hard.md)

@@ -29,6 +29,7 @@ Dated reference for the classic XenApp/MetaFrame era logon flow.
 
 ## Verwante notities
 
+- [Citrix Presentation Server Command-Line Tools](citrix-presentation-server-cli-tools.md)
 - [Citrix wfshell.exe, cltmgr.exe, and printer drivers (reference)](citrix-wfshell-cltmgr-printer-drivers.md)
 - [The origin of Citrix and the ICA protocol](history-of-citrix-and-ica.md)
 - [What the ICA protocol does and its default ports](ica-protocol-fundamentals.md)

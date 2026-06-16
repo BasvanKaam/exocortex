@@ -37,6 +37,7 @@ See also: reserved-instances-do-not-guarantee-compute, nerdio-active-active-dr.
 - [Azure cost levers: CSP, right-sizing, promos and Reserved Instances](azure-cost-levers-csp-vm-sizing-ri.md)
 - [Azure Hybrid Benefit and the Linux-Pricing 'Fun Fact'](azure-hybrid-benefit-explainer.md)
 - [The 7 Cloud Baby Steps (behavior-driven FinOps)](cloud-baby-steps-behavior-driven-finops.md)
+- [A license is free if it returns more than it costs](licenses-that-make-you-money.md)
 - [Active/Active DR for AVD Across Two Regions](nerdio-active-active-dr.md)
 - [Nerdio Manager storage autoscale for Azure Files Premium](nerdio-azure-files-premium-autoscale.md)
 - [Nerdio non-technical cost levers](nerdio-non-technical-cost-levers.md)

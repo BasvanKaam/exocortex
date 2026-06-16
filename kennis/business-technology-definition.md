@@ -16,3 +16,10 @@ A pull-quote definition Bas highlights: "Business Technology: All technology tha
 ## Bron-citaten (NL, verbatim)
 
 > Business Technology: Alle technologie die een organisatie helpt om de zakelijke en operationele processen succesvol uit te voeren.
+
+## Verwante notities
+
+- [Put the Business Before the Technology](business-before-technology.md)
+- [Business-IT Alignment In Plain Language](business-it-alignment-plain-language.md)
+- [Cloud is about far more than technology](cloud-is-more-than-technology.md)
+- [Position: it should be Business-IT (BIT), not IT alone](position-business-technology-over-it.md)

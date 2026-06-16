@@ -34,6 +34,7 @@ It sits under the Digital Strategy and feeds the Sourcing and Security strategie
 
 - [Why have a cloud exit strategy - the exit comes before onboarding](cloud-exit-strategy-rationale.md)
 - [A Cloud Strategy sets a target AND a roadmap for the installed base](cloud-strategy-target-plus-roadmap.md)
+- [Worked example: bank treats core-banking software as commodity](core-banking-saas-worked-example.md)
 - [ICT Vision: IT and Cloud Strategy Derive from the Digital Strategy](ict-vision-strategy-derivation-from-digital-strategy.md)
 - [Landing zone selection dimensions and the decision tree](landing-zone-selection-dimensions.md)
 - [Position: Cloud Is a Strategic Derivative, Not a Goal in Itself](position-cloud-is-strategic-derivative-not-goal.md)

@@ -23,3 +23,7 @@ Key gotchas:
 Always back up the Site database before upgrading anything.
 
 *Bron: blogpost 'Upgrade and or migrate to XD7. What's involved?!' (2013-08-12), basvankaam.com.*
+
+## Verwante notities
+
+- [XenApp migration tooling: Migration Center and 6.0-to-6.5 Upgrade Utility (2013)](xenapp-migration-tooling-2013.md)

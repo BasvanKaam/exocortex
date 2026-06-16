@@ -35,6 +35,7 @@ Key insight Bas repeats: **getting set up is just step one; it's the other 80-90
 
 ## Verwante notities
 
+- [AVD/Azure project readiness framework](avd-project-readiness-framework.md)
 - [Involve and educate users early or adoption fails](involve-users-early-for-adoption.md)
 - [Key-person dependency on automation is a business risk](key-person-dependency-as-business-risk.md)
 - [Concentrated cloud knowledge in a few seniors is a business risk](knowledge-leaving-the-company-as-a-real-risk.md)

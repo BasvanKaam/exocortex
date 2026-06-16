@@ -45,3 +45,11 @@ Reusable lesson: a community works as a low-friction product-shaping loop when y
 
 *Bron: Nerdio-content 'Announcing - The Nerdio Tech Insider Community Program' (Blogs).*
 *Bron: Nerdio-content 'Introducing - The Nerdio Tech Insider Program' (Blogs).*
+
+## Verwante notities
+
+- [Community feedback should visibly shape the product](community-feedback-shapes-the-product.md)
+- [Build a practitioner community as a go-to-market motion](community-program-as-go-to-market-idea.md)
+- [Operating a Community Advocate Program](community-program-operating-playbook.md)
+- [Nerdio Manager for WVD Community Edition (2020)](nerdio-manager-wvd-community-edition.md)
+- [Run Community Events Outside the Marketing Funnel](run-community-events-outside-the-marketing-funnel.md)

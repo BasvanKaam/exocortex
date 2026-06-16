@@ -37,4 +37,5 @@ Key design choices worth reusing:
 ## Verwante notities
 
 - [NVP Captains: Seeding a Community Program With Founding Members](nvp-captains-model.md)
+- [NVP Community Award Program: Code of Conduct Design](nvp-program-code-of-conduct-design.md)
 - [NVP Program: How Bas Onboards Community Members](nvp-program-onboarding-playbook.md)

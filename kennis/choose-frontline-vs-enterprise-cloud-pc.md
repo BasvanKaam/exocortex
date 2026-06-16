@@ -16,4 +16,5 @@ Bas argues that paying for an always-on Enterprise Cloud PC makes little sense w
 
 ## Verwante notities
 
+- [Cloud PC: MEM-managed vs self-service (durable distinction)](cloud-pc-mem-managed-vs-self-service.md)
 - [Windows 365 License Optimization: The Three Levers](w365-license-optimization-method.md)

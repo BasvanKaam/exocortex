@@ -27,6 +27,7 @@ He pairs this with a realism check on SaaS-only: research and thousands of speci
 - [Session proposition: five (cloud) alternatives to Citrix and VMware](five-cloud-alternatives-to-citrix-vmware-session.md)
 - [Legacy x86 app usage in enterprises is rising, not falling](legacy-app-usage-in-enterprises-is-rising-not-falling.md)
 - [There is no single right way to deliver apps and desktops](no-single-right-way-to-deliver-apps-desktops.md)
+- [Parallels RAS (Remote Application Server)](parallels-ras.md)
 - [Stop calling them 'legacy' apps, call them 'traditional'](positie-legacy-is-a-bad-term-call-them-traditional.md)
 - [How Microsoft RDP descended from Citrix's ICA](rdp-descended-from-citrix-ica.md)
 - [When Citrix still makes sense (and when an alternative is better)](when-citrix-still-makes-sense.md)

@@ -31,3 +31,11 @@ Enforcement: violations can range from warnings to disqualification, scaled to s
 The design pattern worth reusing: pair a values-based Code of Conduct with a signed NDA so that one signature carries both the behavioral commitment and the confidentiality commitment, and tie consequences explicitly to the program's reputation.
 
 *Bron: Nerdio-content 'Code of Conduct' (Nerdio NVP).*
+
+## Verwante notities
+
+- [Operating a Community Advocate Program](community-program-operating-playbook.md)
+- [NVP Captains: Seeding a Community Program With Founding Members](nvp-captains-model.md)
+- [Designing a Community Advocate Program (NVP)](nvp-community-advocate-program-design.md)
+- [NVP Program: Application and Selection Design](nvp-program-application-and-selection-design.md)
+- [NVP Program: How Bas Onboards Community Members](nvp-program-onboarding-playbook.md)

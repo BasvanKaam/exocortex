@@ -26,6 +26,7 @@ Bas's catalogue of physical/software limits that constrain cloud-only working (2
 ## Verwante notities
 
 - [The cloud's promises, line by line (Bas's reality check)](cloud-promises-reality-check.md)
+- [A simple DIY method to compare Cloud datacenter latency](diy-cloud-latency-ping-test-method.md)
 - [Hybrid Latency and the Region-Choice Pitfall](hybrid-latency-region-choice-pitfall.md)
 - [Bas's warning: Cloud apps with on-premises backends invite latency trouble](latency-cloud-app-onprem-backend.md)
 - [Office 365 on VDI/RDSH: .OST Bloat and the Search-Index Problem](office365-profile-pain-ost-and-search-index.md)

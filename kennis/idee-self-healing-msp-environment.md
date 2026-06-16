@@ -27,6 +27,7 @@ Technical components: scripted actions, alerts plus webhooks, policy monitoring 
 
 - [Idea: Your Nerdio configuration as your best sales tool](idee-nerdio-config-as-sales-tool.md)
 - [Idea: Turn recurring MSP work into repeatable revenue with Nerdio](idee-nerdio-recurring-work-repeatable-revenue.md)
+- [Idea: Nerdio Scripted Actions Community Hackathon](idee-nerdio-scripted-actions-hackathon.md)
 - [Idea: Nerdio vs shadow IT](idee-nerdio-shadow-it-governance.md)
 - [Key-person dependency on automation is a business risk](key-person-dependency-as-business-risk.md)
 - [Why Nerdio built a multi-tenant MSP product on top of split-tenant NMW](nerdio-manager-for-msp-why-multi-tenant.md)

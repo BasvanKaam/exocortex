@@ -28,3 +28,12 @@ The through-line is reducing every small friction (can't read the slide, can't t
 Note: this format had been delivered to multiple partners across the Netherlands and Belgium; the pipeline/leads and QBR specifics in the source are internal and were not recorded.
 
 *Bron: Nerdio-content 'Nerdio XpressLabs Partner enablement In a box (first-person)' (Innovation Days).*
+
+## Verwante notities
+
+- [Bas's teaching philosophy: action and presenting beat passive reading](bas-teaching-philosophy-action-and-presenting.md)
+- [Four-session, case-driven structure of the change masterclass](change-masterclass-four-session-structure.md)
+- [Come Get IT Event Production Playbook](come-get-it-event-playbook.md)
+- [Lead enablement with hands-on labs, not slideware](hands-on-labs-over-slideware.md)
+- [Innovation Day MicroHack workshop method](innovation-day-microhack-workshop-method.md)
+- [XpressLabs: Bas's Innovation-Day-in-a-box teaching method](xpresslabs-innovation-day-in-a-box-method.md)

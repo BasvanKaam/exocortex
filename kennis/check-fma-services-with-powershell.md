@@ -22,6 +22,7 @@ Practical tips: on a central management server, build a personal PowerShell prof
 
 - [Director and built-in EdgeSight](director-monitoring-tool.md)
 - [The FMA core services and how they communicate](fma-services-complete-overview.md)
+- [FMA services run independently, with separate DB connection strings](fma-services-independent-registry-accounts.md)
 - [The FMA's 10 (or 12) primary services and their roles](fma-twelve-services-rundown.md)
 - [The PortICA service (PicaSvc2.exe) and why it's excluded from default traces](portica-picasvc2-ica-service-role.md)
 - [Prefer PowerShell over the GUI for Citrix FMA work](powershell-over-gui-for-citrix.md)

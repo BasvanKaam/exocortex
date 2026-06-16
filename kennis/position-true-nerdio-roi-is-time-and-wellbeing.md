@@ -29,6 +29,7 @@ Links to: training-is-essential-to-value (below), trainer/L&D method.
 - [Cost savings are the cherry on top; business value and continuity matter more](cost-savings-are-the-cherry-on-top.md)
 - [Hard costs vs soft costs (both matter)](hard-costs-vs-soft-costs.md)
 - [Lead with operational and business value; cost savings is the cherry on top](lead-with-operational-value-not-just-cost.md)
+- [A license is free if it returns more than it costs](licenses-that-make-you-money.md)
 - [Nerdio Cost-Optimization Levers (Bas's Assessment Method)](nerdio-cost-optimization-levers.md)
 - [Cost Saving Shouldn't Be the Main Reason to Go Cloud](positie-cost-savings-not-the-main-reason.md)
 - [Training Bridges the Gap Between Potential and Performance](position-training-bridges-potential-and-performance.md)

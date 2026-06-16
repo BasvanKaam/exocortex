@@ -18,4 +18,5 @@ How it worked then (XenDesktop 7.x, 2014): The FlexCast Management Architecture 
 
 ## Verwante notities
 
+- [FMA architecture: Controllers, Agents and a critical central database (durable)](fma-controllers-agents-central-database.md)
 - [The Server VDA is the component everyone overlooked](positie-server-vda-overlooked.md)

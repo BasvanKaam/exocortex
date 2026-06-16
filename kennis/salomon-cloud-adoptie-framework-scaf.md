@@ -27,6 +27,7 @@ This is Bas's proposition for structuring a cloud migration as a guided journey 
 
 - [Cloud Value Comes From Rethinking, Not Lift-And-Shift](cloud-lift-and-shift-vs-rethinking.md)
 - [Cloud Masterclass: the curriculum Bas teaches](cloud-masterclass-curriculum.md)
+- [In four steps to the cloud: an adoption-framework session angle](in-four-steps-to-the-cloud-adoption-framework-angle.md)
 - [Willing to co-invest in building his own training business](position-co-invest-in-your-own-training-business.md)
 - [Salomon 2020 marketing: knowledge-first, strategic over technical, no hard CTAs](salomon-2020-marketing-strategy-knowledge-first.md)
 - [Blog topic backlog: closing the IT-business gap via cloud adoption](salomon-blog-topic-backlog-cloud-adoption.md)

@@ -25,3 +25,12 @@ Bas's framing of the two Cloud PC models. Cloud PC (Windows 365, originally laun
 Mental model: AVD is the flexible, fully controllable Azure VDI; Cloud PC is the simpler, more limited, fixed-price cloud PC. Expect organizations to run both side by side.
 
 *Bron: Nerdio-content 'How Nerdio Enhances the Provisioning and Management of Cloud PC' / 'What is, and how Nerdio enhances CPC' (Blogs).*
+
+## Verwante notities
+
+- [AVD vs Cloud PC is a control-vs-simplicity trade-off keyed to your team's Azure skill](avd-vs-cloud-pc-it-depends-on-team-skill.md)
+- [Always-on Cloud PCs are wrong for intermittent users; Frontline fills the gap](choose-frontline-vs-enterprise-cloud-pc.md)
+- [Cloud PC licensing requirements (durable)](cloud-pc-licensing-requirements.md)
+- [Cloud PC vs AVD: a four-lens decision framework](cloud-pc-vs-avd-decision-framework.md)
+- [Bas's reframe: is AVD and/or Windows 365 Cloud PC really DaaS?](is-avd-and-windows-365-really-daas.md)
+- [Where Nerdio adds value on top of native Cloud PC](nerdio-added-value-on-cloud-pc.md)

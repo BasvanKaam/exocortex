@@ -47,4 +47,5 @@ Under "Minder voor de hand liggend" Bas catalogues the under-discussed constrain
 - [Performance and Stability: You Trade Control for Provider Scale](performance-stability-and-provider-scale.md)
 - [Post-COVID resilience: BCPs, redundancy, supply chains, automation](post-covid-resilience-measures.md)
 - [Azure, AWS and Google sustainability targets](provider-sustainability-targets.md)
+- [RECs and the reality of cloud datacenter 'green' energy claims](rec-renewable-energy-credits-cloud.md)
 - [Bas on the physical scale: subsea cables and an Azure datacenter tour](submarine-cables-and-datacenter-scale.md)

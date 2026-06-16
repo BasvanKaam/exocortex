@@ -28,6 +28,7 @@ He cheekily points readers to YouTube Framehawk comparison clips, asking 'Guess 
 - [Citrix Adaptive Transport (Enlightened Data Transport / EDT)](citrix-adaptive-transport-edt.md)
 - [Citrix HDX: an extension to ICA, not a replacement](citrix-hdx-extends-ica.md)
 - [Framehawk: ICA over lossy, high-latency networks](framehawk.md)
+- [Framehawk and the Lightweight Framebuffer Protocol (LFP)](framehawk-lfp-protocol.md)
 - [The origin of Citrix and the ICA protocol](history-of-citrix-and-ica.md)
 - [What the ICA protocol does and its default ports](ica-protocol-fundamentals.md)
 - [Receiver communications, ICA handshake and virtual channels](receiver-ica-handshake-and-virtual-channels.md)
