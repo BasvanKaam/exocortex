@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [business-case, hybrid-cloud, migration-planning, modern-workplace]
+tags: [business-case, hybrid, migration-planning, modern-workplace]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [fslogix, cloud-cache, profile-containers, office365, azure, s3, resiliency]
+tags: [fslogix, cloud-cache, profile-container, office-365, azure, s3, resilience]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

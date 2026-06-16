@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [cloud-pc, windows-365, licensing, intune, m365, avd]
+tags: [windows-365, licensing, intune, office-365, avd]
 layer: reference
 gedateerd: ja
 bron: nerdio-blog

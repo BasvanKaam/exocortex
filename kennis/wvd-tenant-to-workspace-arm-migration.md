@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [wvd, arm, migration, hostpool]
+tags: [wvd, arm, migration, host-pool]
 layer: reference
 gedateerd: ja
 bron: nerdio-blog

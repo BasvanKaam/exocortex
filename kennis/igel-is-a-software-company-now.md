@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [igel, thin-client, software, positioning]
+tags: [igel, thin-client, software, positie]
 bron: basvankaam-blog
 ---
 

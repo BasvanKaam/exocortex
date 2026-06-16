@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [positie, wvd, avd, nerdio, citrix, positioning]
+tags: [positie, wvd, avd, nerdio, citrix]
 bron: nerdio-content
 ---
 

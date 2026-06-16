@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [citrix, current-release, ltsr, opinion]
+tags: [citrix, current-release, ltsr, positie]
 layer: rich
 bron: inside-citrix-fma
 ---

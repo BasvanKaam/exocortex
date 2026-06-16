@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [cloud-exit, process, triggers, disaster-recovery, method]
+tags: [exit-strategy, process, triggers, disaster-recovery, method]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

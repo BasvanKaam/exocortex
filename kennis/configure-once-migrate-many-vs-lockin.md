@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [liquidware, vendor-lockin, cloud-migration, uem, strategy]
+tags: [liquidware, vendor-lock-in, cloud-migration, uem, strategy]
 bron: basvankaam-blog
 ---
 

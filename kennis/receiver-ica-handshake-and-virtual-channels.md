@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [citrix-receiver, ica-handshake, virtual-channels, hdx, thinwire]
+tags: [receiver, handshake, virtual-channels, hdx, thinwire]
 layer: reference
 bron: inside-citrix-fma
 ---

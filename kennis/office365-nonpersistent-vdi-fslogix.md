@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [office365, vdi, fslogix, non-persistent]
+tags: [office-365, vdi, fslogix, non-persistent]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

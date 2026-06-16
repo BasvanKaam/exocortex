@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [cloud, hybrid, vdi, daas, burst-capacity, opinion]
+tags: [cloud, hybrid, vdi, daas, burst-capacity, positie]
 layer: rich
 bron: inside-citrix-fma
 ---

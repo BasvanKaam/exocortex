@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [windows, user-profile, migration, windows-10, profiles, profile-versions]
+tags: [windows, user-profile, migration, windows-10, profile, profile-versions]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

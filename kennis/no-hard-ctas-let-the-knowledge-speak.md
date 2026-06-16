@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [positie, marketing, content, positioning, cloud-adoption]
+tags: [positie, marketing, content, cloud-adoption]
 bron: salomon-it
 ---
 

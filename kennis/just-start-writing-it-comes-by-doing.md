@@ -4,7 +4,7 @@ merk: bvk
 domein: persoonlijk
 status: actief
 datum: 2026-06-11
-tags: [blogging, writing, stance, originality, practice]
+tags: [blogging, writing, positie, originality, practice]
 bron: salomon-it-blog
 ---
 

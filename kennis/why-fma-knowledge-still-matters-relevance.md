@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [fma, cloud, on-premises, opinion, relevance]
+tags: [fma, cloud, on-premises, positie, relevance]
 layer: rich
 bron: inside-citrix-fma
 ---

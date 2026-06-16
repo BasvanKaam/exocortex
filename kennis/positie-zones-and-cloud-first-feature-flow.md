@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, zones, cwc, citrix-workspace-cloud, cloud-first, opinion, connection-leasing]
+tags: [citrix, zones, cwc, workspace-cloud, cloud-first, positie, connection-leasing]
 bron: basvankaam-blog
 ---
 

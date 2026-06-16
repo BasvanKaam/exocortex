@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [office365, vdi, rdsh, outlook, ost, search-index, non-persistent]
+tags: [office-365, vdi, rdsh, outlook, ost, search-index, non-persistent]
 layer: reference
 gedateerd: ja
 bron: cgit-blog

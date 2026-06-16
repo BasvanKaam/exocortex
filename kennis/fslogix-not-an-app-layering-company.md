@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [application-layering, fslogix, app-disks, prediction, citrix]
+tags: [application-layering, fslogix, appdisks, prediction, citrix]
 bron: basvankaam-blog
 ---
 

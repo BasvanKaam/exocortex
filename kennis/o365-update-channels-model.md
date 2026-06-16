@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [office-365, proplus, update-channels, deployment, whitepaper]
+tags: [office-365, update-channels, deployment, whitepaper]
 layer: reference
 gedateerd: ja
 bron: salomon-whitepaper

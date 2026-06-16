@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [positie, azure-stack, hybrid-cloud, private-cloud, detron]
+tags: [positie, azure-stack, hybrid, private-cloud, detron]
 bron: salomon-diversen
 ---
 

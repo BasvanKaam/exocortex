@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [azure, rds, wvd, asr, migration, dr]
+tags: [azure, rds, wvd, asr, migration, disaster-recovery]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

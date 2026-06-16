@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-10
-tags: [docker, containers, opinion, security]
+tags: [docker, containers, positie, security]
 bron: basvankaam-blog
 ---
 

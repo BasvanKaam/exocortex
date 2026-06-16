@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [dfs, active-directory, fault-tolerance, storage]
+tags: [dfs, active-directory, resilience, storage]
 layer: reference
 gedateerd: nee
 bron: core-knowledge-docs

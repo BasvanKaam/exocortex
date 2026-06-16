@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [viab, vdi-in-a-box, citrix, vdi, flexcast]
+tags: [vdi-in-a-box, citrix, vdi, flexcast]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

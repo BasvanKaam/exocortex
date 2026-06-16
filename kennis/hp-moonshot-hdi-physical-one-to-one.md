@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [hp-moonshot, hdi, hsd, xenapp, physicalisation, gpu]
+tags: [moonshot, hdi, hsd, xenapp, virtualization, gpu]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

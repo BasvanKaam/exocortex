@@ -4,7 +4,7 @@ merk: bvk
 domein: financieel
 status: actief
 datum: 2026-06-09
-tags: [capex, opex, cloud-economics, pay-as-you-go, depreciation]
+tags: [opex-capex, cloud-economics, pay-as-you-go, depreciation]
 layer: reference
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

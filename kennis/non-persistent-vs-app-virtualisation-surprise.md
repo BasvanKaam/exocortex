@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [non-persistent, stateless, layering, app-virtualization, opinion]
+tags: [non-persistent, application-layering, application-virtualization, positie]
 bron: basvankaam-blog
 ---
 

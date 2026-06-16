@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [pen-and-paper, note-taking, learning-method, reflection]
+tags: [pen-and-paper, note-taking, training-method, reflection]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, xenmobile, consulting, licensing, opinion]
+tags: [citrix, xenmobile, consulting, licensing, positie]
 bron: basvankaam-blog
 ---
 

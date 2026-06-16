@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [idee, nerdio, sales, demo, msp, content-idea]
+tags: [idee, nerdio, sales, demo, msp]
 layer: reference
 gedateerd: nee
 bron: nerdio-training

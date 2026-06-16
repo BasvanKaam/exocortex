@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, events, summit, synergy, history]
+tags: [citrix, event, summit, synergy, history]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

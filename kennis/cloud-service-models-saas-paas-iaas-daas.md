@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [saas, paas, iaas, daas, definitions]
+tags: [saas, paas, iaas, daas, definition]
 layer: reference
 bron: inside-citrix-fma
 ---

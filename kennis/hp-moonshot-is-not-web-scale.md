@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-10
-tags: [nutanix, hp, moonshot, web-scale, opinion]
+tags: [nutanix, hp, moonshot, web-scale, positie]
 bron: basvankaam-blog
 ---
 

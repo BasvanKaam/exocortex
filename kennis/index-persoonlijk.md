@@ -4,7 +4,7 @@ merk: bvk
 domein: persoonlijk
 status: actief
 datum: 2026-06-15
-tags: [index, navigatie, persoonlijk]
+tags: [index, navigatie, personal]
 ---
 
 # persoonlijk - index

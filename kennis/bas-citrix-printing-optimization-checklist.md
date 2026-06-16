@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [bas-checklist, printing, optimization, upd, policies, less-is-more]
+tags: [bas-checklist, printing, optimization, upd, policy, less-is-more]
 layer: rich
 bron: inside-citrix-fma
 ---

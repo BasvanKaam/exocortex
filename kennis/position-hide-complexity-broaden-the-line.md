@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [nerdio, wvd, avd, cost-optimization, ux, positioning]
+tags: [nerdio, wvd, avd, cost-optimization, user-experience, positie]
 bron: nerdio-blog
 ---
 

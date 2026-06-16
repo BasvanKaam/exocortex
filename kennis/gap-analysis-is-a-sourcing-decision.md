@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [scaf, gap-analysis, sourcing, skills, position]
+tags: [scaf, gap-analysis, sourcing, skills, positie]
 bron: salomon-masterclass
 ---
 

@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [citrix-studio, management-console, broker-service, delivery-controller, powershell]
+tags: [studio, management-console, broker, delivery-controller, powershell]
 layer: reference
 bron: inside-citrix-fma
 ---

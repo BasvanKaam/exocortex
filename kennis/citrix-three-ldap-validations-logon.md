@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, authentication, ldap, netscaler, storefront, broker-service]
+tags: [citrix, authentication, ldap, netscaler, storefront, broker]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

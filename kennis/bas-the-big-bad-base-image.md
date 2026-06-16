@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [bas-opinion, application-delivery, base-image, application-layering]
+tags: [positie, application-delivery, base-image, application-layering]
 layer: rich
 bron: inside-citrix-fma
 ---

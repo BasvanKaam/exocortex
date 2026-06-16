@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [storefront, branding, opinion, ux]
+tags: [storefront, branding, positie, user-experience]
 bron: basvankaam-blog
 ---
 

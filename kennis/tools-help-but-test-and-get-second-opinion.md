@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, sizing, project-accelerator, opinion, consulting]
+tags: [citrix, sizing, project-accelerator, positie, consulting]
 bron: basvankaam-blog
 ---
 

@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [web, history, semantic-web, weboS]
+tags: [web, history, semantic-web, webos]
 layer: reference
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

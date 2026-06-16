@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [cheat-sheet, video-conferencing, wfh, research-method]
+tags: [cheat-sheet, video-conferencing, remote-work, research-method]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

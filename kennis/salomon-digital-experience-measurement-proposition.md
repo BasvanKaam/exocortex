@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [digital-experience, eux, end-user-experience, monitoring, salomon, proposition]
+tags: [user-experience, monitoring, salomon, proposition]
 layer: reference
 gedateerd: nee
 bron: salomon-it-blog

@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [cloud-exit, governance, positie, vendor-lock-in]
+tags: [exit-strategy, governance, positie, vendor-lock-in]
 bron: salomon-it
 ---
 

@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [scaf, templates, documentation, tooling, bas-ip]
+tags: [scaf, template, documentation, tooling, bas-ip]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

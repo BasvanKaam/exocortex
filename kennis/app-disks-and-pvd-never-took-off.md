@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, app-disks, pvd, unidesk, application-layering]
+tags: [citrix, appdisks, pvd, unidesk, application-layering]
 bron: basvankaam-blog
 ---
 

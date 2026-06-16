@@ -4,7 +4,7 @@ merk: bvk
 domein: persoonlijk
 status: actief
 datum: 2026-06-09
-tags: [personal-development, strengths, mentorship, mindset, opinion]
+tags: [personal-development, strengths, mentorship, mindset, positie]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

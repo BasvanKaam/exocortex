@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [nerdio, wvd, business-case, azure-cost, autoscale]
+tags: [nerdio, wvd, business-case, cost, autoscale]
 layer: reference
 gedateerd: nee
 bron: nerdio-blog

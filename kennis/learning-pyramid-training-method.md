@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [l&d, training-method, learning-pyramid, edgar-dale, knowledge-retention, addie]
+tags: [l-and-d, training-method, learning-pyramid, edgar-dale, knowledge-retention, addie]
 layer: reference
 gedateerd: nee
 bron: nerdio-blog

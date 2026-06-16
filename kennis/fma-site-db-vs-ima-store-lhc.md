@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, fma, ima, site-database, local-host-cache, architecture]
+tags: [citrix, fma, ima, central-site-database, local-host-cache, architecture]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

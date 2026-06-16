@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [msix, app-v, sccm, intune, microsoft, application-packaging]
+tags: [msix, app-v, sccm, intune, microsoft, packaging]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

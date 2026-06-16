@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [citrix-receiver, platforms, receiver-x1, storefront, html5]
+tags: [receiver, platforms, receiver-x1, storefront, html5]
 layer: reference
 bron: inside-citrix-fma
 ---

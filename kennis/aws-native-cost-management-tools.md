@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-10
-tags: [aws, cost-management, budgets, cost-explorer, trusted-advisor, finops]
+tags: [aws, cost-optimization, budgets, cost-explorer, trusted-advisor, finops]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

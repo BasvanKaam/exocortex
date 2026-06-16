@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [windows-applications, legacy, reframe, daas, avd, war-story]
+tags: [windows-applications, legacy, framing, daas, avd, war-story]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

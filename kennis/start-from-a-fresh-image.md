@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [avd, images, best-practice, positie, nerdio]
+tags: [avd, image, best-practice, positie, nerdio]
 bron: nerdio-content
 ---
 

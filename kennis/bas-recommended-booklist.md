@@ -4,7 +4,7 @@ merk: bvk
 domein: persoonlijk
 status: actief
 datum: 2026-06-09
-tags: [books, reading-list, recommendations, personal-development]
+tags: [book, reading, recommendation, personal-development]
 layer: reference
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

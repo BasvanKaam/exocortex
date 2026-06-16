@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [positie, app-virtualization, desktop-virtualization, saas-experience, hybrid, wvd]
+tags: [positie, application-virtualization, desktop-virtualization, saas-experience, hybrid, wvd]
 bron: salomon-it-blog
 ---
 

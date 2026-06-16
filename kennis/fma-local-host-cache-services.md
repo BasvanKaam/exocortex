@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [local-host-cache, lhc, high-availability, principal-broker, css]
+tags: [local-host-cache, high-availability, principal-broker, css]
 layer: reference
 bron: inside-citrix-fma
 ---

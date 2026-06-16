@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [res, powerfuse, profiles, logoff, terminal-server, reference]
+tags: [res, powerfuse, profile, logoff, terminal-server, reference]
 layer: reference
 gedateerd: ja
 bron: core-knowledge-docs

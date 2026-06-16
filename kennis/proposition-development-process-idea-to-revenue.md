@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [idee, proces, propositie-ontwikkeling, product-management, detron]
+tags: [idee, process, proposition-development, product-management, detron]
 layer: reference
 gedateerd: nee
 bron: salomon-diversen

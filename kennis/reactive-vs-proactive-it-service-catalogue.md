@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [service-catalogue, proactive-it, capex-opex, internal-service-provider, cloud-adoption]
+tags: [service-catalogue, proactive-it, opex-capex, internal-service-provider, cloud-adoption]
 layer: reference
 gedateerd: nee
 bron: salomon-it-blog

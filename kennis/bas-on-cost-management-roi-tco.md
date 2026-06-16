@@ -4,7 +4,7 @@ merk: bvk
 domein: financieel
 status: actief
 datum: 2026-06-09
-tags: [cost-management, roi, tco, cloud-economics, opinion]
+tags: [cost-optimization, roi, tco, cloud-economics, positie]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

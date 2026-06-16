@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, powershell, studio, director, opinion]
+tags: [citrix, powershell, studio, director, positie]
 bron: basvankaam-blog
 ---
 

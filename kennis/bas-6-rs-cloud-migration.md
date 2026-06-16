@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [6-rs, rehost, refactor, retire, rationalization, bas-opinion]
+tags: [6-rs, rehost, refactor, retire, rationalization, positie]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

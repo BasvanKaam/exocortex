@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [concerns, cost-management, migration, control, opdracht]
+tags: [concerns, cost-optimization, migration, control, opdracht]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

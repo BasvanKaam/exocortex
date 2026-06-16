@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-10
-tags: [web-scale, prediction, san, converged-infrastructure, opinion]
+tags: [web-scale, prediction, san, converged-infrastructure, positie]
 bron: basvankaam-blog
 ---
 

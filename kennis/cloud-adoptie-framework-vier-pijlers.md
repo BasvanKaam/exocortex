@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [cloud-migratie, framework, engagement-structuur, fasering, aanpak]
+tags: [cloud-migration, framework, engagement-structuur, fasering, method]
 layer: reference
 gedateerd: nee
 bron: salomon-opdrachten

@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [user-profiles, hybrid-profiles, roaming-profiles, logon-performance]
+tags: [user-profile, hybrid-profiles, roaming-profile, logon-performance]
 layer: reference
 gedateerd: nee
 bron: basvankaam-blog

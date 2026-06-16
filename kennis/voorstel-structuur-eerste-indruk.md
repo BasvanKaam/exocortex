@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [voorstel, offerte, rapportage, engagement-structuur, klantcommunicatie]
+tags: [proposal, reporting, engagement-structuur, klantcommunicatie]
 layer: reference
 gedateerd: nee
 bron: salomon-opdrachten

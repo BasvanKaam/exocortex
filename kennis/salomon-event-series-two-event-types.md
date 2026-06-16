@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [idee, salomon, events, community]
+tags: [idee, salomon, event, community]
 layer: reference
 gedateerd: nee
 bron: salomon-it-blog

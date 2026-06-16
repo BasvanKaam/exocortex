@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [viab, opinion, simplicity, product-fit]
+tags: [vdi-in-a-box, positie, simplicity, product-fit]
 bron: basvankaam-blog
 ---
 

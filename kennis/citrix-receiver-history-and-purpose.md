@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [citrix-receiver, ica-client, merchandising-server, history, plugins]
+tags: [receiver, merchandising-server, history, plugin]
 layer: reference
 bron: inside-citrix-fma
 ---

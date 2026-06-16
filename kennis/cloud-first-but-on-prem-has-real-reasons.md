@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [avd, cloud, on-premises, hybrid-cloud, positie]
+tags: [avd, cloud, on-premises, hybrid, positie]
 bron: nerdio-blog
 ---
 

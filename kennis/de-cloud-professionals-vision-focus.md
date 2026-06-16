@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [idee, de-cloud-professionals, visie, hybride, focus, cloud-strategie]
+tags: [idee, de-cloud-professionals, vision, hybrid, focus, cloud-strategy]
 layer: reference
 gedateerd: nee
 bron: salomon-it

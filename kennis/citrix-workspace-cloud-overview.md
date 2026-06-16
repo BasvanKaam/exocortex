@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [cwc, workspace-cloud, fma, hybrid-cloud, daas]
+tags: [cwc, workspace-cloud, fma, hybrid, daas]
 layer: reference
 bron: inside-citrix-fma
 ---

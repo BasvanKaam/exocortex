@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [wvd, pragmatism, workplace, migration, position]
+tags: [wvd, pragmatism, workplace, migration, positie]
 bron: salomon-it-blog
 ---
 

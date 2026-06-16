@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [idee, propositie, go-to-market, sales-enablement, salomon]
+tags: [idee, proposition, go-to-market, sales-enablement, salomon]
 layer: reference
 gedateerd: nee
 bron: salomon-partnership

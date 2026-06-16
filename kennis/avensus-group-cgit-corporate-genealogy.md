@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [company-history, salomon, cgit, avensus, abram-schermer]
+tags: [company-history, salomon, come-get-it, avensus, abram-schermer]
 layer: reference
 gedateerd: ja
 bron: salomon-it-blog

@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [citrix-receiver, ica-client, timeline, pnagent, desktop-lock]
+tags: [receiver, timeline, pnagent, desktop-lock]
 layer: reference
 bron: inside-citrix-fma
 ---

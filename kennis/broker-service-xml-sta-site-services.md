@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [broker-service, xml, sta, site-services, desktop-vda]
+tags: [broker, xml, sta, site-services, vda]
 layer: reference
 bron: inside-citrix-fma
 ---

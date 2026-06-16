@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [liquidware, profileunity, profile-disk, vhd, profiles]
+tags: [liquidware, profileunity, profile-disk, vhd, profile]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

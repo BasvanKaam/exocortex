@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-10
-tags: [autoscaling, reserved-instances, WVD, Nerdio, cost, opinion]
+tags: [autoscale, reserved-instances, wvd, nerdio, cost, positie]
 bron: basvankaam-blog
 ---
 

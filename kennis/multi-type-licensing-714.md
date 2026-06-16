@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, licensing, delivery-groups, powershell]
+tags: [citrix, licensing, delivery-group, powershell]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

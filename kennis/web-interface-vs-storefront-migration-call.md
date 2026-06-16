@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, storefront, web-interface, migration, opinion]
+tags: [citrix, storefront, web-interface, migration, positie]
 bron: basvankaam-blog
 ---
 

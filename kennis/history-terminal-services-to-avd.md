@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [history, terminal-services, citrix, rdsh, avd, microsoft]
+tags: [history, terminal-server, citrix, rdsh, avd, microsoft]
 layer: reference
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

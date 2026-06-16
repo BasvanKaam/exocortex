@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, xenmobile, mdm, cloudgateway, mobility]
+tags: [citrix, xenmobile, mdm, cloud-gateway, mobility]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

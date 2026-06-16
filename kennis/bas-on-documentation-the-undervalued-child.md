@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [documentation, adoption, governance, compliance, opinion]
+tags: [documentation, adoption, governance, compliance, positie]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

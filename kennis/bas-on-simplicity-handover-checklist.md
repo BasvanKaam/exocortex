@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [handover, checklist, simplicity, opinion, tooling]
+tags: [handover, checklist, simplicity, positie, tooling]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

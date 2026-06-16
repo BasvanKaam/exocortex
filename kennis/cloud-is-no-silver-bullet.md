@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-10
-tags: [cloud, opinion, hybrid, use-case]
+tags: [cloud, positie, hybrid, use-case]
 bron: basvankaam-blog
 ---
 

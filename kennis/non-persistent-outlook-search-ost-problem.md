@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [office365, outlook, ost, search-index, non-persistent, vdi, rdsh, profile]
+tags: [office-365, outlook, ost, search-index, non-persistent, vdi, rdsh, profile]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

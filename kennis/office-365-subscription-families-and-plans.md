@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [office-365, licensing, subscriptions, euc]
+tags: [office-365, licensing, subscription, euc]
 layer: reference
 gedateerd: ja
 bron: salomon-whitepaper

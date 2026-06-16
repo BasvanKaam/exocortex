@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [idee, cgit, come-get-it, events, podcast, microsoft-ignite]
+tags: [idee, come-get-it, event, podcast, microsoft-ignite]
 layer: reference
 gedateerd: ja
 bron: cgit

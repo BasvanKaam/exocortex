@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [server-vdi, hsd, xendesktop, rds, vda]
+tags: [vda, hsd, xendesktop, rds]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

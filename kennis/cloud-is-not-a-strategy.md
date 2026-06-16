@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [cloud, position, it-strategy, operating-model, delivery-model]
+tags: [cloud, positie, it-strategy, operating-model, delivery-model]
 bron: salomon-it-blog
 ---
 

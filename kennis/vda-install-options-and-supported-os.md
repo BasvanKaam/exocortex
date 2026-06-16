@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [vda, install-options, supported-os, remote-pc, personal-vdisk]
+tags: [vda, install-options, supported-os, remote-pc, pvd]
 layer: reference
 bron: inside-citrix-fma
 ---

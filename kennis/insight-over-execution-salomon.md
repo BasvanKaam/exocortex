@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [positie, salomon, consulting, independence, user-experience]
+tags: [positie, salomon, consulting, vendor-independent, user-experience]
 bron: salomon-it
 ---
 

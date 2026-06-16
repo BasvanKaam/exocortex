@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [scaf, cloud-adoption, timeline, phases, go-no-go, business-case]
+tags: [scaf, cloud-adoption, timeline, phases, go-nogo, business-case]
 layer: reference
 gedateerd: nee
 bron: salomon-masterclass

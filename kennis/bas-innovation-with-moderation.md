@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [innovation, trends, opinion, war-story, customer-focus]
+tags: [innovation, trend, positie, war-story, customer-focus]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [regions, availability-zones, datacenters, latency, global-scale]
+tags: [region, availability-zone, datacenter, latency, global-scale]
 layer: reference
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

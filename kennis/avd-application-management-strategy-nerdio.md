@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [avd, application-management, msix-appattach, fslogix, image-management, uam, dated]
+tags: [avd, application-management, msix-app-attach, fslogix, image-management, uam, dated]
 layer: reference
 gedateerd: ja
 bron: nerdio-blog

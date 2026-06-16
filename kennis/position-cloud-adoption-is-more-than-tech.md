@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [position, cloud-adoption, culture, business-and-it]
+tags: [positie, cloud-adoption, culture, business-and-it]
 bron: salomon-masterclass
 ---
 

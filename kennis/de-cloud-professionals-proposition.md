@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [idee, de-cloud-professionals, propositie, cloud-werkplek, wvd, daas, advies]
+tags: [idee, de-cloud-professionals, proposition, cloud-workspace, wvd, daas, advice]
 layer: reference
 gedateerd: ja
 bron: salomon-it

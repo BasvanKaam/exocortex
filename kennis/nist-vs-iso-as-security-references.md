@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [security, nist, iso-27001, frameworks, ismS]
+tags: [security, nist, iso-27001, framework, isms]
 layer: reference
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [idee, content, blog-ideas, cloud-adoption, governance, strategy]
+tags: [idee, content, cloud-adoption, governance, strategy]
 layer: reference
 gedateerd: nee
 bron: salomon-it

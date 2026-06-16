@@ -4,7 +4,7 @@ merk: bvk
 domein: persoonlijk
 status: actief
 datum: 2026-06-11
-tags: [position, remote-work, talent, hybrid, result-oriented]
+tags: [positie, remote-work, talent, hybrid, result-oriented]
 bron: salomon-it-blog
 ---
 

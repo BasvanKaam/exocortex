@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [windows, applications, legacy, saas, opinion, terminology]
+tags: [windows, application, legacy, saas, positie, terminology]
 bron: basvankaam-blog
 ---
 

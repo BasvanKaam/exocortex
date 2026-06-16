@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [cloud-strategy, hybrid-cloud, cloud-first, position, cloud-masterclass]
+tags: [cloud-strategy, hybrid, cloud-first, positie, cloud-masterclass]
 bron: salomon-masterclass
 ---
 

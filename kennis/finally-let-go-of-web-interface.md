@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, storefront, web-interface, receiver-x1, opinion]
+tags: [citrix, storefront, web-interface, receiver-x1, positie]
 bron: basvankaam-blog
 ---
 

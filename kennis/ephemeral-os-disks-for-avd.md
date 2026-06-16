@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [avd, ephemeral-os-disks, storage, nerdio, autoscale, stateless, fslogix]
+tags: [avd, ephemeral-os-disks, storage, nerdio, autoscale, non-persistent, fslogix]
 layer: reference
 gedateerd: ja
 bron: nerdio-blog

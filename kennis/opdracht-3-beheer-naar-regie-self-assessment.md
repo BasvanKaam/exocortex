@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [exercise, opdracht, regie, self-assessment, scoring]
+tags: [exercise, opdracht, governance, self-assessment, scoring]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

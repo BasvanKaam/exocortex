@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [exercise, opdracht, regie, scoring, interpretation]
+tags: [exercise, opdracht, governance, scoring, interpretation]
 layer: reference
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

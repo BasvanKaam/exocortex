@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [learning-pyramid, retention, pedagogy, ntl]
+tags: [learning-pyramid, retention, instructional-design, ntl]
 layer: reference
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

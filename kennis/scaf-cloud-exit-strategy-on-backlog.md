@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [scaf, cloud-exit, backlog, roadmap, framework]
+tags: [scaf, exit-strategy, backlog, roadmap, framework]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

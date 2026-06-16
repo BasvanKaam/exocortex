@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, broker-service, xml-service, sta, lhc, delivery-controller]
+tags: [citrix, broker, xml-service, sta, local-host-cache, delivery-controller]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

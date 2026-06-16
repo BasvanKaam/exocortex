@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [cloud-strategy, position, pragmatism, it-strategy]
+tags: [cloud-strategy, positie, pragmatism, it-strategy]
 bron: salomon-it-blog
 ---
 

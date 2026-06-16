@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [intake, interview, consulting-methode, positie, user-research]
+tags: [intake, interview, consulting-method, positie, user-research]
 bron: salomon-opdrachten
 ---
 

@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [idee, eux, windows-365, avd, automation]
+tags: [idee, user-experience, windows-365, avd, automation]
 layer: reference
 gedateerd: nee
 bron: nerdio-training

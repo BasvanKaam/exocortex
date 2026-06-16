@@ -4,7 +4,7 @@ merk: bvk
 domein: persoonlijk
 status: actief
 datum: 2026-06-09
-tags: [book, typography, design, readability, opinion]
+tags: [book, typography, design, readability, positie]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

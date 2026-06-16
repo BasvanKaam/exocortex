@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, cloudgateway, mdx, opinion]
+tags: [citrix, cloud-gateway, mdx, positie]
 bron: basvankaam-blog
 ---
 

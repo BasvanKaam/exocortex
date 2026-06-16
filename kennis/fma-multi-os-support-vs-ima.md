@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [fma, machine-catalogs, operating-systems, ima]
+tags: [fma, machine-catalog, operating-systems, ima]
 layer: reference
 bron: inside-citrix-fma
 ---

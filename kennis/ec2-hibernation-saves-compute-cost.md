@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-10
-tags: [aws, ec2, hibernation, ebs, cost-saving]
+tags: [aws, ec2, hibernation, ebs, cost-savings]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

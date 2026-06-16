@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [cloud-governance, position, analysis-paralysis, assessment, pragmatism]
+tags: [cloud-governance, positie, analysis-paralysis, assessment, pragmatism]
 layer: reference
 gedateerd: nee
 attributie: weolcan-wcgf

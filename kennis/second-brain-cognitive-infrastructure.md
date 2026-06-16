@@ -4,7 +4,7 @@ merk: bvk
 domein: ai-tooling
 status: actief
 datum: 2026-06-10
-tags: [second-brain, ai, future-of-work, knowledge-management, citrix, verbanden]
+tags: [knowledge-management, ai, future-of-work, citrix]
 bron: brian-citrix-second-brain-blog-2026
 ---
 

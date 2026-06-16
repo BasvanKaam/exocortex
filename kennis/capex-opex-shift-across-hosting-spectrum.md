@@ -4,7 +4,7 @@ merk: bvk
 domein: financieel
 status: actief
 datum: 2026-06-09
-tags: [capex, opex, iaas, paas, saas, hosting, cost-shift]
+tags: [opex-capex, iaas, paas, saas, hosting, cost-shift]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

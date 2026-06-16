@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [wvd, microsoft, partners, management, opinion]
+tags: [wvd, microsoft, partner, management, positie]
 bron: cgit-blog
 ---
 

@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [dsc, citrix, prediction, opinion]
+tags: [dsc, citrix, prediction, positie]
 bron: basvankaam-blog
 ---
 

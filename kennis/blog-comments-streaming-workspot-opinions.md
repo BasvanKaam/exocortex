@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [citrix, workspot, app-streaming, vendor-opinion, blog-comment, 2017]
+tags: [citrix, workspot, application-streaming, positie, blog-comment, 2017]
 bron: basvankaam-blog-comments
 ---
 

@@ -4,7 +4,7 @@ merk: bvk
 domein: persoonlijk
 status: actief
 datum: 2026-06-11
-tags: [idee, career, positioning, evangelist, technical-pre-sales, content-marketing, salomon]
+tags: [idee, career, positie, evangelist, pre-sales, content-marketing, salomon]
 layer: reference
 gedateerd: nee
 bron: salomon-diversen

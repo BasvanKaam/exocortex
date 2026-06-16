@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [statistics, market-size, multi-cloud, hybrid-cloud, daas]
+tags: [statistics, market-size, multi-cloud, hybrid, daas]
 layer: reference
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

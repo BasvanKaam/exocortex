@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [masterclass, teaching, culture, business-it, vendor-independent, stance]
+tags: [masterclass, training, culture, business-it, vendor-independent, positie]
 bron: salomon-masterclass
 ---
 

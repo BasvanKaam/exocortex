@@ -4,7 +4,7 @@ merk: bvk
 domein: persoonlijk
 status: actief
 datum: 2026-06-11
-tags: [personal-brand, linkedin, blogging, go-to-market, method]
+tags: [personal-brand, social-media, blogging, go-to-market, method]
 layer: reference
 gedateerd: nee
 bron: salomon-diversen

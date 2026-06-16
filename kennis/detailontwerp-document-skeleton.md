@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [consulting-tool, detailontwerp, deliverable-structure, design-document, documentation, template]
+tags: [consulting-tool, detailontwerp, deliverable-structure, design, documentation, template]
 layer: reference
 gedateerd: nee
 bron: salomon-opdrachten

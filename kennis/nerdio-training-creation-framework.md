@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [l&d, instructional-design, addie, method, certification, course-production]
+tags: [l-and-d, instructional-design, addie, method, certification, course-production]
 layer: reference
 gedateerd: nee
 bron: nerdio-blog

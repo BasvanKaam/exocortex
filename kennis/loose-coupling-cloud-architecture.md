@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-10
-tags: [cloud, architecture, loose-coupling, resiliency]
+tags: [cloud, architecture, loose-coupling, resilience]
 layer: reference
 gedateerd: nee
 bron: basvankaam-blog

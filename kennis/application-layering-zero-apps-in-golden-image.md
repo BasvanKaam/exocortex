@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [avd, applicaties, fslogix, app-masking, msix, dated]
+tags: [avd, application, fslogix, app-masking, msix, dated]
 layer: reference
 gedateerd: ja
 bron: nerdio-blog

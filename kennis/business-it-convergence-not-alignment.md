@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [governance, business-it-alignment, convergence, operating-model, culture, stance]
+tags: [governance, business-it-alignment, convergence, operating-model, culture, positie]
 bron: salomon-masterclass
 ---
 

@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [fma, wcf, port-80, endpoints, db-connection-string]
+tags: [fma, wcf, port-80, endpoint, db-connection-string]
 layer: reference
 bron: inside-citrix-fma
 ---

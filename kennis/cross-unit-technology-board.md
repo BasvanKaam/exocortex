@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [idee, technology-board, governance, knowledge-organisation]
+tags: [idee, technology-board, governance, knowledge-organization]
 layer: reference
 gedateerd: nee
 bron: salomon-diversen

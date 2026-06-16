@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [consulting, preconditions, risk, advisory-stance, proposal, salomon]
+tags: [consulting, preconditions, risk, positie, proposal, salomon]
 bron: salomon-opdrachten
 ---
 

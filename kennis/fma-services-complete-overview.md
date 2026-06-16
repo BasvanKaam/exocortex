@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, fma, delivery-controller, broker-service, configuration-service, architecture, xendesktop]
+tags: [citrix, fma, delivery-controller, broker, configuration-service, architecture, xendesktop]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

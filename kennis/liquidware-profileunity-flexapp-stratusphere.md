@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [liquidware, profileunity, flexapp, stratusphere, uem, app-layering]
+tags: [liquidware, profileunity, flexapp, stratusphere, uem, application-layering]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

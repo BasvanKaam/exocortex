@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [history, dotcom, scepticism, quote]
+tags: [history, dotcom, skepticism, quote]
 layer: reference
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

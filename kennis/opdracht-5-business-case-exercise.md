@@ -4,7 +4,7 @@ merk: bvk
 domein: financieel
 status: actief
 datum: 2026-06-09
-tags: [opdracht, business-case, capex-opex, roi, tco, exercise]
+tags: [opdracht, business-case, opex-capex, roi, tco, exercise]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

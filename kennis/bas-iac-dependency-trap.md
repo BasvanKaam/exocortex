@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [iac, bas-experience, vendor-dependency, partner, security-updates]
+tags: [iac, bas-experience, vendor-lock-in, partner, security-updates]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

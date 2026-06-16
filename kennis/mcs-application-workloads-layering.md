@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [mcs, app-v, application-layering, containerisation, base-image]
+tags: [mcs, app-v, application-layering, containerization, base-image]
 layer: rich
 bron: inside-citrix-fma
 ---

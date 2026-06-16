@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [igel, ums, thin-client, management, profiles]
+tags: [igel, ums, thin-client, management, profile]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

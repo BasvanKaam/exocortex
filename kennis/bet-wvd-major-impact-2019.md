@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [idee, wvd, windows-virtual-desktop, microsoft, citrix, prediction]
+tags: [idee, wvd, microsoft, citrix, prediction]
 layer: reference
 gedateerd: ja
 bron: salomon-it-blog

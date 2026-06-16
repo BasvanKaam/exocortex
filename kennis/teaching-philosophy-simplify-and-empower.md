@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [teaching, enablement, l-and-d, career, positie]
+tags: [training, enablement, l-and-d, career, positie]
 bron: nerdio-blog
 ---
 

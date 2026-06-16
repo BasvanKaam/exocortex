@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, netscaler, licensing, opinion]
+tags: [citrix, netscaler, licensing, positie]
 bron: basvankaam-blog
 ---
 

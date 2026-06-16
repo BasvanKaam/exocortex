@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [mcs, differencing-disks, storage, app-layering]
+tags: [mcs, differencing-disk, storage, application-layering]
 layer: reference
 bron: inside-citrix-fma
 ---

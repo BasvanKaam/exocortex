@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [positie, organisatie, pragmatism, idee]
+tags: [positie, organization, pragmatism, idee]
 bron: salomon-diversen
 ---
 

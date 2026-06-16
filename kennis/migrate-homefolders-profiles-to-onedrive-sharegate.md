@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [onedrive, migration, sharegate, powershell, modern-workplace, m365, guest-post]
+tags: [onedrive, migration, sharegate, powershell, modern-workplace, office-365, guest-post]
 layer: reference
 gedateerd: ja
 bron: cgit-blog

@@ -4,7 +4,7 @@ merk: bvk
 domein: financieel
 status: actief
 datum: 2026-06-15
-tags: [index, navigatie, financieel]
+tags: [index, navigatie, financial]
 ---
 
 # financieel - index

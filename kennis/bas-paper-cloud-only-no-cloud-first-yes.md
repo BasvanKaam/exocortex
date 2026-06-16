@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [paper, cloud-first, hybrid, thesis, opinion]
+tags: [paper, cloud-first, hybrid, thesis, positie]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

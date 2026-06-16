@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [nerdio, avd, cost-management, best-practices, auto-scale]
+tags: [nerdio, avd, cost-optimization, best-practice, autoscale]
 layer: reference
 gedateerd: ja
 bron: nerdio-training

@@ -4,7 +4,7 @@ merk: bvk
 domein: persoonlijk
 status: actief
 datum: 2026-06-11
-tags: [content-strategy, quality-over-quantity, blogging, meten-is-weten, position]
+tags: [content-strategy, quality-over-quantity, blogging, data-driven, positie]
 bron: salomon-it-blog
 ---
 

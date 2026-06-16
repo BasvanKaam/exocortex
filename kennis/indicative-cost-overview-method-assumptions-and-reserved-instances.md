@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [consulting, kosten, business-case, azure, method]
+tags: [consulting, cost, business-case, azure, method]
 layer: reference
 gedateerd: nee
 bron: salomon-opdrachten

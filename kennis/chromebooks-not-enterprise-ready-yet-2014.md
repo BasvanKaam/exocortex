@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [chromebook, citrix, byod, opinion, prediction]
+tags: [chromebook, citrix, byod, positie, prediction]
 bron: basvankaam-blog
 ---
 

@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [consulting, assessment, engagement-structure, advisory, workplace, method]
+tags: [consulting, assessment, engagement-structure, advice, workplace, method]
 layer: reference
 gedateerd: nee
 bron: salomon-opdrachten

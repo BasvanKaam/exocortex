@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [citrix-studio, machine-catalogs, delivery-groups, appdisks, delegated-administration]
+tags: [studio, machine-catalog, delivery-group, appdisks, delegated-administration]
 layer: reference
 bron: inside-citrix-fma
 ---

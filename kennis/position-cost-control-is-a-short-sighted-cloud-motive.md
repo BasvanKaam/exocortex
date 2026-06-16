@@ -4,7 +4,7 @@ merk: bvk
 domein: financieel
 status: actief
 datum: 2026-06-11
-tags: [cloud-governance, position, cloud-strategy, finops, motivation]
+tags: [cloud-governance, positie, cloud-strategy, finops, motivation]
 layer: reference
 gedateerd: nee
 attributie: weolcan-wcgf

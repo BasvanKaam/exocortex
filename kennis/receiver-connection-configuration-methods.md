@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [citrix-receiver, email-based-discovery, provisioning-file, storefront, dns]
+tags: [receiver, email-based-discovery, provisioning-file, storefront, dns]
 layer: reference
 bron: inside-citrix-fma
 ---

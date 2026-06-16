@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, printing, opinion, troubleshooting, print-drivers]
+tags: [citrix, printing, positie, troubleshooting, print-driver]
 bron: basvankaam-blog
 ---
 

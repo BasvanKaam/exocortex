@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [nutanix, converged-infrastructure, san, prediction, opinion]
+tags: [nutanix, converged-infrastructure, san, prediction, positie]
 bron: basvankaam-blog
 ---
 

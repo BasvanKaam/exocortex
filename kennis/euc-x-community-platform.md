@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [community, euc-x, podcast, vendor-neutral]
+tags: [community, euc, podcast, vendor-independent]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

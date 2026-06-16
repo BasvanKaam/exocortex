@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [consulting, migratie, fasering, risico, positie]
+tags: [consulting, migration, fasering, risico, positie]
 bron: salomon-opdrachten
 ---
 

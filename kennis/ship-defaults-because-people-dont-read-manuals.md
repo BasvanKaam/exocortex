@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [vdi-drones, product-design, ux, community-tool]
+tags: [vdi-drones, product-design, user-experience, community-tool]
 bron: basvankaam-blog
 ---
 

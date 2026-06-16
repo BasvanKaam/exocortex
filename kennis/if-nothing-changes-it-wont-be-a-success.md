@@ -4,7 +4,7 @@ merk: bvk
 domein: persoonlijk
 status: actief
 datum: 2026-06-11
-tags: [positie, strategie, uitvoering, salomon, propositie]
+tags: [positie, strategy, uitvoering, salomon, proposition]
 bron: salomon-partnership
 ---
 

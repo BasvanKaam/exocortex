@@ -4,7 +4,7 @@ merk: bvk
 domein: financieel
 status: actief
 datum: 2026-06-11
-tags: [salomon-it, jaarrekening, company-history, financieel, privacy-sensitive]
+tags: [salomon-it, jaarrekening, company-history, financial, privacy-sensitive]
 layer: reference
 gedateerd: ja
 bron: salomon-partnership

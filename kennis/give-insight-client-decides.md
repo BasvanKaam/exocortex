@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [independence, advisory-stance, consulting, neutrality]
+tags: [vendor-independent, positie, consulting, neutrality]
 bron: salomon-it-blog
 ---
 

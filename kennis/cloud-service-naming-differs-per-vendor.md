@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-10
-tags: [aws, azure, gcp, cheat-sheet, compute, networking, storage, databases]
+tags: [aws, azure, gcp, cheat-sheet, compute, networking, storage, database]
 layer: reference
 gedateerd: nee
 bron: basvankaam-blog

@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [authentication, verification, brokering, definitions, fma-fact, storefront, security]
+tags: [authentication, verification, brokering, definition, fma-fact, storefront, security]
 layer: rich
 bron: inside-citrix-fma
 ---

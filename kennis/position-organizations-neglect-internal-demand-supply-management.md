@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [cloud-governance, position, demand-management, value-chain, ccoe]
+tags: [cloud-governance, positie, demand-management, value-chain, ccoe]
 layer: reference
 gedateerd: nee
 attributie: weolcan-wcgf

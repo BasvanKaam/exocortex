@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [methode, de-cloud-professionals, werkwijze, consultancy, advies]
+tags: [method, de-cloud-professionals, consultancy, advice]
 layer: reference
 gedateerd: nee
 bron: salomon-it

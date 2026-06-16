@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [covid-19, opinion, multi-cloud, aside, skepticism]
+tags: [covid-19, positie, multi-cloud, aside, skepticism]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

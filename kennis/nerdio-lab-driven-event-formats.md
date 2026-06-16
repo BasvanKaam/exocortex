@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [idee, events, enablement, community, microhack, hands-on-labs, method]
+tags: [idee, event, enablement, community, microhack, hands-on-labs, method]
 layer: reference
 gedateerd: nee
 bron: nerdio-content

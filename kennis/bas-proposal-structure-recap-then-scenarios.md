@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [proposal, offer, deliverable-template, consulting-method, salomon, business-case]
+tags: [proposal, deliverable-template, consulting-method, salomon, business-case]
 layer: reference
 gedateerd: nee
 bron: salomon-opdrachten

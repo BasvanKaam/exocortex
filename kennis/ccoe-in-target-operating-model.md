@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [cloud-governance, ccoe, target-operating-model, cloud-maturity, wcgf]
+tags: [cloud-governance, ccoe, operating-model, cloud-maturity, wcgf]
 layer: reference
 gedateerd: nee
 attributie: weolcan-wcgf

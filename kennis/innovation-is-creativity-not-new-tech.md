@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [positie, innovatie, marketing, creativiteit, relaunch]
+tags: [positie, innovation, marketing, creativity, relaunch]
 bron: salomon-diversen
 ---
 

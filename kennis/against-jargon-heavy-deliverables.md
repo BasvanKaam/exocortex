@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [position, consulting-style, scaf, anti-bloat]
+tags: [positie, consulting-style, scaf, anti-bloat]
 bron: salomon-it-blog
 ---
 

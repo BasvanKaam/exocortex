@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [storage, iops, vendor-claims, opinion, skepticism]
+tags: [storage, iops, vendor-claims, positie, skepticism]
 bron: basvankaam-blog
 ---
 

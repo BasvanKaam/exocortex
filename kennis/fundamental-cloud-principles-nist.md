@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [nist, principles, self-service, multi-tenancy, elasticity, virtualisation]
+tags: [nist, principles, self-service, multi-tenancy, elasticity, virtualization]
 layer: reference
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

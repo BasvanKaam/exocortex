@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [opdracht, exercise, cloud-exit, xyz-care, avd, sla]
+tags: [opdracht, exercise, exit-strategy, xyz-care, avd, sla]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

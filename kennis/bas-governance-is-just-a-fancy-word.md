@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [governance, opinion, reframe, ccoe, mindmap]
+tags: [governance, positie, framing, ccoe, mindmap]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

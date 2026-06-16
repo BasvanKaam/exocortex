@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [positie, ux, nerdio, product]
+tags: [positie, user-experience, nerdio, product]
 bron: nerdio-training
 ---
 

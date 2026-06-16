@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [cloud-pc, windows-365, avd, decision-framework, fslogix, dated]
+tags: [windows-365, avd, decision-framework, fslogix, dated]
 layer: reference
 gedateerd: ja
 bron: nerdio-blog

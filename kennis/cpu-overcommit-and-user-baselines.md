@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [sizing, overcommit, vcpu, user-profiles, xenapp]
+tags: [sizing, overcommit, vcpu, user-profile, xenapp]
 layer: rich
 bron: inside-citrix-fma
 ---

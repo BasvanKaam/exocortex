@@ -4,7 +4,7 @@ merk: bvk
 domein: persoonlijk
 status: actief
 datum: 2026-06-11
-tags: [positie, partnership, carriere, salomon, cgit, financieel]
+tags: [positie, partnership, career, salomon, come-get-it, financial]
 bron: salomon-partnership
 ---
 

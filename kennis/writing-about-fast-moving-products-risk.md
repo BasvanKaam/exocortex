@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [writing, books, xenmobile, documentation]
+tags: [writing, book, xenmobile, documentation]
 layer: reference
 gedateerd: nee
 bron: basvankaam-blog

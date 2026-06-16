@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [idee, de-cloud-professionals, branding, go-to-market, strategie, perception]
+tags: [idee, de-cloud-professionals, branding, go-to-market, strategy, perception]
 layer: reference
 gedateerd: nee
 bron: salomon-it

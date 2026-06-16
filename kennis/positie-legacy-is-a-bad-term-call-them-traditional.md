@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [terminology, legacy, traditional-apps, opinion, application-delivery]
+tags: [terminology, legacy, traditional-apps, positie, application-delivery]
 bron: cgit-blog
 ---
 

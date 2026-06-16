@@ -4,7 +4,7 @@ merk: bvk
 domein: financieel
 status: actief
 datum: 2026-06-11
-tags: [tco, roi, capex-opex, business-case, definitions]
+tags: [tco, roi, opex-capex, business-case, definition]
 layer: reference
 gedateerd: nee
 bron: salomon-it-blog

@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [windows-365, cloud-pc, resilience, explainer]
+tags: [windows-365, resilience, explainer]
 layer: reference
 gedateerd: ja
 bron: nerdio-training

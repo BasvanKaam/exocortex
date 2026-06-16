@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [on-premises, colocation, managed-service, cloud, hosting, responsibility]
+tags: [on-premises, colocation, managed-service, cloud, hosting, shared-responsibility]
 layer: reference
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

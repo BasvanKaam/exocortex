@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [aws, azure, gcp, market-share, providers]
+tags: [aws, azure, gcp, market-share, vendor]
 layer: reference
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

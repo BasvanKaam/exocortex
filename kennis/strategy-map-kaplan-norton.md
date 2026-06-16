@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [strategy-map, kaplan-norton, scaf, strategie]
+tags: [strategy-map, kaplan-norton, scaf, strategy]
 layer: reference
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

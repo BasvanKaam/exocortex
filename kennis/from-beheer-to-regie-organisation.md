@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [regie, demand-supply, operating-model, it-organisation]
+tags: [governance, demand-supply, operating-model, it-organization]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

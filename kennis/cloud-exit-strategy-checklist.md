@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [cloud-exit, scaf, cloud-strategy, vendor-lock-in, migration]
+tags: [exit-strategy, scaf, cloud-strategy, vendor-lock-in, migration]
 layer: reference
 gedateerd: nee
 bron: salomon-it-blog

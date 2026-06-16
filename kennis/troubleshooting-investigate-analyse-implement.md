@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [troubleshooting, methodology, efficiency]
+tags: [troubleshooting, method, efficiency]
 layer: rich
 bron: inside-citrix-fma
 ---

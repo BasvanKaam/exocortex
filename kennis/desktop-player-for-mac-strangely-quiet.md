@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, desktop-player, mac, byod, opinion, question]
+tags: [citrix, desktop-player, mac, byod, positie, question]
 bron: basvankaam-blog
 ---
 

@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [workspot, daas, vdi, azure, wvd, cloud-native, cgit, vendor-review]
+tags: [workspot, daas, vdi, azure, wvd, cloud-native, come-get-it, vendor-review]
 layer: reference
 gedateerd: ja
 bron: cgit-blog

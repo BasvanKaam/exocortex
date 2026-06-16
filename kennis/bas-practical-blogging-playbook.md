@@ -4,7 +4,7 @@ merk: bvk
 domein: persoonlijk
 status: actief
 datum: 2026-06-11
-tags: [blogging, writing-process, method, playbook, comegetit]
+tags: [blogging, writing-process, method, playbook, come-get-it]
 layer: reference
 gedateerd: nee
 bron: salomon-it-blog

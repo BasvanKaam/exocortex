@@ -4,7 +4,7 @@ merk: bvk
 domein: financieel
 status: actief
 datum: 2026-06-11
-tags: [position, tco, business-case, pragmatism, cloud-cost]
+tags: [positie, tco, business-case, pragmatism, cost]
 bron: salomon-it-blog
 ---
 

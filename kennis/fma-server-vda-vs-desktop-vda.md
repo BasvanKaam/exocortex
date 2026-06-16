@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, fma, server-vda, desktop-vda, portica, broker-agent, rdsh, xendesktop-7]
+tags: [citrix, fma, vda, portica, broker, rdsh, xendesktop-7]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

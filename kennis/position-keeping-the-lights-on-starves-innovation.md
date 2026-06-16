@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [cloud-governance, position, innovation, commodity-applications, saas-offload]
+tags: [cloud-governance, positie, innovation, commodity-applications, saas-offload]
 layer: reference
 gedateerd: nee
 attributie: weolcan-wcgf

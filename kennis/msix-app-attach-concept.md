@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [msix, app-attach, fslogix, application-layering, wvd, microsoft]
+tags: [msix, msix-app-attach, fslogix, application-layering, wvd, microsoft]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

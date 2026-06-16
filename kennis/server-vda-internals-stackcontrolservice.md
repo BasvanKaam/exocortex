@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, server-vda, scservice64, stackcontrolservice, broker-agent, termsrv, ica-stack, hdx]
+tags: [citrix, vda, scservice64, stackcontrolservice, broker, termsrv, ica-stack, hdx]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [citrix, netscaler, unified-gateway, content-switching]
+tags: [citrix, netscaler, gateway, content-switching]
 layer: reference
 bron: inside-citrix-fma
 ---

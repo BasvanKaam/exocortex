@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [appstream, app-management, positie, flexapp]
+tags: [appstream, application-management, positie, flexapp]
 bron: basvankaam-blog
 ---
 

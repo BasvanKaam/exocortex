@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [multi-stream-ica, qos, streams, session-reliability, tcp-ports]
+tags: [multi-stream-ica, qos, streaming, session-reliability, tcp-ports]
 layer: reference
 bron: inside-citrix-fma
 ---

@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [idee, cgit, go-to-market, internal-marketing, knowledge-sharing]
+tags: [idee, come-get-it, go-to-market, internal-marketing, knowledge-sharing]
 layer: reference
 gedateerd: nee
 bron: cgit

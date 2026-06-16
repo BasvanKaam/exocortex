@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [events, citrix-summit, learning, opinion]
+tags: [event, citrix-summit, l-and-d, positie]
 bron: basvankaam-blog
 ---
 

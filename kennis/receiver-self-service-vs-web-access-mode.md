@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [citrix-receiver, self-service-mode, web-access-mode, keywords, shortcuts]
+tags: [receiver, self-service-mode, web-access-mode, keywords, shortcuts]
 layer: reference
 bron: inside-citrix-fma
 ---

@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [idee, nerdio, governance, intune, drift, content-idea]
+tags: [idee, nerdio, governance, intune, drift]
 layer: reference
 gedateerd: nee
 bron: nerdio-training

@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [scaf, positie, vendor-neutral, differentiator, business-it, kiss]
+tags: [scaf, positie, vendor-independent, differentiator, business-it, kiss]
 bron: salomon-masterclass
 ---
 

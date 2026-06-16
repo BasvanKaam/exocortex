@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [l&d, training-value, adoption, roi]
+tags: [l-and-d, training-value, adoption, roi]
 bron: nerdio-blog
 ---
 

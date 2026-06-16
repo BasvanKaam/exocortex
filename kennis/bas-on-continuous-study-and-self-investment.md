@@ -4,7 +4,7 @@ merk: bvk
 domein: persoonlijk
 status: actief
 datum: 2026-06-09
-tags: [study, certifications, self-investment, it-professional-2.0]
+tags: [study, certification, self-investment, it-professional-2.0]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

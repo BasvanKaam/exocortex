@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, sta, netscaler, broker-service, ica, launch]
+tags: [citrix, sta, netscaler, broker, ica, launch]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [community, belief, growth]
+tags: [community, positie, growth]
 bron: basvankaam-blog
 ---
 

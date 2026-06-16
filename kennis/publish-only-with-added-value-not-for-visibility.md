@@ -4,7 +4,7 @@ merk: bvk
 domein: persoonlijk
 status: actief
 datum: 2026-06-11
-tags: [content-strategie, blogging, salomon, editorial, positie]
+tags: [content-strategy, blogging, salomon, editorial, positie]
 bron: salomon-it-blog
 ---
 

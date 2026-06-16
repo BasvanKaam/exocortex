@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [wvd, azure, kosten, reserved-instances, positie]
+tags: [wvd, azure, cost, reserved-instances, positie]
 bron: nerdio-blog
 ---
 

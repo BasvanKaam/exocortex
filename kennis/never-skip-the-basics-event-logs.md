@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [troubleshooting, event-logs, monitoring, methodology]
+tags: [troubleshooting, event-logs, monitoring, method]
 bron: basvankaam-blog
 ---
 

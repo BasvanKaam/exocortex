@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [application-delivery, app-layering, appdisks, appdna, virtualisation]
+tags: [application-delivery, application-layering, appdisks, appdna, virtualization]
 layer: rich
 bron: inside-citrix-fma
 ---

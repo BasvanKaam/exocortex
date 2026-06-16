@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [business-continuity, bcp, supply-chain, automation, resilience]
+tags: [business-continuity, supply-chain, automation, resilience]
 layer: reference
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

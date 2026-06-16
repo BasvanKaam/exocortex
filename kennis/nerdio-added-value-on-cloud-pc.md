@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [cloud-pc, windows-365, nerdio-manager, image-management, scripted-actions, msp]
+tags: [windows-365, nme, image-management, scripted-actions, msp]
 layer: reference
 gedateerd: ja
 bron: nerdio-blog

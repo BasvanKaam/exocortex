@@ -4,7 +4,7 @@ merk: bvk
 domein: financieel
 status: actief
 datum: 2026-06-11
-tags: [position, cost-awareness, governance, finops, cost-optimization]
+tags: [positie, cost-awareness, governance, finops, cost-optimization]
 bron: salomon-masterclass
 ---
 

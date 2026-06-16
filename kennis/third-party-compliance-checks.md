@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [third-party, supplier, compliance, audit, certifications, msp]
+tags: [third-party, supplier, compliance, audit, certification, msp]
 layer: reference
 gedateerd: nee
 attributie: weolcan-wcgf

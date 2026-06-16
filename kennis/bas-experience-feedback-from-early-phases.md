@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [feedback, war-story, teams, experience, lessons-learned]
+tags: [feedback, war-story, teams, user-experience, lessons-learned]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

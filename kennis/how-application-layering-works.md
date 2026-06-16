@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [application-layering, filter-drivers, filter-driver, vhd, vmdk, in-guest-mount, unidesk, app-volumes, app-disks]
+tags: [application-layering, filter-driver, vhd, vmdk, in-guest-mount, unidesk, app-volumes, appdisks]
 layer: reference
 bron: inside-citrix-fma
 ---

@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [citrix-director, monitoring, troubleshooting, edgesight, hdx-insight]
+tags: [director, monitoring, troubleshooting, edgesight, hdx-insight]
 layer: reference
 bron: inside-citrix-fma
 ---

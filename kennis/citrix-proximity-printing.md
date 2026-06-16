@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [printing, proximity-printing, session-printers, ups]
+tags: [printing, proximity-printing, session-printer, ups]
 layer: reference
 bron: inside-citrix-fma
 ---

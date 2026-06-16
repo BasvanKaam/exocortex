@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [xendesktop, delivery-groups, reboot, fma, operations]
+tags: [xendesktop, delivery-group, reboot, fma, operations]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [positie, resilience, windows-365, cloud-pc, modern-endpoint]
+tags: [positie, resilience, windows-365, modern-endpoint]
 bron: nerdio-training
 ---
 

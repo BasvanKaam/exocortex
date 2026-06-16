@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [consulting-aanpak, migratie, transformatie, fasering, governance]
+tags: [consulting-method, migration, digital-transformation, fasering, governance]
 layer: reference
 gedateerd: nee
 bron: salomon-opdrachten

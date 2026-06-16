@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [storefront, subscriptions, keywords, self-service-store, receiver]
+tags: [storefront, subscription, keywords, self-service-store, receiver]
 layer: reference
 bron: inside-citrix-fma
 ---

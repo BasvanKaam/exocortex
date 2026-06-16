@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [azure, tenant, subscription, management-group, resource-group, vnet]
+tags: [azure, tenant, subscription, management-group, resource-group, virtual-network]
 layer: reference
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

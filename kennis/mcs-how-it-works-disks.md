@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, mcs, machine-creation-services, differencing-disk, identity-disk, master-vm, golden-image, host-connection]
+tags: [citrix, mcs, differencing-disk, identity-disk, master-vm, golden-image, host-connection]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

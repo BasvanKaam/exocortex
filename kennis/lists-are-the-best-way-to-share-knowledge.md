@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [writing, teaching, meta, style]
+tags: [writing, training, meta, style]
 bron: basvankaam-blog
 ---
 

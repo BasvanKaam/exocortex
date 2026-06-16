@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [office-365, proplus, privacy, diagnostic-data, group-policy, whitepaper]
+tags: [office-365, privacy, diagnostic-data, group-policy, whitepaper]
 layer: reference
 gedateerd: nee
 bron: salomon-whitepaper

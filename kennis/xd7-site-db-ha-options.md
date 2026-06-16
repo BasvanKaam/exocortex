@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, sql, high-availability, site-database, mirroring, alwayson]
+tags: [citrix, sql, high-availability, central-site-database, mirroring, alwayson]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

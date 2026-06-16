@@ -4,7 +4,7 @@ merk: bvk
 domein: financieel
 status: actief
 datum: 2026-06-09
-tags: [capex, opex, pros-cons, cloud-economics]
+tags: [opex-capex, pros-cons, cloud-economics]
 layer: reference
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

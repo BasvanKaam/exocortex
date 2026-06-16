@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [desktop-vda, brokeragent, picasvc2, ica-service, hdx]
+tags: [vda, brokeragent, picasvc2, ica-service, hdx]
 layer: reference
 bron: inside-citrix-fma
 ---

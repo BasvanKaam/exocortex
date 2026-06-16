@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [positie, cloud, learning, mindset]
+tags: [positie, cloud, l-and-d, mindset]
 bron: salomon-it
 ---
 

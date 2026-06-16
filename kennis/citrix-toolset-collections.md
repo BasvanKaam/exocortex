@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [tools, diagnostic-toolkit, supportability-pack]
+tags: [tool, diagnostic-toolkit, supportability-pack]
 layer: reference
 bron: inside-citrix-fma
 ---

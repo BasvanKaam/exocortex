@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [avg, gdpr, eer, data-transfer, adequacy]
+tags: [avg, eer, data-transfer, adequacy]
 layer: reference
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

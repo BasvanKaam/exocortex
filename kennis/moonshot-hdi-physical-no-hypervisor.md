@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [hp-moonshot, hdi, vdi, workspacepod, sanbolic]
+tags: [moonshot, hdi, vdi, workspacepod, sanbolic]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

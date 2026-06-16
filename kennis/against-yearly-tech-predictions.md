@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [predictions, vdi, daas, opinion, marketing]
+tags: [prediction, vdi, daas, positie, marketing]
 bron: basvankaam-blog
 ---
 

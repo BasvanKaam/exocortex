@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, workspacepod, vdi-in-a-box, opinion]
+tags: [citrix, workspacepod, vdi-in-a-box, positie]
 bron: basvankaam-blog
 ---
 

@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [regie, governance, change-management, competencies, positie]
+tags: [governance, change-management, competence-management, positie]
 bron: salomon-masterclass
 ---
 

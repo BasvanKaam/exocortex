@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [come-get-it, cgit, community, roadmap, strategy, idee]
+tags: [come-get-it, community, roadmap, strategy, idee]
 layer: reference
 gedateerd: nee
 bron: cgit

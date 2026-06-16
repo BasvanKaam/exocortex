@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [citrix-studio, zones, key-takeaways, rtt, local-host-cache]
+tags: [studio, zones, key-takeaways, rtt, local-host-cache]
 layer: rich
 bron: inside-citrix-fma
 ---

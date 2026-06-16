@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [w365, cloud-pc, cost, licensing, nerdio, dated]
+tags: [windows-365, cost, licensing, nerdio, dated]
 layer: reference
 gedateerd: ja
 bron: nerdio-content

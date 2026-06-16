@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [windows-365, cloud-pc, avd, cost-control, shared-mode, gpu]
+tags: [windows-365, avd, cost-control, shared-mode, gpu]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [wvd, citrix, daas, prediction, opinion]
+tags: [wvd, citrix, daas, prediction, positie]
 bron: basvankaam-blog
 ---
 

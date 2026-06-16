@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [authentication, 2fa, sms, security, opinion]
+tags: [authentication, 2fa, sms, security, positie]
 bron: basvankaam-blog
 ---
 

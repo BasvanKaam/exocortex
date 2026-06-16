@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [come-get-it, speaking, communication, opinion, security]
+tags: [come-get-it, speaking, communication, positie, security]
 bron: cgit-blog
 ---
 

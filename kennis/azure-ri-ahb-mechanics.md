@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-10
-tags: [Azure, reserved-instances, AHB, licensing, cost]
+tags: [azure, reserved-instances, ahb, licensing, cost]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [EUC, history, Citrix, community, podcast]
+tags: [euc, history, citrix, community, podcast]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

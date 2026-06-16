@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [printing, spooler, print-drivers, kernel-mode, user-mode, rpc, smb]
+tags: [printing, spooler, print-driver, kernel-mode, user-mode, rpc, smb]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [idee, salomon, assessment, performance, gebruikerservaring, nulmeting, methode]
+tags: [idee, salomon, assessment, performance, user-experience, nulmeting, method]
 layer: reference
 gedateerd: nee
 bron: salomon-it-blog

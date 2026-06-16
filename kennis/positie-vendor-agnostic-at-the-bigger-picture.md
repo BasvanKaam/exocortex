@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [positie, vendor-agnostic, events, salomon]
+tags: [positie, vendor-independent, event, salomon]
 bron: salomon-it-blog
 ---
 

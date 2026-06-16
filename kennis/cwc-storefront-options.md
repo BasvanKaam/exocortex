@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [cwc, storefront, security, two-factor]
+tags: [cwc, storefront, security, 2fa]
 layer: reference
 bron: inside-citrix-fma
 ---

@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [nme, hybrid-worker, azure-automation, scripted-actions, runbooks]
+tags: [nme, hybrid-worker, azure-automation, scripted-actions, runbook]
 layer: reference
 gedateerd: ja
 bron: nerdio-training

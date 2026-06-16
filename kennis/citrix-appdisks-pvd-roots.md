@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, appdisks, app-layering, pvd, appdna]
+tags: [citrix, appdisks, application-layering, pvd, appdna]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

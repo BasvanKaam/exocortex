@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [nerdio-manager, cloud-pc, windows-365, image-management, idee, dated]
+tags: [nme, windows-365, image-management, idee, dated]
 layer: reference
 gedateerd: ja
 bron: nerdio-blog

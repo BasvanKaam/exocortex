@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [xendesktop, host-infrastructure, mcs, pvs, scvmm, hypervisor]
+tags: [xendesktop, host-connection, mcs, pvs, scvmm, hypervisor]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

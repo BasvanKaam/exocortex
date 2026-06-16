@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [virtualization, snapshots, hyper-v, vmware, storage, fundamentals]
+tags: [virtualization, snapshot, hyper-v, vmware, storage, fundamentals]
 layer: reference
 gedateerd: nee
 bron: core-knowledge-docs

@@ -4,7 +4,7 @@ merk: bvk
 domein: financieel
 status: actief
 datum: 2026-06-09
-tags: [capex, opex, tco, azure, opinion, cloud-economics]
+tags: [opex-capex, tco, azure, positie, cloud-economics]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

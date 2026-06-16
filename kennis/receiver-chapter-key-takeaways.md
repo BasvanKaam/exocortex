@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [citrix-receiver, key-takeaways, self-service, single-sign-on, ica-handshake]
+tags: [receiver, key-takeaways, self-service, sso, handshake]
 layer: rich
 bron: inside-citrix-fma
 ---

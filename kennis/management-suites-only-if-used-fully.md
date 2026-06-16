@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [res, appsense, workspace-management, opinion, licensing-value]
+tags: [res, appsense, workspace-management, positie, licensing-value]
 bron: basvankaam-blog
 ---
 

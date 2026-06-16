@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [self-publishing, writing, books, creator]
+tags: [self-publishing, writing, book, creator]
 bron: basvankaam-blog
 ---
 

@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [wvd, windows-10-multiuser, licensing, fslogix, windows-7-esu]
+tags: [wvd, windows-10-multi-user, licensing, fslogix, windows-7-esu]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

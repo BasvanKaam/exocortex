@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [lift-and-shift, bas-opinion, cloud-native, 6-rs, garbage-in-garbage-out]
+tags: [lift-and-shift, positie, cloud-native, 6-rs, garbage-in-garbage-out]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

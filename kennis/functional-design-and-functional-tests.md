@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [functional-design, testing, acceptance-criteria, scaf]
+tags: [design, testing, acceptance-criteria, scaf]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

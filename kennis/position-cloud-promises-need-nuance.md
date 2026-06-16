@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [position, cloud-myths, cheaper, scalability, standards, teaching-stance]
+tags: [positie, cloud-myths, cheaper, scalability, standards]
 bron: salomon-masterclass
 ---
 

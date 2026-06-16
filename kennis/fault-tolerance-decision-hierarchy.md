@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [high-availability, fault-tolerance, design-principle, clustering, virtualization, consulting-tool]
+tags: [high-availability, resilience, principles, clustering, virtualization, consulting-tool]
 layer: reference
 gedateerd: nee
 bron: salomon-opdrachten

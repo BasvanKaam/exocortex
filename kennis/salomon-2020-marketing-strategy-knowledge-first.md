@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [idee, marketing, strategy, cloud-adoption, content, scaf, positioning]
+tags: [idee, marketing, strategy, cloud-adoption, content, scaf, positie]
 layer: reference
 gedateerd: ja
 bron: salomon-it

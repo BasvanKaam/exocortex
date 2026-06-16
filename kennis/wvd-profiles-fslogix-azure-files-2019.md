@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [wvd, fslogix, profile-containers, azure-files]
+tags: [wvd, fslogix, profile-container, azure-files]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

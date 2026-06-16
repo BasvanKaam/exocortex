@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [positie, exit-strategy, vendor-lockin, governance, masterclass]
+tags: [positie, exit-strategy, vendor-lock-in, governance, masterclass]
 bron: salomon-masterclass
 ---
 

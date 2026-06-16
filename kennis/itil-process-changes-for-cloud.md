@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [itil, processes, cloud-adoption, checklist]
+tags: [itil, process, cloud-adoption, checklist]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

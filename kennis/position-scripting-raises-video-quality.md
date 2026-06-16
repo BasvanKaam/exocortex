@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [l&d, video, multimedia, method]
+tags: [l-and-d, video, multimedia, method]
 bron: nerdio-blog
 ---
 

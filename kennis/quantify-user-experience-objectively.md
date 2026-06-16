@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [position, user-experience, data-driven]
+tags: [positie, user-experience, data-driven]
 bron: salomon-it-blog
 ---
 

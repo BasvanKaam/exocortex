@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [cloud, migration, objections, hybrid, opinion]
+tags: [cloud, migration, objection, hybrid, positie]
 layer: rich
 bron: inside-citrix-fma
 ---

@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [salomon, roadmap, assessment, consulting, idee, methode]
+tags: [salomon, roadmap, assessment, consulting, idee, method]
 layer: reference
 gedateerd: nee
 bron: salomon-it

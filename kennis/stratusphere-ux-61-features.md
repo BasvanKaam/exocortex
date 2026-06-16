@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [liquidware, stratusphere, monitoring, ux, event-logs, byol]
+tags: [liquidware, stratusphere, monitoring, user-experience, event-logs, byol]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

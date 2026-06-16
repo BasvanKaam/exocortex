@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [printing, print-drivers, kernel-mode, print-driver-isolation]
+tags: [printing, print-driver, kernel-mode, print-driver-isolation]
 layer: reference
 bron: inside-citrix-fma
 ---

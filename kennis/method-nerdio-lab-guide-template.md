@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [method, ld, instructional-design, nerdio, lab-guide, docebo, template]
+tags: [method, l-and-d, instructional-design, nerdio, lab-guide, docebo, template]
 layer: reference
 gedateerd: nee
 bron: nerdio-training

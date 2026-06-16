@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [tenant, aws-account, gcp-project, iam, entra-id]
+tags: [tenant, aws-account, gcp-project, iam, entra]
 layer: reference
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

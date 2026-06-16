@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-10
-tags: [cloud, saas-iaas-paas, communication, design-principle]
+tags: [cloud, saas-iaas-paas, communication, principles]
 layer: reference
 gedateerd: nee
 bron: basvankaam-blog

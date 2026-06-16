@@ -4,7 +4,7 @@ merk: bvk
 domein: financieel
 status: actief
 datum: 2026-06-09
-tags: [key-takeaways, capex-opex, hosting-models, vdi, daas, rds]
+tags: [key-takeaways, opex-capex, hosting-models, vdi, daas, rds]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

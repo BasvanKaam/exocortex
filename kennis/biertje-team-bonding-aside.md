@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [team-building, culture, consultants, war-story, bas-aside]
+tags: [team-building, culture, consulting, war-story, bas-aside]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

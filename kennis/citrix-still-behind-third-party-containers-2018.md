@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, fslogix, liquidware, office365, opinion]
+tags: [citrix, fslogix, liquidware, office-365, positie]
 bron: basvankaam-blog
 ---
 

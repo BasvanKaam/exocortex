@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [windows-10, microsoft, critique, profiles, migration]
+tags: [windows-10, microsoft, critique, profile, migration]
 bron: basvankaam-blog
 ---
 

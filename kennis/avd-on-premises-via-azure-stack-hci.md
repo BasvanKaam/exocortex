@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [avd, azure-stack-hci, hybrid-cloud, on-premises, nerdio]
+tags: [avd, azure-stack-hci, hybrid, on-premises, nerdio]
 layer: reference
 gedateerd: ja
 bron: nerdio-blog

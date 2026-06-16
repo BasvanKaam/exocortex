@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [idee, finops, framework, cloud-cost, resilience]
+tags: [idee, finops, framework, cost, resilience]
 layer: reference
 gedateerd: nee
 bron: nerdio-training

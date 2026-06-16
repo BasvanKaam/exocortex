@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, vdi-in-a-box, viab, vdi, appliance]
+tags: [citrix, vdi-in-a-box, vdi, appliance]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

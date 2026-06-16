@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix-support, troubleshooting, fma, citrix-scout, self-reliance]
+tags: [citrix-support, troubleshooting, fma, scout, self-reliance]
 bron: basvankaam-blog
 ---
 

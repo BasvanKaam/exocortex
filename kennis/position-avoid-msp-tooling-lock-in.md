@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [cloud-governance, position, msp, lock-in, tooling]
+tags: [cloud-governance, positie, msp, vendor-lock-in, tooling]
 layer: reference
 gedateerd: nee
 attributie: weolcan-wcgf

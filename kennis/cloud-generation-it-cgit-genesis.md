@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [idee, cgit, cloud-generation-it, daas, proposition, branding]
+tags: [idee, come-get-it, cloud-generation-it, daas, proposition, branding]
 layer: reference
 gedateerd: nee
 bron: salomon-diversen

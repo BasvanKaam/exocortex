@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, troubleshooting, tools, scout, cdf, director]
+tags: [citrix, troubleshooting, tool, scout, cdf, director]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

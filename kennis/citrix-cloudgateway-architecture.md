@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, cloudgateway, storefront, appcontroller, access-gateway, byod]
+tags: [citrix, cloud-gateway, storefront, appcontroller, gateway, byod]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [templates, provisioning, standardization, naming-convention, best-practices, consulting-tool]
+tags: [template, provisioning, standardization, naming-convention, best-practice, consulting-tool]
 layer: reference
 gedateerd: nee
 bron: salomon-opdrachten

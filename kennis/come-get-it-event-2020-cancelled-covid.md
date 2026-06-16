@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [come-get-it, event, covid-19, 2020, cgit]
+tags: [come-get-it, event, covid-19, 2020]
 layer: reference
 gedateerd: ja
 bron: cgit-blog

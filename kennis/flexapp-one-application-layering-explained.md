@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [flexapp-one, liquidware, application-layering, msix, app-attach, avd, nerdio]
+tags: [flexapp, liquidware, application-layering, msix, msix-app-attach, avd, nerdio]
 layer: reference
 gedateerd: ja
 bron: nerdio-blog

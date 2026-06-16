@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-10
-tags: [aws, s3, glacier, efs, tiering, lifecycle, cost-saving]
+tags: [aws, s3, glacier, efs, tiering, lifecycle, cost-savings]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

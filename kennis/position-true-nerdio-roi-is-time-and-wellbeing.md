@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [roi, value-narrative, burnout, automation, it-operations, positioning]
+tags: [roi, value-narrative, burnout, automation, it-operations, positie]
 bron: nerdio-blog
 ---
 

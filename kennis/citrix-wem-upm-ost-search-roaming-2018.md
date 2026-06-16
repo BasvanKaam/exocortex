@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, wem, upm, outlook, ost, vhdx, synergy, app-layering]
+tags: [citrix, wem, upm, outlook, ost, vhdx, synergy, application-layering]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

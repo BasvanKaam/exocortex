@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [nutanix, ntc, community, hyperconvergence, personal]
+tags: [nutanix, ntc, community, hyper-converged, personal]
 bron: basvankaam-blog
 ---
 

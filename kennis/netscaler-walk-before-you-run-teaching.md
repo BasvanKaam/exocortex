@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [teaching, netscaler, basics, philosophy]
+tags: [training, netscaler, basics, philosophy]
 bron: basvankaam-blog
 ---
 

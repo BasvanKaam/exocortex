@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [scaf, inzicht, gap-analysis, raci, templates, go-nogo]
+tags: [scaf, inzicht, gap-analysis, raci, template, go-nogo]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [citrix, pvd, personal-vdisk, pvs, mcs, persistence]
+tags: [citrix, pvd, pvs, mcs, persistence]
 layer: reference
 bron: inside-citrix-fma
 ---

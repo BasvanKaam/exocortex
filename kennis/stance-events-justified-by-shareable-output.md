@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [positie, events, kennisdeling, podcast, roi]
+tags: [positie, event, knowledge-sharing, podcast, roi]
 bron: cgit
 ---
 

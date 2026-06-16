@@ -4,7 +4,7 @@ merk: bvk
 domein: persoonlijk
 status: actief
 datum: 2026-06-11
-tags: [positie, salomon, cultuur, leiderschap, waarden]
+tags: [positie, salomon, culture, leadership, waarden]
 bron: salomon-it-blog
 ---
 

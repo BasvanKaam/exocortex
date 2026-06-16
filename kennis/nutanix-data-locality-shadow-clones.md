@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [nutanix, data-locality, shadow-clones, cvm, vdi, hyperconverged]
+tags: [nutanix, data-locality, shadow-clones, cvm, vdi, hyper-converged]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

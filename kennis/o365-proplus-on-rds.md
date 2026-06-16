@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [office-365, proplus, rds, shared-computer-activation, windows-10-multi-user, whitepaper]
+tags: [office-365, rds, shared-computer-activation, windows-10-multi-user, whitepaper]
 layer: reference
 gedateerd: ja
 bron: salomon-whitepaper

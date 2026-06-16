@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [office365, outlook, vdi, rdsh, stance, cached-mode]
+tags: [office-365, outlook, vdi, rdsh, positie, cached-mode]
 bron: cgit-blog
 ---
 

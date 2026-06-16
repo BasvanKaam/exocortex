@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [intake, assessment, gap-analyse, moscow, requirements, interviews]
+tags: [intake, assessment, gap-analyse, moscow, requirements, interview]
 layer: reference
 gedateerd: nee
 bron: salomon-opdrachten

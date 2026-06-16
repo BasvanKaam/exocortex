@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [application-virtualization, saas, hybrid, user-experience, workspace-aggregation]
+tags: [application-virtualization, saas, hybrid, user-experience, workspace-aggregator]
 layer: reference
 gedateerd: nee
 bron: cgit-blog

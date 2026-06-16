@@ -4,7 +4,7 @@ merk: bvk
 domein: persoonlijk
 status: actief
 datum: 2026-06-11
-tags: [events, planning, runbook, draaiboek, cgit, organisation]
+tags: [event, planning, runbook, draaiboek, come-get-it, organization]
 layer: reference
 gedateerd: nee
 bron: cgit

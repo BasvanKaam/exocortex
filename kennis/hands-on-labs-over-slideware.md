@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [positie, events, enablement, community, hands-on-labs]
+tags: [positie, event, enablement, community, hands-on-labs]
 bron: nerdio-content
 ---
 

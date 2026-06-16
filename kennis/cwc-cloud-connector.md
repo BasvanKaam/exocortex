@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [cwc, cloud-connector, broker, ha, resource-location]
+tags: [cwc, cloud-connector, broker, high-availability, resource-location]
 layer: reference
 bron: inside-citrix-fma
 ---

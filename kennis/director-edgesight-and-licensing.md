@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [citrix-director, edgesight, licensing, platinum, netscaler, data-retention]
+tags: [director, edgesight, licensing, platinum, netscaler, data-retention]
 layer: reference
 bron: inside-citrix-fma
 ---

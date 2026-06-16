@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [wvd, avd, high-availability, availability-zones, azure-files, architecture, explainer]
+tags: [wvd, avd, high-availability, availability-zone, azure-files, architecture, explainer]
 layer: reference
 gedateerd: ja
 bron: nerdio-blog

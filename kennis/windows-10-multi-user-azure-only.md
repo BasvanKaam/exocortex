@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [windows-virtual-desktop, windows-10-multi-user, azure, vdi, euc]
+tags: [wvd, windows-10-multi-user, azure, vdi, euc]
 layer: reference
 gedateerd: ja
 bron: salomon-whitepaper

@@ -4,7 +4,7 @@ merk: bvk
 domein: persoonlijk
 status: actief
 datum: 2026-06-10
-tags: [wfh, setup, streaming, hardware]
+tags: [remote-work, setup, streaming, hardware]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

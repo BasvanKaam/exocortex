@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [office-365, proplus, deployment, sccm, odt, intune, whitepaper]
+tags: [office-365, deployment, sccm, odt, intune, whitepaper]
 layer: reference
 gedateerd: ja
 bron: salomon-whitepaper

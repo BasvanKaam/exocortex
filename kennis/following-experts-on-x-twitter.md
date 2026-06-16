@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [x, twitter, community, experts, real-time, networking]
+tags: [x, community, experts, real-time, networking]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [avd, azure, projectmanagement, adoptie, applicaties]
+tags: [avd, azure, projectmanagement, adoptie, application]
 layer: reference
 gedateerd: nee
 bron: nerdio-blog

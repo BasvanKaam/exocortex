@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [scaf, inzicht, waves, interviews, workshops, inventory]
+tags: [scaf, inzicht, waves, interview, workshop, inventory]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

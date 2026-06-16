@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [opdracht, exercise, xyz-care, iaas-paas-saas-daas, method, measurable-goals]
+tags: [opdracht, exercise, xyz-care, saas-iaas-paas, method, measurable-goals]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

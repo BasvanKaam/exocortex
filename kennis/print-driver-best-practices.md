@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [printing, print-drivers, best-practice, troubleshooting]
+tags: [printing, print-driver, best-practice, troubleshooting]
 layer: rich
 bron: inside-citrix-fma
 ---

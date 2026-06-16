@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [security, nist-csf, iso-27001, pdca, nis-2, frameworks]
+tags: [security, nist-csf, iso-27001, pdca, nis-2, framework]
 layer: reference
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

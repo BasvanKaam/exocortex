@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [cloud, daas, on-premises, prediction, app-layering, saas, vmware]
+tags: [cloud, daas, on-premises, prediction, application-layering, saas, vmware]
 bron: basvankaam-blog
 ---
 

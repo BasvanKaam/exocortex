@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [e2evc, community, conference, events]
+tags: [e2evc, community, conference, event]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

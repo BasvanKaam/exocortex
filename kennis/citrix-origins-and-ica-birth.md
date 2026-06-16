@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, history, ica, winframe, multiuser]
+tags: [citrix, history, ica, winframe, multi-user]
 layer: reference
 gedateerd: nee
 bron: basvankaam-blog

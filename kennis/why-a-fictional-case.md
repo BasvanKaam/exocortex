@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [fictional-case, exercises, learning-method, practice]
+tags: [fictional-case, exercise, training-method, practice]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

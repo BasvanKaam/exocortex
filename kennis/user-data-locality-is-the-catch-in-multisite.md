@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [vmware, horizon, multi-site, user-data, profiles, design]
+tags: [vmware, horizon, multi-site, user-data, profile, design]
 bron: basvankaam-blog
 ---
 

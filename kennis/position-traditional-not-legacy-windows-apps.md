@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [avd, application-management, windows-apps, position]
+tags: [avd, application-management, windows-apps, positie]
 bron: nerdio-blog
 ---
 

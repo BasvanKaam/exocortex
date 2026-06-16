@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-10
-tags: [wvd, azure, prediction, automation, costs]
+tags: [wvd, azure, prediction, automation, cost]
 bron: basvankaam-blog
 ---
 

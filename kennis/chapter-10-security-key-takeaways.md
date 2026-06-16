@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [security, key-takeaways, zero-trust, certifications, bas-summary]
+tags: [security, key-takeaways, zero-trust, certification, bas-summary]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [positie, backup, restore, rpo-rto, business-continuity, design-principle, consulting-tool]
+tags: [positie, backup, restore, rpo-rto, business-continuity, principles, consulting-tool]
 bron: salomon-opdrachten
 ---
 

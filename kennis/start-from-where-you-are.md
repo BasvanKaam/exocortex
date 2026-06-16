@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [position, assessment, planning]
+tags: [positie, assessment, planning]
 bron: salomon-it-blog
 ---
 

@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [sta, netscaler, broker-service, security]
+tags: [sta, netscaler, broker, security]
 layer: reference
 bron: inside-citrix-fma
 ---

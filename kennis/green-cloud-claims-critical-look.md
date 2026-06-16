@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [sustainability, carbon-offsetting, rec, free-cooling, liquid-cooling]
+tags: [sustainability, rec, free-cooling, liquid-cooling]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

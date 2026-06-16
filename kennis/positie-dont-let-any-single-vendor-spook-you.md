@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [vendor-independence, microsoft, citrix, vmware, hype, stance]
+tags: [vendor-independent, microsoft, citrix, vmware, hype, positie]
 bron: salomon-it-blog
 ---
 

@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [scaf, rationalisation, refactor, iaas, paas, saas, daas]
+tags: [scaf, rationalization, refactor, iaas, paas, saas, daas]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [detron, portfolio, propositions, hybrid-cloud, security, idee]
+tags: [detron, portfolio, proposition, hybrid, security, idee]
 layer: reference
 gedateerd: ja
 bron: salomon-diversen

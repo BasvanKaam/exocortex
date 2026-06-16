@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [cloud-advice, consultancy, datacenter, stance, credibility]
+tags: [advice, consultancy, datacenter, positie, credibility]
 bron: salomon-it-blog
 ---
 

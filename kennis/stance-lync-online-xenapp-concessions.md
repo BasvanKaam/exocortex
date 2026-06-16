@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [lync, xenapp, user-experience, opinion]
+tags: [lync, xenapp, user-experience, positie]
 bron: basvankaam-blog
 ---
 

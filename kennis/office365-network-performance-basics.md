@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [office365, networking, performance, microsoft, service-front-door]
+tags: [office-365, networking, performance, microsoft, service-front-door]
 layer: reference
 gedateerd: ja
 bron: cgit-blog

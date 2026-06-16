@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [scaf, handbook, internal, templates, reuse, ip]
+tags: [scaf, handbook, internal, template, reuse, ip]
 layer: reference
 gedateerd: nee
 bron: salomon-masterclass

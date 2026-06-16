@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [ccoe, reframe, smb, bas-opinion, cloud-center-of-excellence, scaf, governance, opinion]
+tags: [ccoe, framing, smb, positie, cloud-center-of-excellence, scaf, governance]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

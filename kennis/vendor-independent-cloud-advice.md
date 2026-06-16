@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [vendor-independent, scaf, cloud-strategy, position]
+tags: [vendor-independent, scaf, cloud-strategy, positie]
 bron: salomon-it-blog
 ---
 

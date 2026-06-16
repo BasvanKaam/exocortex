@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [microsoft-365, teams, skype-for-business, migration, lifecycle]
+tags: [office-365, teams, skype-for-business, migration, lifecycle]
 layer: reference
 gedateerd: ja
 bron: cgit-blog

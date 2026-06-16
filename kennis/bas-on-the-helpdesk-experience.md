@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [helpdesk, user-experience, support, war-story, opinion]
+tags: [helpdesk, user-experience, support, war-story, positie]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

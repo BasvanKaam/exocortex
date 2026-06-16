@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [weolcan, training, hybrid-cloud, curriculum, cloud-governance, bas-ip]
+tags: [weolcan, training, hybrid, curriculum, cloud-governance, bas-ip]
 layer: reference
 gedateerd: ja
 bron: salomon-masterclass

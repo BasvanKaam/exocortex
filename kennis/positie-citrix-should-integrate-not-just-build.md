@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, strategy, elliott, opinion, director, integration]
+tags: [citrix, strategy, elliott, positie, director, integration]
 bron: basvankaam-blog
 ---
 

@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [app-v, msix, positie, app-delivery]
+tags: [app-v, msix, positie, application-delivery]
 bron: nerdio-blog
 ---
 

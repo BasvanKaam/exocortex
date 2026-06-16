@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [pvs, provisioning-services, vdisk, best-practices, rdsh]
+tags: [pvs, vdisk, best-practice, rdsh]
 layer: rich
 bron: inside-citrix-fma
 ---

@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [events, synergy, keynotes, learning, preference]
+tags: [event, synergy, keynote, l-and-d, preference]
 bron: basvankaam-blog
 ---
 

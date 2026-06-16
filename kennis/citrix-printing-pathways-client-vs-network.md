@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [printing, client-pathway, network-pathway, ica, thin-clients]
+tags: [printing, client-pathway, network-pathway, ica, thin-client]
 layer: reference
 bron: inside-citrix-fma
 ---

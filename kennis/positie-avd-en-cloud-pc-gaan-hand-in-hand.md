@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [cloud-pc, avd, windows-365, use-case, cost]
+tags: [windows-365, avd, use-case, cost]
 bron: nerdio-blog
 ---
 

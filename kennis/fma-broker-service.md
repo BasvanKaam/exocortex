@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [broker-service, xml, sta, vda-registration, load-balancing]
+tags: [broker, xml, sta, vda-registration, load-balancing]
 layer: reference
 bron: inside-citrix-fma
 ---

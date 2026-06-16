@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, synergy, events, community, opinion]
+tags: [citrix, synergy, event, community, positie]
 bron: basvankaam-blog
 ---
 

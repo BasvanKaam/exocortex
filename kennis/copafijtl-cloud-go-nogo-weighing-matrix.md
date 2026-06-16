@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [copafijtl, decision-framework, cloud-go-nogo, business-case, public-sector, afwegingsmatrix]
+tags: [copafijtl, decision-framework, go-nogo, business-case, public-sector, afwegingsmatrix]
 layer: reference
 gedateerd: nee
 bron: salomon-opdrachten

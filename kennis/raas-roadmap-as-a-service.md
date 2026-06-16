@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [idee, raas, roadmap, advisory, proposition]
+tags: [idee, raas, roadmap, advice, proposition]
 layer: reference
 gedateerd: nee
 bron: salomon-diversen

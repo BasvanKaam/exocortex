@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [printing, tools, troubleshooting, ups]
+tags: [printing, tool, troubleshooting, ups]
 layer: reference
 bron: inside-citrix-fma
 ---

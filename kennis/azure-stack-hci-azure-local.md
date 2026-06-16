@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [azure-stack-hci, azure-local, hybrid-cloud, edge-computing, azure-arc]
+tags: [azure-stack-hci, azure-local, hybrid, edge-computing, azure-arc]
 layer: reference
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

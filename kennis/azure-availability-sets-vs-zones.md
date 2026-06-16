@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-10
-tags: [azure, high-availability, availability-zones, fault-domain]
+tags: [azure, high-availability, availability-zone, fault-domain]
 layer: reference
 gedateerd: nee
 bron: basvankaam-blog

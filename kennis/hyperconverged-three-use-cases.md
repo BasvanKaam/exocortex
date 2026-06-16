@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [idee, hyperconverged, nutanix, hybrid-cloud, cloud-economics]
+tags: [idee, hyper-converged, nutanix, hybrid, cloud-economics]
 layer: reference
 gedateerd: nee
 bron: salomon-diversen

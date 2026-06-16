@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [cloud-cost, finops, tco, optimization]
+tags: [cost, finops, tco, optimization]
 layer: reference
 gedateerd: nee
 bron: salomon-it

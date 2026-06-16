@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-10
-tags: [azure, rdp, endpoints, dns, networking]
+tags: [azure, rdp, endpoint, dns, networking]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

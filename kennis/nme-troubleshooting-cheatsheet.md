@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [nme, avd, troubleshooting, permissions, tenant, cheatsheet]
+tags: [nme, avd, troubleshooting, permissions, tenant, cheat-sheet]
 layer: reference
 gedateerd: ja
 bron: nerdio-content

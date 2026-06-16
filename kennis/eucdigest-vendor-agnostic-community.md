@@ -4,7 +4,7 @@ merk: bvk
 domein: podcast
 status: actief
 datum: 2026-06-10
-tags: [eucdigest, community, vendor-agnostic, euc]
+tags: [eucdigest, community, vendor-independent, euc]
 bron: basvankaam-blog
 ---
 

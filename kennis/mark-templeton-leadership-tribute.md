@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, synergy, leadership, mark-templeton, opinion]
+tags: [citrix, synergy, leadership, mark-templeton, positie]
 bron: basvankaam-blog
 ---
 

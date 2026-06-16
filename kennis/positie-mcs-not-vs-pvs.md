@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, mcs, pvs, opinion, application-layering, containerization]
+tags: [citrix, mcs, pvs, positie, application-layering, containerization]
 bron: basvankaam-blog
 ---
 

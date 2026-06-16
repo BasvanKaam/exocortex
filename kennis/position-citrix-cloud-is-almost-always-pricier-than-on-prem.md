@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [citrix-cloud, cost, cloud-economics, position]
+tags: [citrix-cloud, cost, cloud-economics, positie]
 bron: salomon-it-blog
 ---
 

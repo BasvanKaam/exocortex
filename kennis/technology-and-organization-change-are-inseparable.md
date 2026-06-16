@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [roadmap, position, business-it-alignment, change-management, cloud]
+tags: [roadmap, positie, business-it-alignment, change-management, cloud]
 bron: salomon-it-blog
 ---
 

@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [citrix-director, dashboard, trends, alerts, machine-control]
+tags: [director, dashboard, trend, alerts, machine-control]
 layer: reference
 bron: inside-citrix-fma
 ---

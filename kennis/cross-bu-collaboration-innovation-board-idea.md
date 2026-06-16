@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [idee, organisatie, collaboration, innovation, salomon]
+tags: [idee, organization, collaboration, innovation, salomon]
 layer: reference
 gedateerd: nee
 bron: salomon-diversen

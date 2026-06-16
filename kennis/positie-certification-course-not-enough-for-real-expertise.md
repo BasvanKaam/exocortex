@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [position, training, certification, netscaler, expertise]
+tags: [positie, training, certification, netscaler, expertise]
 bron: salomon-it-blog
 ---
 

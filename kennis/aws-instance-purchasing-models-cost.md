@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-10
-tags: [aws, ec2, reserved-instances, spot-instances, scheduled-instances, cost-saving]
+tags: [aws, ec2, reserved-instances, spot-instances, scheduled-instances, cost-savings]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

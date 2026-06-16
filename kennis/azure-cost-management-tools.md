@@ -4,7 +4,7 @@ merk: bvk
 domein: financieel
 status: actief
 datum: 2026-06-09
-tags: [azure, cost-management, reservations, spot-vms, reference]
+tags: [azure, cost-optimization, reserved-instances, spot-vms, reference]
 layer: reference
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

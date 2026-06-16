@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [security, azure, aws, google-cloud, certifications, iso-27001]
+tags: [security, azure, aws, gcp, certification, iso-27001]
 layer: reference
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

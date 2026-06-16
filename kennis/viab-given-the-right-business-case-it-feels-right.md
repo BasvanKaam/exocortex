@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, vdi-in-a-box, opinion, vdi]
+tags: [citrix, vdi-in-a-box, positie, vdi]
 bron: basvankaam-blog
 ---
 

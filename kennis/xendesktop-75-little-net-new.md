@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, xendesktop, opinion, release]
+tags: [citrix, xendesktop, positie, release]
 bron: basvankaam-blog
 ---
 

@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [citrix-director, scom, comtrade, insight-services, call-home]
+tags: [director, scom, comtrade, insight-services, call-home]
 layer: reference
 bron: inside-citrix-fma
 ---

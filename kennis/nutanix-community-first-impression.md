@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [nutanix, community, vendor, opinion]
+tags: [nutanix, community, vendor, positie]
 bron: basvankaam-blog
 ---
 

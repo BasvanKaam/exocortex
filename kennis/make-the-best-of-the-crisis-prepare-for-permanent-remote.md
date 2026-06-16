@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [position, remote-work, hybrid, future-proof, opportunity]
+tags: [positie, remote-work, hybrid, future-proof, opportunity]
 bron: salomon-it-blog
 ---
 

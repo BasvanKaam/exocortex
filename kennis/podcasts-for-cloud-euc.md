@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [podcasts, community, euc, learning, best-practices]
+tags: [podcast, community, euc, l-and-d, best-practice]
 layer: reference
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

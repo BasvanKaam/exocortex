@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [salomon, transitiemanagement, regie, case-study, method]
+tags: [salomon, change-management, governance, case-study, method]
 layer: reference
 gedateerd: nee
 bron: salomon-it-blog

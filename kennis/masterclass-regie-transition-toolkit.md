@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [masterclass, regie, raci, nine-grid, workshops, tooling]
+tags: [masterclass, governance, raci, nine-grid, workshop, tooling]
 layer: reference
 gedateerd: nee
 bron: salomon-masterclass

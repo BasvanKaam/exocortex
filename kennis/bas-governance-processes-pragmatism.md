@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [governance, processes, bas-opinion, risk-matrix, pragmatism]
+tags: [governance, process, positie, risk-matrix, pragmatism]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

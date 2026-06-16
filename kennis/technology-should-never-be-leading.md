@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [position, tooling, purpose-first, remote-work]
+tags: [positie, tooling, purpose-first, remote-work]
 bron: salomon-it-blog
 ---
 

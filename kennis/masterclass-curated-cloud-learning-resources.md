@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [cloud-masterclass, resources, certification, reading-list, learning]
+tags: [cloud-masterclass, resources, certification, reading, l-and-d]
 layer: reference
 gedateerd: nee
 bron: salomon-masterclass

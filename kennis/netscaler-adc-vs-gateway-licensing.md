@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, netscaler, adc, access-gateway, licensing, vpx, mpx, sdx]
+tags: [citrix, netscaler, adc, gateway, licensing, vpx, mpx, sdx]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

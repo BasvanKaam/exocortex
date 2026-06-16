@@ -4,7 +4,7 @@ merk: bvk
 domein: financieel
 status: actief
 datum: 2026-06-11
-tags: [masterclass, business-case, tco, roi, capex-opex, cloud-economics]
+tags: [masterclass, business-case, tco, roi, opex-capex, cloud-economics]
 layer: reference
 gedateerd: nee
 bron: salomon-masterclass

@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [idee, raas, propositie, salomon, subscription, roadmap, pricing]
+tags: [idee, raas, proposition, salomon, subscription, roadmap, pricing]
 layer: reference
 gedateerd: nee
 bron: salomon-diversen

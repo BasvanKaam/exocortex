@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [netscaler, content-switching, classic-policy, default-syntax, unified-gateway, gateway]
+tags: [netscaler, content-switching, classic-policy, default-syntax, gateway]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

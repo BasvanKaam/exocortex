@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [csp, azure, aws, multi-cloud, bas-opinion]
+tags: [csp, azure, aws, multi-cloud, positie]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

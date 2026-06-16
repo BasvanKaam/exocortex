@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, appdna, app-migration, app-v, opinion]
+tags: [citrix, appdna, application-management, app-v, positie]
 bron: basvankaam-blog
 ---
 

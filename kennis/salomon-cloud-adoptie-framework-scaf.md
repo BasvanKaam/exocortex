@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [scaf, cloud-adoption, framework, salomon, idee, methode]
+tags: [scaf, cloud-adoption, framework, salomon, idee, method]
 layer: reference
 gedateerd: nee
 bron: salomon-it

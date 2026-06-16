@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, netscaler, 10.5, ica-proxy, licensing, access-gateway]
+tags: [citrix, netscaler, 10.5, ica-proxy, licensing, gateway]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [application-layering, opinion, app-virtualization]
+tags: [application-layering, positie, application-virtualization]
 bron: basvankaam-blog
 ---
 

@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [lifecycle-management, opinion, healthcare, cost-savings]
+tags: [lifecycle-management, positie, healthcare, cost-savings]
 bron: basvankaam-blog
 ---
 

@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [migration, fma, ima, opinion, prediction]
+tags: [migration, fma, ima, positie, prediction]
 bron: basvankaam-blog
 ---
 

@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [cloud-fundamentals, nist, teaching, iaas, daas]
+tags: [cloud-fundamentals, nist, training, iaas, daas]
 layer: reference
 gedateerd: nee
 bron: salomon-it

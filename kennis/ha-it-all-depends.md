@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [high-availability, design, opinion, consulting]
+tags: [high-availability, design, positie, consulting]
 bron: basvankaam-blog
 ---
 

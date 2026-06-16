@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [microsoft, inspire, vendors, events, partner, roadmap]
+tags: [microsoft, inspire, vendor, event, partner, roadmap]
 layer: reference
 gedateerd: nee
 bron: salomon-it-blog

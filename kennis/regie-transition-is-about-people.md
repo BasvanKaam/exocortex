@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [regie, change-management, war-story, exit-strategy]
+tags: [governance, change-management, war-story, exit-strategy]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

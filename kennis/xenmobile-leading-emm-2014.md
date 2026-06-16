@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, xenmobile, emm, byod, opinion]
+tags: [citrix, xenmobile, emm, byod, positie]
 bron: basvankaam-blog
 ---
 

@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [cloudjumper, wvd, cost-optimization, autoscaling, pricing, byol, azure-marketplace]
+tags: [cloudjumper, wvd, cost-optimization, autoscale, pricing, byol, azure-marketplace]
 layer: reference
 gedateerd: ja
 bron: cgit-blog

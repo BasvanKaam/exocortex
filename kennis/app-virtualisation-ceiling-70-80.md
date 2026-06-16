@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [app-v, application-virtualization, vdi, sbc, layering]
+tags: [app-v, application-virtualization, vdi, sbc, application-layering]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

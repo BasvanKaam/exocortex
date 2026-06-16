@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [user-profiles, vdi, rdsh, roaming-profiles, euc, wvd]
+tags: [user-profile, vdi, rdsh, roaming-profile, euc, wvd]
 layer: reference
 gedateerd: nee
 bron: cgit-blog

@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [position, privacy, security, crisis-response, governance]
+tags: [positie, privacy, security, crisis-response, governance]
 bron: salomon-it-blog
 ---
 

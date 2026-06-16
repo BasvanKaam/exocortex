@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [community, events, e2evc, virtualization, networking]
+tags: [community, event, e2evc, virtualization, networking]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

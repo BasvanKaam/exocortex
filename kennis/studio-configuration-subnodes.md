@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [citrix-studio, delegated-administration, host-connection, licensing, appdna, app-v]
+tags: [studio, delegated-administration, host-connection, licensing, appdna, app-v]
 layer: reference
 bron: inside-citrix-fma
 ---

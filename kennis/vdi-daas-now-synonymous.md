@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [vdi, daas, opinion, citrix, vmware, cloud]
+tags: [vdi, daas, positie, citrix, vmware, cloud]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

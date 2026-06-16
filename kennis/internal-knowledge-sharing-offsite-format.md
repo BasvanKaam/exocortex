@@ -4,7 +4,7 @@ merk: bvk
 domein: persoonlijk
 status: actief
 datum: 2026-06-11
-tags: [idee, kennisdeling, team, salomon, offsite]
+tags: [idee, knowledge-sharing, team, salomon, offsite]
 layer: reference
 gedateerd: nee
 bron: salomon-it

@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [euc, digital-workspace, consulting, stance, cloud]
+tags: [euc, digital-workspace, consulting, positie, cloud]
 bron: cgit-blog
 ---
 

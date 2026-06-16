@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [masterclass, training, scaf, course-structure, teaching]
+tags: [masterclass, training, scaf, course-structure]
 layer: reference
 gedateerd: ja
 bron: salomon-masterclass

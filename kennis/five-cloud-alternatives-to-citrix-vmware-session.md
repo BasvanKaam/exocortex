@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [idee, vdi, citrix, vmware, cloud, app-delivery, session]
+tags: [idee, vdi, citrix, vmware, cloud, application-delivery, session]
 layer: reference
 gedateerd: nee
 bron: cgit-blog

@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [workshop, facilitation, teaching-method, cloud-masterclass, sequencing]
+tags: [workshop, facilitation, training-method, cloud-masterclass, sequencing]
 layer: reference
 gedateerd: nee
 bron: salomon-masterclass

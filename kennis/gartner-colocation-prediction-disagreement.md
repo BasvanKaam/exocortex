@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [colocation, gartner, opinion, prediction]
+tags: [colocation, gartner, positie, prediction]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

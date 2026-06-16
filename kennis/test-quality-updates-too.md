@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [windows-10, patching, testing, opinion]
+tags: [windows-10, patching, testing, positie]
 bron: basvankaam-blog
 ---
 

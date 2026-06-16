@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [project-vrc, vdi, sbc, daas, hyper-converged, trends]
+tags: [project-vrc, vdi, sbc, daas, hyper-converged, trend]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

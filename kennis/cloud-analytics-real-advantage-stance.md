@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-10
-tags: [cloud, iot, big-data, stance]
+tags: [cloud, iot, big-data, positie]
 bron: basvankaam-blog
 ---
 

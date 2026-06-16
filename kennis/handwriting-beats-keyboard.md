@@ -4,7 +4,7 @@ merk: bvk
 domein: persoonlijk
 status: actief
 datum: 2026-06-10
-tags: [learning, note-taking, productivity]
+tags: [l-and-d, note-taking, productivity]
 layer: reference
 gedateerd: nee
 bron: basvankaam-blog

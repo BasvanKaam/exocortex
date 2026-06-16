@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [migratie, besliskader, big-bang, gefaseerd, active-directory, fall-back]
+tags: [migration, besliskader, big-bang, fasering, active-directory, fall-back]
 layer: reference
 gedateerd: nee
 bron: salomon-opdrachten

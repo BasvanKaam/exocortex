@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [cloud-masterclass, teaching, training-delivery, facilitation, didactics]
+tags: [cloud-masterclass, training, training-delivery, facilitation, instructional-design]
 layer: reference
 gedateerd: nee
 bron: salomon-masterclass

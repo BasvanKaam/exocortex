@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-10
-tags: [daas, marketing-critique, workspaces, opinion]
+tags: [daas, marketing-critique, workspace, positie]
 bron: basvankaam-blog
 ---
 

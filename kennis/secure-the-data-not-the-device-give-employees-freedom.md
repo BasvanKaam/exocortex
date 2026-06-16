@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [endpoint, byod, consumerization, security, employee-experience, macbook, idee]
+tags: [endpoint, byod, consumerization, security, user-experience, macbook, idee]
 layer: reference
 gedateerd: nee
 bron: salomon-it-blog

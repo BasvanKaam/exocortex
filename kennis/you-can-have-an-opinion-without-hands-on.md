@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [opinion, blogging, methodology, credibility]
+tags: [positie, blogging, method, credibility]
 bron: basvankaam-blog
 ---
 

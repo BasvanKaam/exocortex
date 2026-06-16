@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [scaf, strategy, key-takeaways, stakeholders, templates]
+tags: [scaf, strategy, key-takeaways, stakeholders, template]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

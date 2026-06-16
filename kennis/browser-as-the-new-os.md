@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [browser, saas, aggregation, workspace, zero-trust]
+tags: [browser, saas, workspace-aggregator, workspace, zero-trust]
 layer: reference
 gedateerd: nee
 bron: basvankaam-blog

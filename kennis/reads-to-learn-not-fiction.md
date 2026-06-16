@@ -4,7 +4,7 @@ merk: bvk
 domein: persoonlijk
 status: actief
 datum: 2026-06-10
-tags: [reading, learning, self-development, books]
+tags: [reading, l-and-d, self-development, book]
 bron: basvankaam-blog
 ---
 

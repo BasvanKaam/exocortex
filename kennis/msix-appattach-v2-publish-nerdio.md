@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [app-attach, msix, nerdio, avd, remoteapp, howto]
+tags: [msix-app-attach, msix, nerdio, avd, remoteapp, howto]
 layer: reference
 gedateerd: ja
 bron: nerdio-content

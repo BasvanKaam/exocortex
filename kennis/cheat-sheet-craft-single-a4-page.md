@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [application-layering, cheat-sheet, craft, stance]
+tags: [application-layering, cheat-sheet, craft, positie]
 bron: basvankaam-blog
 ---
 

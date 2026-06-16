@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [wvd, rds, use-cases, gpu, scaling, azure]
+tags: [wvd, rds, use-case, gpu, scaling, azure]
 layer: reference
 gedateerd: ja
 bron: salomon-wvd

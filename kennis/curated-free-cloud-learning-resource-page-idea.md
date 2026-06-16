@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [idee, cloud, learning, community, onboarding, curation]
+tags: [idee, cloud, l-and-d, community, onboarding, curation]
 layer: reference
 gedateerd: nee
 bron: salomon-it

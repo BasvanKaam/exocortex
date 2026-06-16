@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [idee, salomon, assessment, infrastructuur, as-is-to-be, transitie, methode]
+tags: [idee, salomon, assessment, infrastructuur, as-is-to-be, migration, method]
 layer: reference
 gedateerd: nee
 bron: salomon-it-blog

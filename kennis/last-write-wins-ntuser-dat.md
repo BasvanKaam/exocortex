@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [roaming-profiles, ntuser-dat, user-profile, rdsh]
+tags: [roaming-profile, ntuser-dat, user-profile, rdsh]
 layer: reference
 gedateerd: nee
 bron: basvankaam-blog

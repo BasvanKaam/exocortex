@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [fslogix, wvd, profiles, office-365-container, app-masking, euc]
+tags: [fslogix, wvd, profile, office-365, app-masking, euc]
 layer: reference
 gedateerd: ja
 bron: salomon-wvd

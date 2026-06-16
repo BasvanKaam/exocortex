@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [positie, principes, standaardisatie, verantwoordelijkheid, security-by-design, never-invent]
+tags: [positie, principles, standardization, verantwoordelijkheid, security-by-design, never-invent]
 bron: salomon-opdrachten
 ---
 

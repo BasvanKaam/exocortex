@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [daas, vdi, virtual-desktop, capex, opex, shared-service-center]
+tags: [daas, vdi, virtual-desktop, opex-capex, shared-service-center]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

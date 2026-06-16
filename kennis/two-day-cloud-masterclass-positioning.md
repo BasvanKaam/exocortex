@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [cloud-masterclass, training, positioning, vendor-independent, adoption-framework]
+tags: [cloud-masterclass, training, positie, vendor-independent, adoption-framework]
 layer: reference
 gedateerd: nee
 bron: salomon-masterclass

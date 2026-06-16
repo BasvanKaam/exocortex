@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [server-vda, desktop-vda, rdsh, xenapp, scservice64]
+tags: [vda, rdsh, xenapp, scservice64]
 layer: rich
 bron: inside-citrix-fma
 ---

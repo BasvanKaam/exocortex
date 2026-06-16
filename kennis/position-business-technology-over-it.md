@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [position, business-it, bit, it-business-gap, broker, regie]
+tags: [positie, business-it, bit, it-business-gap, broker, governance]
 bron: salomon-masterclass
 ---
 

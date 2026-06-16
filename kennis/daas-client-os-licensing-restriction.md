@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-10
-tags: [daas, licensing, microsoft, workspaces, hosted-shared]
+tags: [daas, licensing, microsoft, workspace, hosted-shared]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

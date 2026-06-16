@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [nerdio, field-cto, werkwijze, persoonlijk, positie]
+tags: [nerdio, field-cto, method, personal, positie]
 bron: nerdio-blog
 ---
 

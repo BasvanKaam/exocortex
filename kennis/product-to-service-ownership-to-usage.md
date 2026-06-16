@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [saas, iaas, capex-opex, pay-as-you-go, business-model]
+tags: [saas, iaas, opex-capex, pay-as-you-go, business-model]
 layer: reference
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

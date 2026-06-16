@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, xendesktop, server-vda, fma, ica, rds]
+tags: [citrix, xendesktop, vda, fma, ica, rds]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

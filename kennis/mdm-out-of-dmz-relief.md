@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [xenmobile, mdm, netscaler, security, opinion]
+tags: [xenmobile, mdm, netscaler, security, positie]
 bron: basvankaam-blog
 ---
 

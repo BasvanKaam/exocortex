@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-10
-tags: [aws, appstream, app-streaming, euc]
+tags: [aws, appstream, application-streaming, euc]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

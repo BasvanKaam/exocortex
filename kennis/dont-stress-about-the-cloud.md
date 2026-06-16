@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [cloud, position, hype, people-first, functionality-first]
+tags: [cloud, positie, hype, people-first, functionality-first]
 bron: salomon-it-blog
 ---
 

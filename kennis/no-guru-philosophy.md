@@ -4,7 +4,7 @@ merk: bvk
 domein: persoonlijk
 status: actief
 datum: 2026-06-10
-tags: [blogging, learning, personal, identity]
+tags: [blogging, l-and-d, personal, identity]
 bron: basvankaam-blog
 ---
 

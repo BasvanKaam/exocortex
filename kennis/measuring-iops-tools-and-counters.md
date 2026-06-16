@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [iops, perfmon, tools, measurement, login-vsi]
+tags: [iops, perfmon, tool, measurement, login-vsi]
 layer: reference
 bron: inside-citrix-fma
 ---

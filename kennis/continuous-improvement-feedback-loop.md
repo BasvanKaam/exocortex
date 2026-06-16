@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [continuous-improvement, governance, communication, feedback, target-operating-model]
+tags: [continuous-improvement, governance, communication, feedback, operating-model]
 layer: reference
 gedateerd: nee
 attributie: weolcan-wcgf

@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [disclaimer, self-published, experience, independence]
+tags: [disclaimer, self-publishing, user-experience, vendor-independent]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

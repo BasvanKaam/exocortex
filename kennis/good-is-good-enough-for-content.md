@@ -4,7 +4,7 @@ merk: bvk
 domein: podcast
 status: actief
 datum: 2026-06-11
-tags: [positie, content-strategie, efficientie, perfectionisme, podcast]
+tags: [positie, content-strategy, efficientie, perfectionisme, podcast]
 bron: salomon-it
 ---
 

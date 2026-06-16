@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [gpu, vdi, ux, design]
+tags: [gpu, vdi, user-experience, design]
 layer: reference
 gedateerd: nee
 bron: basvankaam-blog

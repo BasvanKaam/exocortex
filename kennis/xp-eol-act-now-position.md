@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [windows-xp, end-of-life, migration, opinion, innovation]
+tags: [windows-xp, end-of-life, migration, positie, innovation]
 bron: basvankaam-blog
 ---
 

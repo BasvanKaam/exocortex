@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [nerdio, positionering, presenteren, method, avd]
+tags: [nerdio, positie, presenteren, method, avd]
 layer: reference
 gedateerd: nee
 bron: nerdio-content

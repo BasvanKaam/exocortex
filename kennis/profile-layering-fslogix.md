@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [fslogix, layering, user-profiles, vhd, wvd, vdi, rdsh, onedrive]
+tags: [fslogix, application-layering, user-profile, vhd, wvd, vdi, rdsh, onedrive]
 layer: reference
 gedateerd: nee
 bron: cgit-blog

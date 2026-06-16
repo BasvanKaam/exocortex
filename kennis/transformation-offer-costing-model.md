@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [offerte, kosten, tarieven, risico-bandbreedte, sla, scoping]
+tags: [proposal, cost, tarieven, risico-bandbreedte, sla, scoping]
 layer: reference
 gedateerd: nee
 bron: salomon-opdrachten

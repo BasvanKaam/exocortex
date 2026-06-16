@@ -4,7 +4,7 @@ merk: bvk
 domein: persoonlijk
 status: actief
 datum: 2026-06-10
-tags: [career, liquidware, salomon, presales, consultancy]
+tags: [career, liquidware, salomon, pre-sales, consultancy]
 bron: basvankaam-blog
 ---
 

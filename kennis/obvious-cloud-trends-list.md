@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [trends, multi-cloud, edge-computing, zero-trust, serverless, sustainability]
+tags: [trend, multi-cloud, edge-computing, zero-trust, serverless, sustainability]
 layer: reference
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

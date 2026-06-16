@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [application-layering, app-virtualization, app-v, thinapp, vdi, rdsh]
+tags: [application-layering, application-virtualization, app-v, thinapp, vdi, rdsh]
 layer: reference
 gedateerd: nee
 bron: basvankaam-blog

@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [site-services, broker-service, heartbeat, housekeeping, distributed]
+tags: [site-services, broker, heartbeat, housekeeping, distributed]
 layer: reference
 bron: inside-citrix-fma
 ---

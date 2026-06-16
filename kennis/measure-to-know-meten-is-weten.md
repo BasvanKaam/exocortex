@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [position, data-driven, cost-optimization]
+tags: [positie, data-driven, cost-optimization]
 bron: salomon-it-blog
 ---
 

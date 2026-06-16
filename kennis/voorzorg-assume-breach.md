@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [security, assume-breach, bas-opinion, resilience]
+tags: [security, assume-breach, positie, resilience]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [cheat-sheet, teams, zoom, webex, video-conferencing, vdi, 2020, cgit]
+tags: [cheat-sheet, teams, zoom, webex, video-conferencing, vdi, 2020, come-get-it]
 layer: reference
 gedateerd: ja
 bron: cgit-blog

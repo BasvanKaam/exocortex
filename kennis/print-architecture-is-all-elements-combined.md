@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, printing, architecture, design, wan, endpoints]
+tags: [citrix, printing, architecture, design, wan, endpoint]
 layer: reference
 gedateerd: nee
 bron: basvankaam-blog

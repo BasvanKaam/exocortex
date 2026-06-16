@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-10
-tags: [Azure, ephemeral-disks, WVD, stateless, storage]
+tags: [azure, ephemeral-disks, wvd, non-persistent, storage]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

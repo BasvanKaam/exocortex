@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [cloud, azure, reliability, on-prem, positie]
+tags: [cloud, azure, reliability, on-premises, positie]
 bron: nerdio-blog
 ---
 

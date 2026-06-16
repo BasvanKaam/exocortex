@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [consulting-method, interviews, intake, requirements, stakeholders]
+tags: [consulting-method, interview, intake, requirements, stakeholders]
 layer: reference
 gedateerd: nee
 bron: salomon-opdrachten

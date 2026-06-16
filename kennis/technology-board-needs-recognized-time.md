@@ -4,7 +4,7 @@ merk: bvk
 domein: persoonlijk
 status: actief
 datum: 2026-06-11
-tags: [positie, innovatie, technology-board, tijd, organisatie]
+tags: [positie, innovation, technology-board, tijd, organization]
 bron: salomon-diversen
 ---
 

@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [idee, nerdio, ux, cognitive-science, content-idea]
+tags: [idee, nerdio, user-experience, cognitive-science]
 layer: reference
 gedateerd: nee
 bron: nerdio-training

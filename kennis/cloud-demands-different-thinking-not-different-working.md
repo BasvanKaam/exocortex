@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [cloud, position, cloud-native, mindset, adoption]
+tags: [cloud, positie, cloud-native, mindset, adoption]
 bron: salomon-it-blog
 ---
 

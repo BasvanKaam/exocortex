@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-10
-tags: [nerdio, wvd, autoscaling, fslogix, image-management]
+tags: [nerdio, wvd, autoscale, fslogix, image-management]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

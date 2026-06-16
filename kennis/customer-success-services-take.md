@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, support, licensing, opinion, customer-success-services]
+tags: [citrix, support, licensing, positie, customer-success-services]
 bron: basvankaam-blog
 ---
 

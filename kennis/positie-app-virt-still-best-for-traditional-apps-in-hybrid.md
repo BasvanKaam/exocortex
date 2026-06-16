@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [application-virtualization, hybrid, cloud-migration, desktop-virtualization, opinion]
+tags: [application-virtualization, hybrid, cloud-migration, desktop-virtualization, positie]
 bron: cgit-blog
 ---
 

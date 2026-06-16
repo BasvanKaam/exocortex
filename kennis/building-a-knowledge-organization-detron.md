@@ -4,7 +4,7 @@ merk: bvk
 domein: persoonlijk
 status: actief
 datum: 2026-06-11
-tags: [idee, kennisdeling, community, employer-branding, detron]
+tags: [idee, knowledge-sharing, community, employer-branding, detron]
 layer: reference
 gedateerd: nee
 bron: salomon-diversen

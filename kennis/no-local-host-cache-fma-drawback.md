@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, fma, lhc, ima, database, opinion]
+tags: [citrix, fma, local-host-cache, ima, database, positie]
 bron: basvankaam-blog
 ---
 

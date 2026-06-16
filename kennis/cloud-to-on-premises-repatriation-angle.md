@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [cloud, on-premises, repatriation, trends, draft]
+tags: [cloud, on-premises, repatriation, trend, draft]
 layer: reference
 gedateerd: nee
 bron: salomon-it-blog

@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [masterclass, regie, governance, operating-model, demand-supply]
+tags: [masterclass, governance, operating-model, demand-supply]
 layer: reference
 gedateerd: nee
 bron: salomon-masterclass

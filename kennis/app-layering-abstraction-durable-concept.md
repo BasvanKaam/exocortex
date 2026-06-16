@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [app-layering, app-virtualization, flexapp, concept]
+tags: [application-layering, application-virtualization, flexapp, concept]
 layer: reference
 gedateerd: nee
 bron: basvankaam-blog

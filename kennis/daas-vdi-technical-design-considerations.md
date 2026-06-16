@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [daas, vdi, fslogix, azure, modern-workplace, technical-design]
+tags: [daas, vdi, fslogix, azure, modern-workplace, design]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

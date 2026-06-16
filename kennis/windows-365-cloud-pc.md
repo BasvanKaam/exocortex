@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [windows-365, cloud-pc, intune, single-user, avd, daas]
+tags: [windows-365, intune, single-user, avd, daas]
 layer: reference
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

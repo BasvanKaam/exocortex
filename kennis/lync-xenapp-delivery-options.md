@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [lync, xenapp, hdx, hsd, office365]
+tags: [lync, xenapp, hdx, hsd, office-365]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

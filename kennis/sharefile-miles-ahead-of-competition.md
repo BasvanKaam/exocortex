@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, sharefile, office365, opinion, prediction]
+tags: [citrix, sharefile, office-365, positie, prediction]
 bron: basvankaam-blog
 ---
 

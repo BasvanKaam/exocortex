@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [cloud-governance, governance-processes, the-open-group, target-operating-model, weolcan-framework]
+tags: [cloud-governance, governance-processes, the-open-group, operating-model, weolcan-framework]
 layer: reference
 gedateerd: nee
 attributie: weolcan-wcgf

@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [nerdio, nmw, training, onboarding, idee, methode]
+tags: [nerdio, nmw, training, onboarding, idee, method]
 layer: reference
 gedateerd: nee
 bron: nerdio-blog

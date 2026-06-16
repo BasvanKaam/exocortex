@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [euc, digitale-werkplek, intake, assessment, interview, vdi, user-research]
+tags: [euc, digital-workspace, intake, assessment, interview, vdi, user-research]
 layer: reference
 gedateerd: nee
 bron: salomon-opdrachten

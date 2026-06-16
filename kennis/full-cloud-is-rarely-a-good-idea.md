@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [cloud-strategy, position, hybrid, on-premises, workload-fit]
+tags: [cloud-strategy, positie, hybrid, on-premises, workload-fit]
 bron: salomon-it-blog
 ---
 

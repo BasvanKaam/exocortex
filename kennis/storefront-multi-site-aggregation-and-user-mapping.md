@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [storefront, multi-site, aggregation, user-mapping, recovery-site]
+tags: [storefront, multi-site, workspace-aggregator, user-mapping, recovery-site]
 layer: reference
 bron: inside-citrix-fma
 ---

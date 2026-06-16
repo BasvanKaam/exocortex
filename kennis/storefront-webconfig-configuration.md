@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, storefront, web-config, webinterface, multi-site, powershell]
+tags: [citrix, storefront, web-config, web-interface, multi-site, powershell]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

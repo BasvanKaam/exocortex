@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [azure, resilience, outages, sla, position]
+tags: [azure, resilience, outages, sla, positie]
 bron: nerdio-blog
 ---
 

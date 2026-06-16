@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [positie, application-layering, msix, flexapp-one, avd, image-management]
+tags: [positie, application-layering, msix, flexapp, avd, image-management]
 bron: nerdio-blog
 ---
 

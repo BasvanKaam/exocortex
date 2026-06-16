@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [consulting, proposal, offer, sales, fixed-price, salomon, method]
+tags: [consulting, proposal, sales, fixed-price, salomon, method]
 layer: reference
 gedateerd: nee
 bron: salomon-opdrachten

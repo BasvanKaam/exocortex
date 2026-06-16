@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [nerdio, nme, nmm, msp, avd, migration, fslogix, app-attach]
+tags: [nerdio, nme, nmm, msp, avd, migration, fslogix, msix-app-attach]
 layer: reference
 gedateerd: ja
 bron: nerdio-blog

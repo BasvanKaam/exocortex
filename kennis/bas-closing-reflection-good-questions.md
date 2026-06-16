@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [closing, philosophy, learning, bas-opinion]
+tags: [closing, philosophy, l-and-d, positie]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [idee, salomon, assessment, security, kwetsbaarheden, methode]
+tags: [idee, salomon, assessment, security, kwetsbaarheden, method]
 layer: reference
 gedateerd: nee
 bron: salomon-it-blog

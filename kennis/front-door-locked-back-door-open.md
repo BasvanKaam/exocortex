@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [position, security, risk]
+tags: [positie, security, risk]
 bron: salomon-it-blog
 ---
 

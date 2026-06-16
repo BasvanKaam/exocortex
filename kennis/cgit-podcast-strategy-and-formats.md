@@ -4,7 +4,7 @@ merk: bvk
 domein: podcast
 status: actief
 datum: 2026-06-11
-tags: [idee, podcast, content-strategie, cgit, format]
+tags: [idee, podcast, content-strategy, come-get-it, format]
 layer: reference
 gedateerd: nee
 bron: salomon-it

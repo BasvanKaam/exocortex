@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [avd, nerdio, autoscale, fslogix, kosten, dated]
+tags: [avd, nerdio, autoscale, fslogix, cost, dated]
 layer: reference
 gedateerd: ja
 bron: nerdio-blog

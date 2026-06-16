@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [company-history, cgit, community, event]
+tags: [company-history, come-get-it, community, event]
 layer: reference
 gedateerd: ja
 bron: salomon-it-blog

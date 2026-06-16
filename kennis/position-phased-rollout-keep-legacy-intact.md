@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [consulting-method, migration, phased-rollout, adoption, change-management]
+tags: [consulting-method, migration, fasering, adoption, change-management]
 bron: salomon-opdrachten
 ---
 

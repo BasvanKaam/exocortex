@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [inventarisatie, assessment, intake, rationalisatie, business-case, cloud-migratie]
+tags: [inventarisatie, assessment, intake, rationalization, business-case, cloud-migration]
 layer: reference
 gedateerd: nee
 bron: salomon-opdrachten

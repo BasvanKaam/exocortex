@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [nerdio, kosten, licensing, learning-curve, customer-success]
+tags: [nerdio, cost, licensing, learning-curve, customer-success]
 layer: reference
 gedateerd: nee
 bron: nerdio-blog

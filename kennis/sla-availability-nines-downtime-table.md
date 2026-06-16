@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [sla, availability, uptime, reference, cloud-masterclass]
+tags: [sla, high-availability, uptime, reference, cloud-masterclass]
 layer: reference
 gedateerd: nee
 bron: salomon-masterclass

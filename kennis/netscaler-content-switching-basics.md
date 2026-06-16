@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [netscaler, content-switching, vserver, load-balancing, policies, http-header]
+tags: [netscaler, content-switching, vserver, load-balancing, policy, http-header]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

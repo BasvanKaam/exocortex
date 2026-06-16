@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [office-365, proplus, method, migration, deployment, whitepaper]
+tags: [office-365, method, migration, deployment, whitepaper]
 layer: reference
 gedateerd: nee
 bron: salomon-whitepaper

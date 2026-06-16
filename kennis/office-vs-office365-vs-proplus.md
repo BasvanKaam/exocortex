@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [microsoft, office-365, proplus, office-2019, licensing, workplace]
+tags: [microsoft, office-365, office-2019, licensing, workplace]
 layer: reference
 gedateerd: ja
 bron: salomon-it-blog

@@ -4,7 +4,7 @@ merk: bvk
 domein: podcast
 status: actief
 datum: 2026-06-09
-tags: [community, podcasts, euc, resources]
+tags: [community, podcast, euc, resources]
 layer: reference
 bron: inside-citrix-fma
 ---

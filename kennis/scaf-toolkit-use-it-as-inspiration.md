@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [scaf, pragmatism, opinion, tooling]
+tags: [scaf, pragmatism, positie, tooling]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [cloud-migratie, principes, cloud-native, cloud-exit, disaster-recovery, regie-organisatie]
+tags: [cloud-migration, principles, cloud-native, exit-strategy, disaster-recovery, regie-organisatie]
 bron: salomon-opdrachten
 ---
 

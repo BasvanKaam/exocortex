@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, printing, xenapp, xendesktop, universal-print-server, workspace-app]
+tags: [citrix, printing, xenapp, xendesktop, universal-print-server, receiver]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

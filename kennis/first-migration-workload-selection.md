@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [migration, scaf, quick-win, agile, bas-advice]
+tags: [migration, scaf, quick-win, agile, advice]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

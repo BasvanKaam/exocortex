@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [cloud-governance, position, strategy-map, communication]
+tags: [cloud-governance, positie, strategy-map, communication]
 layer: reference
 gedateerd: nee
 attributie: weolcan-wcgf

@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-10
-tags: [WVD, pricing, MSP, opinion]
+tags: [wvd, pricing, msp, positie]
 bron: basvankaam-blog
 ---
 

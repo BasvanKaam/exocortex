@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [consulting, advisory, scenarios, principles, risk, phasing, position]
+tags: [consulting, advice, scenarios, principles, risk, fasering, positie]
 bron: salomon-opdrachten
 ---
 

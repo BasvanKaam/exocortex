@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [positie, nazorg, consultancy, klantgericht, werkwijze]
+tags: [positie, nazorg, consultancy, customer-focus, method]
 bron: salomon-it
 ---
 

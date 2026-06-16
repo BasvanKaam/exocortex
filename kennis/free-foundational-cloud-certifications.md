@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [certification, azure, microsoft-365, aws, learning]
+tags: [certification, azure, office-365, aws, l-and-d]
 layer: reference
 gedateerd: ja
 bron: salomon-it-blog

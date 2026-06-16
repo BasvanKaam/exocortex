@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [iac, bas-opinion, key-person-risk, team, passion]
+tags: [iac, positie, key-person-risk, team, passion]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

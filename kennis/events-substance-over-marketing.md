@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [come-get-it, events, community, opinion, vendor-marketing]
+tags: [come-get-it, event, community, positie, vendor-marketing]
 bron: cgit-blog
 ---
 

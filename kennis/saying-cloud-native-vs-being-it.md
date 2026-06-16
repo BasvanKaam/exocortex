@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [cloud-native, bas-opinion, iaas-vs-paas]
+tags: [cloud-native, positie, iaas-vs-paas]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

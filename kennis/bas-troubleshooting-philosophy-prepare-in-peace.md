@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [bas-philosophy, troubleshooting, fundamentals, tool-kit]
+tags: [bas-philosophy, troubleshooting, fundamentals, toolkit]
 layer: rich
 bron: inside-citrix-fma
 ---

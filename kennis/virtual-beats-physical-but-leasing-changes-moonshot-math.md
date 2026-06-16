@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [moonshot, vdi, virtual-vs-physical, leasing, opinion, csp]
+tags: [moonshot, vdi, virtual-vs-physical, leasing, positie, csp]
 bron: basvankaam-blog
 ---
 

@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [community, microsoft-mvp, personal-branding, events, perks]
+tags: [community, microsoft-mvp, personal-brand, event, perks]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

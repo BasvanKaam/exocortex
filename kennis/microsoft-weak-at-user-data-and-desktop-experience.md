@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [microsoft, wvd, uem, liquidware, fslogix, profiles]
+tags: [microsoft, wvd, uem, liquidware, fslogix, profile]
 bron: basvankaam-blog
 ---
 

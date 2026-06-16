@@ -4,7 +4,7 @@ merk: bvk
 domein: persoonlijk
 status: actief
 datum: 2026-06-11
-tags: [culture, team, personal, recruitment, salomon, position]
+tags: [culture, team, personal, recruitment, salomon, positie]
 bron: salomon-it-blog
 ---
 

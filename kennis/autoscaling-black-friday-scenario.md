@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [autoscaling, scale-sets, scaling-plans, load-balancer, scaf]
+tags: [autoscale, scale-sets, load-balancer, scaf]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

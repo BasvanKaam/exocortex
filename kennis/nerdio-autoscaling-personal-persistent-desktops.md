@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [nerdio, wvd, avd, autoscaling, personal-desktop, rbac, cost-optimization]
+tags: [nerdio, wvd, avd, autoscale, personal-desktop, rbac, cost-optimization]
 layer: reference
 gedateerd: ja
 bron: nerdio-blog

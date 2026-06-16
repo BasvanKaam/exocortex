@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [war-story, avg, right-to-be-forgotten, facebook]
+tags: [war-story, avg, right-to-be-forgotten, social-media]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

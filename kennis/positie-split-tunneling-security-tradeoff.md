@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, netscaler, split-tunneling, security, opinion, ssl-vpn]
+tags: [citrix, netscaler, split-tunneling, security, positie, ssl-vpn]
 bron: basvankaam-blog
 ---
 

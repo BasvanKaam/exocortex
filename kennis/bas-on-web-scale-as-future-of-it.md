@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-10
-tags: [nutanix, hyper-converged, web-scale, opinion, certification]
+tags: [nutanix, hyper-converged, web-scale, positie, certification]
 bron: basvankaam-blog
 ---
 

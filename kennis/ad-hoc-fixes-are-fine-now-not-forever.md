@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [position, future-proof, crisis-response, risk, strategy-alignment]
+tags: [positie, future-proof, crisis-response, risk, strategy-alignment]
 bron: salomon-it-blog
 ---
 

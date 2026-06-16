@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [windows-365, frontline, cloud-pc, daas, licensing]
+tags: [windows-365, frontline, daas, licensing]
 layer: reference
 gedateerd: ja
 bron: nerdio-blog

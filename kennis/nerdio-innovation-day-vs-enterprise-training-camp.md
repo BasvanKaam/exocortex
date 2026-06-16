@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [nerdio, events, etc, innovation-day, method]
+tags: [nerdio, event, etc, innovation-day, method]
 layer: reference
 gedateerd: nee
 bron: nerdio-training

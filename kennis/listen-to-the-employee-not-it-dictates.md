@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [positie, employee-experience, consumerization, it-as-means, user-first]
+tags: [positie, user-experience, consumerization, it-as-means, user-first]
 bron: salomon-it-blog
 ---
 

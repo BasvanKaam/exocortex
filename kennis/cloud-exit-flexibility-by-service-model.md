@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [cloud-exit, iaas, saas, paas, serverless, vendor-lock-in]
+tags: [exit-strategy, iaas, saas, paas, serverless, vendor-lock-in]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

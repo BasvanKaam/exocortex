@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [vdi, load-testing, benchmarking, drones, tuning]
+tags: [vdi, load-testing, benchmarking, vdi-drones, tuning]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

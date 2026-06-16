@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-10
-tags: [WVD, licensing, AHU, M365, E3]
+tags: [wvd, licensing, ahu, office-365, E3]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

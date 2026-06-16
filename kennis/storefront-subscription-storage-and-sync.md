@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [storefront, subscriptions, ese, server-groups, synchronization]
+tags: [storefront, subscription, ese, server-groups, synchronization]
 layer: reference
 bron: inside-citrix-fma
 ---

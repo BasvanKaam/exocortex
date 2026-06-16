@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [daas, avd, responsibility, broker, infrastructure, rule-of-thumb]
+tags: [daas, avd, shared-responsibility, broker, infrastructure, rule-of-thumb]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

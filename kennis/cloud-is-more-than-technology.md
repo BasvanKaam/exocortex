@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-10
-tags: [cloud-adoption, business, capex-opex, consulting]
+tags: [cloud-adoption, business, opex-capex, consulting]
 layer: reference
 gedateerd: nee
 bron: basvankaam-blog

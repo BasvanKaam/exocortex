@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [netscaler, training, method, salomon, peer-learning, citrix-adc]
+tags: [netscaler, training, method, salomon, peer-learning, adc]
 layer: reference
 gedateerd: nee
 bron: salomon-it-blog

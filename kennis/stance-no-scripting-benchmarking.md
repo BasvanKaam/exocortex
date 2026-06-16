@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [vdi-drones, benchmarking, usability, opinion]
+tags: [vdi-drones, benchmarking, usability, positie]
 bron: basvankaam-blog
 ---
 

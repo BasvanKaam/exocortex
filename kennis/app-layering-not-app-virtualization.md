@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [app-layering, app-virtualization, flexapp, app-v, thinapp, framing]
+tags: [application-layering, application-virtualization, flexapp, app-v, thinapp, framing]
 bron: basvankaam-blog
 ---
 

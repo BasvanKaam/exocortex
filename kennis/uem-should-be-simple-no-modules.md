@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [liquidware, profileunity, uem, opinion, simplicity]
+tags: [liquidware, profileunity, uem, positie, simplicity]
 bron: basvankaam-blog
 ---
 

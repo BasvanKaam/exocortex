@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [office-365, proplus, position, flexibility, opex]
+tags: [office-365, positie, flexibility, opex-capex]
 bron: salomon-it-blog
 ---
 

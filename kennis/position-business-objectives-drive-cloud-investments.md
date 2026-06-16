@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [cloud-governance, position, business-alignment, digital-transformation]
+tags: [cloud-governance, positie, business-alignment, digital-transformation]
 layer: reference
 gedateerd: nee
 attributie: weolcan-wcgf

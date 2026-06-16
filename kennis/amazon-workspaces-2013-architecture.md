@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-10
-tags: [aws, workspaces, daas, pcoip, vpc]
+tags: [aws, workspace, daas, pcoip, vpc]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

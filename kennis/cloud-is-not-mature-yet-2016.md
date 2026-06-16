@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-10
-tags: [cloud, adoption, prediction, hybrid, skeptic]
+tags: [cloud, adoption, prediction, hybrid, skepticism]
 bron: basvankaam-blog
 ---
 

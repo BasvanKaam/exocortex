@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [consulting, advies, rapportstructuur, assessment, method]
+tags: [consulting, advice, rapportstructuur, assessment, method]
 layer: reference
 gedateerd: nee
 bron: salomon-opdrachten

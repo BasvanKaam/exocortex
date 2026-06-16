@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [wvd, azure, kosten, calculator, ahb, reserved-instances, methode]
+tags: [wvd, azure, cost, calculator, ahb, reserved-instances, method]
 layer: reference
 gedateerd: ja
 bron: nerdio-blog

@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [office-365, proplus, position, licensing, whitepaper]
+tags: [office-365, positie, licensing, whitepaper]
 bron: salomon-whitepaper
 ---
 

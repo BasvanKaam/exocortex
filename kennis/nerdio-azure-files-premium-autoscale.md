@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [nerdio-manager, azure-files, fslogix, autoscale, storage, avd]
+tags: [nme, azure-files, fslogix, autoscale, storage, avd]
 layer: reference
 gedateerd: ja
 bron: nerdio-blog

@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [positie, cgit, knowledge-sharing, culture, community]
+tags: [positie, come-get-it, knowledge-sharing, culture, community]
 bron: cgit
 ---
 

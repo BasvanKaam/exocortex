@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [hybrid-cloud, expressroute, daas, latency, on-premises]
+tags: [hybrid, expressroute, daas, latency, on-premises]
 layer: reference
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

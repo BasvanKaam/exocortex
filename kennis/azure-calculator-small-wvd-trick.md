@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-10
-tags: [WVD, Azure, pricing, AHU, reserved-instances]
+tags: [wvd, azure, pricing, ahu, reserved-instances]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

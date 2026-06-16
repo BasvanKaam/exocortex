@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [idee, cloud, aws, azure, gcp, positionering]
+tags: [idee, cloud, aws, azure, gcp, positie]
 layer: reference
 gedateerd: ja
 bron: salomon-it

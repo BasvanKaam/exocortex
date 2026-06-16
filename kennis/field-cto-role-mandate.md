@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [nerdio, field-cto, community, career, persoonlijk]
+tags: [nerdio, field-cto, community, career, personal]
 layer: reference
 gedateerd: ja
 bron: nerdio-blog

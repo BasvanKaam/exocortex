@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [idee, cgit, community, content, podcast, whitepaper, marketing]
+tags: [idee, come-get-it, community, content, podcast, whitepaper, marketing]
 layer: reference
 gedateerd: ja
 bron: salomon-it

@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [nerdio, wvd, avd, autoscaling, hostpool, cost-optimization]
+tags: [nerdio, wvd, avd, autoscale, host-pool, cost-optimization]
 layer: reference
 gedateerd: ja
 bron: nerdio-blog

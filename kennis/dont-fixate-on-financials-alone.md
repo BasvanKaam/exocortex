@@ -4,7 +4,7 @@ merk: bvk
 domein: financieel
 status: actief
 datum: 2026-06-11
-tags: [position, business-case, intangible-value, decision-making]
+tags: [positie, business-case, intangible-value, decision-making]
 bron: salomon-it-blog
 ---
 

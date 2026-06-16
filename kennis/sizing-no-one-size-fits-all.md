@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [sizing, capacity-planning, testing, methodology]
+tags: [sizing, capacity-planning, testing, method]
 layer: rich
 bron: inside-citrix-fma
 ---

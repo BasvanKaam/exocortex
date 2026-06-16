@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-11
-tags: [position, business-it-alignment, convergence, scaf, strategic-partner]
+tags: [positie, business-it-alignment, convergence, scaf, strategic-partner]
 bron: salomon-masterclass
 ---
 

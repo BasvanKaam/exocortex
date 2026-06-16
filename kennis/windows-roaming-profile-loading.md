@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-11
-tags: [windows, profiles, ntuser-dat, roaming-profile, terminal-server]
+tags: [windows, profile, ntuser-dat, roaming-profile, terminal-server]
 layer: reference
 gedateerd: nee
 bron: core-knowledge-docs

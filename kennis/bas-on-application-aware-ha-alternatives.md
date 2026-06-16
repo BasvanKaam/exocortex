@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-09
-tags: [high-availability, vmware, fault-tolerance, symantec, sql, opinion]
+tags: [high-availability, vmware, resilience, symantec, sql, positie]
 layer: rich
 bron: inside-citrix-fma
 ---

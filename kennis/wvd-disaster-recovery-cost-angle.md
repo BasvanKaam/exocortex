@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [nerdio, wvd, disaster-recovery, autoscale, azure-ad]
+tags: [nerdio, wvd, disaster-recovery, autoscale, entra]
 layer: reference
 gedateerd: ja
 bron: nerdio-blog

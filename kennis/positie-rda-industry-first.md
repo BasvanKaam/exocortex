@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, remote-display-analyzer, community, opinion, hdx]
+tags: [citrix, remote-display-analyzer, community, positie, hdx]
 bron: basvankaam-blog
 ---
 

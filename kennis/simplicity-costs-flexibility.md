@@ -4,7 +4,7 @@ merk: bvk
 domein: nerdio
 status: actief
 datum: 2026-06-11
-tags: [cloud-pc, avd, positie, strategy]
+tags: [windows-365, avd, positie, strategy]
 bron: nerdio-blog
 ---
 

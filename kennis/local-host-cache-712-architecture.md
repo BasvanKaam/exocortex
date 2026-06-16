@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, xenapp, xendesktop, local-host-cache, fma, high-availability, broker-service]
+tags: [citrix, xenapp, xendesktop, local-host-cache, fma, high-availability, broker]
 layer: reference
 gedateerd: ja
 bron: basvankaam-blog

@@ -4,7 +4,7 @@ merk: bvk
 domein: cloud
 status: actief
 datum: 2026-06-09
-tags: [key-takeaways, culture, capex-opex, shadow-it, devops]
+tags: [key-takeaways, culture, opex-capex, shadow-it, devops]
 layer: rich
 bron: van-de-basis-tot-meester-in-de-cloud
 ---

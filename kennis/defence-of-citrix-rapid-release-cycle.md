@@ -4,7 +4,7 @@ merk: bvk
 domein: euc
 status: actief
 datum: 2026-06-10
-tags: [citrix, current-release, ltsr, release-cadence, opinion]
+tags: [citrix, current-release, ltsr, release-cadence, positie]
 bron: basvankaam-blog
 ---
 
