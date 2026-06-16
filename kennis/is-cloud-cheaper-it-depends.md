@@ -22,3 +22,4 @@ Source: Bas van Kaam, Salomon IT blog, 2019-10-23.
 - [Worked TCO/ROI exercise: on-prem vs co-lo vs managed vs IaaS](cloud-tco-roi-financial-comparison-exercise.md)
 - [If cost saving is your primary cloud driver, reconsider your strategy](cost-saving-is-the-wrong-primary-cloud-driver.md)
 - [Do Not Fixate on the Financials Alone](dont-fixate-on-financials-alone.md)
+- [If your main reason to migrate is cost savings, rethink your strategy](position-cloud-not-cheaper-by-default.md)

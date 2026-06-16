@@ -25,3 +25,4 @@ The transferable lesson: write to the architecture and the why, not the UI of th
 - [A technical book should teach the why, not just the clicks](what-a-good-technical-book-should-teach.md)
 - [Pick a stable foundation to write about, not a moving target](write-about-stable-foundations-not-moving-targets.md)
 - [The risk of writing books on fast-moving products](writing-about-fast-moving-products-risk.md)
+- [Deliberately omitting Zero Trust product names](zero-trust-glossary-omission-stance.md)

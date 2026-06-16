@@ -25,9 +25,11 @@ On tooling, he prefers not to spend unnecessarily on licences: Microsoft Teams a
 
 ## Verwante notities
 
+- [Standardized pre-built templates over starting from scratch](prebuilt-templates-save-time-and-money.md)
 - [SCAF Design Principles and Why It Exists](scaf-design-principles.md)
 - [SCAF management-summary 'palet' templates per phase](scaf-management-summary-templates.md)
 - [SCAF process-capture worksheet structure](scaf-process-capture-worksheet.md)
+- [SCAF: Step-Cloud Adoption Framework and its toolkit](scaf-step-cloud-adoption-framework.md)
 - [SCAF strategy-phase templates: Summary Palet, Strategy Map, SWOT](scaf-strategy-phase-templates.md)
 - [SCAF supporting templates: RACI, Risk Register, Skill Readiness](scaf-supporting-templates-overview.md)
 - [SCAF Toolkit: 20 downloadable templates and what's excluded](scaf-toolkit-download-and-templates.md)

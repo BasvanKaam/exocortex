@@ -35,4 +35,5 @@ This is Bas's proposition for structuring a cloud migration as a guided journey 
 - [SCAF Design Principles and Why It Exists](scaf-design-principles.md)
 - [What Makes SCAF Different: Vendor-Neutral and Hand-in-Hand](scaf-differentiator-vendor-neutral-hand-in-hand.md)
 - [SCAF: Salomon Cloud Adoptie Framework (Origin)](scaf-salomon-cloud-adoptie-framework.md)
+- [SCAF: Step-Cloud Adoption Framework and its toolkit](scaf-step-cloud-adoption-framework.md)
 - [The Step-Cloud Adoptie Framework (SCAF) as the book's backbone](scaf-the-red-thread-of-the-book.md)

@@ -22,9 +22,13 @@ The model: take a normal XenDesktop/XenApp deployment and 'cloudify' the infrast
 
 ## Verwante notities
 
+- [Citrix Cloud Connector replaces the on-prem Delivery Controller as broker](citrix-cloud-connector-as-broker.md)
+- [Citrix Lifecycle Management blueprints](citrix-lifecycle-management-blueprints.md)
 - [Citrix Managed Desktop: single-bill DaaS on Citrix-managed Azure](citrix-managed-desktop-model-2019.md)
 - [Citrix Service Provider (CSP) program](citrix-service-provider-program.md)
 - [Workspace Cloud lacked an on-prem control plane in 2015](citrix-workspace-cloud-control-plane-2015.md)
+- [Citrix Workspace Cloud control plane and resource locations](citrix-workspace-cloud-control-plane-resource-locations.md)
+- [Citrix Workspace Cloud credential and authentication handling](citrix-workspace-cloud-credential-handling.md)
 - [Citrix Workspace Cloud as the hybrid bridge](citrix-workspace-cloud-hybrid-model.md)
 - [Citrix Workspace Suite and Workspace Services (on Azure) introduced at Synergy 2014](citrix-workspace-suite-services-2014-origins.md)
 - [New FMA features go to the cloud first](cloud-first-feature-delivery-citrix.md)

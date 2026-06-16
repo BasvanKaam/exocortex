@@ -24,3 +24,4 @@ EUC-X was conceived as a Dutch non-profit foundation (registered at the chamber 
 - [EUC history: OS/2 apps on NeXT via Citrix](euc-history-citrix-os2-next.md)
 - [EUC-X renamed to EUCdigest (2019)](eucdigest-rename.md)
 - [EUCdigest: vendor-agnostic, 100% community-driven EUC](eucdigest-vendor-agnostic-community.md)
+- [EUC News Nuggets: platform pivot from basvankaam.com](eucnewsnuggets-platform-pivot.md)

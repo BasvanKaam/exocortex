@@ -27,5 +27,8 @@ This is his governance philosophy in miniature: independent advice, business-bef
 - [The shift to a regie organization is a people problem, not a technical exercise](regie-transition-is-a-people-problem-not-a-tech-exercise.md)
 - [SCAF: Salomon Cloud Adoptie Framework](salomon-cloud-adoptie-framework-scaf.md)
 - [SCAF Guidelines Handbook: Internal, Reusable Source Document](scaf-handbook-purpose-and-reuse.md)
+- [SCAF - Step-Cloud Adoptie Framework](scaf-step-cloud-adoptie-framework.md)
+- [SCAF: Step-Cloud Adoption Framework and its toolkit](scaf-step-cloud-adoption-framework.md)
 - [Technology choices and organizational change are inseparable](technology-and-organization-change-are-inseparable.md)
 - [Cloud Advice Must Be Vendor-Independent](vendor-independent-cloud-advice.md)
+- [Deliberately omitting Zero Trust product names](zero-trust-glossary-omission-stance.md)

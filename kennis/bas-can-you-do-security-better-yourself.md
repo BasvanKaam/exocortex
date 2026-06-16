@@ -26,5 +26,6 @@ After laying out that hyperscalers invest billions annually (e.g. Microsoft's an
 - [Hyperscaler security investments and certifications](cloud-provider-security-investments.md)
 - [Gartner: 99% of security issues are caused by people](gartner-99-percent-security-issues-are-people.md)
 - [Performance and Stability: You Trade Control for Provider Scale](performance-stability-and-provider-scale.md)
+- [Bigger cloud providers are not more secure by default](position-bigger-cloud-providers-not-more-secure.md)
 - [Shared Responsibility Model (Restaurant Analogy)](shared-responsibility-model-restaurant-analogy.md)
 - [The promises of the Cloud (and Bas's invitation to challenge them)](the-promises-of-the-cloud.md)

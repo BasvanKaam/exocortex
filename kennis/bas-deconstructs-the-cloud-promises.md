@@ -49,4 +49,5 @@ Bas's summary: using cloud just to use cloud is not a valid reason, nor is using
 - [NIST and its definition of Cloud computing](nist-cloud-definition.md)
 - [No universal Cloud standard, and the vendor lock-in problem](no-universal-cloud-standard-vendor-lock-in.md)
 - [Opdracht 1 - Cloud promises critically examined (XYZ-Care)](opdracht-1-cloud-promises-xyz-care.md)
+- [Bigger cloud providers are not more secure by default](position-bigger-cloud-providers-not-more-secure.md)
 - [The promises of the Cloud (and Bas's invitation to challenge them)](the-promises-of-the-cloud.md)

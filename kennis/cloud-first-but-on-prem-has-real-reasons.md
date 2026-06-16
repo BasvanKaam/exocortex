@@ -24,3 +24,4 @@ The resolution he argues for is not cloud-vs-on-prem but hybrid: Azure Stack HCI
 - [Bas's warning: Cloud apps with on-premises backends invite latency trouble](latency-cloud-app-onprem-backend.md)
 - [Cloud-only is a utopia; cloud-first or hybrid is the only honest answer](positie-cloud-only-is-a-utopia.md)
 - [Cloud only? No. Cloud first or hybrid? Yes.](position-cloud-first-not-cloud-only.md)
+- [On-prem RDSH/VDI is here to stay; hybrid is the way forward](position-on-prem-rdsh-vdi-here-to-stay.md)

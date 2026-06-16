@@ -20,6 +20,7 @@ Microsoft's standard RDS printing solution, Easy Print, works OK for smaller on-
 
 - [Citrix printing barely changed across 2018 releases](citrix-printing-stagnation-2018.md)
 - [Citrix Universal Print Server (UPS)](citrix-universal-print-server.md)
+- [Printing and scanning are the trap when hosting RDSH/VDI in the cloud](cloud-printing-scanning-bandwidth-latency.md)
 - [EMF vs XPS print file formats](emf-vs-xps-print-formats.md)
 - [Printing is business critical, and underrated](printing-is-business-critical.md)
 - [Printing is still critical; Citrix deprioritized it for cloud](printing-still-critical-citrix-deprioritized-it.md)

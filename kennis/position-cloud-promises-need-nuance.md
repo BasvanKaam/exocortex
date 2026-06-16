@@ -23,3 +23,4 @@ The pedagogical position is that a cloud workshop should start by puncturing the
 ## Verwante notities
 
 - [The Cloud Is Not Automatically Cheaper, And 'No Upfront Investment' Is Often False](cloud-is-not-automatically-cheaper.md)
+- [Bigger cloud providers are not more secure by default](position-bigger-cloud-providers-not-more-secure.md)

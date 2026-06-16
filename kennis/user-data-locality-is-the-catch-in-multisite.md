@@ -16,6 +16,7 @@ In his May 2017 Cloud Pod write-up, Bas plants a 'VMW fact' warning that the arc
 
 ## Verwante notities
 
+- [Printing and scanning are the trap when hosting RDSH/VDI in the cloud](cloud-printing-scanning-bandwidth-latency.md)
 - [FSLogix Cloud Cache (tech preview, 2018)](fslogix-cloud-cache-2018.md)
 - [Hybrid user profiles vs roaming profiles](hybrid-user-profiles-explained.md)
 - [NetScaler GSLB is DNS-based multi-site traffic management](netscaler-gslb-dns-foundation.md)

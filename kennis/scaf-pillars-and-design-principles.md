@@ -37,5 +37,6 @@ Source: Bas van Kaam, Salomon IT blog, 2019-09-17.
 - [SCAF Design Principles and Why It Exists](scaf-design-principles.md)
 - [SCAF per-pillar workshop delivery sequence](scaf-pillar-workshop-delivery-sequence.md)
 - [SCAF: Salomon Cloud Adoptie Framework (Origin)](scaf-salomon-cloud-adoptie-framework.md)
+- [SCAF - Step-Cloud Adoptie Framework](scaf-step-cloud-adoptie-framework.md)
 - [SCAF: The Step-Cloud Adoptie Framework Overview](scaf-step-cloud-adoption-framework-overview.md)
 - [Cloud Advice Must Be Vendor-Independent](vendor-independent-cloud-advice.md)

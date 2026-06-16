@@ -25,3 +25,4 @@ How it stood in 2018. IGEL and Citrix had partnered for ~15-16 years to simplify
 - [IGEL UDC3 vs UD Pocket: permanent vs temporary thin-client conversion](igel-udc3-vs-ud-pocket.md)
 - [IGEL UMS can manage Windows endpoints, not just IGEL thin clients](igel-ums-manages-windows-endpoints.md)
 - [IGEL UMS: central thin client management via profiles and directories](igel-ums-thin-client-management.md)
+- [Inside Citrix: technical reviewers and IGEL as sponsor](inside-citrix-reviewers-and-igel-sponsor.md)

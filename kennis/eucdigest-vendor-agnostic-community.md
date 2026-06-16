@@ -24,6 +24,7 @@ At the January 2020 launch of the EUCdigest podcast (co-founded with Jits Langed
 - [Citrix/EUC community podcasts](euc-citrix-community-podcasts.md)
 - [EUC history: OS/2 apps on NeXT via Citrix](euc-history-citrix-os2-next.md)
 - [EUC-X: an umbrella for community side-projects (2019)](euc-x-community-platform.md)
+- [EUCdigest podcast and foundation](eucdigest-podcast-foundation.md)
 - [EUC-X renamed to EUCdigest (2019)](eucdigest-rename.md)
 - [Go-EUC: independent community EUC performance research](go-euc-performance-research-platform.md)
 - [The community's success depends on us; give before you take](stance-give-to-the-community.md)

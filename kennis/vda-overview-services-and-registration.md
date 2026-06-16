@@ -29,6 +29,7 @@ Registration: on OS boot the VDA tries to register with a known Controller. The 
 - [Server VDA vs Desktop VDA: the often-overlooked new component](server-vda-vs-desktop-vda.md)
 - [Two VDA types and the single-user vs multi-user ICA stack](two-vda-types-ica-stack-difference.md)
 - [VDA install options and supported operating systems](vda-install-options-and-supported-os.md)
+- [VDA registration and Controller discovery order](vda-registration-and-controller-discovery.md)
 - [VDA registration and how to verify it](vda-registration-and-verification.md)
 - [VDA registration: auto-update, fallback locations and the CBP](vda-registration-process.md)
 - [Troubleshooting the VDA registration process and Citrix Health Assistant](vda-registration-troubleshooting.md)

@@ -23,6 +23,7 @@ It is not always possible to move an outdated application to the Cloud - the dat
 - [Cloud-First, But On-Prem AVD Has Legitimate Drivers](cloud-first-but-on-prem-has-real-reasons.md)
 - [Hidden decision factors before going cloud](cloud-hidden-decision-factors.md)
 - [Physical and performance limits of working from the cloud](cloud-physical-and-performance-limits.md)
+- [Printing and scanning are the trap when hosting RDSH/VDI in the cloud](cloud-printing-scanning-bandwidth-latency.md)
 - [A simple DIY method to compare Cloud datacenter latency](diy-cloud-latency-ping-test-method.md)
 - [Edge computing and Edge-nodes](edge-computing.md)
 - [Hybrid cloud: best of both worlds via ExpressRoute and low latency](hybrid-cloud-best-of-both-worlds.md)

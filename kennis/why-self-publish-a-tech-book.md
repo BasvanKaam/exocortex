@@ -17,6 +17,7 @@ In March 2016, announcing his first book (Inside Citrix - The Flex Management Ar
 ## Verwante notities
 
 - [Self-publishing a niche Citrix book: the numbers behind Inside Citrix](inside-citrix-book-self-publishing-numbers.md)
+- [Inside Citrix: technical reviewers and IGEL as sponsor](inside-citrix-reviewers-and-igel-sponsor.md)
 - [Writing the book was sparked by talking to peers who had done it](inspired-to-write-by-peers.md)
 - [Stance: no public PDF of the book, full stop](no-pdf-no-piracy-stance.md)
 - [Serializing a finished book onto WordPress is more work than it looks](publishing-a-book-on-wordpress-friction.md)

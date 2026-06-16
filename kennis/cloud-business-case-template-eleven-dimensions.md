@@ -23,4 +23,5 @@ The business-case template Bas hands learners, framed to push back on the idea t
 - [A Business Case Is More Than 'Hard' Costs Alone](businesscase-more-than-hard-costs.md)
 - [Worked TCO/ROI exercise: on-prem vs co-lo vs managed vs IaaS](cloud-tco-roi-financial-comparison-exercise.md)
 - [Start a DaaS Business Case 'High-Over' First](daas-business-case-high-over-first.md)
+- [Standardized pre-built templates over starting from scratch](prebuilt-templates-save-time-and-money.md)
 - [SCAF TCO / Business-case template](scaf-tco-business-case-template.md)

@@ -18,6 +18,7 @@ With CWC you choose where to host StoreFront, which affects custom domain names 
 
 ## Verwante notities
 
+- [Citrix Workspace Cloud credential and authentication handling](citrix-workspace-cloud-credential-handling.md)
 - [Citrix Workspace Cloud (CWC): a managed control plane over the FMA](citrix-workspace-cloud-overview.md)
 - [CWC authentication and credential handling security](cwc-authentication-credential-handling.md)
 - [The CWC Cloud Connector](cwc-cloud-connector.md)

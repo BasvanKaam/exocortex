@@ -33,4 +33,6 @@ His design tips (key takeaways): virtualize Controllers for flexibility; keep th
 - [NetScaler high availability and clustering](netscaler-high-availability-clustering.md)
 - [Bas's 'one is none' rule for resilience](one-is-none-rule.md)
 - [StoreFront high availability and Delivery Controller load balancing](storefront-ha-and-load-balancing.md)
+- [VDA HA mode is a last resort, not a design choice](vda-ha-mode-last-resort.md)
 - [VDA high-availability mode (direct ICA, last resort)](vda-high-availability-mode.md)
+- [VDA high-availability mode (direct ICA fallback)](vda-high-availability-mode-2.md)

@@ -24,6 +24,7 @@ Community podcasts Bas recommends:
 - [E2EVC: the Experts-2-Experts Virtualization Conference](e2evc-conference.md)
 - [Community resources: Team RGE and Marius Sandbu's NetScaler e-Book](euc-community-resources-teamrge-msandbu.md)
 - [EUC history: OS/2 apps on NeXT via Citrix](euc-history-citrix-os2-next.md)
+- [EUCdigest podcast and foundation](eucdigest-podcast-foundation.md)
 - [EUC-X renamed to EUCdigest (2019)](eucdigest-rename.md)
 - [EUCdigest: vendor-agnostic, 100% community-driven EUC](eucdigest-vendor-agnostic-community.md)
 - [Following Cloud and EUC experts on X (Twitter)](following-experts-on-x-twitter.md)

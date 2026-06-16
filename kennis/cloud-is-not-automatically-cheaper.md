@@ -25,4 +25,5 @@ Bas takes an explicit stance against two pieces of cloud marketing orthodoxy. Fi
 - [Is the Cloud Cheaper? It Depends](is-cloud-cheaper-it-depends.md)
 - [Position-led idea: 'to the cloud, unless'](naar-de-cloud-tenzij.md)
 - [Cloud, and Citrix especially, is almost always more expensive than on-prem](position-citrix-cloud-is-almost-always-pricier-than-on-prem.md)
+- [If your main reason to migrate is cost savings, rethink your strategy](position-cloud-not-cheaper-by-default.md)
 - [Position: the original cloud promises must be put up for debate, not taken at face value](position-cloud-promises-need-nuance.md)

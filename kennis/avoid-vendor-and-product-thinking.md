@@ -27,3 +27,4 @@ Underlying argument: it is always wise to periodically ask whether earlier choic
 - [Technology Should Never Be Leading](technology-should-never-be-leading.md)
 - [Vendor partner congresses are marketing-first roadmap events](vendor-congresses-are-marketing-roadmaps.md)
 - [Cloud Advice Must Be Vendor-Independent](vendor-independent-cloud-advice.md)
+- [Deliberately omitting Zero Trust product names](zero-trust-glossary-omission-stance.md)

@@ -24,5 +24,6 @@ Related tension he names openly: running a VDI estate is "always going to be a f
 - [If cost saving is your primary cloud driver, reconsider your strategy](cost-saving-is-the-wrong-primary-cloud-driver.md)
 - [Cost savings are the cherry on top; business value and continuity matter more](cost-savings-are-the-cherry-on-top.md)
 - [Lead with operational and business value; cost savings is the cherry on top](lead-with-operational-value-not-just-cost.md)
+- [If your main reason to migrate is cost savings, rethink your strategy](position-cloud-not-cheaper-by-default.md)
 - [The True ROI Is Time and Wellbeing, Not Just Money](position-true-nerdio-roi-is-time-and-wellbeing.md)
 - [Nerdio's real payoff is reclaimed engineer time, not just Azure cost](value-is-time-reclaimed-not-just-cost.md)

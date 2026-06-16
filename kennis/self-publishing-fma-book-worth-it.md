@@ -20,6 +20,7 @@ Looking back on 2016 (writing Jan 2017), Bas reflects that writing his book on t
 - [Byte-Sized Cloud: A Community-Written Book Project](byte-sized-cloud-community-book.md)
 - [Byte-Sized: Cloud Design Principles and Architectural Recommendations book](byte-sized-cloud-design-book.md)
 - [Self-publishing a niche Citrix book: the numbers behind Inside Citrix](inside-citrix-book-self-publishing-numbers.md)
+- [Inside Citrix: technical reviewers and IGEL as sponsor](inside-citrix-reviewers-and-igel-sponsor.md)
 - [Writing the book was sparked by talking to peers who had done it](inspired-to-write-by-peers.md)
 - [Bulleted lists are one of the best ways to share knowledge](lists-are-the-best-way-to-share-knowledge.md)
 - [Losing Local Host Cache was a real FMA regression](no-local-host-cache-fma-drawback.md)

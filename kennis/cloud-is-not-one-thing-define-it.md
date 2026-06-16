@@ -24,5 +24,6 @@ The practical consequence: blanket statements like 'move to the cloud' are meani
 - [Before debating Cloud, specify which type of service you mean](cloud-discussion-specify-the-service-type-first.md)
 - [Cloud Is an Operating Model, Not a Location](cloud-is-an-operating-model-not-a-location.md)
 - [Cloud Is Not the Answer to Everything](cloud-not-the-answer-to-everything.md)
+- [Define the cloud service model before debating its merits](cloud-service-models-define-before-debating.md)
 - [Bas's rule: define the Cloud before debating its pros and cons](define-cloud-before-debating-it.md)
 - [Full Cloud Migration Is Rarely a Good Idea](full-cloud-is-rarely-a-good-idea.md)

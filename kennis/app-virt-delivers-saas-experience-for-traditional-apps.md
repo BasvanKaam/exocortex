@@ -28,4 +28,5 @@ Bas's method for handling traditional (Windows) applications in a SaaS-dominated
 - [App virtualization is still the best way to deliver traditional apps in a hybrid world](positie-app-virt-still-best-for-traditional-apps-in-hybrid.md)
 - [Stop calling them 'legacy' apps, call them 'traditional'](positie-legacy-is-a-bad-term-call-them-traditional.md)
 - [Call them traditional Windows apps, not legacy, and AVD keeps them alive](position-traditional-not-legacy-windows-apps.md)
+- [SaaS only gets you so far; legacy Windows apps grew, not shrank](position-traditional-windows-apps-grew-not-shrank.md)
 - [Secure the data and access, not the device, and give employees freedom](secure-the-data-not-the-device-give-employees-freedom.md)

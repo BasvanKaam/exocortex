@@ -30,6 +30,7 @@ Bas notes the elegance of these models is that they can often be combined.
 - ['The Cloud' Is Not One Thing: Define It First](cloud-is-not-one-thing-define-it.md)
 - [Cloud Market Statistics (2024)](cloud-market-statistics-2024.md)
 - [Cloud-Native: Designed for the Cloud from the Start](cloud-native-definition.md)
+- [Define the cloud service model before debating its merits](cloud-service-models-define-before-debating.md)
 - [Cloud service models: SaaS, PaaS, IaaS, DaaS](cloud-service-models-saas-paas-iaas-daas.md)
 - [Core cloud building blocks: datacenter, virtualization, APIs, storage, databases, elasticity](core-cloud-components-and-concepts.md)
 - [DaaS versus VDI](daas-vs-vdi.md)

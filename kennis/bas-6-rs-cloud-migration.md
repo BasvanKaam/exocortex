@@ -48,4 +48,5 @@ After the inventory, use the SCAF Wave 1&2 templates to write a brief summary of
 - [SCAF: Application, Data and System Inventory via Waves](scaf-application-data-system-inventory.md)
 - [SCAF execution-phase templates and the migration waves](scaf-execution-phase-templates.md)
 - [SCAF insight-pillar intake workshop questions](scaf-insight-pillar-intake-questions.md)
+- [The 6 Rs of cloud migration](six-rs-cloud-migration-strategies.md)
 - [Tactical Cloud Migration Prioritization](tactical-cloud-migration-prioritization.md)

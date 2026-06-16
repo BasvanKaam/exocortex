@@ -31,6 +31,7 @@ Summary: VDI gives more control and customisation but higher costs and complexit
 - [Amazon WorkSpaces architecture (2013 preview)](amazon-workspaces-2013-architecture.md)
 - [Capex vs Opex in IT and Cloud](capex-vs-opex-in-it.md)
 - [Cloud delivery models: IaaS, PaaS, SaaS and DaaS](cloud-delivery-models-iaas-paas-saas-daas.md)
+- [Define the cloud service model before debating its merits](cloud-service-models-define-before-debating.md)
 - [Cloud service models: SaaS, PaaS, IaaS, DaaS](cloud-service-models-saas-paas-iaas-daas.md)
 - [CWC as a near-DaaS workaround for Microsoft desktop-OS licensing](cwc-desktop-os-daas-licensing.md)
 - [Start a DaaS Business Case 'High-Over' First](daas-business-case-high-over-first.md)

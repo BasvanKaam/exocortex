@@ -44,5 +44,6 @@ For file data I prefer **continuous synchronisation per share** up to the cut-ov
 - [Migrate vs Modernize as a Per-Workload Decision](migrate-vs-modernize-distinction.md)
 - [Position: phase the rollout and keep part of the legacy estate intact](position-phased-rollout-keep-legacy-intact.md)
 - [Start small, test, then scale — because it de-risks the client's investment](position-start-small-test-then-scale-derisks-investment.md)
+- [The 6 Rs of cloud migration](six-rs-cloud-migration-strategies.md)
 - [Principles I apply on transformation engagements](transformation-principles-positions.md)
 - [Transition/transformation engagement structure: intake, analyse, execute in plateaus](transition-transformation-engagement-structure.md)

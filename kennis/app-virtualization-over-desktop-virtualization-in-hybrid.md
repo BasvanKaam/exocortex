@@ -25,5 +25,6 @@ This is a notably strong, contrarian EUC position that the brain otherwise only 
 - [App virtualization is still the best way to deliver traditional apps in a hybrid world](positie-app-virt-still-best-for-traditional-apps-in-hybrid.md)
 - [Stop calling them 'legacy' apps, call them 'traditional'](positie-legacy-is-a-bad-term-call-them-traditional.md)
 - [You must understand traditional solutions to give good cloud advice](position-must-know-traditional-solutions-to-advise-on-cloud.md)
+- [SaaS only gets you so far; legacy Windows apps grew, not shrank](position-traditional-windows-apps-grew-not-shrank.md)
 - [Secure the data and access, not the device, and give employees freedom](secure-the-data-not-the-device-give-employees-freedom.md)
 - [WVD versus server RDS: positioning and primary use-cases](wvd-vs-server-rds-positioning-and-use-cases.md)

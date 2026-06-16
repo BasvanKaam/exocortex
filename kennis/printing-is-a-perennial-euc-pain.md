@@ -19,6 +19,7 @@ Bas openly admits a long personal interest in printing and a history of failures
 - [Bas on why he likes Citrix printing](bas-likes-printing.md)
 - [Citrix printing barely changed across 2018 releases](citrix-printing-stagnation-2018.md)
 - [Citrix Universal Print Driver (UPD)](citrix-universal-print-driver.md)
+- [Printing and scanning are the trap when hosting RDSH/VDI in the cloud](cloud-printing-scanning-bandwidth-latency.md)
 - [Take notes by hand: the pen beats the keyboard](handwriting-beats-keyboard.md)
 - [HTML5 browser clients: appeal and historical pain points](html5-browser-client-tradeoffs.md)
 - [Most Citrix printing pain is still bad drivers and bad architecture](positie-citrix-printing-still-driver-and-design-problem.md)

@@ -19,6 +19,7 @@ FMA fact: Citrix offers out-of-the-box blueprints for XenDesktop, XenApp, XenMob
 
 ## Verwante notities
 
+- [Citrix Lifecycle Management blueprints](citrix-lifecycle-management-blueprints.md)
 - [Citrix Smart Check: proactive Site health checks on top of Insight Services](citrix-smart-check-proactive-health.md)
 - [Citrix's serial renaming: TaaS to Insight Services to Smart Check](citrix-taas-insight-smartcheck-naming-history.md)
 - [Citrix Workspace Cloud as the hybrid bridge](citrix-workspace-cloud-hybrid-model.md)

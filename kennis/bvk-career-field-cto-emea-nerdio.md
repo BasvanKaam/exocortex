@@ -29,6 +29,7 @@ Public press-release facts (announced publicly, not confidential).
 - [Bas van Kaam 2020 career milestones](bas-2020-career-milestones.md)
 - [Bas joined Nerdio as Field CTO EMEA on 1 June 2020](bas-joins-nerdio-field-cto-emea.md)
 - [What the EMEA Field CTO role covers (Bas's own description)](bvk-nerdio-field-cto-role.md)
+- [Cloud Mastery - self-positioning and book intent](cloud-mastery-author-positioning.md)
 - [CTO vs Field CTO: internal strategy vs external customer translation](cto-vs-field-cto.md)
 - [Bas's Field CTO mandate at Nerdio (the brief he set himself)](field-cto-role-mandate.md)
 - [The Microsoft MVP program](microsoft-mvp-program.md)

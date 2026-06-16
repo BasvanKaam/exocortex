@@ -24,4 +24,5 @@ How it worked then (Citrix 7.x): StoreFront is on the critical path for authenti
 - [StoreFront 2.0 replaces Web Interface (key features)](storefront-2-replaces-web-interface.md)
 - [StoreFront Multi-Site aggregation, mapping and failover](storefront-multisite-aggregation.md)
 - [StoreFront over Web Interface is a good thing (April 2013)](storefront-over-web-interface-call.md)
+- [VDA HA mode is a last resort, not a design choice](vda-ha-mode-last-resort.md)
 - [XenDesktop 7.6 HA options before Zones](xendesktop-76-ha-options-pre-zones.md)

@@ -25,6 +25,7 @@ The consequence he presses: in a world where solutions are increasingly cloud-ba
 - [Cloud Is Not the Answer to Everything](cloud-not-the-answer-to-everything.md)
 - [ICT Vision: IT and Cloud Strategy Derive from the Digital Strategy](ict-vision-strategy-derivation-from-digital-strategy.md)
 - [Position: Cloud Is a Strategic Derivative, Not a Goal in Itself](position-cloud-is-strategic-derivative-not-goal.md)
+- [The 6 Rs of cloud migration](six-rs-cloud-migration-strategies.md)
 - [Technology Should Never Be Leading](technology-should-never-be-leading.md)
 - [Ten characteristics and benefits of a good IT roadmap](ten-characteristics-of-a-good-it-roadmap.md)
 - [What an IT strategy actually contains](what-an-it-strategy-actually-contains.md)

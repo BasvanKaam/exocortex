@@ -26,3 +26,4 @@ Source: Bas van Kaam, internal feedback document on ComeGetIT, Salomon IT era.
 - [The 'Cloud -> On-premises' counter-trend (draft angle)](cloud-to-on-premises-repatriation-angle.md)
 - [If cost saving is your primary cloud driver, reconsider your strategy](cost-saving-is-the-wrong-primary-cloud-driver.md)
 - [The key line between Essentials and full Citrix Cloud: VDA placement](essentials-vs-full-citrix-cloud-vda-placement.md)
+- [If your main reason to migrate is cost savings, rethink your strategy](position-cloud-not-cheaper-by-default.md)

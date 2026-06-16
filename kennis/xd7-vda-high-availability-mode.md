@@ -25,5 +25,7 @@ Limitations: dedicated desktops only (not pooled); no user roaming across device
 - [The Broker Service bundles brokering, XML and STA in one process](citrix-broker-service-three-roles.md)
 - [How Local Host Cache works in the FMA](local-host-cache-712-architecture.md)
 - [Losing Local Host Cache was a real FMA regression](no-local-host-cache-fma-drawback.md)
+- [VDA HA mode is a last resort, not a design choice](vda-ha-mode-last-resort.md)
 - [VDA high-availability mode (direct ICA, last resort)](vda-high-availability-mode.md)
+- [VDA high-availability mode (direct ICA fallback)](vda-high-availability-mode-2.md)
 - [Zone VDA registration and failover behaviour (7.7)](zones-vda-registration-failover.md)

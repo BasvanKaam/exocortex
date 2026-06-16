@@ -28,6 +28,7 @@ In the book's 'Cloud services overview' diagram, the darker grey fields indicate
 - [Cloud delivery models: IaaS, PaaS, SaaS and DaaS](cloud-delivery-models-iaas-paas-saas-daas.md)
 - [Cloud deployment models (public, private, hybrid, community)](cloud-deployment-models.md)
 - [Before debating Cloud, specify which type of service you mean](cloud-discussion-specify-the-service-type-first.md)
+- [Define the cloud service model before debating its merits](cloud-service-models-define-before-debating.md)
 - [Citrix Lifecycle Management Services and blueprints](cwc-lifecycle-management-services.md)
 - [DaaS versus VDI](daas-vs-vdi.md)
 - [Bas's rule: define the Cloud before debating its pros and cons](define-cloud-before-debating-it.md)

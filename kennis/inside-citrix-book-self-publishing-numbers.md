@@ -21,6 +21,7 @@ Context for a second brain: this is a reference point for what a deeply niche, n
 ## Verwante notities
 
 - [Byte-Sized: Cloud Design Principles and Architectural Recommendations book](byte-sized-cloud-design-book.md)
+- [Inside Citrix: technical reviewers and IGEL as sponsor](inside-citrix-reviewers-and-igel-sponsor.md)
 - [Writing the book was sparked by talking to peers who had done it](inspired-to-write-by-peers.md)
 - [Bulleted lists are one of the best ways to share knowledge](lists-are-the-best-way-to-share-knowledge.md)
 - [Stance: no public PDF of the book, full stop](no-pdf-no-piracy-stance.md)

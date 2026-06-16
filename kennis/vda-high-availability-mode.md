@@ -30,5 +30,6 @@ Limitations: user roaming (an already-connected device blocks connecting from an
 - [FMA Local Host Cache: Principal Broker, Secondary Broker (HA) and CSS](fma-local-host-cache-services.md)
 - [FMA Zones VDA registration and Controller failover](fma-zones-vda-registration-and-failover.md)
 - [The 'one is none' rule and Delivery Controller high availability](one-is-none-delivery-controller-ha.md)
+- [VDA high-availability mode (direct ICA fallback)](vda-high-availability-mode-2.md)
 - [VDA registration: auto-update, fallback locations and the CBP](vda-registration-process.md)
 - [VDA high-availability mode for Controller outages](xd7-vda-high-availability-mode.md)

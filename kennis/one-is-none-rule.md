@@ -36,3 +36,4 @@ He applies it across the FMA: deploy at least two Delivery Controllers per Site 
 - [The 'one is none' rule and Delivery Controller high availability](one-is-none-delivery-controller-ha.md)
 - [PVS high availability](pvs-high-availability.md)
 - [Universal Print Server load balancing and HA (7.9)](ups-load-balancing-ha.md)
+- [VDA HA mode is a last resort, not a design choice](vda-ha-mode-last-resort.md)

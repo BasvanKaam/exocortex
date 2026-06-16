@@ -19,4 +19,5 @@ How it worked then: VDAs in a zone register with their preferred Controller (one
 ## Verwante notities
 
 - [How Local Host Cache works in the FMA](local-host-cache-712-architecture.md)
+- [VDA registration and Controller discovery order](vda-registration-and-controller-discovery.md)
 - [VDA high-availability mode for Controller outages](xd7-vda-high-availability-mode.md)

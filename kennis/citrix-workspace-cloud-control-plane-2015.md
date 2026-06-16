@@ -20,6 +20,7 @@ Durable takeaway underneath the dated specifics: cloud-managed control planes hi
 
 ## Verwante notities
 
+- [Citrix Workspace Cloud control plane and resource locations](citrix-workspace-cloud-control-plane-resource-locations.md)
 - [Citrix Workspace Cloud as the hybrid bridge](citrix-workspace-cloud-hybrid-model.md)
 - [Citrix Workspace Cloud (CWC): a managed control plane over the FMA](citrix-workspace-cloud-overview.md)
 - [Citrix Workspace Suite and Workspace Services (on Azure) introduced at Synergy 2014](citrix-workspace-suite-services-2014-origins.md)

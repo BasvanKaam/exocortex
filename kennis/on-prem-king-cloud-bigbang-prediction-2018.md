@@ -21,6 +21,7 @@ Several pointed opinions: (1) He's bullish on VMware's EUC resurgence, praising 
 - [Amazon WorkSpaces architecture (2013 preview)](amazon-workspaces-2013-architecture.md)
 - [Durable barriers to public cloud adoption](barriers-to-public-cloud-adoption-2016.md)
 - [The cloud is taking over, but in 2016 it is not yet proven for everybody](cloud-is-not-mature-yet-2016.md)
+- [On-prem RDSH/VDI is here to stay; hybrid is the way forward](position-on-prem-rdsh-vdi-here-to-stay.md)
 - [Bas: companies are swinging back from virtual/cloud to physical](swing-back-from-virtual-to-physical-2018.md)
 - [UEM should be simple, single-console, and not sold in tiers](uem-should-be-simple-no-modules.md)
 - [Windows apps are 'traditional', not 'legacy'](windows-apps-traditional-not-legacy.md)

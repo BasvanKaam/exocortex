@@ -28,6 +28,7 @@ Challenges flagged: too little time (invest first, show results, then ask for mo
 
 ## Verwante notities
 
+- [Using AI voices to deliver his content](ai-voices-for-content-delivery.md)
 - [CGIT community + content engine: events, whitepapers, podcasts, ambassadors](cgit-community-content-engine-2019.md)
 - [CGIT proposal model: fund event attendance via content output](cgit-ignite-2020-proposal-model.md)
 - [CGIT x LoginTechcast Collaboration Idea](cgit-logintechcast-collaboration-idea.md)

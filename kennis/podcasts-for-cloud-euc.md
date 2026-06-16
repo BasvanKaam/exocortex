@@ -17,12 +17,14 @@ The podcast overview he lists includes: The Cloudcast, AWS Podcast, Google Cloud
 
 ## Verwante notities
 
+- [Using AI voices to deliver his content](ai-voices-for-content-delivery.md)
 - [Bas on continuous study and self-investment](bas-on-continuous-study-and-self-investment.md)
 - [Bas's take on Twitter/X and Bluesky for following experts](bas-on-twitter-x-and-bluesky.md)
 - [CGIT Podcast Strategy and Formats](cgit-podcast-strategy-and-formats.md)
 - [Three foundational cloud certs (2019)](cloud-foundation-certs-2019.md)
 - [Curated free-cloud-learning resource page as a colleague onboarding tool](curated-free-cloud-learning-resource-page-idea.md)
 - [Citrix/EUC community podcasts](euc-citrix-community-podcasts.md)
+- [EUC News Nuggets: platform pivot from basvankaam.com](eucnewsnuggets-platform-pivot.md)
 - [Following Cloud and EUC experts on X (Twitter)](following-experts-on-x-twitter.md)
 - [Local communities and Meetup; Dutch community examples](local-communities-and-meetup.md)
 - [Curated cloud self-study resources (Masterclass handout)](masterclass-curated-cloud-learning-resources.md)

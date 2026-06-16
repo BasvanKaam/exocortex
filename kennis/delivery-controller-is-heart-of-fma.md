@@ -23,8 +23,11 @@ He stresses Delivery Controllers are fundamentally different from the old Data C
 ## Verwante notities
 
 - [The XenDesktop Central Site database](central-site-database-role.md)
+- [Citrix Cloud Connector replaces the on-prem Delivery Controller as broker](citrix-cloud-connector-as-broker.md)
 - [The Delivery Controller as the heart of the FMA](delivery-controller-heart-of-fma.md)
 - [Delivery Controller server sizing and supported OS](delivery-controller-sizing.md)
 - [Delivery Controller vs Data Collector differences](delivery-controller-vs-data-collector.md)
 - [The FlexCast Management Architecture and its thirteen core services](fma-thirteen-core-services-overview.md)
 - [The 'one is none' rule and Delivery Controller high availability](one-is-none-delivery-controller-ha.md)
+- [VDA high-availability mode (direct ICA fallback)](vda-high-availability-mode-2.md)
+- [VDA registration and Controller discovery order](vda-registration-and-controller-discovery.md)
