@@ -36,3 +36,4 @@ Confirms our foundation (files in git, instructions-for-myself in the repo, lear
 - [Origin of GPT and OpenAI](origin-of-gpt-and-openai.md)
 - [Semantic technologies and data science in the cloud](semantic-technologies-and-data-science.md)
 - [Bas on the value of IT communities](value-of-it-communities.md)
+- [Bas's GitHub and the AI tooling he builds](bas-github-ai-tooling.md)

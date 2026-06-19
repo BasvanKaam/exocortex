@@ -71,6 +71,7 @@ De feitelijke spine: bio, loopbaan, erkenning, publicaties, sport en wat anderen
 - [Bas van Kaam: career timeline (1999 to 2026)](bas-van-kaam-loopbaan-tijdlijn.md)
 - [Bas van Kaam: credentials, awards and community programs](bas-van-kaam-credentials-en-awards.md)
 - [Bas van Kaam: publications overview](bas-van-kaam-publicaties-overzicht.md)
+- [Bas van Kaam: talks, sessions and media appearances](bas-van-kaam-talks-en-appearances.md)
 - [Bas van Kaam: sport achievements](bas-van-kaam-sport.md)
 - [Bas van Kaam: hobbies and interests (guitar, LEGO, gear)](bas-van-kaam-hobbies-interesses.md)
 - [Bas van Kaam: what peers say (testimonials)](bas-van-kaam-testimonials.md)

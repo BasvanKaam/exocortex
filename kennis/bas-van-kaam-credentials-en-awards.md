@@ -53,3 +53,4 @@ Note: his finance venture (Nooit Meer Blut / Altijd in Bèta / basvankaamacademy
 - [Citrix Technology Professionals (CTP) and Citrix Technology Advocates (CTA)](citrix-technology-professionals-and-advocates.md)
 - [The Microsoft MVP program](microsoft-mvp-program.md)
 - [Community involvement as the engine of his career](positie-community-as-career-engine.md)
+- [Bas van Kaam: talks, sessions and media appearances](bas-van-kaam-talks-en-appearances.md)

@@ -39,3 +39,5 @@ The full professional arc, from helpdesk to Principal Learning Architect. Source
 - [Bas van Kaam: credentials, awards and community programs](bas-van-kaam-credentials-en-awards.md)
 - [Bas van Kaam: publications overview](bas-van-kaam-publicaties-overzicht.md)
 - [Community involvement as the engine of his career](positie-community-as-career-engine.md)
+- [Bas's GitHub and the AI tooling he builds](bas-github-ai-tooling.md)
+- [Bas van Kaam: talks, sessions and media appearances](bas-van-kaam-talks-en-appearances.md)

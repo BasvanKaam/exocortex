@@ -19,6 +19,7 @@ De kaart van het brein, per domein. Filter op frontmatter (`type`, `merk`, `dome
 - [Persoonlijk](index-persoonlijk.md)
 
 ## ai-tooling
+- [Bas's GitHub and the AI tooling he builds](bas-github-ai-tooling.md)
 - [How AI was used in writing the book](ai-use-in-the-book.md)
 - [Bas's war story: writing book sections and key takeaways with ChatGPT](bas-writing-with-chatgpt-and-prompt.md)
 - [How an LLM works: tokens, transformers, pre-training and fine-tuning](how-llms-work-tokens-and-training.md)

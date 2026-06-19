@@ -20,6 +20,13 @@ Consolidated reference of his books, blogs, articles and cheat sheets across the
 - **Inside Citrix (extended digital edition)** (2017 to 2019). 28 chapters, free download, Goodreads 4.25/5.
 - **Inside Citrix: The FlexCast Management Architecture** (2016). Sole author, 508 pp., ISBN 978-1530428526, around 830 copies sold. Amazon bestseller in its category.
 
+### Verified metadata (web sweep 2026-06-19)
+Cross-checked on Amazon, Goodreads and AbeBooks:
+- **Inside Citrix (2016)**: ISBN-13 9781530428526, publisher CreateSpace, paperback 508 pp / Kindle edition 428 pp (26 Jun 2016) / free extended PDF ~297 pp (released 2019). ~830 paperback + 200+ Kindle sold by early 2017. Goodreads 4.43 avg (main edition).
+- **Byte-Sized (2019)**: ISBN-13 9781797692104, independently published, 337 pp, published 25 May 2019 (note: his own About page wrongly lists "June 2015"; 2019 is correct). 2 USD per sale donated to One Laptop Per Child. Goodreads 3.40 avg.
+- **Cloud Mastery**: ISBN-13 9798288972034 (same as the dashboard's 978-8288972034), ASIN B0FF3YVTQD, 594 pp, on Amazon US/UK/NL. Academy pricing PDF 27 EUR / paperback 39.50 EUR.
+- **Van de Basis tot Meester in de Cloud (2025)**: 589 pp, published 4 Mar 2025; no ISBN surfaced. Goodreads renders the author as "Sebastiaan van Kaam" (his full first name). Same SCAF body of work as Cloud Mastery, in Dutch.
+
 ## Blogs and long-form
 - **basvankaam.com** (Jan 2013 to Apr 2023). 318 articles, frozen but archive stays live. Peak 40,000 visitors/month, tens of millions of total views. Topics: Citrix FMA internals, XenApp, XenDesktop, Azure, WVD/AVD, cloud strategy, security, IGEL, Nutanix, VMware, architecture deep-dives.
 - **salomon-it.nl** (May 2018 to May 2020). 42 verified articles on cloud adoption, hybrid strategy, SCAF, TCO/ROI, application lifecycle, cloud exit strategy.
@@ -46,3 +53,4 @@ Note: his Dutch personal-finance podcast (Altijd in Bèta) and the Nooit Meer Bl
 - [Cloud Mastery - self-positioning and book intent](cloud-mastery-author-positioning.md)
 - [Writing the FMA book was brutal but never regretted](self-publishing-fma-book-worth-it.md)
 - [The blog began as a personal knowledge base, and sharing became the point](blog-as-personal-knowledge-base-origin.md)
+- [Bas van Kaam: talks, sessions and media appearances](bas-van-kaam-talks-en-appearances.md)

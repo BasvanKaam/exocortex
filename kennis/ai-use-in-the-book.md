@@ -36,3 +36,4 @@ He also tried Microsoft Copilot in Word, but judged its results not close to Cha
 - [How an LLM works: tokens, transformers, pre-training and fine-tuning](how-llms-work-tokens-and-training.md)
 - [Origin of GPT and OpenAI](origin-of-gpt-and-openai.md)
 - [Second brain als cognitieve infrastructuur](second-brain-cognitive-infrastructure.md)
+- [Bas's GitHub and the AI tooling he builds](bas-github-ai-tooling.md)
