@@ -32,12 +32,31 @@ The competitive, physical side of Bas, useful context for the human-behind-the-p
 - Longest solo ride: 205 km, 2 km elevation, average 27.8 km/h, non-stop. Most active year: roughly 13,000 km cycling plus 1,000 km running.
 
 ## Running
-- Burpee-Mile (Death by Burpees, broad jump) completed three times, fastest 1:48. Personal bests on Strava. Running alongside cycling and swimming.
+- Burpee-Mile (Death by Burpees, broad jump) completed three times, fastest 1:48 (see flag below). Personal bests on Strava. Running alongside cycling and swimming.
 
 ## Health context
 - He stays this active despite living with Crohn's disease.
 
-*Bron: eucnewsnuggets.com Bas van Kaam dashboard (Personal Hall of Fame, May 2026).*
+## Independently verified online (web sweep, 2026-06-19)
+The records above are self-reported (his own About page). The items below were independently confirmed on third-party sources during a web sweep, and pin down his real, current competitive cue-sport activity.
+
+### Snooker
+- Played the round of 16 at the **Haags Open Snooker 2022** (versus Raymond Fabrie); breaks of 48 and 38 appear on the official tournament highest-breaks list. Sources: [haagsopen.nl highest breaks 2022](https://haagsopen.nl/hoogste-breaks-2022/), [match video](https://www.youtube.com/watch?v=0KGru1Uir_A).
+- Origin story (federation source, corroborates identity): started snooker at age 13 at **Snookercentrum IJmuiden** (run by his uncle Goof and aunt Mary), first 50-break within about 1.5 months, first century after 8 to 9 months; stopped around age 20, resumed around 2021. Source: [KNBB / snooker.nl "Jongensdroom, ons bezoek aan de Crucible"](https://www.knbb.nl/nieuws/jongensdroom-ons-bezoek-aan-de-crucible).
+- No player profile exists on cuetracker.net, snooker.org, or the national CueScore snooker ranking. The headline records (137 high break, 68 centuries, two 147 line-ups) are not in any public database, consistent with an amateur peak in the late 1990s before such data was captured online.
+
+### Pool
+- **CueScore profile** confirms a genuine KNBB-licensed pool player from Velserbroek: [cuescore.com/player/Bas+van+Kaam/1186590](https://cuescore.com/player/Bas+van+Kaam/1186590), KNBB license 203805, rating 1295, match win rate 78% (49 of 63). Dated results: 1st at Invitational IJmuiden closed (24 Dec 2022), 1st at Purple Pool Toernooi #5 (9 Apr 2023), 3rd at Buffalo Pool Zaandam (6 Aug 2023), 5th at Snooker107 Delfshaven (18 Feb 2023), 1st at A-mateur huistoernooi Poolcentrum Keus (8-0 record). The team-competition titles and Dutch Open 9-Ball qualification on his bio are not web-indexed.
+
+### Cycling and running
+- **Strava profile** confirmed: [strava.com/athletes/1014316](https://www.strava.com/athletes/1014316) (linked from his About page; activity totals are behind login).
+- Verified short-distance race results, both listed under "IJmuiden": Lions Heuvelloop Overveen 10 km in 21:48, 13th (17 Apr 2017); Rabobank Pierloop Velsen 8.2 km in 35:36, 14th (2015).
+- The Alpe d'Huez ascent count, the sub-hour Alpe time trial, the Alpe d'HuZes editions, and the ~13,000 km year have no public third-party confirmation. Plausible, but self-reported only.
+
+### Open question to clarify
+- The **Burpee-Mile "1:48"** is physically implausible for a full burpee-mile (which takes well over an hour). Likely a different metric, a per-segment pace, or a typo. The fact that he completed it three times is the reliable part; the exact time needs confirmation from Bas.
+
+*Bron: eucnewsnuggets.com Bas van Kaam dashboard (Personal Hall of Fame, May 2026), aangevuld met een internet-sweep op 2026-06-19 (haagsopen.nl, knbb.nl/snooker.nl, cuescore.com, strava.com, uitslagen.nl, racetimer.se).*
 
 ## Verwante notities
 
