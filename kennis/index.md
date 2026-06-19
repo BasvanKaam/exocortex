@@ -18,6 +18,9 @@ De kaart van het brein, per domein. Filter op frontmatter (`type`, `merk`, `dome
 - [Financieel](index-financieel.md)
 - [Persoonlijk](index-persoonlijk.md)
 
+## Schrijven
+- [Positie-digest: signature stances (schrijf-kompas)](positie-digest.md)
+
 ## ai-tooling
 - [Bas's GitHub and the AI tooling he builds](bas-github-ai-tooling.md)
 - [How AI was used in writing the book](ai-use-in-the-book.md)
