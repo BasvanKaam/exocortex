@@ -33,3 +33,4 @@ Writing in 2013, Bas's framing thesis is that BYOD has crossed from buzzword to 
 - [Systeembeheerder 2.0: from technician to functional broker](sysadmin-2-functional-broker-role.md)
 - [Work Folders: on-premises file sync as a Dropbox alternative](work-folders-2012r2.md)
 - [Workplace Join: registering devices without full domain join](workplace-join-2012r2.md)
+- [For BYOD, secure the business apps, not the device](byod-secure-apps-not-the-device.md)

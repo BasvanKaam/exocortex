@@ -28,3 +28,4 @@ Notably, after a Twitter debate with Citrix folks he softened the article and co
 - [Simplicity is a feature, not a drawback (VIAB)](viab-simplicity-is-strength-position.md)
 - [VIAB vs XenDesktop: simplicity vs flexibility tradeoffs (2013)](viab-vs-xendesktop-tradeoffs.md)
 - [You can judge a product without hands-on, if you do the research](you-can-have-an-opinion-without-hands-on.md)
+- [Awingu has potential but is not the Citrix killer it claims to be](awingu-potential-not-the-citrix-killer.md)

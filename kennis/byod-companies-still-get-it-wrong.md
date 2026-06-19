@@ -26,3 +26,4 @@ His framing: browser-only access (HTML5) helps BYOD adoption because the endpoin
 - [Mobile management acronyms: MDM, MAM, MIM, EMM](mdm-mam-mim-emm-glossary.md)
 - [Secure the data and access, not the device, and give employees freedom](secure-the-data-not-the-device-give-employees-freedom.md)
 - [Workplace Join: registering devices without full domain join](workplace-join-2012r2.md)
+- [For BYOD, secure the business apps, not the device](byod-secure-apps-not-the-device.md)

@@ -25,3 +25,4 @@ In this March 2019 fact list, Bas offers his read on the Citrix-vs-WVD question.
 - [WVD roadmap signals from the 2019 workshop](wvd-roadmap-signals-2019.md)
 - [WVD will evolve quickly because it's cloud-native](wvd-will-evolve-quickly-positie.md)
 - [XenApp Express: the Citrix/Microsoft replacement for Azure RemoteApp](xenapp-express-replaces-azure-remoteapp.md)
+- [Awingu has potential but is not the Citrix killer it claims to be](awingu-potential-not-the-citrix-killer.md)

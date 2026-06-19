@@ -353,6 +353,16 @@ A distinct Dutch consultant register, evidence in `voice-evolutie-salomon-2018-2
 - **Disarming self-correction** after a strong claim: "ik overdrijf misschien een beetje", "kort door de bocht, daarvoor mijn excuses".
 - **The coffee/beer invitation** for a no-obligation chat, and "er is helemaal geen Cloud, het zijn iemand anders zijn computers".
 
+### Twitter/X corpus (2013-2023, broadcast register)
+A faster, more personal broadcast voice, same person as the blog. Evidence in the three `voice-evolutie-twitter-*.md` notes and `quote-bank-twitter.md`. This register is for SHORT, real-time, social posts (closest to LinkedIn micro-posts), NOT long-form. Durable tells:
+- **Verdict-on-a-headline.** He rarely just shares a link; he stamps a quick honest take on it ("I think this is cool!", "Personally, I think this is a bad idea", "not the killer they claim, IMHO"). Opinions land softened with a smiley or "IMHO" so they read as opinion, not lecture.
+- **Earnest, un-ironic hype in caps:** "BOOM", "WE HAVE LIFTOFF!", "YEAAHHHHH!!!", "HUGE news", "Nothing short of amazing if you ask me", "This is going to be epic!" Never sarcastic, always felt.
+- **"let's be honest" as the contrarian-aside flag** ("run 24x7, which, let's be honest, nobody really needs").
+- **Community-first framing:** milestones are we-wins not me-wins, heavy collaborator-tagging and credit-before-self, "WHO IS NEXT?", spinning up groups and clubs. Giving the work away free ("no registration needed", "100% FREE") is part of the brand.
+- **Professional and personal side by side, unapologetic:** product releases next to wedding, birthday rituals, snooker/pool, F1, vinyl, running; COVID-era care language ("STAY SAFE everyone!", "in these challenging times").
+- **Work-then-celebrate cadence:** "I'll be having that beer now", "Time for a cold beer, some tunes... Cheers".
+- **Spaced, scannable layout** with `>>>` arrows pushing to the link/next beat (the `>>>` pivot predates LinkedIn here). Content markers "[ Blog ]", "New post", "SCOOP!".
+
 ---
 
 ## THE REGISTER DIAL

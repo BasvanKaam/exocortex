@@ -29,3 +29,4 @@ Bas frames NMW's value around two axes, and is explicit that the second is under
 - [The True ROI Is Time and Wellbeing, Not Just Money](position-true-nerdio-roi-is-time-and-wellbeing.md)
 - [WVD's value is blocked by setup time and unpredictable cost](position-wvd-value-blocked-by-cost-and-complexity.md)
 - [Nerdio's real payoff is reclaimed engineer time, not just Azure cost](value-is-time-reclaimed-not-just-cost.md)
+- [Standing up WVD is the easy 10%; the hard part is everything after](wvd-setup-is-easy-operations-is-hard.md)

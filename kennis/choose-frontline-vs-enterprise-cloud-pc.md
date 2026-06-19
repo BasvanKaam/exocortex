@@ -18,3 +18,4 @@ Bas argues that paying for an always-on Enterprise Cloud PC makes little sense w
 
 - [Cloud PC: MEM-managed vs self-service (durable distinction)](cloud-pc-mem-managed-vs-self-service.md)
 - [Windows 365 License Optimization: The Three Levers](w365-license-optimization-method.md)
+- [Standing up WVD is the easy 10%; the hard part is everything after](wvd-setup-is-easy-operations-is-hard.md)

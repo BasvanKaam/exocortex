@@ -23,3 +23,4 @@ His stance: WVD is the go-to modern workspace solution, flexible, scalable, opti
 - [Lead with operational and business value; cost savings is the cherry on top](lead-with-operational-value-not-just-cost.md)
 - [Framing a native-vs-Nerdio WVD business case](native-vs-nerdio-wvd-business-case-framework.md)
 - [The NMW thesis: automation and hiding complexity](nmw-thesis-automation-hiding-complexity.md)
+- [Standing up WVD is the easy 10%; the hard part is everything after](wvd-setup-is-easy-operations-is-hard.md)
