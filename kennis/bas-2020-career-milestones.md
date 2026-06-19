@@ -43,3 +43,4 @@ Key biographical facts from his 2020 year-in-review (useful for bio/voice ground
 - [WFH is not going away anytime soon](wfh-is-here-to-stay-2020.md)
 - [Bas's 2020 WFH / streaming kit-list](wfh-setup-kitlist-2020.md)
 - [Treating the job as a hobby you'd do anyway](work-as-hobby-philosophy.md)
+- [Bas van Kaam: career timeline (1999 to 2026)](bas-van-kaam-loopbaan-tijdlijn.md)

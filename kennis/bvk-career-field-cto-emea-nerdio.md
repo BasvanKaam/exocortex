@@ -35,3 +35,4 @@ Public press-release facts (announced publicly, not confidential).
 - [The Microsoft MVP program](microsoft-mvp-program.md)
 - [Everyone sweeps the floor (the Nerdio culture stance)](position-everyone-sweeps-the-floor.md)
 - [Teaching Philosophy: Simplify, Educate, Empower](teaching-philosophy-simplify-and-empower.md)
+- [Bas van Kaam: career timeline (1999 to 2026)](bas-van-kaam-loopbaan-tijdlijn.md)

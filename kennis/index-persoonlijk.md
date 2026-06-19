@@ -55,6 +55,7 @@ Het dagelijkse leerritueel en zijn methodes.
 
 ## Carriere & rollen
 Mijlpalen en bewuste keuzes over welke rol wel of niet past.
+- [Bas van Kaam: career timeline (1999 to 2026)](bas-van-kaam-loopbaan-tijdlijn.md)
 - [Bas van Kaam 2020 career milestones](bas-2020-career-milestones.md)
 - [Career milestone: Field CTO EMEA at Nerdio](bvk-career-field-cto-emea-nerdio.md)
 - [Willing to co-invest in building his own training business](position-co-invest-in-your-own-training-business.md)
@@ -63,6 +64,15 @@ Mijlpalen en bewuste keuzes over welke rol wel of niet past.
 - [Persistence beats everything: Bas's career and life advice](persistence-over-everything-career-advice.md)
 - [Don't make money your number one priority](money-not-number-one.md)
 - [Remote Work Is a Talent Requirement and an Opportunity](remote-work-as-opportunity-and-talent-magnet.md)
+
+## Profiel, credentials & sport
+De feitelijke spine: bio, loopbaan, erkenning, publicaties, sport en wat anderen zeggen (bron: eucnewsnuggets dashboard).
+- [Bas van Kaam: experience, character and the people behind the book](bas-van-kaam-bio-and-character.md)
+- [Bas van Kaam: career timeline (1999 to 2026)](bas-van-kaam-loopbaan-tijdlijn.md)
+- [Bas van Kaam: credentials, awards and community programs](bas-van-kaam-credentials-en-awards.md)
+- [Bas van Kaam: publications overview](bas-van-kaam-publicaties-overzicht.md)
+- [Bas van Kaam: sport achievements](bas-van-kaam-sport.md)
+- [Bas van Kaam: what peers say (testimonials)](bas-van-kaam-testimonials.md)
 
 ## Persoonlijke groei & mindset
 Hoe hij uit zijn comfortzone stapt en zich blijft ontwikkelen.
