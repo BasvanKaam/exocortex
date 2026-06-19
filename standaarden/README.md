@@ -39,6 +39,9 @@ Productie-assets bij de Nerdio-carousel: de HTML-template en het Puppeteer rende
 `workflows/pdf-naar-podcast.md`
 Het recept om een microlearning-PDF om te zetten naar een TTS-script voor Finn (Artlist, ElevenLabs V3). Per stap, met de splitsing op 5000 tekens en de human-layer tags.
 
+`workflows/writing-pack-generator.md`
+Het recept om van een onderwerp een schrijf-klare bundel te maken: relevante posities (uit de positie-digest), feiten met verificatiestatus, en de voice-guardrails, klaar om in BvK-stem te schrijven.
+
 ## Welk register, welke skin
 
 Beslis per kanaal:

@@ -150,3 +150,4 @@ Voor alle 484 posities, per domein: [euc](index-euc.md), [cloud](index-cloud.md)
 ## Verwante notities
 - [Brein-index (master)](index.md)
 - [persoonlijk - index](index-persoonlijk.md)
+- [Writing-pack generator (recept)](../standaarden/workflows/writing-pack-generator.md)
