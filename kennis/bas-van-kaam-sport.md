@@ -32,7 +32,7 @@ The competitive, physical side of Bas, useful context for the human-behind-the-p
 - Longest solo ride: 205 km, 2 km elevation, average 27.8 km/h, non-stop. Most active year: roughly 13,000 km cycling plus 1,000 km running.
 
 ## Running
-- Burpee-Mile (Death by Burpees, broad jump) completed three times, fastest 1:48 (see flag below). Personal bests on Strava. Running alongside cycling and swimming.
+- Burpee-Mile (Death by Burpees, broad jump) completed three times, fastest 1 hour 48 minutes total. Personal bests on Strava. Running alongside cycling and swimming.
 
 ## Health context
 - He stays this active despite living with Crohn's disease.
@@ -52,9 +52,7 @@ The records above are self-reported (his own About page). The items below were i
 - **Strava profile** confirmed: [strava.com/athletes/1014316](https://www.strava.com/athletes/1014316) (linked from his About page; activity totals are behind login).
 - Verified short-distance race results, both listed under "IJmuiden": Lions Heuvelloop Overveen 10 km in 21:48, 13th (17 Apr 2017); Rabobank Pierloop Velsen 8.2 km in 35:36, 14th (2015).
 - The Alpe d'Huez ascent count, the sub-hour Alpe time trial, the Alpe d'HuZes editions, and the ~13,000 km year have no public third-party confirmation. Plausible, but self-reported only.
-
-### Open question to clarify
-- The **Burpee-Mile "1:48"** is physically implausible for a full burpee-mile (which takes well over an hour). Likely a different metric, a per-segment pace, or a typo. The fact that he completed it three times is the reliable part; the exact time needs confirmation from Bas.
+- Burpee-Mile time clarified by Bas (2026-06-19): the "1:48" is total time, 1 hour 48 minutes, not minutes and seconds.
 
 *Bron: eucnewsnuggets.com Bas van Kaam dashboard (Personal Hall of Fame, May 2026), aangevuld met een internet-sweep op 2026-06-19 (haagsopen.nl, knbb.nl/snooker.nl, cuescore.com, strava.com, uitslagen.nl, racetimer.se).*
 
