@@ -42,6 +42,9 @@ Het recept om een microlearning-PDF om te zetten naar een TTS-script voor Finn (
 `workflows/writing-pack-generator.md`
 Het recept om van een onderwerp een schrijf-klare bundel te maken: relevante posities (uit de positie-digest), feiten met verificatiestatus, en de voice-guardrails, klaar om in BvK-stem te schrijven.
 
+`workflows/euc-news-nuggets-newsletter.md`
+Het recept voor de maandelijkse EUC News Nuggets LinkedIn-nieuwsbrief (rond het midden van de maand): verzamel, verifieer live, cureer per platform, schrijf in BvK-stem, en bied de log-PDF ernaast aan.
+
 ## Welk register, welke skin
 
 Beslis per kanaal:
