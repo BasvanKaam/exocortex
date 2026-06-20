@@ -36,7 +36,7 @@ Maandelijks, rond het midden van de maand. Begin een paar dagen ervoor met verza
 Structuur:
 - **Intro (kort, gevoiced):** enthousiasme-led, benoem dat dit de maand-editie is (maandelijkse round-up), de "spark" van deze maand (vaak een community-post; crediteer en tag de bron), dan kort wat de nieuwsbrief is, dan de verwijzing naar de volledige log onderaan.
 - **Per platform een beknopte itemlijst** (AVD, Windows 365, Intune, Windows), PDF-stijl: één regel per item, met een vette lead en daarachter de kern (waarom het ertoe doet / workaround / datum). Orden op urgentie/impact. Dit is een bewuste referentielijst, geen losse prozafragmenten; de voice zit in de intro, de outro en de framing per item.
-- **Outro ("How I use this"):** de log is levend, delen omdat de helft van de waarde zit in iemand die "ah, daarom" denkt voordat hij een middag verliest. Community-CTA: stuur een scherpere workaround of een ander inzicht, zo wordt de lijst beter. Link naar de gehoste PDF. Sluit met "Until next month."
+- **Outro:** plat, geen dramatiek. Verwijs naar de volledige PDF, en een simpele community-CTA (iets voor de volgende editie of een betere workaround, zet het in de comments). Sluit met "Until next month." LET OP: elke editie is een NIEUWE post, geen levende log die wordt bijgewerkt; niet zo framen.
 
 Voice-regels: volg `standaarden/voice/voice-profile.md` en `voice-corrections.md`. Volle BvK-stem, doorlopende komma-zinnen, geen em-dashes, geen AI-staccato (geen korte punch-zinnen als ritme-trucje), geen "clearly landed / trip over / humble"-achtige wendingen. Emoji alleen als flag. Crediteer peers met naam. Draai de banned-word scan voor je het toont.
 
