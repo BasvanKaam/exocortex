@@ -15,8 +15,10 @@ Een herhaalbaar recept voor Bas zijn maandelijkse EUC News Nuggets nieuwsbrief o
 Maandelijks, rond het midden van de maand. Begin een paar dagen ervoor met verzamelen en verifiëren, zodat publicatie rond de 15e kan.
 
 ## Wat het is (en niet is)
-- Format: LinkedIn **newsletter-artikel** (long-form, gesectioneerd per platform), volle BvK-stem, Engels.
-- De bron-ruggengraat is de lopende **EUC Nuggets Source Log** (Bas zijn cheat sheet/PDF: één regel per nugget, met bronlink). De PDF wordt **naast** de nieuwsbrief aangeboden als volledige referentie; het artikel hoeft dus niet elk detail te herhalen, het cureert en duidt.
+- Format: LinkedIn **newsletter-artikel** (gesectioneerd per platform), volle BvK-stem, Engels.
+- De bron-ruggengraat is de lopende **EUC Nuggets Source Log** (Bas zijn cheat sheet/PDF: één regel per nugget, met bronlink).
+- **De items staan beknopt in de nieuwsbrief zelf**, PDF-stijl (één regel per item, per platform gegroepeerd, op urgentie/impact geordend). Reden: een LinkedIn-nieuwsbrief/artikel heeft GEEN native downloadbare PDF-bijlage; dat kan alleen via een aparte feed **document-post** (PDF wordt swipebare, downloadbare carrousel, momenteel het best presterende format).
+- PDF-aanpak: (1) link in de nieuwsbrief naar de gehoste PDF (bijv. eucnewsnuggets.com) plus een afbeelding die doorlinkt, en (2) publiceer de cheat sheet als aparte document-post en kruislink die met de nieuwsbrief.
 - Dit is externe EUC-nieuwsduiding, **geen** vakinhoud voor het brein. De nuggets worden niet als `kennis/`-notities gedistilleerd. Alleen dit recept en eventuele voice-lessen horen in het brein.
 
 ## Stap 1: Verzamelen
@@ -32,16 +34,15 @@ Maandelijks, rond het midden van de maand. Begin een paar dagen ervoor met verza
 
 ## Stap 3: Cureren en schrijven
 Structuur:
-- **Intro:** enthousiasme-led, de "spark" van deze maand (vaak een community-post; crediteer en tag de bron), dan kort wat de nieuwsbrief is, dan de doorverwijzing naar de PDF voor de volledige lijst.
-- **Per platform een sectie** (AVD, Windows 365, Intune, Windows). Per item: wat het is, waarom het ertoe doet, Bas zijn take, en de workaround of datum. Geef voorrang aan wat lezers echt raakt; de rest staat in de PDF.
-- **Datums om op te schrijven:** vouw deadlines en end-of-support-momenten samen tot een scanbare beat.
-- **Outro ("How I use this"):** de log is levend, delen omdat de helft van de waarde zit in iemand die "ah, daarom" denkt voordat hij een middag verliest. Community-CTA: stuur een scherpere workaround of een ander inzicht, zo wordt de lijst beter. Sluit met "Until the next edition."
+- **Intro (kort, gevoiced):** enthousiasme-led, benoem dat dit de maand-editie is (maandelijkse round-up), de "spark" van deze maand (vaak een community-post; crediteer en tag de bron), dan kort wat de nieuwsbrief is, dan de verwijzing naar de volledige log onderaan.
+- **Per platform een beknopte itemlijst** (AVD, Windows 365, Intune, Windows), PDF-stijl: één regel per item, met een vette lead en daarachter de kern (waarom het ertoe doet / workaround / datum). Orden op urgentie/impact. Dit is een bewuste referentielijst, geen losse prozafragmenten; de voice zit in de intro, de outro en de framing per item.
+- **Outro ("How I use this"):** de log is levend, delen omdat de helft van de waarde zit in iemand die "ah, daarom" denkt voordat hij een middag verliest. Community-CTA: stuur een scherpere workaround of een ander inzicht, zo wordt de lijst beter. Link naar de gehoste PDF. Sluit met "Until next month."
 
 Voice-regels: volg `standaarden/voice/voice-profile.md` en `voice-corrections.md`. Volle BvK-stem, doorlopende komma-zinnen, geen em-dashes, geen AI-staccato (geen korte punch-zinnen als ritme-trucje), geen "clearly landed / trip over / humble"-achtige wendingen. Emoji alleen als flag. Crediteer peers met naam. Draai de banned-word scan voor je het toont.
 
 ## Stap 4: Uitleveren
-- De nieuwsbrief als LinkedIn-artikel.
-- De bijgewerkte EUC Nuggets Source Log (PDF) ernaast als volledige referentie.
+- De nieuwsbrief als LinkedIn-artikel, met de beknopte itemlijst erin en een link naar de gehoste PDF.
+- De bijgewerkte EUC Nuggets Source Log (PDF) als aparte feed document-post (downloadbaar), kruisgelinkt met de nieuwsbrief.
 
 ## Harde regels (altijd)
 - Never invent; verifieer elke technische claim live, flag bij twijfel.
