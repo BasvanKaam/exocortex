@@ -23,3 +23,4 @@ Bas's stance: a vendor community is only worth running if members can see their 
 - [Be a Learn-It-All Organization, Not a Know-It-All One](learn-it-all-not-know-it-all.md)
 - [Community feedback should shape the product](positie-community-shapes-the-product.md)
 - [Don't hide costs from customers: full-disclosure pricing builds trust](radical-pricing-transparency-position.md)
+- [Co-build the Citrix-to-Nerdio course, then turn members into authors](community-co-built-course-and-author-ownership.md)

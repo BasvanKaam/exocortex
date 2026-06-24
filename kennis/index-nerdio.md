@@ -146,6 +146,7 @@ Map of content for the Nerdio domain: Bas's Field CTO work on Azure Virtual Desk
 - [NVP Newsletter: Bas's Recurring Community Update Format](nvp-newsletter-format.md)
 - [Idea: crowdsource the Scripted Actions library from the community](idea-community-scripted-actions-library.md)
 - [The content and channel stack behind a community launch](community-launch-content-engine.md)
+- [Co-build the Citrix-to-Nerdio course, then turn members into authors](community-co-built-course-and-author-ownership.md)
 
 ## Events & enablement
 - [The Innovation Day / MicroHack hands-on event format](nerdio-innovation-day-microhack-format.md)

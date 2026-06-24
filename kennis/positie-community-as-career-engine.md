@@ -38,3 +38,4 @@ Bas's 2015 review reveals his operating model: relentless community participatio
 - [The community's success depends on us; give before you take](stance-give-to-the-community.md)
 - [A senior peer group is the best sounding board](value-of-peer-sounding-board-group.md)
 - [Treating the job as a hobby you'd do anyway](work-as-hobby-philosophy.md)
+- [Co-build the Citrix-to-Nerdio course, then turn members into authors](community-co-built-course-and-author-ownership.md)
