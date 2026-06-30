@@ -300,6 +300,7 @@ Rule: write until the route is walked at the right depth for format + level, the
 
 ### NEVER
 - No em-dashes (replace with commas). No three-word sentences. No AI staccato.
+- No constructed punch/aphorism patterns (recurring tell, flagged repeatedly): the antithesis "X showed up, the Y did not"; the aphorism landing "Z was never the hard part"; parallel punch-closers "One stays with you. The other you forget by breakfast."; self-framing meta-setups "the line/rule I keep drawing/coming back to is a simple one"; reader-mirror analogies "you can feel it the same way you can feel…"; clipped idiom tails "and nobody home"; personifications "the words arrive on their own"; the qualifier "more than I would like to admit." Fold all of these into flowing comma-stacked prose.
 - No diminutives, no engineered/alliterative slogans, no "elevated" foreign final word.
 - No "delve / dive in / game-changer / unlock / elevate / this one hits different" or anything in that family.
 - No "furthermore / moreover / additionally / as such" as habitual connectors.
@@ -438,6 +439,7 @@ Before any draft goes to Bas, scan for and remove these. They are AI tells and s
 - **em-dashes (—)** — replace with commas.
 - the "elevated" foreign final word (the too-clever word an AI tacks on at the end of an otherwise-Bas sentence).
 - engineered/alliterative slogans and inflated US-effusive words (fabulous, awesome, thrilled, incredible) unless genuinely true and proportionate.
+- **constructed punch/aphorism patterns** (recurring, flagged 2026-06-30, see voice-corrections.md): antithesis "X showed up, the Y did not"; aphorism landing "Z was never the hard part"; parallel punch-closers "One stays with you. The other you forget by breakfast."; self-framing setups "the line/rule I keep drawing… is a simple one"; reader-mirror "you can feel it the same way you can feel…"; clipped idiom tails "and nobody home"; personifications "the words arrive on their own"; qualifier "more than I would like to admit." Rewrite as plain flowing sentences.
 If a banned word seems necessary, rewrite the sentence plainly instead. When in doubt, cut it — Bas's rule is plainness + economy. After removing them, reread once for any that snuck back in.
 
 *This profile is a living document. It can and should be refined further by feeding new examples — ideally labeled (this sounds like me / this doesn't / here's why), since contrastive feedback sharpens it faster than raw volume. Keep the file, upload it next time, and update it.*
