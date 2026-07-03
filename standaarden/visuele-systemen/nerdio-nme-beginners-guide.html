@@ -57,8 +57,11 @@
 .head{display:flex; align-items:center; gap:12px; min-height:40px; margin-bottom:12px; flex:0 0 auto;}
 .itile{width:38px; height:38px; border-radius:10px; flex:0 0 auto; display:flex; align-items:center; justify-content:center;}
 .itile svg{width:21px; height:21px; display:block;}
-.i-teal{background:var(--teal);} .i-blue{background:var(--ms-blue);} .i-purple{background:var(--purple);}
-.i-navy{background:var(--ms-navy);} .i-green{background:var(--green-deep);}
+.i-teal{background:var(--teal); box-shadow:0 2px 10px rgba(30,157,184,0.34);}
+.i-blue{background:var(--ms-blue); box-shadow:0 2px 10px rgba(0,120,212,0.32);}
+.i-purple{background:var(--purple); box-shadow:0 2px 10px rgba(142,121,179,0.36);}
+.i-navy{background:var(--ms-navy); box-shadow:0 2px 10px rgba(0,59,92,0.30);}
+.i-green{background:var(--green-deep); box-shadow:0 2px 10px rgba(111,167,0,0.32);}
 .htext{display:flex; flex-direction:column; gap:1px;}
 .htext .num{font-family:'IBM Plex Mono',ui-monospace,Consolas,monospace; font-size:11px; font-weight:600; letter-spacing:1.5px; color:var(--muted);}
 .htext h2{font-family:'Poppins',system-ui,'Segoe UI',sans-serif; font-weight:700; font-size:15.5px; line-height:1.12; letter-spacing:0.2px; text-transform:uppercase; color:var(--ink);}
@@ -124,6 +127,12 @@ ul.list li::before{content:""; position:absolute; left:0; top:6px; width:9px; he
 /* ---- real-world (panel 14) ---- */
 .rw{flex:1; display:flex; flex-direction:column; justify-content:center; gap:14px;}
 .rw>p{font-size:14px; line-height:1.5;}
+.rw-bars{display:flex; flex-direction:column; gap:9px;}
+.bar-row{display:flex; align-items:center; gap:11px;}
+.bar-lbl{font-size:12px; color:var(--ink-2); width:104px; flex:0 0 auto; text-align:right;}
+.bar-track{flex:1; height:18px; background:#E7ECF2; border-radius:9px; overflow:hidden;}
+.bar-fill{height:100%; border-radius:9px;}
+.bar-val{font-size:12px; font-weight:600; color:var(--ink-2); width:42px; flex:0 0 auto;}
 .nums{display:flex; gap:11px;}
 .numcell{flex:1; text-align:center; background:var(--purple-soft); border:1px solid var(--purple-line); border-radius:11px; padding:13px 6px;}
 .numcell .v{font-family:'Poppins',system-ui,'Segoe UI',sans-serif; font-weight:800; font-size:25px; color:#5B4A78; line-height:1;}
@@ -133,7 +142,7 @@ ul.list li::before{content:""; position:absolute; left:0; top:6px; width:9px; he
 .faq{flex:1; display:grid; grid-template-columns:1fr 1fr; grid-auto-rows:1fr; column-gap:22px;}
 .qi{display:flex; align-items:center; gap:12px; border-top:1px solid var(--line); padding:0 4px;}
 .qi:nth-child(-n+2){border-top:none;}
-.qn{flex:0 0 auto; width:27px; height:27px; border-radius:50%; background:var(--ms-navy); color:#fff; font-family:'IBM Plex Mono',ui-monospace,Consolas,monospace; font-weight:600; font-size:12.5px; display:flex; align-items:center; justify-content:center;}
+.qn{flex:0 0 auto; width:27px; height:27px; border-radius:50%; background:var(--ms-navy); color:#fff; font-family:'IBM Plex Mono',ui-monospace,Consolas,monospace; font-weight:600; font-size:12.5px; display:flex; align-items:center; justify-content:center; box-shadow:0 2px 8px rgba(0,59,92,0.28);}
 .qt{font-size:13.5px; line-height:1.3; color:var(--ink-2);}
 /* footer */
 .footer{border-radius:12px; background:var(--navy); color:#EAF6FA; padding:13px 30px; display:flex; align-items:center; justify-content:space-between; font-size:13.5px;}
@@ -234,6 +243,8 @@ ul.list li::before{content:""; position:absolute; left:0; top:6px; width:9px; he
         <li><b>FSLogix profiles</b> live in containers on Azure Files or Azure NetApp Files, set up for you.</li>
         <li><b>Users and live sessions</b> are managed in real time, with message, sign out, and disconnect.</li>
         <li><b>Costs</b> are tracked and split per user, through dashboards and per-user cost attribution.</li>
+        <li><b>Storage</b> auto-scales, so your Azure Files Premium share grows and shrinks with demand.</li>
+        <li><b>Intune endpoints</b>, from Cloud PCs to physical devices, are managed in one place.</li>
         <li><b>Automation and monitoring</b> run through Scripted Actions and the built-in Insights views.</li>
       </ul>
     </div>
@@ -328,6 +339,7 @@ ul.list li::before{content:""; position:absolute; left:0; top:6px; width:9px; he
         <li>User cost attribution splits the total deployment cost across users, based on how long each one was connected.</li>
         <li>Modeler estimates the monthly per-user cost up front, comparing an optimized deployment against an unoptimized one.</li>
         <li>For steady, predictable workloads, you pair Auto-scale with Azure Reserved Instances to lower the baseline further.</li>
+        <li>Ephemeral OS disks put the operating system on free local storage, cutting managed-disk cost for stateless hosts.</li>
       </ul>
     </div>
     <div class="panel t-blue">
@@ -344,7 +356,11 @@ ul.list li::before{content:""; position:absolute; left:0; top:6px; width:9px; he
     <div class="panel t-purple">
       <div class="head"><div class="itile i-purple"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="7" width="16" height="13" rx="1.5"/><path d="M9 7V4h6v3"/><path d="M4 12h16"/></svg></div><div class="htext"><div class="num">14</div><h2>Real-world example</h2></div></div>
       <div class="body rw">
-        <p>A company runs <b>500 knowledge workers</b> on AVD. Rather than leave every session host on around the clock, NME scales capacity to working hours, keeps one patched golden image, and stores profiles on Azure Files.</p>
+        <p>A company runs <b>500 knowledge workers</b> on AVD. Instead of leaving every session host on around the clock, NME scales capacity to working hours and keeps one patched golden image.</p>
+        <div class="rw-bars">
+          <div class="bar-row"><span class="bar-lbl">Always-on compute</span><div class="bar-track"><div class="bar-fill" style="width:100%;background:var(--ms-navy);"></div></div><span class="bar-val">100%</span></div>
+          <div class="bar-row"><span class="bar-lbl">With Auto-scale</span><div class="bar-track"><div class="bar-fill" style="width:23%;background:var(--green-deep);"></div></div><span class="bar-val" style="color:var(--green-deep);">~20%</span></div>
+        </div>
         <div class="nums">
           <div class="numcell"><div class="v">500</div><div class="l">Users</div></div>
           <div class="numcell"><div class="v">1</div><div class="l">Golden image</div></div>
