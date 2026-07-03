@@ -121,7 +121,7 @@ ul.list li::before{content:""; position:absolute; left:0; top:6px; width:9px; he
 .step .sn{flex:0 0 auto; width:46px;height:46px;border-radius:50%;background:var(--teal);color:#fff;font-family:'IBM Plex Mono',ui-monospace,Consolas,monospace;font-weight:600;font-size:22px;display:flex;align-items:center;justify-content:center;box-shadow:0 3px 8px rgba(14,165,233,0.35);}
 .stxt{flex:1; display:flex; flex-direction:column; justify-content:center; gap:6px; text-align:center;}
 .step h3{font-size:14.5px; font-weight:600; color:var(--ink); line-height:1.2;}
-.step p{font-size:13px; line-height:1.45; color:var(--ink-2);}
+.step p{font-size:13px; line-height:1.45; color:var(--ink-2); text-wrap:balance;}
 .step .arrow{position:absolute; right:-12px; top:50%; transform:translateY(-50%); z-index:3; color:var(--teal); font-size:20px; font-weight:700;}
 /* ---- real-world (panel 14) ---- */
 .rw{flex:1; display:flex; flex-direction:column; justify-content:center; gap:14px;}
@@ -258,12 +258,12 @@ ul.list li::before{content:""; position:absolute; left:0; top:6px; width:9px; he
     <div class="panel t-teal" style="flex:1;">
       <div class="head"><div class="itile i-teal"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="6" r="2.5"/><path d="M6 8.5v4a4 4 0 004 4h4"/><path d="M14 13.5l3 2.5-3 2.5"/></svg></div><div class="htext"><div class="num">05</div><h2>How a deployment works, step by step</h2></div></div>
       <div class="flow">
-        <div class="step"><div class="sn">1</div><div class="stxt"><h3>Prepare prerequisites</h3><p>Line up a funded Azure subscription, Entra ID, and a virtual network with a subnet.</p></div><div class="arrow">&#8594;</div></div>
-        <div class="step"><div class="sn">2</div><div class="stxt"><h3>Deploy from Marketplace</h3><p>The Marketplace deploy provisions the PaaS resources into a resource group in your subscription.</p></div><div class="arrow">&#8594;</div></div>
-        <div class="step"><div class="sn">3</div><div class="stxt"><h3>Run the Cloud Shell script</h3><p>A generated script creates the Entra ID Enterprise Application and App Registrations.</p></div><div class="arrow">&#8594;</div></div>
-        <div class="step"><div class="sn">4</div><div class="stxt"><h3>Grant admin consent</h3><p>A Global Administrator grants organization-wide consent once. The elevated credentials are not needed afterward.</p></div><div class="arrow">&#8594;</div></div>
-        <div class="step"><div class="sn">5</div><div class="stxt"><h3>Run the setup wizard</h3><p>Connect an existing AVD or Cloud PC environment, or configure a brand-new one.</p></div><div class="arrow">&#8594;</div></div>
-        <div class="step"><div class="sn">6</div><div class="stxt"><h3>Operate from the console</h3><p>Run images, Auto-scale, profiles, and monitoring. Existing AVD and Cloud PC environments onboard non-disruptively.</p></div></div>
+        <div class="step"><div class="sn">1</div><div class="stxt"><h3>Prepare prerequisites</h3><p>Line up a funded Azure subscription, a Microsoft Entra ID tenant, and a virtual network with a subnet, ready to go.</p></div><div class="arrow">&#8594;</div></div>
+        <div class="step"><div class="sn">2</div><div class="stxt"><h3>Deploy from Marketplace</h3><p>The Azure Marketplace deployment provisions all of the PaaS resources into a resource group in your own subscription.</p></div><div class="arrow">&#8594;</div></div>
+        <div class="step"><div class="sn">3</div><div class="stxt"><h3>Run the Cloud Shell script</h3><p>A script generated for you in Azure Cloud Shell creates the Entra ID Enterprise Application and the App Registrations.</p></div><div class="arrow">&#8594;</div></div>
+        <div class="step"><div class="sn">4</div><div class="stxt"><h3>Grant admin consent</h3><p>A Global Administrator grants organization-wide consent just once, so those elevated rights are no longer needed.</p></div><div class="arrow">&#8594;</div></div>
+        <div class="step"><div class="sn">5</div><div class="stxt"><h3>Run the setup wizard</h3><p>Use the guided setup wizard to connect an existing AVD or Cloud PC environment, or to configure a brand-new one.</p></div><div class="arrow">&#8594;</div></div>
+        <div class="step"><div class="sn">6</div><div class="stxt"><h3>Operate from the console</h3><p>From here you run images, Auto-scale, profiles, and monitoring, and onboard existing environments without disruption.</p></div></div>
       </div>
     </div>
     <div class="panel t-green" style="flex:0 0 560px;">
