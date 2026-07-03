@@ -4,13 +4,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500;600&family=Fraunces:ital,wght@0,500;0,600;0,700;1,500;1,600&display=swap');
 
 :root{
-  --navy:#042838; --teal:#1E9DB8; --teal-soft:#E6F4F7; --teal-line:#C4E4EB;
-  --green:#CDFF4E; --green-deep:#7CB800;
-  --purple:#A795C7; --purple-soft:#EFEAF6; --purple-line:#DED2EC;
-  --ms-blue:#0078D4; --ms-blue-soft:#E5F1FB; --ms-blue-line:#BFDFF7;
-  --ms-navy:#003B5C; --navy-soft:#E7EEF2; --navy-line:#C8D6DE;
-  --green-soft:#F3FBD9; --green-line:#DBEE9B;
-  --ink:#0B2A3C; --ink-2:#33485A; --muted:#71808E; --line:#E4E9F0;
+  --navy:#042838; --teal:#1E9DB8; --teal-soft:#E9F5F8; --teal-line:#C4E4EB;
+  --green:#CDFF4E; --green-deep:#6FA700;
+  --purple:#8E79B3; --purple-soft:#F0ECF7; --purple-line:#DCD1EC;
+  --ms-blue:#0078D4; --ms-blue-soft:#E9F3FC; --ms-blue-line:#BFDFF7;
+  --ms-navy:#003B5C; --green-soft:#F5FBE0; --green-line:#DBEE9B;
+  --ink:#0B2A3C; --ink-2:#374B5C; --muted:#74828F; --line:#E4E9F0;
   --paper:#FFFFFF; --bg:#EDF1F6;
 }
 *{box-sizing:border-box;margin:0;padding:0;}
@@ -18,97 +17,113 @@
 .poster{
   width:1920px; background:var(--bg); color:var(--ink);
   font-family:'Poppins',system-ui,'Segoe UI',sans-serif;
-  padding:24px; display:flex; flex-direction:column; gap:14px; margin:0 auto;
+  padding:22px; display:flex; flex-direction:column; gap:13px; margin:0 auto;
 }
 /* ---------------- masthead ---------------- */
 .masthead{
-  position:relative; overflow:hidden; border-radius:16px; padding:20px 34px;
+  position:relative; overflow:hidden; border-radius:18px; padding:17px 36px;
   background:
     radial-gradient(circle at 14% 20%, rgba(30,157,184,0.50), transparent 52%),
-    radial-gradient(circle at 90% 78%, rgba(0,120,212,0.42), transparent 58%),
-    radial-gradient(circle at 60% 45%, rgba(205,255,78,0.12), transparent 48%),
+    radial-gradient(circle at 90% 80%, rgba(0,120,212,0.42), transparent 58%),
+    radial-gradient(circle at 60% 45%, rgba(205,255,78,0.12), transparent 46%),
     linear-gradient(135deg,#042838 0%,#0A3A52 50%,#003B5C 100%);
   color:#fff; display:flex; align-items:center; gap:26px;
 }
 .mono-tile{
-  flex:0 0 auto; width:74px; height:74px; border-radius:15px;
+  flex:0 0 auto; width:78px; height:78px; border-radius:16px;
   background:rgba(255,255,255,0.06); border:1.5px solid rgba(205,255,78,0.45);
   display:flex; align-items:center; justify-content:center;
-  font-family:'Fraunces','Georgia',serif; font-weight:600; font-size:26px; color:var(--green); letter-spacing:1px;
+  font-family:'Fraunces','Georgia',serif; font-weight:600; font-size:27px; color:var(--green); letter-spacing:1px;
 }
 .mh-center{flex:1; text-align:center;}
-.mh-center .kicker{font-family:'IBM Plex Mono',ui-monospace,Consolas,monospace; font-size:13px; letter-spacing:3.5px; text-transform:uppercase; color:var(--green); margin-bottom:7px;}
-.mh-center h1{font-family:'Fraunces','Georgia',serif; font-weight:600; font-size:46px; line-height:1.02; letter-spacing:-0.5px; text-wrap:balance;}
+.mh-center .kicker{font-family:'IBM Plex Mono',ui-monospace,Consolas,monospace; font-size:13px; letter-spacing:3.5px; text-transform:uppercase; color:var(--green); margin-bottom:8px;}
+.mh-center h1{font-family:'Fraunces','Georgia',serif; font-weight:600; font-size:44px; line-height:1.02; letter-spacing:-0.5px;}
 .mh-center h1 .em{font-style:italic; color:var(--green);}
-.mh-center .sub{margin-top:11px; display:inline-block; background:rgba(255,255,255,0.10); border:1px solid rgba(255,255,255,0.24); border-radius:999px; padding:7px 22px; font-size:15.5px; font-weight:500; color:#EAF6FA;}
+.mh-center .sub{margin-top:12px; display:inline-block; background:rgba(255,255,255,0.10); border:1px solid rgba(255,255,255,0.24); border-radius:999px; padding:8px 24px; font-size:16px; font-weight:500; color:#EAF6FA;}
 .edition{flex:0 0 auto; align-self:flex-start; font-family:'IBM Plex Mono',ui-monospace,Consolas,monospace; font-size:12px; letter-spacing:2.5px; text-transform:uppercase; color:#EAF6FA; border:1px solid rgba(255,255,255,0.30); border-radius:999px; padding:6px 14px;}
 /* ---------------- bands & panels ---------------- */
-.band{display:flex; gap:14px; align-items:stretch;}
-.col{display:flex; flex-direction:column; gap:14px;}
+.band{display:flex; gap:13px; align-items:stretch;}
+.col{display:flex; flex-direction:column; gap:13px;}
 .panel{
-  background:var(--paper); border:1px solid var(--line); border-radius:13px;
-  padding:13px 16px; position:relative; flex:1;
-  box-shadow:0 2px 6px rgba(4,40,56,0.05);
-  display:flex; flex-direction:column; overflow:hidden;
+  background:var(--paper); border:1px solid var(--line); border-radius:14px;
+  padding:14px 17px 15px; position:relative; flex:1;
+  box-shadow:0 2px 7px rgba(4,40,56,0.055);
+  display:flex; flex-direction:column;
 }
-.panel::before{content:""; position:absolute; top:0; left:0; right:0; height:5px;}
-.panel.t-teal::before{background:var(--teal);} .panel.t-blue::before{background:var(--ms-blue);}
-.panel.t-purple::before{background:var(--purple);} .panel.t-navy::before{background:var(--ms-navy);}
-.panel.t-green::before{background:var(--green-deep);}
-.head{display:flex; align-items:center; gap:11px; margin-bottom:10px; flex:0 0 auto;}
-.itile{width:34px; height:34px; border-radius:9px; flex:0 0 auto; display:flex; align-items:center; justify-content:center;}
-.itile svg{width:19px; height:19px;}
+.panel::before{content:""; position:absolute; top:0; left:0; right:0; height:5px; border-radius:14px 14px 0 0;}
+.t-teal::before{background:var(--teal);} .t-blue::before{background:var(--ms-blue);}
+.t-purple::before{background:var(--purple);} .t-navy::before{background:var(--ms-navy);}
+.t-green::before{background:var(--green-deep);}
+/* header: fixed height so every panel body starts on the same line */
+.head{display:flex; align-items:center; gap:12px; min-height:40px; margin-bottom:11px; flex:0 0 auto;}
+.itile{width:38px; height:38px; border-radius:10px; flex:0 0 auto; display:flex; align-items:center; justify-content:center;}
+.itile svg{width:21px; height:21px; display:block;}
 .i-teal{background:var(--teal);} .i-blue{background:var(--ms-blue);} .i-purple{background:var(--purple);}
 .i-navy{background:var(--ms-navy);} .i-green{background:var(--green-deep);}
-.htext .num{font-family:'IBM Plex Mono',ui-monospace,Consolas,monospace; font-size:11px; font-weight:600; letter-spacing:1px; color:var(--muted);}
-.htext h2{font-family:'Poppins',system-ui,'Segoe UI',sans-serif; font-weight:700; font-size:15.5px; line-height:1.1; letter-spacing:0.1px; text-transform:uppercase; color:var(--ink);}
-.body{flex:1; display:flex; flex-direction:column; justify-content:space-between; min-height:0;}
-.panel p{font-size:13.5px; line-height:1.48; color:var(--ink-2);}
+.htext{display:flex; flex-direction:column; gap:1px;}
+.htext .num{font-family:'IBM Plex Mono',ui-monospace,Consolas,monospace; font-size:11px; font-weight:600; letter-spacing:1.5px; color:var(--muted);}
+.htext h2{font-family:'Poppins',system-ui,'Segoe UI',sans-serif; font-weight:700; font-size:15.5px; line-height:1.12; letter-spacing:0.2px; text-transform:uppercase; color:var(--ink);}
+/* body: vertically centered, uniform spacing everywhere */
+.body{flex:1; display:flex; flex-direction:column; justify-content:center; gap:11px; min-height:0;}
+.panel p{font-size:14px; line-height:1.5; color:var(--ink-2);}
 .panel p b, .panel li b{color:var(--ink); font-weight:600;}
-/* lists that fill vertical space */
-.fill{flex:1; display:flex; flex-direction:column; justify-content:space-between; gap:7px; list-style:none;}
-.fill li{position:relative; padding-left:18px; font-size:13px; line-height:1.38; color:var(--ink-2);}
-.fill li .d{font-size:11.5px; color:var(--muted); display:block; line-height:1.32; margin-top:1px;}
-.fill li::before{content:""; position:absolute; left:0; top:5px; width:8px; height:8px; border-radius:2.5px;}
-.dot-teal li::before{background:var(--teal);} .dot-blue li::before{background:var(--ms-blue);}
-.dot-purple li::before{background:var(--purple);} .dot-navy li::before{background:var(--ms-navy);}
-.dot-green li::before{background:var(--green-deep);}
-.pill{display:inline-block; font-size:10.5px; font-weight:600; padding:1px 8px; border-radius:999px; background:var(--purple-soft); color:#5B4A78; margin-left:4px; vertical-align:middle;}
-.note{font-size:12.5px; color:var(--teal); font-weight:600; margin-top:4px;}
-/* architecture diagram */
-.arch{flex:1; display:flex; flex-direction:column; justify-content:space-between; gap:8px;}
-.plane{border-radius:11px; padding:11px 14px; border:1px solid var(--line);}
-.plane .lbl{font-family:'IBM Plex Mono',ui-monospace,Consolas,monospace; font-size:11px; letter-spacing:1.4px; text-transform:uppercase; color:var(--muted); margin-bottom:8px;}
-.plane .row{display:flex; gap:8px; flex-wrap:wrap;}
-.node{font-size:12.5px; font-weight:500; background:#fff; border:1px solid var(--line); border-radius:8px; padding:7px 12px; color:var(--ink);}
-.plane.p-blue{background:var(--ms-blue-soft); border-color:var(--ms-blue-line);} .p-blue .node{border-color:var(--ms-blue-line); color:var(--ms-navy);}
-.plane.p-teal{background:var(--teal-soft); border-color:var(--teal-line);} .p-teal .node{border-color:var(--teal-line); color:var(--ms-navy);}
-.plane.p-green{background:var(--green-soft); border-color:var(--green-line);} .p-green .node{border-color:var(--green-line); color:#3C4A00;}
-.arch-arrow{text-align:center; color:var(--teal); font-size:14px; line-height:0.5; margin:-2px 0;}
-.arch-cap{background:var(--navy); color:#EAF6FA; border-radius:11px; padding:10px 14px; font-size:13px; line-height:1.4; text-align:center;}
+/* uniform bullet list */
+ul.list{list-style:none; display:flex; flex-direction:column; gap:11px;}
+ul.list li{position:relative; padding-left:21px; font-size:13.5px; line-height:1.42; color:var(--ink-2);}
+ul.list li::before{content:""; position:absolute; left:0; top:6px; width:9px; height:9px; border-radius:3px;}
+.d-teal li::before{background:var(--teal);} .d-blue li::before{background:var(--ms-blue);}
+.d-purple li::before{background:var(--purple);} .d-navy li::before{background:var(--ms-navy);}
+.d-green li::before{background:var(--green-deep);}
+.pill{display:inline-block; font-size:10.5px; font-weight:600; padding:1px 8px; border-radius:999px; background:var(--purple-soft); color:#5B4A78; margin-left:3px; vertical-align:middle;}
+.note{font-size:13px; color:var(--teal); font-weight:600;}
+/* ---- architecture diagram (panel 3) ---- */
+.arch{flex:1; display:flex; flex-direction:column; justify-content:center; gap:9px;}
+.az-box{border:1.5px dashed var(--ms-blue-line); border-radius:13px; padding:12px; background:linear-gradient(180deg,#F7FBFE,#FFFFFF);}
+.az-lbl{font-family:'IBM Plex Mono',ui-monospace,Consolas,monospace; font-size:11.5px; letter-spacing:1px; text-transform:uppercase; color:var(--ms-navy); font-weight:600; margin-bottom:9px; display:flex; align-items:center; gap:7px;}
+.az-lbl svg{width:16px;height:16px;}
+.ent{display:flex; align-items:center; gap:10px; background:var(--ms-blue-soft); border:1px solid var(--ms-blue-line); border-radius:10px; padding:8px 11px; margin-bottom:9px;}
+.ent .ico{width:30px;height:30px;border-radius:8px;background:var(--ms-blue);display:flex;align-items:center;justify-content:center;flex:0 0 auto;}
+.ent .ico svg{width:17px;height:17px;}
+.ent .nm{font-size:13.5px;font-weight:600;color:var(--ms-navy);}
+.ent .chips{display:flex;gap:7px;margin-left:auto;flex-wrap:wrap;}
+.ent .chip{font-size:11.5px;background:#fff;border:1px solid var(--ms-blue-line);border-radius:7px;padding:4px 10px;color:var(--ms-navy);}
+.svc-cap{font-family:'IBM Plex Mono',ui-monospace,Consolas,monospace; font-size:11px; letter-spacing:1px; text-transform:uppercase; color:var(--muted); margin-bottom:7px;}
+.svc-grid{display:grid; grid-template-columns:repeat(4,1fr); gap:7px;}
+.svc{display:flex; align-items:center; gap:9px; background:var(--teal-soft); border:1px solid var(--teal-line); border-radius:9px; padding:7px 9px;}
+.svc .ico{width:26px;height:26px;border-radius:7px;background:var(--teal);display:flex;align-items:center;justify-content:center;flex:0 0 auto;}
+.svc .ico svg{width:15px;height:15px;}
+.svc span{font-size:12.5px;font-weight:500;color:var(--ms-navy);line-height:1.1;}
+.arch-mid{display:flex;align-items:center;justify-content:center;gap:9px;color:var(--teal);font-family:'IBM Plex Mono',ui-monospace,Consolas,monospace;font-size:12px;letter-spacing:2px;text-transform:uppercase;font-weight:600;}
+.arch-mid .ln{height:1px;width:60px;background:var(--teal-line);}
+.wl-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;}
+.wl{background:var(--green-soft);border:1px solid var(--green-line);border-radius:11px;padding:10px 11px;text-align:center;display:flex;flex-direction:column;align-items:center;gap:7px;}
+.wl .ico{width:32px;height:32px;border-radius:9px;background:var(--green-deep);display:flex;align-items:center;justify-content:center;}
+.wl .ico svg{width:19px;height:19px;}
+.wl span{font-size:13px;font-weight:600;color:#374a00;line-height:1.2;}
+.arch-cap{background:var(--navy); color:#EAF6FA; border-radius:11px; padding:9px 14px; font-size:12.5px; line-height:1.4; text-align:center;}
 .arch-cap b{color:var(--green);}
-/* flow */
-.flow{flex:1; display:flex; gap:11px; align-items:stretch;}
-.step{flex:1; background:var(--teal-soft); border:1px solid var(--teal-line); border-radius:12px; padding:12px 12px; position:relative; display:flex; flex-direction:column;}
-.step .n{font-family:'IBM Plex Mono',ui-monospace,Consolas,monospace; font-weight:600; font-size:11px; letter-spacing:1px; color:var(--teal);}
-.step h3{font-size:13.5px; font-weight:600; margin:5px 0 6px; color:var(--ink); line-height:1.15;}
-.step p{font-size:12px; line-height:1.4; color:var(--ink-2);}
-.step .arrow{position:absolute; right:-11px; top:50%; transform:translateY(-50%); z-index:3; color:var(--teal); font-size:19px; font-weight:700;}
-/* real-world number strip */
-.rw{flex:1; display:flex; flex-direction:column; justify-content:space-between; gap:9px;}
-.rw>p{font-size:13px; line-height:1.45;}
-.nums{display:flex; gap:9px;}
-.numcell{flex:1; text-align:center; background:var(--purple-soft); border:1px solid var(--purple-line); border-radius:11px; padding:10px 5px;}
-.numcell .v{font-family:'Fraunces','Georgia',serif; font-weight:700; font-size:23px; color:#5B4A78; line-height:1;}
+/* ---- flow (panel 5) ---- */
+.flow{flex:1; display:flex; gap:12px; align-items:stretch;}
+.step{flex:1; background:var(--teal-soft); border:1px solid var(--teal-line); border-radius:12px; padding:14px 13px; position:relative; display:flex; flex-direction:column; gap:6px;}
+.step .sn{width:26px;height:26px;border-radius:50%;background:var(--teal);color:#fff;font-family:'IBM Plex Mono',ui-monospace,Consolas,monospace;font-weight:600;font-size:13px;display:flex;align-items:center;justify-content:center;}
+.step h3{font-size:13.5px; font-weight:600; color:var(--ink); line-height:1.18;}
+.step p{font-size:12.5px; line-height:1.42; color:var(--ink-2);}
+.step .arrow{position:absolute; right:-12px; top:50%; transform:translateY(-50%); z-index:3; color:var(--teal); font-size:20px; font-weight:700;}
+/* ---- real-world (panel 14) ---- */
+.rw{flex:1; display:flex; flex-direction:column; justify-content:center; gap:12px;}
+.rw>p{font-size:13.5px; line-height:1.48;}
+.nums{display:flex; gap:10px;}
+.numcell{flex:1; text-align:center; background:var(--purple-soft); border:1px solid var(--purple-line); border-radius:11px; padding:11px 5px;}
+.numcell .v{font-family:'Fraunces','Georgia',serif; font-weight:700; font-size:24px; color:#5B4A78; line-height:1;}
 .numcell .l{font-size:9.5px; letter-spacing:0.5px; text-transform:uppercase; color:var(--muted); margin-top:5px;}
 .rw .fine{font-size:10.5px; color:var(--muted); line-height:1.35;}
-/* faq */
-.faq{flex:1; display:grid; grid-template-columns:1fr 1fr; gap:9px 20px; align-content:space-between;}
-.faq div{font-size:12.5px; line-height:1.3; color:var(--ink-2); padding-left:21px; position:relative;}
-.faq div::before{content:counter(q); counter-increment:q; position:absolute; left:0; top:-1px; font-family:'IBM Plex Mono',ui-monospace,Consolas,monospace; font-weight:600; font-size:12.5px; color:var(--ms-navy);}
+/* ---- faq (panel 15) ---- */
+.faq{flex:1; display:grid; grid-template-columns:1fr 1fr; gap:14px 22px; align-content:center;}
+.faq div{font-size:13px; line-height:1.32; color:var(--ink-2); padding-left:24px; position:relative;}
+.faq div::before{content:counter(q); counter-increment:q; position:absolute; left:0; top:-2px; width:18px;height:18px;border-radius:6px;background:var(--teal-soft);color:var(--ms-navy);font-family:'IBM Plex Mono',ui-monospace,Consolas,monospace; font-weight:600; font-size:11px; display:flex;align-items:center;justify-content:center;}
 .faq{counter-reset:q;}
 /* footer */
-.footer{border-radius:12px; background:var(--navy); color:#EAF6FA; padding:12px 26px; display:flex; align-items:center; justify-content:space-between; font-size:13px;}
+.footer{border-radius:12px; background:var(--navy); color:#EAF6FA; padding:13px 28px; display:flex; align-items:center; justify-content:space-between; font-size:13px;}
 .footer .brand{font-weight:600; letter-spacing:0.3px; display:flex; align-items:center; gap:10px;}
 .footer .fdot{width:10px; height:10px; border-radius:50%; background:linear-gradient(135deg,var(--teal),var(--ms-blue));}
 .footer .green{color:var(--green); font-weight:500;}
@@ -130,59 +145,69 @@
 
   <!-- ===================== BAND B: 1/2 | 3 | 4 ===================== -->
   <div class="band">
-    <div class="col" style="flex:0 0 420px;">
+    <div class="col" style="flex:0 0 430px;">
       <div class="panel t-teal">
-        <div class="head"><div class="itile i-teal"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 11v5"/><path d="M12 8h.01"/></svg></div><div class="htext"><div class="num">01</div><h2>What is Nerdio Manager?</h2></div></div>
+        <div class="head"><div class="itile i-teal"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 11.5v4.5"/><path d="M12 8h.01"/></svg></div><div class="htext"><div class="num">01</div><h2>What is Nerdio Manager?</h2></div></div>
         <div class="body">
-          <div>
-            <p><b>Nerdio Manager for Enterprise (NME)</b> is a deployment, management, and Auto-scaling platform for <b>Azure Virtual Desktop (AVD)</b> and <b>Windows 365 Cloud PC</b>.</p>
-            <p style="margin-top:9px;">IT teams and system integrators use it to run large desktop estates from a single console. It connects to an existing environment or configures a new one.</p>
-          </div>
+          <p><b>Nerdio Manager for Enterprise (NME)</b> is a deployment, management, and Auto-scaling platform for <b>Azure Virtual Desktop (AVD)</b> and <b>Windows 365 Cloud PC</b>.</p>
+          <p>IT teams and system integrators use it to run large desktop estates from a single console.</p>
+          <p>It connects to an environment you already have, or it configures a brand-new one.</p>
           <p class="note">It adds value on top of Microsoft. It does not replace it.</p>
         </div>
       </div>
       <div class="panel t-purple">
-        <div class="head"><div class="itile i-purple"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l2.5 5.2 5.7.8-4.1 4 1 5.7L12 16.9 6.9 18.7l1-5.7-4.1-4 5.7-.8z"/></svg></div><div class="htext"><div class="num">02</div><h2>Why organizations use it</h2></div></div>
-        <ul class="body fill dot-purple">
-          <li><b>Cut Azure cost</b> by scaling hosts up for demand and off when idle.</li>
-          <li><b>One console</b> for AVD, Windows 365, and Intune across the estate.</li>
-          <li><b>Automate</b> images, patching, and app delivery instead of scripting by hand.</li>
-          <li><b>Stay in control</b>: NME runs in your own Azure tenant.</li>
-          <li><b>Delegate safely</b> with granular role-based access control (RBAC).</li>
+        <div class="head"><div class="itile i-purple"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M9 18h6"/><path d="M10 21h4"/><path d="M12 3a6 6 0 00-3.8 10.6c.5.5.8 1.1.8 1.9v.5h6v-.5c0-.8.3-1.4.8-1.9A6 6 0 0012 3z"/></svg></div><div class="htext"><div class="num">02</div><h2>Why organizations use it</h2></div></div>
+        <ul class="body list d-purple">
+          <li>It cuts Azure cost by scaling hosts up for demand and switching them off when idle.</li>
+          <li>It gives you one console for AVD, Windows 365, and Intune across the whole estate.</li>
+          <li>It automates images, patching, and app delivery, so you stop scripting by hand.</li>
+          <li>It keeps you in control, because it runs inside your own Azure tenant.</li>
+          <li>It lets you delegate safely with granular role-based access control (RBAC).</li>
         </ul>
       </div>
     </div>
 
     <div class="panel t-blue" style="flex:1;">
-      <div class="head"><div class="itile i-blue"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l9 5-9 5-9-5 9-5z"/><path d="M3 12l9 5 9-5"/></svg></div><div class="htext"><div class="num">03</div><h2>Architecture: it runs in your own Azure tenant</h2></div></div>
+      <div class="head"><div class="itile i-blue"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l9 5-9 5-9-5z"/><path d="M3 12l9 5 9-5"/><path d="M3 16l9 5 9-5"/></svg></div><div class="htext"><div class="num">03</div><h2>Architecture: it runs in your own Azure tenant</h2></div></div>
       <div class="arch">
-        <div class="plane p-blue">
-          <div class="lbl">Identity &middot; Microsoft Entra ID</div>
-          <div class="row"><span class="node">Enterprise Application</span><span class="node">App Registrations</span><span class="node">Admin consent</span></div>
+        <div class="az-box">
+          <div class="az-lbl"><svg viewBox="0 0 24 24" fill="none" stroke="#003B5C" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M6 19a4 4 0 01-.6-8A5.5 5.5 0 0116 8.5a3.5 3.5 0 011 6.9"/><path d="M12 13v6"/><path d="M9.5 16.5L12 19l2.5-2.5"/></svg>In your own Azure subscription &middot; region of your choice</div>
+          <div class="ent">
+            <div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l7 3v5c0 5-3.5 8-7 9-3.5-1-7-4-7-9V6z"/><circle cx="12" cy="10" r="2"/><path d="M8.5 16a3.5 3.5 0 017 0"/></svg></div>
+            <div class="nm">Microsoft Entra ID</div>
+            <div class="chips"><span class="chip">Enterprise Application</span><span class="chip">App Registrations</span><span class="chip">Admin consent</span></div>
+          </div>
+          <div class="svc-cap">Nerdio Manager, deployed as an all-PaaS application</div>
+          <div class="svc-grid">
+            <div class="svc"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="14" rx="2"/><path d="M3 9h18"/></svg></div><span>App Service</span></div>
+            <div class="svc"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="6" rx="7" ry="3"/><path d="M5 6v12c0 1.7 3.1 3 7 3s7-1.3 7-3V6"/><path d="M5 12c0 1.7 3.1 3 7 3s7-1.3 7-3"/></svg></div><span>Azure SQL</span></div>
+            <div class="svc"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="15" r="3.5"/><path d="M10.5 12.5L20 3"/><path d="M16 7l3 3"/></svg></div><span>Key Vault</span></div>
+            <div class="svc"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6l2.1 2.1M16.3 16.3l2.1 2.1M5.6 18.4l2.1-2.1M16.3 7.7l2.1-2.1"/></svg></div><span>Automation Account</span></div>
+            <div class="svc"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19V5"/><path d="M4 19h16"/><path d="M8 15l4-5 3 3 4-6"/></svg></div><span>Application Insights</span></div>
+            <div class="svc"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M4 6h16M4 6v12h16V6"/><path d="M8 10h8M8 14h5"/></svg></div><span>Log Analytics</span></div>
+            <div class="svc"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="5" width="16" height="5" rx="1"/><rect x="4" y="14" width="16" height="5" rx="1"/><path d="M7.5 7.5h.01M7.5 16.5h.01"/></svg></div><span>Storage Account</span></div>
+            <div class="svc" style="background:#fff;border-style:dashed;"><span style="color:var(--muted);">+ more PaaS</span></div>
+          </div>
         </div>
-        <div class="arch-arrow">&#9660;</div>
-        <div class="plane p-teal">
-          <div class="lbl">NME as an all-PaaS app &middot; deployed into your own Azure subscription and region</div>
-          <div class="row"><span class="node">App Service</span><span class="node">Azure SQL</span><span class="node">Key Vault</span><span class="node">Automation Account</span><span class="node">Application Insights</span><span class="node">Log Analytics</span><span class="node">Storage Account</span></div>
-        </div>
-        <div class="arch-arrow">&#9660;</div>
-        <div class="plane p-green">
-          <div class="lbl">Workloads NME manages</div>
-          <div class="row"><span class="node">AVD host pools &amp; session hosts</span><span class="node">Windows 365 Cloud PC</span><span class="node">Azure Local &amp; on-prem hosts</span></div>
+        <div class="arch-mid"><span class="ln"></span>manages<span class="ln"></span></div>
+        <div class="wl-grid">
+          <div class="wl"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="12" rx="2"/><path d="M8 20h8M12 16v4"/></svg></div><span>AVD host pools &amp; session hosts</span></div>
+          <div class="wl"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M7 18a4 4 0 01-.5-8A5.5 5.5 0 0117 8.5 3.5 3.5 0 0117 18z"/></svg></div><span>Windows 365 Cloud PC</span></div>
+          <div class="wl"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="5" rx="1"/><rect x="3" y="14" width="18" height="5" rx="1"/><path d="M7 7.5h.01M7 16.5h.01"/></svg></div><span>Azure Local &amp; on-prem hosts</span></div>
         </div>
         <div class="arch-cap">No user data leaves your Azure environment, and there is <b>no third-party access</b> to the deployment.</div>
       </div>
     </div>
 
-    <div class="panel t-navy" style="flex:0 0 400px;">
-      <div class="head"><div class="itile i-navy"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="8" height="8" rx="1.5"/><rect x="13" y="3" width="8" height="8" rx="1.5"/><rect x="3" y="13" width="8" height="8" rx="1.5"/><rect x="13" y="13" width="8" height="8" rx="1.5"/></svg></div><div class="htext"><div class="num">04</div><h2>What you manage from one console</h2></div></div>
-      <ul class="body fill dot-navy">
-        <li><b>Host pools and session hosts</b><span class="d">Pooled and personal AVD, created and scaled in NME.</span></li>
-        <li><b>Windows 365 Cloud PCs</b><span class="d">Provision and manage Cloud PCs beside AVD.</span></li>
-        <li><b>Desktop images and app delivery</b><span class="d">One golden image, plus MSIX App Attach and app packages.</span></li>
-        <li><b>FSLogix profiles and storage</b><span class="d">Profile containers on Azure Files or Azure NetApp Files.</span></li>
-        <li><b>Users, sessions, and costs</b><span class="d">Live sessions, RBAC, and per-user cost views.</span></li>
-        <li><b>Automation with Scripted Actions</b><span class="d">PowerShell steps on create, shutdown, or a schedule.</span></li>
+    <div class="panel t-navy" style="flex:0 0 410px;">
+      <div class="head"><div class="itile i-navy"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18"/><path d="M9 21V9"/></svg></div><div class="htext"><div class="num">04</div><h2>What you manage from one console</h2></div></div>
+      <ul class="body list d-navy">
+        <li><b>Host pools and session hosts</b>, both pooled and personal, are created and scaled in NME.</li>
+        <li><b>Windows 365 Cloud PCs</b> are provisioned and managed right beside your AVD estate.</li>
+        <li><b>Desktop images and apps</b> ship through one golden image, MSIX App Attach, and app packages.</li>
+        <li><b>FSLogix profiles</b> live in containers on Azure Files or Azure NetApp Files.</li>
+        <li><b>Users, sessions, and costs</b> sit in one place, with per-user cost views.</li>
+        <li><b>Automation</b> runs through Scripted Actions on create, shutdown, or a schedule.</li>
       </ul>
     </div>
   </div>
@@ -190,24 +215,24 @@
   <!-- ===================== BAND C: 5 flow | 6 ===================== -->
   <div class="band">
     <div class="panel t-teal" style="flex:1;">
-      <div class="head"><div class="itile i-teal"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="12" r="2.5"/><circle cx="19" cy="12" r="2.5"/><path d="M7.5 12h9"/></svg></div><div class="htext"><div class="num">05</div><h2>How a deployment works, step by step</h2></div></div>
+      <div class="head"><div class="itile i-teal"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="12" r="2.2"/><circle cx="12" cy="12" r="2.2"/><circle cx="19" cy="12" r="2.2"/><path d="M7.2 12h2.6M14.2 12h2.6"/></svg></div><div class="htext"><div class="num">05</div><h2>How a deployment works, step by step</h2></div></div>
       <div class="flow">
-        <div class="step"><div class="n">STEP 1</div><h3>Prepare prerequisites</h3><p>A funded Azure subscription, Entra ID, and a virtual network and subnet.</p><div class="arrow">&#8594;</div></div>
-        <div class="step"><div class="n">STEP 2</div><h3>Deploy from Marketplace</h3><p>Provisions the PaaS resources into a resource group in your subscription.</p><div class="arrow">&#8594;</div></div>
-        <div class="step"><div class="n">STEP 3</div><h3>Run the Cloud Shell script</h3><p>Creates the Entra ID Enterprise Application and App Registrations.</p><div class="arrow">&#8594;</div></div>
-        <div class="step"><div class="n">STEP 4</div><h3>Grant admin consent</h3><p>A Global Administrator reviews and accepts the requested permissions.</p><div class="arrow">&#8594;</div></div>
-        <div class="step"><div class="n">STEP 5</div><h3>Run the setup wizard</h3><p>Connect an existing AVD or Cloud PC environment, or configure a new one.</p><div class="arrow">&#8594;</div></div>
-        <div class="step"><div class="n">STEP 6</div><h3>Operate from the console</h3><p>Images, Auto-scale, profiles, monitoring, and session control.</p></div>
+        <div class="step"><div class="sn">1</div><h3>Prepare prerequisites</h3><p>Line up a funded Azure subscription, Entra ID, and a virtual network with a subnet.</p><div class="arrow">&#8594;</div></div>
+        <div class="step"><div class="sn">2</div><h3>Deploy from Marketplace</h3><p>The Marketplace deploy provisions the PaaS resources into a resource group in your subscription.</p><div class="arrow">&#8594;</div></div>
+        <div class="step"><div class="sn">3</div><h3>Run the Cloud Shell script</h3><p>A generated script creates the Entra ID Enterprise Application and App Registrations.</p><div class="arrow">&#8594;</div></div>
+        <div class="step"><div class="sn">4</div><h3>Grant admin consent</h3><p>A Global Administrator reviews and accepts the permissions the app requests.</p><div class="arrow">&#8594;</div></div>
+        <div class="step"><div class="sn">5</div><h3>Run the setup wizard</h3><p>Connect an existing AVD or Cloud PC environment, or configure a new one.</p><div class="arrow">&#8594;</div></div>
+        <div class="step"><div class="sn">6</div><h3>Operate from the console</h3><p>From here you run images, Auto-scale, profiles, monitoring, and session control.</p></div>
       </div>
     </div>
-    <div class="panel t-green" style="flex:0 0 500px;">
-      <div class="head"><div class="itile i-green"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l8 4.5v9L12 21l-8-4.5v-9z"/><path d="M12 12v9"/><path d="M4 7.5l8 4.5 8-4.5"/></svg></div><div class="htext"><div class="num">06</div><h2>The workloads NME orchestrates</h2></div></div>
-      <ul class="body fill dot-green">
-        <li><b>Azure Virtual Desktop (AVD)</b><span class="d">Pooled and personal host pools.</span></li>
-        <li><b>Windows 365 Cloud PC</b><span class="d">Provisioned and managed alongside AVD.</span></li>
-        <li><b>AVD for Azure Local and on-premises hosts</b><span class="d">Run AVD session hosts on Azure Local hardware (AVD hybrid).</span></li>
-        <li><b>Nutanix AHV hybrid hosts <span class="pill">Preview</span></b><span class="d">Host pools on Nutanix AHV, connected through Azure Arc.</span></li>
-        <li><b>Microsoft Intune integration</b><span class="d">Manage enrolled endpoints and see compliance status.</span></li>
+    <div class="panel t-green" style="flex:0 0 520px;">
+      <div class="head"><div class="itile i-green"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M21 7.5L12 3 3 7.5v9L12 21l9-4.5z"/><path d="M3 7.5L12 12l9-4.5"/><path d="M12 12v9"/></svg></div><div class="htext"><div class="num">06</div><h2>The workloads NME orchestrates</h2></div></div>
+      <ul class="body list d-green">
+        <li><b>Azure Virtual Desktop (AVD)</b> runs as pooled or personal host pools.</li>
+        <li><b>Windows 365 Cloud PCs</b> are provisioned and managed alongside AVD.</li>
+        <li><b>AVD hybrid</b> runs session hosts on Azure Local hardware and on-premises.</li>
+        <li><b>Nutanix AHV</b> hosts are supported in preview, connected through Azure Arc. <span class="pill">Preview</span></li>
+        <li><b>Microsoft Intune</b> endpoints are managed with their compliance status in view.</li>
       </ul>
     </div>
   </div>
@@ -215,52 +240,53 @@
   <!-- ===================== BAND D: 7 8 9 10 11 ===================== -->
   <div class="band">
     <div class="panel t-teal">
-      <div class="head"><div class="itile i-teal"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 8l4-4 4 4"/><path d="M8 16l4 4 4-4"/><path d="M12 4v16"/></svg></div><div class="htext"><div class="num">07</div><h2>Auto-scale</h2></div></div>
-      <ul class="body fill dot-teal">
-        <li>Grows a host pool for demand, shrinks it when idle.</li>
-        <li>Triggers: CPU, RAM, active sessions, available sessions.</li>
-        <li>Scale out on any trigger, scale in only when all clear.</li>
-        <li>Works on dynamic and personal host pools.</li>
-        <li>Auto-heal repairs broken session hosts.</li>
+      <div class="head"><div class="itile i-teal"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v18"/><path d="M8 7l4-4 4 4"/><path d="M8 17l4 4 4-4"/></svg></div><div class="htext"><div class="num">07</div><h2>Auto-scale</h2></div></div>
+      <ul class="body list d-teal">
+        <li>It grows a host pool when demand rises and shrinks it when the pool sits idle.</li>
+        <li>It scales on four signals: CPU, RAM, active sessions, and available sessions.</li>
+        <li>It scales out on any single trigger, and scales in only when every trigger is clear.</li>
+        <li>It works on both dynamic host pools and personal desktops.</li>
+        <li>Auto-heal detects broken session hosts and repairs them automatically.</li>
       </ul>
     </div>
     <div class="panel t-blue">
-      <div class="head"><div class="itile i-blue"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="2"/><circle cx="8.5" cy="9.5" r="1.5"/><path d="M21 16l-5-5L5 20"/></svg></div><div class="htext"><div class="num">08</div><h2>Image management</h2></div></div>
-      <ul class="body fill dot-blue">
-        <li>One golden image, versioned and staged.</li>
-        <li>Automate patching around Patch Tuesday.</li>
-        <li>Test on a staging host pool, then activate.</li>
-        <li>Re-image hosts to the new version on a schedule.</li>
-        <li>Marketplace, custom, and Azure Compute Gallery images.</li>
+      <div class="head"><div class="itile i-blue"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="16" rx="2"/><circle cx="8.5" cy="9.5" r="1.6"/><path d="M3 17l5-5 4 4 3-3 6 6"/></svg></div><div class="htext"><div class="num">08</div><h2>Image management</h2></div></div>
+      <ul class="body list d-blue">
+        <li>You keep one golden image, versioned so you can roll back when needed.</li>
+        <li>Patching runs on a schedule, timed around Patch Tuesday.</li>
+        <li>Each new image is tested on a staging host pool before it goes live.</li>
+        <li>Hosts are re-imaged to the approved version on a schedule you set.</li>
+        <li>Images can come from the Marketplace, a custom build, or the Azure Compute Gallery.</li>
       </ul>
     </div>
     <div class="panel t-purple">
-      <div class="head"><div class="itile i-purple"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7a2 2 0 012-2h4l2 2h8a2 2 0 012 2v8a2 2 0 01-2 2H5a2 2 0 01-2-2z"/></svg></div><div class="htext"><div class="num">09</div><h2>FSLogix profiles</h2></div></div>
-      <ul class="body fill dot-purple">
-        <li>Configures and manages FSLogix profile containers.</li>
-        <li>Automates the share: storage, permissions, domain join.</li>
-        <li>Multiple profile configurations per host pool.</li>
-        <li>Delete, archive, and restore profiles from User Sessions.</li>
-        <li>Storage on Azure Files or Azure NetApp Files.</li>
+      <div class="head"><div class="itile i-purple"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="3.2"/><path d="M5.5 20a6.5 6.5 0 0113 0z"/></svg></div><div class="htext"><div class="num">09</div><h2>FSLogix profiles</h2></div></div>
+      <ul class="body list d-purple">
+        <li>It configures and manages FSLogix profile containers for you.</li>
+        <li>It automates the profile share, including storage, permissions, and domain join.</li>
+        <li>You can apply multiple profile configurations, one per host pool.</li>
+        <li>Profiles can be deleted, archived, and restored from the User Sessions page.</li>
+        <li>Profile storage sits on Azure Files or Azure NetApp Files.</li>
       </ul>
     </div>
     <div class="panel t-navy">
-      <div class="head"><div class="itile i-navy"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l7 3v5c0 5-3.5 8-7 9-3.5-1-7-4-7-9V6z"/></svg></div><div class="htext"><div class="num">10</div><h2>Security &amp; access control</h2></div></div>
-      <ul class="body fill dot-navy">
-        <li>Sign in with Entra ID; console supports multifactor authentication (MFA) and Conditional Access.</li>
-        <li>Granular RBAC: AVD Admin, Desktop Admin, Help Desk, Reviewer, End User, plus custom roles.</li>
-        <li>Encrypted in transit and at rest; Veracode verified.</li>
-        <li>Not locked down by default: run the hardening runbook for private endpoints.</li>
+      <div class="head"><div class="itile i-navy"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l7 3v5c0 5-3.5 8-7 9-3.5-1-7-4-7-9V6z"/><path d="M9 12l2 2 4-4"/></svg></div><div class="htext"><div class="num">10</div><h2>Security &amp; access control</h2></div></div>
+      <ul class="body list d-navy">
+        <li>Admins sign in with Entra ID, so multifactor authentication (MFA) and Conditional Access apply.</li>
+        <li>Access is scoped with granular RBAC roles like AVD Admin, Desktop Admin, and Help Desk.</li>
+        <li>You can also build custom roles for the exact scope a team needs.</li>
+        <li>Traffic is encrypted in transit and at rest, and the app is Veracode verified.</li>
+        <li>It is not locked down by default, so run the hardening runbook to add private endpoints.</li>
       </ul>
     </div>
     <div class="panel t-green">
-      <div class="head"><div class="itile i-green"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12h4l2-6 4 12 2-6h6"/></svg></div><div class="htext"><div class="num">11</div><h2>Monitoring &amp; insights</h2></div></div>
-      <ul class="body fill dot-green">
-        <li>Insights for AVD, Windows 365, Intune, and executives.</li>
-        <li>Real-Time Insights: live health and session performance.</li>
-        <li>Links Azure Log Analytics workspaces.</li>
-        <li>Daily cost dashboards, broken down by category.</li>
-        <li>Manage Intune endpoints with compliance status.</li>
+      <div class="head"><div class="itile i-green"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19V5"/><path d="M4 19h16"/><path d="M7 15l3-4 3 3 4-6"/></svg></div><div class="htext"><div class="num">11</div><h2>Monitoring &amp; insights</h2></div></div>
+      <ul class="body list d-green">
+        <li>Insights cover AVD, Windows 365, Intune, and an executive summary view.</li>
+        <li>Real-Time Insights show live host health and per-session performance.</li>
+        <li>It links your Azure Log Analytics workspaces for deeper reporting.</li>
+        <li>Daily cost dashboards break your spend down by category.</li>
+        <li>Intune-enrolled endpoints are listed with their compliance status.</li>
       </ul>
     </div>
   </div>
@@ -268,30 +294,30 @@
   <!-- ===================== BAND E: 12 13 14 15 ===================== -->
   <div class="band">
     <div class="panel t-teal">
-      <div class="head"><div class="itile i-teal"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v10"/><path d="M14.5 9.5C14.5 8.1 13.4 7 12 7s-2.5 1-2.5 2.3c0 2.8 5 1.5 5 4.4 0 1.3-1.1 2.3-2.5 2.3s-2.5-1-2.5-2.3"/></svg></div><div class="htext"><div class="num">12</div><h2>Cost optimization</h2></div></div>
-      <ul class="body fill dot-teal">
-        <li>Auto-scale is the biggest lever: pay for hosts only when used.</li>
-        <li>Storage Auto-scale right-sizes Azure Files Premium.</li>
-        <li>User cost attribution splits total spend per user.</li>
-        <li>Modeler estimates per-user cost, optimized versus not.</li>
-        <li>Pair Auto-scale with Reserved Instances for steady load.</li>
+      <div class="head"><div class="itile i-teal"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v10"/><path d="M14.5 9.3C14.5 8 13.4 7.2 12 7.2s-2.5.9-2.5 2.1c0 2.7 5 1.4 5 4.2 0 1.2-1.1 2.1-2.5 2.1s-2.5-.9-2.5-2.1"/></svg></div><div class="htext"><div class="num">12</div><h2>Cost optimization</h2></div></div>
+      <ul class="body list d-teal">
+        <li>Auto-scale is the biggest lever, because you pay for hosts only while they run.</li>
+        <li>Storage Auto-scale right-sizes Azure Files Premium so you stop over-provisioning.</li>
+        <li>User cost attribution splits the total bill across individual users.</li>
+        <li>Modeler estimates per-user cost and compares optimized against unoptimized.</li>
+        <li>For steady workloads, pair Auto-scale with Azure Reserved Instances.</li>
       </ul>
     </div>
     <div class="panel t-blue">
-      <div class="head"><div class="itile i-blue"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="8" r="4"/><path d="M11 11l8 8"/><path d="M16 16l2-2"/><path d="M18.5 18.5l2-2"/></svg></div><div class="htext"><div class="num">13</div><h2>Licensing</h2></div></div>
-      <ul class="body fill dot-blue">
-        <li>Bought and billed through the Azure Marketplace.</li>
-        <li>Two editions: Core and Premium.</li>
-        <li>Consumption-based, per monthly active user.</li>
-        <li>Billed once a month at the highest entitlement used: AVD, then Windows 365, then endpoint management.</li>
-        <li>$1,000 monthly minimum. 30-day free trial.</li>
-        <li>You license Microsoft first (for example, Microsoft 365 E3 or E5).</li>
+      <div class="head"><div class="itile i-blue"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="15" r="3.5"/><path d="M10.5 12.5L20 3"/><path d="M16 7l3 3"/><path d="M13.5 9.5l2.5 2.5"/></svg></div><div class="htext"><div class="num">13</div><h2>Licensing</h2></div></div>
+      <ul class="body list d-blue">
+        <li>You buy and get billed through the Azure Marketplace.</li>
+        <li>It comes in two editions, Core and Premium.</li>
+        <li>Pricing is consumption-based, per monthly active user.</li>
+        <li>Each user is billed once a month, at the highest entitlement they used.</li>
+        <li>A $1,000 monthly minimum applies, and a 30-day free trial is included.</li>
+        <li>You license Microsoft first, for example Microsoft 365 E3 or E5.</li>
       </ul>
     </div>
     <div class="panel t-purple">
-      <div class="head"><div class="itile i-purple"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="3" width="14" height="18" rx="1.5"/><path d="M9 7h2M13 7h2M9 11h2M13 11h2M9 15h2M13 15h2"/></svg></div><div class="htext"><div class="num">14</div><h2>Real-world example</h2></div></div>
+      <div class="head"><div class="itile i-purple"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="7" width="16" height="13" rx="1.5"/><path d="M9 7V4h6v3"/><path d="M4 12h16"/></svg></div><div class="htext"><div class="num">14</div><h2>Real-world example</h2></div></div>
       <div class="body rw">
-        <p>A company runs <b>500 knowledge workers</b> on AVD. Instead of leaving every session host on around the clock, NME auto-scales capacity to working hours, keeps one patched golden image, and stores profiles on Azure Files.</p>
+        <p>A company runs <b>500 knowledge workers</b> on AVD. Rather than leave every session host on around the clock, NME scales capacity to working hours, keeps one patched golden image, and stores profiles on Azure Files.</p>
         <div class="nums">
           <div class="numcell"><div class="v">500</div><div class="l">Users</div></div>
           <div class="numcell"><div class="v">1</div><div class="l">Golden image</div></div>
@@ -302,11 +328,11 @@
       </div>
     </div>
     <div class="panel t-navy">
-      <div class="head"><div class="itile i-navy"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M9.5 9.5a2.5 2.5 0 114 2c-1 .7-1.5 1.3-1.5 2.5"/><path d="M12 17h.01"/></svg></div><div class="htext"><div class="num">15</div><h2>Questions to test yourself</h2></div></div>
+      <div class="head"><div class="itile i-navy"><svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M9.5 9.3a2.5 2.5 0 114 2c-1 .7-1.5 1.3-1.5 2.4"/><path d="M12 17h.01"/></svg></div><div class="htext"><div class="num">15</div><h2>Questions to test yourself</h2></div></div>
       <div class="body faq">
         <div>What is Nerdio Manager for Enterprise?</div>
         <div>Where does NME run, and who owns the data?</div>
-        <div>What does Auto-scale do?</div>
+        <div>What does Auto-scale actually do?</div>
         <div>Which workloads can NME manage?</div>
         <div>How does NME handle golden images?</div>
         <div>What is FSLogix used for?</div>
