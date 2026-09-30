@@ -51,5 +51,6 @@ Voice-regels: volg `standaarden/voice/voice-profile.md` en `voice-corrections.md
 - Crediteer bronnen en peers met naam; named-expert weegt zwaarder dan doc-toon.
 
 ## Verwante notities
+- [EUC News Nuggets header / masthead-systeem](../visuele-systemen/euc-news-nuggets-masthead.md)
 - [Writing-pack generator (recept)](writing-pack-generator.md)
 - [Brein-index (master)](../../kennis/index.md)
