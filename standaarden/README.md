@@ -30,6 +30,9 @@ Het volledige Nerdio L&D-stijlboek (Revision 1, februari 2026). De complete refe
 `visuele-systemen/bvk-pdf-design-system.md`
 Mijn eigen PDF-skin. Editorial, anti-corporate, 70s magazine. Coffee/cream/brick/orange/mustard/teal, Bowlby en Yeseva en Fraunces en Georgia. Tagline: Short reads. Sharp takes. No fluff. Voor BvK-carousels en BvK-cheat-sheets (de Comparison Sheet variant staat erin). Footer wijst naar eucnewsnuggets.com.
 
+`visuele-systemen/euc-news-nuggets-masthead.md`
+De header/masthead van de EUC News Nuggets nieuwsbrief. Vintage editorial krantenkop, 1280x720, Playfair Display en Archivo en Georgia. Exacte afmetingen geijkt op No. 010, plus welke elementen elke editie gelijk blijven en welke wisselen. Renderen gaat met Python en Pillow, niet met headless Chrome.
+
 `visuele-systemen/nerdio-carousel-systeem.md`
 De Nerdio-carousel-skin. Navy/teal/lime, Fraunces en Poppins en IBM Plex Mono, Nerdio-logo. A4 portrait vector PDF voor LinkedIn. De bijbehorende template en het render-script staan in `assets/`.
 
