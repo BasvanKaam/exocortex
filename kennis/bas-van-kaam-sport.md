@@ -56,6 +56,35 @@ The records above are self-reported (his own About page). The items below were i
 
 *Bron: eucnewsnuggets.com Bas van Kaam dashboard (Personal Hall of Fame, May 2026), aangevuld met een internet-sweep op 2026-06-19 (haagsopen.nl, knbb.nl/snooker.nl, cuescore.com, strava.com, uitslagen.nl, racetimer.se).*
 
+### Spaarnehuys Haarlem, archiefsweep 2026-09-09
+Zoektocht naar onafhankelijke bronnen over het Haarlemse snookerverleden (Spaarnehuys, "jongste team van Nederland"). Wat wel te vinden was:
+
+- **'t Spaarne Huys, Donkere Spaarne, Haarlem** was een echt snookercentrum met vier Thurston-tafels, twee biljarttafels en een pooltafel. Eigen site, gearchiveerd rond 2002: "Vanaf 1990 speelt het Spaarnehuys mee in de landelijke competitie" met op dat moment een team in de hoofdklasse, een in de eerste divisie, een in de tweede divisie en twee in de derde divisie. Bron: [Wayback, spaarnehuys.nl/html/snooker/comp.html (06-01-2002)](https://web.archive.org/web/20020106151902/http://www.spaarnehuys.nl/html/snooker/comp.html).
+- Rond 2003/2004 had het centrum minstens vijf teams; nieuwsberichten over transfers tussen Spaarnehuys 1, 3 en 5, met onder meer "J. Alders" in Spaarnehuys 1. Bron: [Wayback, spaarnehuys.nl nieuws (01-02-2004)](https://web.archive.org/web/20040201072505/http://www.spaarnehuys.nl/html/nieuws/nieuws.html).
+- **Krantenbron over de Haarlemse snookerscene**: Nederlands Dagblad, 30 januari 1992, "Oprichters eerste snookerschool in ons land zien toekomst zonnig". De eerste snookerschool van Nederland (Snooker Training Center Nederland) werd opgericht in Haarlem door Robert Roos en Loek Alders. Roos was later de trainer van Bas. Bron: [Delpher, ND 30-01-1992](http://resolver.kb.nl/resolve?urn=ddd:010559881:mpeg21:a0102:ocr).
+
+Wat niet te vinden was, en waarom: geen enkel krantenartikel over het team zelf of over de claim "jongste snookerteam van Nederland". De Nederlandse gedigitaliseerde krantenarchieven dekken die periode niet. Delpher stopt voor kranten praktisch bij 1995 en bevat Haarlems Dagblad in die jaren niet; de Krantenviewer van het Noord-Hollands Archief heeft Haarlem's Dagblad en de IJmuider Courant alleen tot circa 1940 online. Regionale sportverslaggeving uit de tweede helft van de jaren negentig staat dus niet op het open web. Een sweep over gearchiveerde pagina's van snooker.nl (1999 tot 2008) leverde geen treffer op voor "Spaarnehuys" of "van Kaam", maar die sweep liep tegen de rate limit van het Internet Archive aan en is dus niet sluitend.
+
+Vervolgroute als de knipsels alsnog boven water moeten komen: Noord-Hollands Archief studiezaal, Haarlems Dagblad en IJmuider Courant op microfilm voor het betreffende seizoen; en het betaalde krantenarchief van Mediahuis. Beide vragen een concreet jaartal en liefst de teamnaam.
+
+### Snookercentrum IJmuiden, archiefsweep 2026-09-09
+Zoektocht naar onafhankelijke bronnen over het IJmuidense snookercentrum en het eerste team in de jaren negentig.
+
+- **Naam en adres van de zaak, hard bevestigd**: "Hotel Snookercentrum Ritz, Houtmanstraat 2, IJmuiden, 02550-33500" staat in de leestafeladvertenties van Het Parool op [19-09-1990](http://resolver.kb.nl/resolve?urn=ABCDDD:010833356:mpeg21:a0097:ocr), [06-08-1992](http://resolver.kb.nl/resolve?urn=ABCDDD:010845931:mpeg21:a0039:ocr) en [05-08-1993](http://resolver.kb.nl/resolve?urn=ABCDDD:010842402:mpeg21:a0014:ocr). Dat is het IJmuidense snookercentrum in bedrijf, midden in de periode dat Bas er begon.
+- **De club in de landelijke competitie heette eind jaren negentig QS IJmuiden**: Algemeen Dagblad, 5 juni 1999, "Biljarter Chand succesvol", over Karan Chand (19) die als eerste Nederlander de halve finale van het EK snooker haalde: "de speler van QS IJmuiden". Bron: [Delpher, AD 05-06-1999](http://resolver.kb.nl/resolve?urn=KBPERS01:003176005:mpeg21:a00240:ocr). Of QS IJmuiden dezelfde zaak is als Snookercentrum Ritz is niet bevestigd, dat is een aanname die nog geverifieerd moet worden.
+
+Wat niet te vinden was: geen enkele uitslag, eindstand of kampioenschap van de teamcompetitie uit de jaren negentig. Niet voor de eerste divisie, niet voor de tweede divisie, niet voor de super league en niet voor de Summer Cup. De landelijke kranten in Delpher (Telegraaf, Volkskrant, AD, Parool, Trouw) publiceerden in die jaren alleen profsnooker en de absolute amateurtop, bijvoorbeeld [De Jong prolongeert snookertitel, AD 17-05-1999](http://resolver.kb.nl/resolve?urn=KBPERS01:003174013:mpeg21:a00217:ocr) over de top-16-competitie. Clubcompetitie stond er niet in. De huidige [snooker.nl teamcompetitie](https://www.snooker.nl/prestatiesport/teamcompetitie-0) en [teamcompetitie.nl](https://www.teamcompetitie.nl/snooker/) hebben geen erelijst of historisch archief online.
+
+Nog openstaand: een sweep over de gearchiveerde snooker.nl (1999 tot 2008) op "Spaarnehuys" en "van Kaam" is twee keer vastgelopen op de rate limit van het Internet Archive (uiteindelijk 209 pagina's gelukt, 424 geblokkeerd van de 633, nul treffers). Die moet nog een keer rustig overgedaan worden voor er conclusies aan hangen.
+
+### Waar het wel in stond: Snooker Magazine (lead, 2026-09-09)
+Bas: "alles stond altijd in het snooker magazine". Dat blad is te traceren en verklaart waarom Delpher en de krantenarchieven niets opleveren: de Nederlandse clubcompetitie werd in de jaren negentig gedekt door het vakblad, niet door de dagbladen.
+
+- **Snooker Magazine**, uitgegeven in Breda door BoMa d'or. Bevestigd in het internationale ISSN-register: [ISSN 1382-1601, "Snooker magazine (Breda)"](https://portal.issn.org/resource/ISSN/1382-1601).
+- In 1996 gefuseerd met Pool Magazine tot **Snooker & Pool Magazine**, ISSN 1385-5603, tien nummers per jaar, zelfde uitgever. Beide titels staan als tijdschrift in de landelijke bibliotheekcatalogus ([Snooker magazine](https://www.bibliotheek.nl/catalogus/titel.066810736.html/snooker-magazine/), [Snooker & pool magazine](https://www.bibliotheek.nl/catalogus/titel.154359807.html/snooker---pool-magazine/)).
+- **Niet gedigitaliseerd.** Geen scans, geen index, geen doorzoekbaar archief online. Alleen papier.
+- Vervolgroute: het ISSN voor Nederlandse titels wordt toegekend door het ISSN-centrum bij de Koninklijke Bibliotheek, en Nederlandse tijdschriften gaan naar het Depot van Nederlandse Publicaties in de KB. De KB in Den Haag is dus stap een voor papieren jaargangen. Welke jaargangen ze precies hebben is nog niet geverifieerd, hun catalogus was niet machinaal te raadplegen.
+
 ## Verwante notities
 
 - [Bas van Kaam: experience, character and the people behind the book](bas-van-kaam-bio-and-character.md)
