@@ -32,16 +32,21 @@ Alle waarden in 1x (1280×720). Render op 2x (2560×1440) supersampled voor sche
 - **Footer:** links `bvk.` (Archivo 800, 34px, cream, oranje `#E76219` punt), rechts de tagline (Georgia italic 22px, `#d6ccb4`). Bij No. 010 getrimd tot `Short reads.`
 - **Fonts:** Playfair Display en Archivo als variable fonts van Google Fonts (`ofl/...`), Georgia lokaal (`C:\Windows\Fonts\georgiai.ttf`).
 
-**Render-pijplijn (belangrijk):** headless Chrome starten is in deze omgeving geblokkeerd, dus renderen gaat met **Python + Pillow** direct naar PNG (variable-font-assen via `set_variation_by_axes`, tracked caps via een per-glyph teken-loop). Script: `.tmp_euc/render_no010_masthead.py`. Waarden bovenin het script (`TOP_RULE_Y`, `DBL_Y`, `DELTA_BELOW`, dek, headline, editienummer) aanpassen en opnieuw draaien.
+**Render-pijplijn (belangrijk):** headless Chrome starten is in deze omgeving geblokkeerd, dus renderen gaat met **Python + Pillow** direct naar PNG. Er wordt geen render-script bewaard: per editie wordt het opnieuw geschreven op basis van de afmetingen hierboven. Die afmetingen zijn dus de bron van waarheid, niet de code.
 
-## Vaste elementen (elke editie hetzelfde — "de bovenkant in stand houden")
+Wat je bij het opnieuw bouwen moet weten, want dit is het uitzoekwerk:
+- Variable fonts: assen zetten met `set_variation_by_axes` (Playfair op weight 800, Archivo op weight 600/700/800 met width 100).
+- Tracked caps (de kicker- en dek-regels) kan Pillow niet in een keer; dat vraagt een per-glyph teken-loop met handmatige letterafstand.
+- De titel positioneren op cap-hoogte en basislijn, niet op de bounding box, anders trekken de g-staarten van *Nuggets* de regel scheef.
+
+## Vaste elementen (elke editie hetzelfde, "de bovenkant in stand houden")
 - **Top-balk**, tracked caps, dunne rule erboven en eronder:
   - links: `EUC MICROLEARNING`
   - midden: `VOL. I · NO. 00X` (volgnummer telt op per editie)
   - rechts: `FREE TO READ & LISTEN`
 - **Masthead-titel**: *EUC News Nuggets* in **Playfair Display** (weight 800), een high-contrast didone display-serif. Gestandaardiseerd op 2026-06-25: de originele headers (t/m NO. 006) waren Claude-artifacts waarvan alleen de PNG bewaard bleef, de bronfont was niet te achterhalen. Playfair matcht de oude masthead vrijwel exact (de karakteristieke `g`, de dik/dun-contrasten) en is voortaan de vaste font. Top-balk + kicker in een grotesque (Archivo); de stamp in Archivo Black.
 - **Dubbele horizontale rule** direct onder de titel (klassieke masthead: dik + dun).
-- **Tagline** (italic serif): *Short reads. Short listens. No fluff.* — variant op de BvK-tagline "Short reads. Sharp takes. No fluff."; hier dekt "reads / listens" bewust de cheat sheets én de podcasts.
+- **Tagline** (italic serif): *Short reads. Short listens. No fluff.* Variant op de BvK-tagline "Short reads. Sharp takes. No fluff."; hier dekt "reads / listens" bewust de cheat sheets én de podcasts.
 - **`bvk.`** woordmerk, linksonder, met rode/oranje punt.
 
 ## Variabele elementen (per editie)
