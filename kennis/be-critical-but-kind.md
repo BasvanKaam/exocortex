@@ -22,4 +22,5 @@ Bas's stance on discourse, quoting his father: "It's OK to think whatever you li
 - [The "I'm no guru" philosophy: blogging as a learning tool, not authority](no-guru-philosophy.md)
 - [Verdict: the Packt XenMobile book is too thin to teach](packt-xenmobile-book-too-thin.md)
 - [Community involvement as the engine of his career](positie-community-as-career-engine.md)
+- [De ark van Noach is geen geschiedenis, het is een hervertelling](positie-ark-van-noach-niet-letterlijk.md)
 - [Shows his 90% certainty and his confusion rather than bluffing](shows-his-uncertainty-instead-of-bluffing.md)

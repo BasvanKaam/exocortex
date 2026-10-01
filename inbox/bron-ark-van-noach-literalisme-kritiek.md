@@ -78,4 +78,4 @@ LinkedIn-post, auteur onbekend (overgenomen tekst, de afsluitende "Minder weerge
 
 ## Verwante notities
 
-Nog geen. Dit is het eerste materiaal in dit brein over religie, mythologie of tekstkritiek, dus er is nog niets om naar terug te linken.
+- [Positie: de ark van Noach is geen geschiedenis, het is een hervertelling](../kennis/positie-ark-van-noach-niet-letterlijk.md)
