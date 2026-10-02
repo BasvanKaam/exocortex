@@ -21,7 +21,9 @@ Short log of my snooker practice sessions. Goal: be able to answer over time whi
   - `break-building`: clearing several reds with colours.
   - `clearance`: clearing the table, positional play.
   - `safety`, `cue-action`, `cushion-shots`, `rest-play`, `line-up`: as named.
-- Unknown values (for example no duration mentioned) are left out, never guessed.
+- Unknown values (for example no duration mentioned) are left out, never guessed. Leave out `focus_primary` and `focus_secondary` when no focus was given.
+- Durations are always written in minutes, in frontmatter and text. Approximate durations ("just over an hour") are logged as the lower bound in minutes ("just over 60 minutes").
+- Sessions are always logged, also afterwards and also with only a duration. The real training date goes in `datum` and in the file name.
 
 ## Template
 
@@ -62,6 +64,10 @@ Back to: [Snooker training log](README.md)
 ## Sessions
 Newest at the top.
 - [2026-10-02](2026-10-02-training.md): 72 min, primary `colours-round-the-table`
+- [2026-10-01](2026-10-01-training.md): 90+ min, focus not recorded
+- [2026-09-30](2026-09-30-training.md): 30+ min, focus not recorded
+- [2026-09-29](2026-09-29-training.md): 90+ min, focus not recorded
+- [2026-09-28](2026-09-28-training.md): 60+ min, focus not recorded
 
 ## Related
 - [snooker - index](../../index-snooker.md)
