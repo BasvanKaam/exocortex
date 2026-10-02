@@ -51,6 +51,8 @@ Voice-regels: volg `standaarden/voice/voice-profile.md` en `voice-corrections.md
 - Crediteer bronnen en peers met naam; named-expert weegt zwaarder dan doc-toon.
 
 ## Verwante notities
+- [Newsletter: June known issues edition](../../kennis/bron-nieuwsbrief-2026-06-known-issues.md)
+- [EUC News Nuggets on LinkedIn: the newsletter and its editions](../../kennis/euc-news-nuggets-linkedin-newsletter.md)
 - [EUC News Nuggets header / masthead-systeem](../visuele-systemen/euc-news-nuggets-masthead.md)
-- [Writing-pack generator (recept)](writing-pack-generator.md)
 - [Brein-index (master)](../../kennis/index.md)
+- [Writing-pack generator (recept)](writing-pack-generator.md)

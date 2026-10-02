@@ -24,6 +24,7 @@ He created an AI buddy, "Finn Morgan", to narrate most podcast episodes using AI
 
 - [Using AI voices to deliver his content](ai-voices-for-content-delivery.md)
 - [CGIT community + content engine: events, whitepapers, podcasts, ambassadors](cgit-community-content-engine-2019.md)
+- [EUC News Nuggets on LinkedIn: the newsletter and its editions](euc-news-nuggets-linkedin-newsletter.md)
 - [EUC-X: an umbrella for community side-projects (2019)](euc-x-community-platform.md)
 - [EUCdigest podcast and foundation](eucdigest-podcast-foundation.md)
 - [EUC News Nuggets: site structure, cast and catalogue](eucnewsnuggets-catalogus-en-cast.md)

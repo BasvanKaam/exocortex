@@ -24,6 +24,7 @@ The principle: MVP status is earned through accumulated community contribution a
 - [Idea: Bridge! - A Structured Internal Mentoring Program](idea-bridge-mentoring-program.md)
 - [The Microsoft MVP program](microsoft-mvp-program.md)
 - [Community involvement as the engine of his career](positie-community-as-career-engine.md)
+- [Let juniors wrestle first, then bring in AI](positie-let-juniors-wrestle-first.md)
 - [Willing to co-invest in building his own training business](position-co-invest-in-your-own-training-business.md)
 - [A Learning Company Should Apply Learning to Its Own People](position-learning-company-should-mentor-its-own-staff.md)
 - [Bas on the value of IT communities](value-of-it-communities.md)

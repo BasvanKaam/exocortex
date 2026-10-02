@@ -23,7 +23,7 @@ Bas's 2015 review reveals his operating model: relentless community participatio
 - [CGIT contributor pitch and roadmap (quality over quantity)](cgit-contributor-value-and-roadmap.md)
 - [Come Get IT Proposition and Contributor Pitch](come-get-it-proposition-and-contributor-pitch.md)
 - [Community feedback as the force that shapes the product](community-as-product-shaping-force.md)
-- [Co-build the Citrix-to-Nerdio course, then turn members into authors](community-co-built-course-and-author-ownership.md)
+- [Strengthen the community: co-build the Citrix-to-Nerdio course, then turn members into authors](community-co-built-course-and-author-ownership.md)
 - [Stance: take a vendor job but keep it community-first](community-first-vendor-role.md)
 - [An idea born small can grow huge fast](community-small-ideas-grow-big.md)
 - [The Citrix User Group Community (CUGC) launched at Synergy 2015](cugc-launch-2015.md)

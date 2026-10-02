@@ -59,7 +59,9 @@ The About page backs the format with research: retention gains in the 25 to 60 p
 
 ## Verwante notities
 
-- [EUC News Nuggets: platform pivot from basvankaam.com](eucnewsnuggets-platform-pivot.md)
 - [Using AI voices to deliver his content](ai-voices-for-content-delivery.md)
-- [Bas van Kaam: publications overview](bas-van-kaam-publicaties-overzicht.md)
 - [Bas's GitHub and the AI tooling he builds](bas-github-ai-tooling.md)
+- [Bas van Kaam: publications overview](bas-van-kaam-publicaties-overzicht.md)
+- [Newsletter: Podcast spotlight, same nugget two ways](bron-nieuwsbrief-2026-podcast-spotlight.md)
+- [EUC News Nuggets on LinkedIn: the newsletter and its editions](euc-news-nuggets-linkedin-newsletter.md)
+- [EUC News Nuggets: platform pivot from basvankaam.com](eucnewsnuggets-platform-pivot.md)

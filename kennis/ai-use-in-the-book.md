@@ -30,10 +30,11 @@ He also tried Microsoft Copilot in Word, but judged its results not close to Cha
 ## Verwante notities
 
 - [Bas's deliberate typography choices for the book](bas-book-typography-choices.md)
+- [Bas's GitHub and the AI tooling he builds](bas-github-ai-tooling.md)
 - [Bas's recommended reading list](bas-recommended-booklist.md)
 - [Bas's war story: writing book sections and key takeaways with ChatGPT](bas-writing-with-chatgpt-and-prompt.md)
 - [Per-chapter references and QR-code glossaries](glossary-via-qr-codes.md)
 - [How an LLM works: tokens, transformers, pre-training and fine-tuning](how-llms-work-tokens-and-training.md)
 - [Origin of GPT and OpenAI](origin-of-gpt-and-openai.md)
+- [The idea has to be human, AI can assist, in that order](positie-human-idea-first-ai-assists.md)
 - [Second brain als cognitieve infrastructuur](second-brain-cognitive-infrastructure.md)
-- [Bas's GitHub and the AI tooling he builds](bas-github-ai-tooling.md)

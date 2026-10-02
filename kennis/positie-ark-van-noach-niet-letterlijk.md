@@ -21,4 +21,4 @@ Bas zijn positie, vastgelegd 2026-10-01:
 ## Verwante notities
 
 - [Bron: kritiek op de letterlijke ark van Noach](bron-ark-van-noach-literalisme-kritiek.md)
-- [Be critical but kind](be-critical-but-kind.md)
+- [Be critical but kind; not OK to share everything you think](be-critical-but-kind.md)

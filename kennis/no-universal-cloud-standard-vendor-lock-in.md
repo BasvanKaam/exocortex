@@ -30,6 +30,7 @@ The landscape is improving: containers, Kubernetes and Azure Arc offer more flex
 - [No real standards across cloud providers; identical services, different names](cloud-providers-no-standards-naming.md)
 - [Same cloud service, different name per vendor](cloud-service-naming-differs-per-vendor.md)
 - [Choosing a CSP: Azure as the Default for Microsoft Shops](csp-platform-choice-azure-default.md)
+- [Build model-agnostic, the model is part of your supply chain](positie-build-model-agnostic.md)
 - [Position: Don't Let MSP Tooling Choices Create Lock-In](position-avoid-msp-tooling-lock-in.md)
 - [Have a cloud exit strategy; lock-in and weak portability are real](position-cloud-exit-strategy.md)
 - [A Cloud Strategy without a reversibility plan is incomplete](position-cloud-strategy-needs-exit-strategy.md)

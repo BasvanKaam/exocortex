@@ -373,6 +373,16 @@ A faster, more personal broadcast voice, same person as the blog. Evidence in th
 - **Work-then-celebrate cadence:** "I'll be having that beer now", "Time for a cold beer, some tunes... Cheers".
 - **Spaced, scannable layout** with `>>>` arrows pushing to the link/next beat (the `>>>` pivot predates LinkedIn here). Content markers "[ Blog ]", "New post", "SCOOP!".
 
+### LinkedIn newsletter (2026, EUC News Nuggets)
+The current long-form register on LinkedIn, June to July 2026. Evidence in `quote-bank-linkedin-newsletter.md` and the `bron-nieuwsbrief-2026-*` notes in `kennis/`. Durable tells:
+- **Domestic cold open, professional landing.** "True story. Stay with me, this ends up somewhere useful, I promise." A broken night or a bedroom moment becomes the way into an AI lesson. Callbacks to the previous edition ("Last week I told you about...").
+- **Self-deprecating, dry asides** in parentheses or after a beat: "(see what I did there?)", "You're welcome.", "Nahhhh… of course not.", "My wife, by the way, denies everything.", ending on ":)".
+- **Two sides, no verdict when facts are still moving:** "I am not going to tell you who is right or pick a side here." Then straight to what it means for the reader's own work.
+- **A named action section:** "What would I do with this?" or "What it means for us", with one concrete thing to do this week.
+- **Openly honest about his own AI use:** what AI did (spelling, delivery) and what it did not (the idea, the thinking).
+- **Bold mini-headers** as labels or questions ("Why now", "There is a catch though.", "One last thing…"), short paragraphs, one thought each.
+- **Fixed sign-off:** "Thank you for reading." / "BvK." and "Part of www.eucnewsnuggets.com".
+
 ---
 
 ## THE REGISTER DIAL

@@ -16,9 +16,14 @@ Bas takes the position that AI voices are a legitimate, well-working tool for pr
 
 ## Verwante notities
 
+- [Newsletter: Podcast spotlight, same nugget two ways](bron-nieuwsbrief-2026-podcast-spotlight.md)
+- [Newsletter: Sleep talking and AI slop](bron-nieuwsbrief-2026-sleep-talking-slop.md)
 - [CGIT Podcast Strategy and Formats](cgit-podcast-strategy-and-formats.md)
+- [EUC News Nuggets on LinkedIn: the newsletter and its editions](euc-news-nuggets-linkedin-newsletter.md)
 - [EUCdigest podcast and foundation](eucdigest-podcast-foundation.md)
 - [EUC News Nuggets: site structure, cast and catalogue](eucnewsnuggets-catalogus-en-cast.md)
 - [EUC News Nuggets: platform pivot from basvankaam.com](eucnewsnuggets-platform-pivot.md)
 - [Podcasts as a learning channel for Cloud and EUC](podcasts-for-cloud-euc.md)
+- [The idea has to be human, AI can assist, in that order](positie-human-idea-first-ai-assists.md)
+- [Slop is not what AI makes, it is the thinking someone skipped](positie-slop-is-skipped-thinking.md)
 - [Deliberately omitting Zero Trust product names](zero-trust-glossary-omission-stance.md)

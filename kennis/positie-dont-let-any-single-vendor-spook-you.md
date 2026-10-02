@@ -20,6 +20,7 @@ The implied posture is vendor-independence: take vendor roadmaps as input, not g
 
 - [Don't think in brands or product boxes](avoid-vendor-and-product-thinking.md)
 - [Cloud is not the answer to everything, but baseline knowledge is non-negotiable](cloud-needs-baseline-knowledge-not-hype.md)
+- [Build model-agnostic, the model is part of your supply chain](positie-build-model-agnostic.md)
 - [At the Bigger Picture, Stay Vendor-Agnostic](positie-vendor-agnostic-at-the-bigger-picture.md)
 - [Independent advice, seen through the end-user experience](position-independent-advice-end-user-lens.md)
 - [Vendor partner congresses are marketing-first roadmap events](vendor-congresses-are-marketing-roadmaps.md)

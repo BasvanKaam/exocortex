@@ -31,6 +31,7 @@ Cross-checked on Amazon, Goodreads and AbeBooks:
 - **basvankaam.com** (Jan 2013 to Apr 2023). 318 articles, frozen but archive stays live. Peak 40,000 visitors/month, tens of millions of total views. Topics: Citrix FMA internals, XenApp, XenDesktop, Azure, WVD/AVD, cloud strategy, security, IGEL, Nutanix, VMware, architecture deep-dives.
 - **salomon-it.nl** (May 2018 to May 2020). 42 verified articles on cloud adoption, hybrid strategy, SCAF, TCO/ROI, application lifecycle, cloud exit strategy.
 - **LinkedIn long-form** (2014 to 2026). 67 articles spanning the Qwise, Detron, Liquidware, Salomon IT and Nerdio eras, including Shadow AI and L&D themes.
+- **EUC News Nuggets newsletter on LinkedIn** (June 2026 to present). Launched around 8 June 2026, 600+ subscribers in the first 12 hours, no fixed schedule; at least ten editions by early July. Next to daily LinkedIn posts since March 2026. See [EUC News Nuggets on LinkedIn: the newsletter and its editions](euc-news-nuggets-linkedin-newsletter.md).
 - **Eight external platforms** (2012 to 2023, ~80+ articles): TechTarget / BrianMadden.com, detron.nl, DABCC.com, MyCUGC, Computable.nl, Intense School, Liquidware blog, Nerdio blog.
 
 ## Cheat sheets and microlearning
@@ -53,5 +54,6 @@ Note: his Dutch personal-finance podcast (Altijd in Bèta) and the Nooit Meer Bl
 - [Bas van Kaam: talks, sessions and media appearances](bas-van-kaam-talks-en-appearances.md)
 - [The blog began as a personal knowledge base, and sharing became the point](blog-as-personal-knowledge-base-origin.md)
 - [Cloud Mastery - self-positioning and book intent](cloud-mastery-author-positioning.md)
+- [EUC News Nuggets on LinkedIn: the newsletter and its editions](euc-news-nuggets-linkedin-newsletter.md)
 - [EUC News Nuggets: site structure, cast and catalogue](eucnewsnuggets-catalogus-en-cast.md)
 - [Writing the FMA book was brutal but never regretted](self-publishing-fma-book-worth-it.md)

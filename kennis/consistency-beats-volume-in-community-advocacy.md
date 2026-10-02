@@ -18,3 +18,4 @@ When deciding how to reward and rank community advocates, consistency is the mor
 
 - [Community feedback should visibly shape the product](community-feedback-shapes-the-product.md)
 - [NVP Captains: Seeding a Community Program With Founding Members](nvp-captains-model.md)
+- [Publish when it is worth your time, not because it is Tuesday](positie-publish-when-worth-it-not-on-schedule.md)
