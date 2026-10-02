@@ -55,6 +55,13 @@ Notities die ik vanaf mijn telefoon inspreek. Uitleg voor de map zelf: `inbox/RE
 - Bovenaan frontmatter met de datum en de regel `source: phone`, plus de verplichte velden uit `README.md` (`type: idee`, `status: concept`, `merk` en `domein` naar beste inschatting).
 - Sla op in `inbox/`, maar commit en push pas als ik "commit" zeg. Dan naar main, geen aparte branch.
 
+## Kort-modus
+Eindigt een vraag of opdracht op het woord "kort" (getypt of ingesproken), dan antwoord je beknopt.
+- Denk eerst goed na, vat daarna sterk samen. Alleen de kernpunten, geen grote lap tekst.
+- Geldt voor alles: antwoorden uit het brein, opzoekwerk op internet, uitleg en statusmeldingen.
+- Waarschuwingen, twijfels en niet-geverifieerde claims noem je ook in kort-modus, in een regel.
+- Zonder "kort" antwoord je zoals gewoonlijk.
+
 ## Snooker-notities
 Snooker heeft een eigen sectie: `domein: snooker`, met `kennis/index-snooker.md` als knooppunt.
 - Is een notitie ("Notitie:" of "Note:") over snooker, of zeg ik dat erbij, dan gaat hij niet naar `inbox/` maar direct naar `kennis/`, met dezelfde naam- en taalregels als hierboven.
