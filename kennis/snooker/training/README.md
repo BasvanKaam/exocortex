@@ -13,8 +13,14 @@ Short log of my snooker practice sessions. Goal: be able to answer over time whi
 
 ## Convention
 - One file per session: `JJJJ-MM-DD-training.md` (second session on the same day: `JJJJ-MM-DD-training-2.md`).
-- Entries come in by voice, Dutch or English, and are stored in English. Light cleanup only, no additions.
-- Frontmatter fields `duration_min` and `focus` are the basis for analysis per week or month. `focus` uses short, consistent terms in lowercase (for example: `long-potting`, `break-building`, `safety`, `cue-action`, `positional-play`, `cushion-shots`, `rest-play`, `line-up`). Reuse existing terms before inventing new ones.
+- Entries come in by voice, Dutch or English, and are stored in English. Light cleanup only, no additions. The order in which I tell it varies; the file always follows the template below.
+- Every session has one primary focus and a few secondary elements in between. I do a bit of everything each session; what changes is where the weight lies.
+- Frontmatter fields for analysis per week or month: `duration_min`, `focus_primary` (one term) and `focus_secondary` (list). Use short, consistent lowercase terms and reuse existing ones before inventing new ones:
+  - `colours-round-the-table`: the small game, colours from their spots into all pockets with sharp and obtuse angles.
+  - `long-potting`: long pots.
+  - `break-building`: clearing several reds with colours.
+  - `clearance`: clearing the table, positional play.
+  - `safety`, `cue-action`, `cushion-shots`, `rest-play`, `line-up`: as named.
 - Unknown values (for example no duration mentioned) are left out, never guessed.
 
 ## Template
@@ -27,27 +33,35 @@ domein: snooker
 status: actief
 datum: JJJJ-MM-DD
 source: phone
-duration_min: 90
-focus: [long-potting, safety]
+duration_min: 72
+focus_primary: colours-round-the-table
+focus_secondary: [long-potting, break-building, clearance]
 tags: [snooker, training]
 ---
 
 # Training JJJJ-MM-DD
 
-## Focus
-What I worked on.
+## Summary
+Two or three sentences: duration, primary focus, what came in between, overall verdict.
 
-## Drills
-- Drill, with result or score if mentioned.
+## Primary focus
+What I worked on most, with the drills.
+
+## In between
+Secondary elements, with drills and amounts if mentioned.
+
+## Concentration
+How focus went over the session, and what disturbed it.
 
 ## Notes
-Observations, what went well, what to work on next.
+Observations, what went well, what to work on next. Leave out if nothing was said.
 
 Back to: [Snooker training log](README.md)
 ```
 
 ## Sessions
 Newest at the top.
+- [2026-10-02](2026-10-02-training.md): 72 min, primary `colours-round-the-table`
 
 ## Related
 - [snooker - index](../../index-snooker.md)
