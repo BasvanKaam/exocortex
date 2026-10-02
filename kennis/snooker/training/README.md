@@ -22,7 +22,7 @@ Short log of my snooker practice sessions. Goal: be able to answer over time whi
   - `clearance`: clearing the table, positional play.
   - `safety`, `cue-action`, `cushion-shots`, `rest-play`, `line-up`: as named.
 - Unknown values (for example no duration mentioned) are left out, never guessed. Leave out `focus_primary` and `focus_secondary` when no focus was given.
-- Durations are always written in minutes, in frontmatter and text. Approximate durations ("just over an hour") are logged as the lower bound in minutes ("just over 60 minutes").
+- Durations are always written in minutes, in frontmatter and text. "Just over" (ruim) becomes the lower bound with a plus: just over an hour = `60+`, just over an hour and a quarter = `75+`, just over an hour and a half = `90+`, just over two hours = `120+`. In frontmatter `duration_min` holds the number only (60), in text it reads "60+ minutes".
 - Sessions are always logged, also afterwards and also with only a duration. The real training date goes in `datum` and in the file name.
 
 ## Template
