@@ -72,6 +72,7 @@ De feitelijke spine: bio, loopbaan, erkenning, publicaties, sport en wat anderen
 - [Bas van Kaam: credentials, awards and community programs](bas-van-kaam-credentials-en-awards.md)
 - [Bas van Kaam: publications overview](bas-van-kaam-publicaties-overzicht.md)
 - [Bas van Kaam: talks, sessions and media appearances](bas-van-kaam-talks-en-appearances.md)
+- [EUC News Nuggets: site structure, cast and catalogue](eucnewsnuggets-catalogus-en-cast.md)
 - [Bas van Kaam: sport achievements](bas-van-kaam-sport.md)
 - [snooker - index](index-snooker.md) (eigen sectie voor alles over snooker)
 - [Bas van Kaam: hobbies and interests (guitar, LEGO, gear)](bas-van-kaam-hobbies-interesses.md)

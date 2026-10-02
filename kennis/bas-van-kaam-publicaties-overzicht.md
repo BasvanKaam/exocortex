@@ -35,7 +35,7 @@ Cross-checked on Amazon, Goodreads and AbeBooks:
 
 ## Cheat sheets and microlearning
 - 14+ reference sheets, Nov 2014 to 2026, combined views into the millions. Includes: AVD Security Guidelines v1.0 (35 measures, 6 categories, Apr 2023), Azure Reserved Instances, Remote video conferencing, WVD partner, Cloud Services v1.0+v2.0, IOPS, (I)IoT networks, XenDesktop 7.x internals v1.0 and v2.0 (71 pp.), App layering v1.0 to v3.0, Citrix IMA vs FMA.
-- eucnewsnuggets.com (2025 to 2026): microlearning PDF platform, 6 PDFs covering AVD on Nutanix, Intune Policy Studio, Windows 365 for Agents, Windows 365 Flex, Nerdio Compass, AVD Hybrid + Nutanix.
+- eucnewsnuggets.com (2025 to 2026): microlearning PDF platform, 6 PDFs covering AVD on Nutanix, Intune Policy Studio, Windows 365 for Agents, Windows 365 Flex, Nerdio Compass, AVD Hybrid + Nutanix. By 2 Oct 2026 the library had grown to 10 items (5 micro lessons, 5 cheat sheets) plus 5 podcast episodes; see [EUC News Nuggets: site structure, cast and catalogue](eucnewsnuggets-catalogus-en-cast.md).
 
 ## Podcasts (professional)
 - **EUC News Nuggets** (2026 to present): AI-narrated microlearning podcast (voice: Finn Morgan), paired with the PDF cheat sheets.
@@ -48,9 +48,10 @@ Note: his Dutch personal-finance podcast (Altijd in Bèta) and the Nooit Meer Bl
 
 ## Verwante notities
 
-- [Bas van Kaam: career timeline (1999 to 2026)](bas-van-kaam-loopbaan-tijdlijn.md)
 - [Bas van Kaam: credentials, awards and community programs](bas-van-kaam-credentials-en-awards.md)
-- [Cloud Mastery - self-positioning and book intent](cloud-mastery-author-positioning.md)
-- [Writing the FMA book was brutal but never regretted](self-publishing-fma-book-worth-it.md)
-- [The blog began as a personal knowledge base, and sharing became the point](blog-as-personal-knowledge-base-origin.md)
+- [Bas van Kaam: career timeline (1999 to 2026)](bas-van-kaam-loopbaan-tijdlijn.md)
 - [Bas van Kaam: talks, sessions and media appearances](bas-van-kaam-talks-en-appearances.md)
+- [The blog began as a personal knowledge base, and sharing became the point](blog-as-personal-knowledge-base-origin.md)
+- [Cloud Mastery - self-positioning and book intent](cloud-mastery-author-positioning.md)
+- [EUC News Nuggets: site structure, cast and catalogue](eucnewsnuggets-catalogus-en-cast.md)
+- [Writing the FMA book was brutal but never regretted](self-publishing-fma-book-worth-it.md)

@@ -26,5 +26,6 @@ He created an AI buddy, "Finn Morgan", to narrate most podcast episodes using AI
 - [CGIT community + content engine: events, whitepapers, podcasts, ambassadors](cgit-community-content-engine-2019.md)
 - [EUC-X: an umbrella for community side-projects (2019)](euc-x-community-platform.md)
 - [EUCdigest podcast and foundation](eucdigest-podcast-foundation.md)
+- [EUC News Nuggets: site structure, cast and catalogue](eucnewsnuggets-catalogus-en-cast.md)
 - [Podcasts as a learning channel for Cloud and EUC](podcasts-for-cloud-euc.md)
 - [SCAF: Step-Cloud Adoption Framework and its toolkit](scaf-step-cloud-adoption-framework.md)

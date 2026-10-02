@@ -30,7 +30,8 @@ This connects three threads in the brain: his shift from Field CTO to Principal 
 
 ## Verwante notities
 
-- [Second brain als cognitieve infrastructuur](second-brain-cognitive-infrastructure.md)
 - [How AI was used in writing the book](ai-use-in-the-book.md)
 - [Bas van Kaam: career timeline (1999 to 2026)](bas-van-kaam-loopbaan-tijdlijn.md)
 - [Bas van Kaam: talks, sessions and media appearances](bas-van-kaam-talks-en-appearances.md)
+- [EUC News Nuggets: site structure, cast and catalogue](eucnewsnuggets-catalogus-en-cast.md)
+- [Second brain als cognitieve infrastructuur](second-brain-cognitive-infrastructure.md)

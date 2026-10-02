@@ -18,6 +18,7 @@ Bas takes the position that AI voices are a legitimate, well-working tool for pr
 
 - [CGIT Podcast Strategy and Formats](cgit-podcast-strategy-and-formats.md)
 - [EUCdigest podcast and foundation](eucdigest-podcast-foundation.md)
+- [EUC News Nuggets: site structure, cast and catalogue](eucnewsnuggets-catalogus-en-cast.md)
 - [EUC News Nuggets: platform pivot from basvankaam.com](eucnewsnuggets-platform-pivot.md)
 - [Podcasts as a learning channel for Cloud and EUC](podcasts-for-cloud-euc.md)
 - [Deliberately omitting Zero Trust product names](zero-trust-glossary-omission-stance.md)
