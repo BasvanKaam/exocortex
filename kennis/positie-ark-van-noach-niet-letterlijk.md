@@ -5,7 +5,7 @@ domein: persoonlijk
 status: actief
 datum: 2026-10-01
 tags: [religie, bijbel, mythologie, positie, kritisch-denken, wetenschap]
-bron: linkedin-bron-inbox
+bron: bron-ark-van-noach-literalisme-kritiek
 ---
 
 # De ark van Noach is geen geschiedenis, het is een hervertelling
@@ -20,5 +20,5 @@ Bas zijn positie, vastgelegd 2026-10-01:
 
 ## Verwante notities
 
-- [Bron: kritiek op de letterlijke ark van Noach](../inbox/bron-ark-van-noach-literalisme-kritiek.md)
+- [Bron: kritiek op de letterlijke ark van Noach](bron-ark-van-noach-literalisme-kritiek.md)
 - [Be critical but kind](be-critical-but-kind.md)

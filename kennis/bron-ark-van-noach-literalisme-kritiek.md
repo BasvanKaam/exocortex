@@ -2,14 +2,14 @@
 type: bron
 merk: bvk
 domein: persoonlijk
-status: concept
+status: actief
 datum: 2026-10-01
 tags: [religie, bijbel, mythologie, zoologie, biogeografie, mesopotamie, linkedin, kritisch-denken]
 ---
 
 # Bron: kritiek op de letterlijke ark van Noach
 
-Overgenomen LinkedIn-tekst die het letterlijke ark-verhaal op drie fronten aanvalt: biogeografie (endemische dieren die onmogelijk heen en terug konden), voeding en logistiek (gespecialiseerde diëten, een jaar lang, zonder koeling), en tekstgeschiedenis (Genesis leunt op oudere Mesopotamische vloedverhalen). Bewaard als ruw materiaal, nog niet verwerkt.
+Overgenomen LinkedIn-tekst die het letterlijke ark-verhaal op drie fronten aanvalt: biogeografie (endemische dieren die onmogelijk heen en terug konden), voeding en logistiek (gespecialiseerde diëten, een jaar lang, zonder koeling), en tekstgeschiedenis (Genesis leunt op oudere Mesopotamische vloedverhalen). Bewaard als bronmateriaal onder de positie over de ark.
 
 **Let op: dit zijn de claims van de auteur, niet geverifieerd door mij.** De grote lijn is mainstream, een paar getallen zou ik narekenen voor hergebruik. Zie de verificatie-sectie onderaan.
 
@@ -78,4 +78,4 @@ LinkedIn-post, auteur onbekend (overgenomen tekst, de afsluitende "Minder weerge
 
 ## Verwante notities
 
-- [Positie: de ark van Noach is geen geschiedenis, het is een hervertelling](../kennis/positie-ark-van-noach-niet-letterlijk.md)
+- [Positie: de ark van Noach is geen geschiedenis, het is een hervertelling](positie-ark-van-noach-niet-letterlijk.md)

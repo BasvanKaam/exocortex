@@ -132,3 +132,4 @@ De kernstandpunten die zijn waarden tonen.
 - [Work-life isn't a balance; work is one part of life's whole package](work-is-part-of-life-not-balanced-against-it.md)
 - [Crohn's diagnosis and learning to live with it](crohns-diagnosis-2016.md)
 - [De ark van Noach is geen geschiedenis, het is een hervertelling](positie-ark-van-noach-niet-letterlijk.md)
+- [Bron: kritiek op de letterlijke ark van Noach](bron-ark-van-noach-literalisme-kritiek.md)
