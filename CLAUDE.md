@@ -55,6 +55,13 @@ Notities die ik vanaf mijn telefoon inspreek. Uitleg voor de map zelf: `inbox/RE
 - Bovenaan frontmatter met de datum en de regel `source: phone`, plus de verplichte velden uit `README.md` (`type: idee`, `status: concept`, `merk` en `domein` naar beste inschatting).
 - Commit en push direct naar main, geen aparte branch.
 
+## Opruimen (elke sessie)
+Ik wil geen losse eindjes. Het einde van een sessie is niet te detecteren, dus de controle draait op twee momenten: bij de start van elke sessie (direct na `git pull`) en na elke afgeronde taak.
+- Controleer: staan er lokale wijzigingen die nog niet gecommit of gepusht zijn? Staan er branches op GitHub naast `main` (`git ls-remote --heads origin`)?
+- Ruim zelf op wat zeker klaar is: niet-gepusht werk committen en pushen, branches verwijderen die volledig in `main` zitten.
+- Twijfel (een branch met werk dat niet in `main` zit, een bestand waarvan je niet weet of het weg mag): niets verwijderen, mij eerst kort vragen.
+- Meld in een regel wat je gecontroleerd en opgeruimd hebt. Was alles schoon, zeg dat dan ook kort.
+
 ## Processing the inbox
 Zeg ik "verwerk de inbox" of "process the inbox":
 1. Lees elke notitie in `inbox/` (behalve `README.md`).
