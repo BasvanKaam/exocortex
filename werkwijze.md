@@ -24,4 +24,4 @@ Dit brein is de canonieke versie. Skills die ook in Claude Code of projecten dra
 
 Alleen wat gepusht is, staat veilig. Niet gepusht betekent: weg als de schijf sneuvelt.
 
-In cloud-sessies (telefoon) doet Claude dit zelf, plus een opruimcontrole op losse branches. Zie "Opruimen (elke sessie)" in `CLAUDE.md`.
+In cloud-sessies (telefoon) schrijft Claude weg, maar pusht pas als ik "commit" zeg. Plus een opruimcontrole op losse branches. Zie "Opruimen (elke sessie)" in `CLAUDE.md`.

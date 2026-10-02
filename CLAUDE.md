@@ -44,7 +44,7 @@ Volg `standaarden/schrijfregels/nerdio-content-guard.md`: American English, Nerd
 - Pas de juiste voice toe per kanaal, en run de banned-word scan voor alles dat mijn stem draagt.
 
 ## Werkwijze (volledig in `werkwijze.md`)
-Dit brein is de bron van waarheid. Waardevolle output schrijf je weg naar de juiste map, daarna committen en pushen. Alleen wat gepusht is, staat veilig.
+Dit brein is de bron van waarheid. Waardevolle output schrijf je weg naar de juiste map. Committen en pushen doe je pas als ik "commit" zeg (zie "Pas pushen op mijn teken"). Alleen wat gepusht is, staat veilig.
 
 ## Notes on the go
 Notities die ik vanaf mijn telefoon inspreek. Uitleg voor de map zelf: `inbox/README.md`.
@@ -53,14 +53,20 @@ Notities die ik vanaf mijn telefoon inspreek. Uitleg voor de map zelf: `inbox/RE
 - Notities komen via spraak binnen, in het Nederlands of Engels. Sla ze altijd op in het Engels. Vertaal Nederlands naar natuurlijk Engels, maar laat eigennamen en Nederlandse projectnamen (zoals Nooit Meer Blut, Altijd in Bèta) onvertaald.
 - Schoon de dicteertekst licht op: interpunctie, spelling, vaktermen goed geschreven (Nerdio, AVD, Windows 365, Intune, Docebo). Verander de inhoud niet, voeg niets toe, vat niet samen.
 - Bovenaan frontmatter met de datum en de regel `source: phone`, plus de verplichte velden uit `README.md` (`type: idee`, `status: concept`, `merk` en `domein` naar beste inschatting).
-- Commit en push direct naar main, geen aparte branch.
+- Sla op in `inbox/`, maar commit en push pas als ik "commit" zeg. Dan naar main, geen aparte branch.
 
 ## Opruimen (elke sessie)
 Ik wil geen losse eindjes. Het einde van een sessie is niet te detecteren, dus de controle draait op twee momenten: bij de start van elke sessie (direct na `git pull`) en na elke afgeronde taak.
 - Controleer: staan er lokale wijzigingen die nog niet gecommit of gepusht zijn? Staan er branches op GitHub naast `main` (`git ls-remote --heads origin`)?
-- Ruim zelf op wat zeker klaar is: niet-gepusht werk committen en pushen, branches verwijderen die volledig in `main` zitten.
+- Ruim zelf op wat zeker klaar is: branches verwijderen die volledig in `main` zitten. Niet-gepusht werk push je niet zelf, dat meld je (zie hieronder).
 - Twijfel (een branch met werk dat niet in `main` zit, een bestand waarvan je niet weet of het weg mag): niets verwijderen, mij eerst kort vragen.
 - Meld in een regel wat je gecontroleerd en opgeruimd hebt. Was alles schoon, zeg dat dan ook kort.
+
+## Pas pushen op mijn teken
+In cloud-sessies commit en push je niets uit jezelf. Je schrijft wel weg naar de juiste map, maar het gaat pas naar GitHub als ik "commit" zeg.
+- Na elke taak meld je in een regel wat er klaarstaat en nog niet gepusht is, zodat ik weet dat ik "commit" moet zeggen.
+- Niet-gepusht werk verdwijnt als de werkplek wordt opgeruimd. Waarschuw daarom duidelijk als er iets klaarstaat.
+- Zeg ik "commit": commit en push alles wat klaarstaat naar main.
 
 ## Processing the inbox
 Zeg ik "verwerk de inbox" of "process the inbox":
