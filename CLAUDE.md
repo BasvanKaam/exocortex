@@ -69,6 +69,7 @@ Snooker heeft een eigen sectie: `domein: snooker`, met `kennis/index-snooker.md`
 - Zet de notitie bovenaan onder "Notities" in `kennis/index-snooker.md` en link vanuit de notitie terug naar de index. Leg ook links naar verwante snooker-notities.
 - Twijfel of het over snooker gaat: vraag het, of zet hem in `inbox/`.
 - Pushen pas als ik "commit" zeg, net als bij andere notities.
+- Trainingsverslagen (een snooker-training die ik doorgeef) gaan naar `kennis/snooker/training/`, een bestand per sessie, volgens de conventie en het template in `kennis/snooker/training/README.md`. Zet de sessie bovenaan onder "Sessions" in die README.
 
 ## Opruimen (elke sessie)
 Ik wil geen losse eindjes. Het einde van een sessie is niet te detecteren, dus de controle draait op twee momenten: bij de start van elke sessie (direct na `git pull`) en na elke afgeronde taak.

@@ -14,6 +14,9 @@ Alles over snooker: mijn spel, training, wedstrijden, clubs en historie. Snooker
 ## Prestaties & historie
 - [Bas van Kaam: sport achievements](bas-van-kaam-sport.md) (records, titels, Spaarnehuys, Snookercentrum IJmuiden, Snooker Magazine)
 
+## Training
+- [Snooker training log](snooker/training/README.md) (one file per session, analysable per week or month)
+
 ## Notities
 Nieuwe snooker-notities komen hier, nieuwste bovenaan.
 
