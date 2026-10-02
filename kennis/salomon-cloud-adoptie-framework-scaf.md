@@ -37,3 +37,4 @@ This is Bas's proposition for structuring a cloud migration as a guided journey 
 - [SCAF: Salomon Cloud Adoptie Framework (Origin)](scaf-salomon-cloud-adoptie-framework.md)
 - [SCAF: Step-Cloud Adoption Framework and its toolkit](scaf-step-cloud-adoption-framework.md)
 - [The Step-Cloud Adoptie Framework (SCAF) as the book's backbone](scaf-the-red-thread-of-the-book.md)
+- [Weolcan Hybrid Cloud Training (2-day curriculum)](weolcan-hybrid-cloud-training-curriculum.md)

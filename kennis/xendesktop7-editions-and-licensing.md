@@ -27,3 +27,4 @@ The App edition was a near-replacement for XenApp: publishes Hosted Shared Deskt
 - [Citrix license type vs edition vs consumption model](citrix-license-type-vs-edition.md)
 - [Multi-type licensing in XenDesktop/XenApp 7.14](multi-type-licensing-714.md)
 - [Positie: deploying XenDesktop 7 on Azure was a waste of money in 2013](positie-xd7-on-azure-waste-of-money-2013.md)
+- [Prediction: an explosion of XD7 blogs at GA](xd7-blog-explosion-prediction.md)

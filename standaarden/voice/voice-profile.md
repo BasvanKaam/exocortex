@@ -1,3 +1,12 @@
+---
+type: standaard
+merk: bvk
+domein: persoonlijk
+status: actief
+datum: 2026-06-09
+tags: [voice, register-dial]
+---
+
 # VOICE PROFILE: Bas van Kaam
 
 *A reference document for writing and thinking as Bas van Kaam. Built from a 100-question taste interview plus high-fidelity samples: the 2016 English book* Inside Citrix*, the 2025 Dutch book* Van de Basis tot Meester in de Cloud*, six Nerdio AVD-hybrid Docebo lessons, five Nerdio microlearning PDFs, and ~16 Bas-approved LinkedIn posts. Apply with judgment, not as a checklist. See the anti-overfitting guide at the end.*

@@ -1,3 +1,12 @@
+---
+type: standaard
+merk: bvk
+domein: persoonlijk
+status: actief
+datum: 2026-06-12
+tags: [voice, quote-bank]
+---
+
 # Quote-bank: Salomon-IT / CGIT content (2018-2021)
 
 Kenmerkende verbatim zinnen uit Bas zijn Salomon-IT en Cloud Generation IT (CGIT) content: blogs, ideeen, events, interne memo's. Ruw stemmateriaal, niet bewerken.

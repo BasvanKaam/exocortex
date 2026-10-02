@@ -1,3 +1,12 @@
+---
+type: standaard
+merk: nerdio
+domein: nerdio
+status: actief
+datum: 2026-06-09
+tags: [schrijfregels, stijlgids]
+---
+
 \# Nerdio L\&D Style Guide — Complete Reference for Content Review
 
 \# Source: WIP-Nerdio\_L\_D\_Style\_Guide.docx (Revision 1, February 23, 2026)

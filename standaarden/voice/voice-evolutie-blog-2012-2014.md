@@ -1,3 +1,12 @@
+---
+type: standaard
+merk: bvk
+domein: persoonlijk
+status: actief
+datum: 2026-06-11
+tags: [voice, voice-evolutie]
+---
+
 # 2012-2014: how Bas wrote
 
 This is the authentic, pre-AI baseline. The file's earliest signal is March 2013, so this era is really the basvankaam.com Citrix-blogger years: 76 posts, March 2013 to December 2014. The voice is remarkably consistent across the whole stretch, an enthusiast technologist learning in public and bringing the reader along.

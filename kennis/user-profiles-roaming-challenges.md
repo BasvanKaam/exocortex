@@ -30,3 +30,4 @@ The whole copy-in-at-logon, copy-back-at-logoff concept is called Roaming Profil
 - [Profile Layering with FSLogix: Mount Instead of Copy](profile-layering-fslogix.md)
 - [Profile-on-VHD vs copy-on-login roaming profiles](profile-on-vhd-vs-copy-on-login.md)
 - [How a Windows user profile loads](windows-roaming-profile-loading.md)
+- [Windows user profile versions are incompatible across OS releases](windows-user-profile-version-incompatibility.md)

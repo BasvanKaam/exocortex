@@ -1,3 +1,12 @@
+---
+type: standaard
+merk: bvk
+domein: persoonlijk
+status: actief
+datum: 2026-06-19
+tags: [voice, voice-evolutie]
+---
+
 # 2020-2023: how Bas tweeted (Nerdio Field CTO, community builder)
 
 June 2020 Bas joins Nerdio as Field CTO for EMEA, and the feed re-centers around it: WVD/AVD, Windows 365 Cloud PC, Nerdio Manager releases, and above all community-building (Nerdio Tech Insider sessions, the AVD/WVD User Groups, the Nerdio Valued Professional program). This is also his most personal era on X: COVID, his wedding, his birthday rituals, snooker and pool, F1, vinyl, running. The professional and the personal sit side by side without apology.

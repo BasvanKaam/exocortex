@@ -1,3 +1,12 @@
+---
+type: standaard
+merk: bvk
+domein: persoonlijk
+status: actief
+datum: 2026-06-11
+tags: [voice, voice-evolutie]
+---
+
 # 2018-2020: how Bas wrote
 
 This is Bas's pre-AI authentic baseline: a prolific, community-embedded EUC/cloud blogger writing fast and publishing often. 113 posts span Liquidware days, his "Technical Fellows / pirate" independence, the Inside Citrix giveaway, the WVD fact-list era, EUCdigest podcast, and the move to Nerdio as Field CTO. The voice is consistent throughout: warm, generous, hype-skeptical, and relentlessly reader-serving.

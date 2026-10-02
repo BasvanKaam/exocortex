@@ -1,3 +1,12 @@
+---
+type: standaard
+merk: bvk
+domein: persoonlijk
+status: actief
+datum: 2026-06-19
+tags: [voice, voice-evolutie]
+---
+
 # 2017-2019: how Bas tweeted (independent consultant, MVP, community-book builder)
 
 The bridge years. Bas is consulting (the Liquidware roadshow runs through his 2017 feed), still deep in Citrix internals (the "Ultimate" cheat sheets hit version 2.0), and by 2019 he tips into the Microsoft world: Windows Virtual Desktop appears, he becomes a Microsoft MVP, and he co-builds the @ProByteSized community book with Christiaan Brinkhoff. Twitter is where every milestone gets announced and every collaborator gets thanked.

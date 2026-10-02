@@ -38,7 +38,7 @@ Het brein is een web, geen stapel. Volg `standaarden/brein-onderhoud.md`:
 Volg `standaarden/schrijfregels/nerdio-content-guard.md`: American English, Nerdio-terminologie, en de never-invent regel. Verifieer elke technische claim live tegen de officiele bron (NME Help, NMM Help, Microsoft Learn). Niets uit geheugen. Bij twijfel flag je het, je gokt niet.
 
 ## Harde regels
-- Geen em-dashes, nergens.
+- Geen em-dashes in output: alles wat je uit het brein haalt, samenstelt, beantwoordt of nieuw schrijft. Bestaande brein-inhoud mag ze bevatten en hoeft niet opgeschoond. Neem je tekst of een citaat uit het brein over, vervang de em-dash dan (komma, dubbele punt, haakjes of een nieuwe zin).
 - Verifieer feiten voordat je ze stelt. Never invent. Bij twijfel flaggen, niet gokken.
 - Nooit privecontext uit het voice-profile (het blok onderaan dat bestand) in output. Dat is alleen voor calibratie.
 - Pas de juiste voice toe per kanaal, en run de banned-word scan voor alles dat mijn stem draagt.

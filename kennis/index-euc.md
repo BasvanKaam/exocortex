@@ -175,6 +175,8 @@ Map of Bas van Kaam's end-user computing knowledge: Citrix FMA, AVD/WVD, Windows
 - [BYOD has graduated from hype to something you can't ignore](byod-from-hype-to-unavoidable.md)
 - [Prefer PowerShell over the GUI for Citrix FMA work](powershell-over-gui-for-citrix.md)
 - [The community's success depends on us; give before you take](stance-give-to-the-community.md)
+- [Eventually we all migrate; it's only a question of when](stance-migrate-to-fma-76.md)
+- [Prediction: an explosion of XD7 blogs at GA](xd7-blog-explosion-prediction.md)
 - [Use one UEM layer across physical, virtual, on-prem and cloud](one-uem-layer-across-physical-virtual-cloud.md)
 - [Use health-check tooling proactively, not only when things fall apart](use-monitoring-proactively-not-when-it-breaks.md)
 - [Listen to the employee, don't let IT dictate how they work](listen-to-the-employee-not-it-dictates.md)

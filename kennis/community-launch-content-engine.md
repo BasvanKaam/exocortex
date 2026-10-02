@@ -33,3 +33,4 @@ Channel mechanics he uses: a **Meetup page** as the public home and RSVP point f
 - [Personal Invitations Beat Mass Sign-Up](personal-invitations-beat-mass-signup.md)
 - [Quiz as Community Engagement](quiz-as-community-engagement.md)
 - [Webinar Curriculum: The Onboarding Arc](webinar-curriculum-onboarding-arc.md)
+- [Prediction: an explosion of XD7 blogs at GA](xd7-blog-explosion-prediction.md)

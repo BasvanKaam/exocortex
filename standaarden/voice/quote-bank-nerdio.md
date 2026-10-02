@@ -1,3 +1,12 @@
+---
+type: standaard
+merk: bvk
+domein: nerdio
+status: actief
+datum: 2026-06-13
+tags: [voice, quote-bank]
+---
+
 # Quote-bank: Nerdio-content (field-CTO / L&D era)
 
 Kenmerkende verbatim zinnen uit Bas zijn Nerdio-tijd (blogs, events, training). Ruw stemmateriaal, niet bewerken.

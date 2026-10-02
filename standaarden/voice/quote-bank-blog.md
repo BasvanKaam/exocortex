@@ -1,3 +1,12 @@
+---
+type: standaard
+merk: bvk
+domein: persoonlijk
+status: actief
+datum: 2026-06-11
+tags: [voice, quote-bank]
+---
+
 # Quote-bank: blog (basvankaam.com, 2012-2023)
 
 Kenmerkende verbatim zinnen uit Bas zijn blog, per tijdvak. Ruw stemmateriaal voor calibratie, niet bewerken.

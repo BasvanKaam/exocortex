@@ -21,3 +21,9 @@ Lesson: do not trust the documented version number; test profile compatibility t
 *Bron: blogpost 'Probleem - Windows 10 blijkt niet het beloofde 'One OS to rule them all'. Gebruikersprofiel versies blijven wijzigen' (2017-11-10), basvankaam.com.*
 
 *Bron: blogpost 'In detail. Windows 10, the one OS to rule them all - Except it's NOT' (2017-12-20), basvankaam.com.*
+
+## Verwante notities
+
+- [User Profiles on VDI/RDSH: Bloat, Corruption and Roaming Challenges](user-profiles-roaming-challenges.md)
+- [Microsoft's 'one Windows 10 to rule them all' promise was false](windows-10-not-one-os-to-rule-them-all-2.md)
+- [Windows 10 was never the promised 'One OS to rule them all'](windows-10-not-one-os-to-rule-them-all.md)

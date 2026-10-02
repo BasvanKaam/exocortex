@@ -25,4 +25,5 @@ At the time of writing Citrix had announced there was no upgrade or migration pa
 
 ## Verwante notities
 
+- [Eventually we all migrate; it's only a question of when](stance-migrate-to-fma-76.md)
 - [XenApp migration tooling: Migration Center and 6.0-to-6.5 Upgrade Utility (2013)](xenapp-migration-tooling-2013.md)

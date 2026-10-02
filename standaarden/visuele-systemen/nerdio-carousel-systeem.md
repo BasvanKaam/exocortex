@@ -1,3 +1,12 @@
+---
+type: standaard
+merk: nerdio
+domein: nerdio
+status: actief
+datum: 2026-06-09
+tags: [visueel, carousel, microlearning]
+---
+
 name: nerdio-microlesson
 
 description: Build LinkedIn-ready Nerdio microlearning carousels: multi-page A4 portrait vector PDFs with the established Nerdio look-and-feel. Each lesson is typically 6-10 individually designed slides covering one teaching topic, distributed as a swipeable LinkedIn document. Use whenever Bas asks to create a "micro-lesson", "microlearning", "5-minute lesson", "LinkedIn carousel", "PDF carousel", "swipe post", "carousel post", or any single-topic teaching artifact in this format. Trigger phrases include "make a carousel for X", "build a microlesson on X", "build a LinkedIn lesson on X", "turn this topic into a carousel", "another microlearning in the same style", "do for X what we did for Policy Studio". Always produces a multi-page vector PDF, not a single tall page.

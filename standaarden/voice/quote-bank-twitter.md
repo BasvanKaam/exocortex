@@ -1,3 +1,12 @@
+---
+type: standaard
+merk: bvk
+domein: persoonlijk
+status: actief
+datum: 2026-06-19
+tags: [voice, quote-bank]
+---
+
 # Quote-bank: Twitter/X (@BasvanKaam, 2013-2023)
 
 Kenmerkende verbatim tweets en zinsneden uit Bas zijn X-archief. Ruw stemmateriaal, niet bewerken. Emoji uit de export weggelaten; tekst verder verbatim. Snellere, persoonlijkere broadcast-stem dan de blog: real-time, warm, community-first.

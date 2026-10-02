@@ -1,3 +1,12 @@
+---
+type: standaard
+merk: bvk
+domein: persoonlijk
+status: actief
+datum: 2026-06-19
+tags: [voice, voice-evolutie]
+---
+
 # 2013-2016: how Bas tweeted (Citrix/EUC blogger to CTP)
 
 Bas's X account dates to April 2009, but the archive's real signal starts in 2013. This era is the Citrix-blogger climb: @BasvanKaam the EUC enthusiast publishing cheat sheets and deep-dives, ending in 2016 with the *Inside Citrix - The FlexCast Management Architecture* book launch and his Citrix CTP award. Twitter here is his broadcast channel and his social glue at the same time.

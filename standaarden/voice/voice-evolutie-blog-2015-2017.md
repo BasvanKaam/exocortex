@@ -1,3 +1,12 @@
+---
+type: standaard
+merk: bvk
+domein: persoonlijk
+status: actief
+datum: 2026-06-11
+tags: [voice, voice-evolutie]
+---
+
 # 2015-2017: how Bas wrote
 
 This is Bas's pre-AI, authentic baseline voice, captured across 118 blog posts (115 his own; the three @XDtipster Linux VDA parts are Mick Glover guest posts and must NOT be attributed to Bas). The era runs from a hobbyist Citrix blogger "hiding behind my MacBook" to a published author (Inside Citrix), Citrix CTP, Nutanix NTC, conference speaker, and finally a vendor evangelist when he joins Liquidware in Sept 2017.

@@ -164,6 +164,7 @@ The vendor-neutral cloud-adoption framework that runs through this domain (Strat
 - [Advice report structure: current-state and advice mirror the same layers](advice-report-structure-current-state-mirrors-advice.md)
 - [De Cloud Professionals: focused cloud-workspace advisory proposition](de-cloud-professionals-proposition.md)
 - [Bas's proposition development process (Detron, 2017)](detron-proposition-development-process.md)
+- [Weolcan Hybrid Cloud Training (2-day curriculum)](weolcan-hybrid-cloud-training-curriculum.md)
 - [Salomon Cloud Masterclass: Two-Day Course Structure](salomon-cloud-masterclass-structure.md)
 - [Cloud Masterclass: the curriculum Bas teaches](cloud-masterclass-curriculum.md)
 - [Ten characteristics and benefits of a good IT roadmap](ten-characteristics-of-a-good-it-roadmap.md)

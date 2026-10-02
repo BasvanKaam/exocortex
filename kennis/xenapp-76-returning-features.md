@@ -28,3 +28,4 @@ How it worked then (7.6, Sept 2014): built on Citrix's third-generation FMA, dep
 ## Verwante notities
 
 - [Excalibur is XenDesktop-centric and steals XenApp's thunder (April 2013)](excalibur-steals-xenapp-thunder.md)
+- [Eventually we all migrate; it's only a question of when](stance-migrate-to-fma-76.md)

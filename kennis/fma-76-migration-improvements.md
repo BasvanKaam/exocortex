@@ -27,4 +27,5 @@ How it worked then (2015). Moving from XenApp 6.5 (IMA) to XenApp/XenDesktop 7.6
 ## Verwante notities
 
 - [How Connection Leasing worked in XenApp 7.6](connection-leasing-how-it-works.md)
+- [Eventually we all migrate; it's only a question of when](stance-migrate-to-fma-76.md)
 - [XenApp migration tooling: Migration Center and 6.0-to-6.5 Upgrade Utility (2013)](xenapp-migration-tooling-2013.md)

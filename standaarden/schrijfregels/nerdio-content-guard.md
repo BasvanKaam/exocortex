@@ -1,3 +1,12 @@
+---
+type: standaard
+merk: nerdio
+domein: nerdio
+status: actief
+datum: 2026-06-09
+tags: [schrijfregels, content-guard, never-invent]
+---
+
 name: nerdio-content-guard
 
 description: Enforce Nerdio L\&D writing style and live-verify every technical claim before any text is committed to a deliverable. Apply whenever writing, generating, or composing text that will appear in Nerdio content — microlearnings, carousels, lessons, course descriptions, video scripts, learner journey copy, ADDIE documents, social posts, blog text, or any other artifact. Triggered automatically by nerdio-microlesson and nerdio-content skills before they generate any text. Triggered standalone when the user says "check this writing", "rewrite in Nerdio style", "write the Nerdio way", "make sure this is American English", "verify the technical claims in this draft", or any phrase implying style enforcement or factual checks. Always uses American English (never European/British). Always verifies technical claims live against Nerdio help docs, Microsoft Learn, and the Microsoft Writing Style Guide before output.

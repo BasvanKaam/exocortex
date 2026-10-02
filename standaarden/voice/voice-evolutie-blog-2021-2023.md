@@ -1,3 +1,12 @@
+---
+type: standaard
+merk: bvk
+domein: persoonlijk
+status: actief
+datum: 2026-06-11
+tags: [voice, voice-evolutie]
+---
+
 # 2021-2023: how Bas wrote
 
 This is a thin but telling era: the blog has slowed to a trickle (7 posts, clustered in early 2021 plus two stragglers), and the centre of gravity has shifted away from long Citrix/EUC deep-dives toward podcast announcements (the EUCdigest run), vendor-release write-ups, a personal lifestyle post, and a practical cheat-sheet release. This is his authentic PRE-AI baseline: no scaffolded structure, no banned-word polish, just his natural register.

@@ -35,3 +35,7 @@ Leg niet alleen feiten vast, ook Bas zijn standpunten en evolverend denken, want
 ## Bron
 
 Geinspireerd op een second-brain blog van Brian (VP en Futurist bij Citrix), begin 2026, die het kantelpunt beschrijft: niet de notities maar de verbanden en het zelf-onderhoud maken een brein krachtig. Zie de notitie [Second brain als cognitieve infrastructuur](../kennis/second-brain-cognitive-infrastructure.md). Vastgelegd 2026-06-10.
+
+## Verwante notities
+
+- [Hoe we het brein vullen: de intake-pijplijn](../beslissingen/brein-intake-pijplijn.md)

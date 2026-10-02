@@ -40,3 +40,4 @@ This curriculum is a durable map of how Bas structures cloud education: history 
 - [Method: Ship the Masterclass via Feedback Rounds and a Low-Fee Try-Out](masterclass-iterative-tryout-method.md)
 - [SCAF: Salomon Cloud Adoptie Framework](salomon-cloud-adoptie-framework-scaf.md)
 - [Original Salomon Cloud Masterclass: pricing and certification basis](salomon-masterclass-original-pricing-and-cert-path.md)
+- [Weolcan Hybrid Cloud Training (2-day curriculum)](weolcan-hybrid-cloud-training-curriculum.md)

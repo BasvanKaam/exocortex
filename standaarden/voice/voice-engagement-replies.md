@@ -1,3 +1,12 @@
+---
+type: standaard
+merk: bvk
+domein: persoonlijk
+status: actief
+datum: 2026-06-11
+tags: [voice, replies]
+---
+
 # How Bas engages in blog comments
 
 This is the authentic pre-AI community voice of Bas van Kaam, drawn only from his own replies to commenters on basvankaam.com (2012-2020). It is the warm, generous register of a working consultant building an audience one reply at a time.

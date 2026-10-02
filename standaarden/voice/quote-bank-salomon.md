@@ -1,3 +1,12 @@
+---
+type: standaard
+merk: bvk
+domein: persoonlijk
+status: actief
+datum: 2026-06-11
+tags: [voice, quote-bank]
+---
+
 # Quote-bank: Salomon-IT blog (2018-2020)
 
 Kenmerkende verbatim zinnen uit Bas zijn Salomon-IT consultant-tijd. Nederlandse cloud-strategie-stem. Ruw stemmateriaal, niet bewerken.

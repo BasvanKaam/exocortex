@@ -1,3 +1,12 @@
+---
+type: standaard
+merk: bvk
+domein: persoonlijk
+status: actief
+datum: 2026-06-11
+tags: [voice, voice-evolutie]
+---
+
 # Salomon-IT 2018-2020: how Bas wrote
 
 This is the pre-AI, authentic baseline: Bas writing as a Dutch IT consultant for Salomon's blog. Everything below comes from posts dated 2018-06-04 through 2020-05-20. The 2019-02-18 post is excluded; it was authored by Eric, not Bas.

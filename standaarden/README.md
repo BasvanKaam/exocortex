@@ -1,3 +1,12 @@
+---
+type: index
+merk: bvk
+domein: persoonlijk
+status: actief
+datum: 2026-06-09
+tags: [standaarden, index]
+---
+
 # Standaarden
 
 De vaste regels en systemen voor mijn werk: hoe ik schrijf, hoe mijn visuals eruitzien, hoe mijn productie-workflows lopen. Dit bewaakt consistentie over alles wat ik maak.

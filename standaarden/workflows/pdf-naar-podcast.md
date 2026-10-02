@@ -1,3 +1,12 @@
+---
+type: standaard
+merk: nerdio
+domein: podcast
+status: actief
+datum: 2026-06-09
+tags: [workflow, podcast, microlearning]
+---
+
 PDF → Artlist Podcast Script Workflow
 
 A repeatable step-by-step recipe for turning a Nerdio Microlearning PDF into a TTS-ready script for Artlist, recorded in Finn's voice. Distilled from the Compass build in May 2026.

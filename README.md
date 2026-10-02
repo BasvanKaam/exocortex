@@ -30,6 +30,6 @@ Waarom dit telt: de zoeklaag filtert eerst op deze velden voordat hij de inhoud 
 
 ## Conventies
 
-- Geen em-dashes, nergens.
+- Geen em-dashes in nieuwe tekst en in alles wat uit het brein komt (antwoorden, samenstellingen, deliverables). Bestaande notities mogen ze bevatten.
 - Bestandsnamen in kleine letters met koppeltekens: `windows-365-flex.md`.
 - Eén onderwerp per notitie. Liever tien korte dan een lange.

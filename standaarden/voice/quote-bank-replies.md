@@ -1,3 +1,12 @@
+---
+type: standaard
+merk: bvk
+domein: persoonlijk
+status: actief
+datum: 2026-06-11
+tags: [voice, quote-bank]
+---
+
 # Quote-bank: blog-reacties (basvankaam.com, 2012-2020)
 
 Kenmerkende verbatim zinnen uit Bas zijn eigen reacties op lezers. Community-stem. Niet bewerken.

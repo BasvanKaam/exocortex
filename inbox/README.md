@@ -24,3 +24,7 @@ Raw notes land here first. Most of them are dictated on my phone, so expect roug
 When I say "process the inbox" (or "verwerk de inbox"), Claude proposes a destination for each note: a new file in `kennis/`, `beslissingen/` or `standaarden/`, or an addition to an existing note. Nothing moves until I approve. After that: move, link, commit, push.
 
 The full rules live in `CLAUDE.md` under "Notes on the go" and "Processing the inbox". Maintenance rules: `standaarden/brein-onderhoud.md`.
+
+## Related notes
+
+- [Hoe we het brein vullen: de intake-pijplijn](../beslissingen/brein-intake-pijplijn.md)

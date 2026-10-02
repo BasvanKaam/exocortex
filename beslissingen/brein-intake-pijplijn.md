@@ -29,3 +29,9 @@ Vier stappen:
 ## Bron
 
 Eigen beslissing met Claude, 9 juni 2026, bij het opbouwen van de kennis-laag.
+
+## Verwante notities
+
+- [Inbox](../inbox/README.md)
+- [Brein-onderhoud: verbanden leggen en proactief bijwerken](../standaarden/brein-onderhoud.md)
+- [Second brain als cognitieve infrastructuur](../kennis/second-brain-cognitive-infrastructure.md)

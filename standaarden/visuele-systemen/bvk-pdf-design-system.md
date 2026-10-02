@@ -1,3 +1,12 @@
+---
+type: standaard
+merk: bvk
+domein: persoonlijk
+status: actief
+datum: 2026-06-09
+tags: [visueel, pdf, design-system]
+---
+
 Allowed flexibilityHard rulesVary step count if content warrantsUse exact color palette belowReuse blocks (TODAY/WITH, stats grid, chips, q-cards) on any pageUse exact type scale belowAdd an architecture-diagram page using BvK skin tokensStripe bands on every page (top always, bottom on dark only)Adjust body text length to fit page distributionCover always dark, content always cream, insight always darkAdd a new component pattern if existing ones don't fitPop word reserved for cover/quote/takeaway onlySwap pop word per lesson (Agents, Hybrid, Compass, etc.)bvk. wordmark on cover, footer is BvK Microlearning · TOPICUse a stats grid on a different page if the data calls for itFooter page number always outlined retro Bowlby
 
 When in doubt: match the visual weight, distribution, and rhythm of the rendered W365 for Agents lesson.

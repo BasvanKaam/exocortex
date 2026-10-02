@@ -26,3 +26,9 @@ A two-day instructor-led Hybrid Cloud Training (version 2.1.2, dated 22 October 
 Lunch breaks separate the morning and afternoon blocks on both days, and each day ends with hands-on labs. The recurring themes (placement strategy, business-case model, governance and cost management, cloud exit strategy, hybrid IT) are early versions of the structures that later mature into the SCAF and the book.
 
 *Bron: Salomon-IT 'Weolcan_Hybrid_Cloud_Training'.*
+
+## Verwante notities
+
+- [Cloud Masterclass: the curriculum Bas teaches](cloud-masterclass-curriculum.md)
+- [SCAF: Salomon Cloud Adoptie Framework](salomon-cloud-adoptie-framework-scaf.md)
+- [Positioning of the 2-day Salomon Cloud Masterclass](two-day-cloud-masterclass-positioning.md)
