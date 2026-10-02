@@ -46,5 +46,21 @@ Volg `standaarden/schrijfregels/nerdio-content-guard.md`: American English, Nerd
 ## Werkwijze (volledig in `werkwijze.md`)
 Dit brein is de bron van waarheid. Waardevolle output schrijf je weg naar de juiste map, daarna committen en pushen. Alleen wat gepusht is, staat veilig.
 
+## Notes on the go
+Notities die ik vanaf mijn telefoon inspreek. Uitleg voor de map zelf: `inbox/README.md`.
+- Begint een sessie: eerst `git pull`, zodat je op de laatste stand werkt.
+- Begint een bericht met "Notitie:" of "Note:", sla het op als nieuw bestand in `inbox/` met de naam `JJJJ-MM-DD-korte-titel.md` (titel in het Engels, kleine letters, koppeltekens).
+- Notities komen via spraak binnen, in het Nederlands of Engels. Sla ze altijd op in het Engels. Vertaal Nederlands naar natuurlijk Engels, maar laat eigennamen en Nederlandse projectnamen (zoals Nooit Meer Blut, Altijd in Bèta) onvertaald.
+- Schoon de dicteertekst licht op: interpunctie, spelling, vaktermen goed geschreven (Nerdio, AVD, Windows 365, Intune, Docebo). Verander de inhoud niet, voeg niets toe, vat niet samen.
+- Bovenaan frontmatter met de datum en de regel `source: phone`, plus de verplichte velden uit `README.md` (`type: idee`, `status: concept`, `merk` en `domein` naar beste inschatting).
+- Commit en push direct naar main, geen aparte branch.
+
+## Processing the inbox
+Zeg ik "verwerk de inbox" of "process the inbox":
+1. Lees elke notitie in `inbox/` (behalve `README.md`).
+2. Stel per notitie voor waar hij hoort: een nieuw bestand (welke map, welke naam) of een toevoeging aan een bestaand bestand (welk, en waar). Noem ook de links die je wilt leggen.
+3. Hoort iets bij NMB of FIRE, dan zeg je dat het buiten dit brein valt in plaats van het te archiveren.
+4. Wacht op mijn akkoord. Pas daarna verplaatsen of samenvoegen, frontmatter bijwerken, verbanden leggen volgens `standaarden/brein-onderhoud.md`, en committen en pushen.
+
 ## Niet hier
 - Nooit Meer Blut (NMB) hoort niet in dit brein. Apart project, buiten deze repo beheerd. FIRE valt onder NMB en staat hier dus ook niet. Beide zijn wel volle BvK-stem en Nederlands.
