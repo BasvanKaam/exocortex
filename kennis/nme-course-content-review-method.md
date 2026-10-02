@@ -29,6 +29,7 @@ The throughline: training must be technically accurate, honestly named, anchored
 ## Verwante notities
 
 - [Bas's ADDIE method for Nerdio course design](addie-method-nerdio-course-design.md)
+- [Notes from the field: Bas's Nerdio lesson series](nerdio-notes-from-the-field.md)
 - [The Nerdio training creation framework (Bas's L&D method)](nerdio-training-creation-framework.md)
 - [NME image management: prefer the compute gallery over the source VM](nme-image-management-gallery-vs-source-vm.md)
 - [NME first-admin RBAC and log analytics retention savings](nme-rbac-first-admin-and-savings.md)

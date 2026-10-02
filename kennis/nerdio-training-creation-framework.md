@@ -57,6 +57,7 @@ The **ADDIE document is the architectural blueprint**, owned by a *training arch
 - [Idea: 30-day Nerdio engineer bootcamp framework](idee-nerdio-30-day-engineer-bootcamp.md)
 - [Method: The Learning Pyramid Applied to Technical Training](learning-pyramid-training-method.md)
 - [Method: Bas's Nerdio lab-guide template convention](method-nerdio-lab-guide-template.md)
+- [Notes from the field: Bas's Nerdio lesson series](nerdio-notes-from-the-field.md)
 - [How Bas reviews Nerdio L&D content as SME](nme-course-content-review-method.md)
 - [Scripting every video first measurably raises quality](position-scripting-raises-video-quality.md)
 - [Training Method: Bringing Field Experience Into the Classroom](trainer-method-field-experience-to-classroom.md)

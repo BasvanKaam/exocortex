@@ -32,5 +32,7 @@ This mapping pattern (principle -> available feature) is reusable for any "map a
 
 ## Verwante notities
 
+- [Plan and scope Console Connect for help desk teams](console-connect-plan-and-scope-help-desk.md)
+- [Notes from the field: Bas's Nerdio lesson series](nerdio-notes-from-the-field.md)
 - [Zero Trust Identity Controls in Nerdio (AVD + W365)](zero-trust-controls-nerdio-avd-w365.md)
 - [Zero Trust principles mapped to AVD and Windows 365 in NME](zero-trust-mapped-to-avd-w365-nme.md)

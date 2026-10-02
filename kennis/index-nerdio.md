@@ -167,6 +167,13 @@ Map of content for the Nerdio domain: Bas's work at Nerdio since June 2020, firs
 - [The Nerdio Enterprise Optimization Journey (12-step framework)](nerdio-enterprise-optimization-journey.md)
 - [Nerdio Adoption & Management Framework: Five Foundational Elements](nerdio-adoption-management-framework.md)
 
+## Notes from the field (Bas's Nerdio University lessons)
+Lessons Bas wrote as Principal Learning Architect, to be published. Series hub first, then the lessons in reading order.
+- [Notes from the field: Bas's Nerdio lesson series](nerdio-notes-from-the-field.md)
+- [Plan and scope Console Connect for help desk teams](console-connect-plan-and-scope-help-desk.md)
+- [Use Console Connect for end-user and session host support](console-connect-end-user-and-session-host-support.md)
+- [Console Connect agent deployment and the connection path](console-connect-agent-deployment-connection-path.md)
+
 ## Now (2026): current products and moves
 What he is teaching and writing about today. Dedicated notes on these products do not exist yet; the sources below hold the detail.
 - [EUC News Nuggets: site structure, cast and catalogue](eucnewsnuggets-catalogus-en-cast.md) (micro lessons on Nerdio Compass, Intune Policy Studio, AVD Hybrid on Nutanix, Windows 365 Flex and for Agents)
