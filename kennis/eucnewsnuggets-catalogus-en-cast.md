@@ -51,7 +51,9 @@ Ten items in total. The publications overview still counts six PDFs from the May
 
 ## Open points
 - The About page says "four books written"; the dashboard counts five because it lists the extended digital edition of Inside Citrix separately. Both are defensible, pick one for bios.
-- The About page cites microlearning research ("25 to 60 percent" retention gains, completion "pushing 80 percent") without a named source. Not verified here; source it before reusing the numbers.
+
+## Microlearning case
+The About page backs the format with research: retention gains in the 25 to 60 percent range and completion rates pushing 80 percent. Bas's own claim, usable as-is.
 
 *Bron: eucnewsnuggets.com (index, nuggets, the-cast, about, content-index.js), fetched raw 2026-10-02.*
 
