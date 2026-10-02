@@ -9,7 +9,7 @@ tags: [index, navigatie, nerdio]
 
 # nerdio - index
 
-Map of content for the Nerdio domain: Bas's Field CTO work on Azure Virtual Desktop and Windows 365, the Nerdio product line (NMW/NME/NMM), and the community, enablement and L&D practice around it. Hub notes lead each section.
+Map of content for the Nerdio domain: Bas's work at Nerdio since June 2020, first as Field CTO EMEA (2020 to 2025), then Principal Technical Trainer (2025 to 2026) and now Principal Learning Architect (2026 to present). Covers Azure Virtual Desktop and Windows 365, the Nerdio product line (NMW/NME/NMM), and the community, enablement and L&D practice around it. Hub notes lead each section. Most notes are his own work about Nerdio (`merk: bvk`); official Nerdio material is `merk: nerdio`.
 
 ## Autoscaling & cost optimization
 - [Nerdio autoscaling engine: pooled hostpool scaling logic](nerdio-autoscaling-engine-pooled-hostpools.md)
@@ -167,7 +167,16 @@ Map of content for the Nerdio domain: Bas's Field CTO work on Azure Virtual Desk
 - [The Nerdio Enterprise Optimization Journey (12-step framework)](nerdio-enterprise-optimization-journey.md)
 - [Nerdio Adoption & Management Framework: Five Foundational Elements](nerdio-adoption-management-framework.md)
 
-## Career & Field CTO role
+## Now (2026): current products and moves
+What he is teaching and writing about today. Dedicated notes on these products do not exist yet; the sources below hold the detail.
+- [EUC News Nuggets: site structure, cast and catalogue](eucnewsnuggets-catalogus-en-cast.md) (micro lessons on Nerdio Compass, Intune Policy Studio, AVD Hybrid on Nutanix, Windows 365 Flex and for Agents)
+- [Newsletter: Agent ROI in Foundry + June 2026 roundup (no. 10)](bron-nieuwsbrief-2026-agent-roi-june-roundup.md) (NME 8.0 GA, Global Pools, NME-Terraform, last version supporting AVD Classic)
+- [Newsletter: June known issues edition](bron-nieuwsbrief-2026-06-known-issues.md) (AVD Hybrid preview limits, AVD Classic retirement 30 September 2026)
+- [Newsletter: Podcast spotlight, same nugget two ways](bron-nieuwsbrief-2026-podcast-spotlight.md) (how his personal channel runs alongside Nerdio)
+- [Bas's GitHub and the AI tooling he builds](bas-github-ai-tooling.md) (uniassistant for Nerdio University, dash NME Plans & Features Explorer, autoscaletrainer)
+
+## Career at Nerdio: Field CTO to Principal Learning Architect
+- [Bas van Kaam: career timeline (1999 to 2026)](bas-van-kaam-loopbaan-tijdlijn.md) (role evolution into L&D, source of truth for dates)
 - [Bas joined Nerdio as Field CTO EMEA on 1 June 2020](bas-joins-nerdio-field-cto-emea.md)
 - [What the EMEA Field CTO role covers (Bas's own description)](bvk-nerdio-field-cto-role.md)
 - [Bas's Field CTO mandate at Nerdio (the brief he set himself)](field-cto-role-mandate.md)
