@@ -18,6 +18,7 @@ Raw notes land here first. Most of them are dictated on my phone, so expect roug
 - Always stored in English, even when dictated in Dutch. Proper names and Dutch project names stay as they are.
 - Lightly cleaned up (punctuation, spelling, terms like Nerdio, AVD, Windows 365, Intune, Docebo). The content itself is not changed.
 - Frontmatter carries the date and `source: phone`.
+- Exception: snooker notes skip the inbox and go straight to the snooker section (`kennis/index-snooker.md`).
 
 ## What happens next
 

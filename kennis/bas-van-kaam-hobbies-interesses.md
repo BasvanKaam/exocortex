@@ -33,3 +33,4 @@ Personal interests that surface from his own browser bookmarks, complementing th
 - [Bas van Kaam: sport achievements](bas-van-kaam-sport.md)
 - [Bas van Kaam: experience, character and the people behind the book](bas-van-kaam-bio-and-character.md)
 - [persoonlijk - index](index-persoonlijk.md)
+- [snooker - index](index-snooker.md)

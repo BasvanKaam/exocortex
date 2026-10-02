@@ -55,6 +55,14 @@ Notities die ik vanaf mijn telefoon inspreek. Uitleg voor de map zelf: `inbox/RE
 - Bovenaan frontmatter met de datum en de regel `source: phone`, plus de verplichte velden uit `README.md` (`type: idee`, `status: concept`, `merk` en `domein` naar beste inschatting).
 - Sla op in `inbox/`, maar commit en push pas als ik "commit" zeg. Dan naar main, geen aparte branch.
 
+## Snooker-notities
+Snooker heeft een eigen sectie: `domein: snooker`, met `kennis/index-snooker.md` als knooppunt.
+- Is een notitie ("Notitie:" of "Note:") over snooker, of zeg ik dat erbij, dan gaat hij niet naar `inbox/` maar direct naar `kennis/`, met dezelfde naam- en taalregels als hierboven.
+- Frontmatter: `domein: snooker`, `merk: bvk`, `type: idee`, `status: concept`, `source: phone`, plus `tags: [snooker]`.
+- Zet de notitie bovenaan onder "Notities" in `kennis/index-snooker.md` en link vanuit de notitie terug naar de index. Leg ook links naar verwante snooker-notities.
+- Twijfel of het over snooker gaat: vraag het, of zet hem in `inbox/`.
+- Pushen pas als ik "commit" zeg, net als bij andere notities.
+
 ## Opruimen (elke sessie)
 Ik wil geen losse eindjes. Het einde van een sessie is niet te detecteren, dus de controle draait op twee momenten: bij de start van elke sessie (direct na `git pull`) en na elke afgeronde taak.
 - Controleer: staan er lokale wijzigingen die nog niet gecommit of gepusht zijn? Staan er branches op GitHub naast `main` (`git ls-remote --heads origin`)?
