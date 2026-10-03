@@ -56,3 +56,4 @@ Edition no. 10 calls itself the tenth, so at least one edition is not in the bra
 - [Quote-bank: LinkedIn newsletter (EUC News Nuggets, 2026)](../standaarden/voice/quote-bank-linkedin-newsletter.md)
 - [Bas van Kaam: publications overview](bas-van-kaam-publicaties-overzicht.md)
 - [Using AI voices to deliver his content](ai-voices-for-content-delivery.md)
+- [Snooker and my career: a series inside the newsletter](snooker/newsletter/README.md)

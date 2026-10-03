@@ -69,6 +69,7 @@ Snooker heeft een eigen sectie: `domein: snooker`, met `kennis/index-snooker.md`
 - Zet de notitie bovenaan onder "Notities" in `kennis/index-snooker.md` en link vanuit de notitie terug naar de index. Leg ook links naar verwante snooker-notities.
 - Twijfel of het over snooker gaat: vraag het, of zet hem in `inbox/`.
 - Pushen pas als ik "commit" zeg, net als bij andere notities.
+- Snooker-nieuwsbrief: vraag ik naar de snooker-nieuwsbrief, de snooker-serie, snooker en mijn carriere, of iets in die richting, start dan bij `kennis/snooker/newsletter/README.md` (serieplan, beslissingen, open vragen, drafts per editie). Nieuwe edities komen in die map als `NN-korte-titel.md`. De serie loopt binnen EUC News Nuggets, zonder namen van personen.
 - Trainingsverslagen (een snooker-training die ik doorgeef) gaan naar `kennis/snooker/training/`, een bestand per sessie, volgens de conventie en het template in `kennis/snooker/training/README.md`. Zet de sessie bovenaan onder "Sessions" in die README.
 
 ## Opruimen (elke sessie)

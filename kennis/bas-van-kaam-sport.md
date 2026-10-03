@@ -91,3 +91,4 @@ Bas: "alles stond altijd in het snooker magazine". Dat blad is te traceren en ve
 - [Bas van Kaam: career timeline (1999 to 2026)](bas-van-kaam-loopbaan-tijdlijn.md)
 - [persoonlijk - index](index-persoonlijk.md)
 - [snooker - index](index-snooker.md)
+- [Snooker and my career: LinkedIn newsletter series](snooker/newsletter/README.md)

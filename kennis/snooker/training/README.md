@@ -71,3 +71,4 @@ Newest at the top.
 
 ## Related
 - [snooker - index](../../index-snooker.md)
+- [Snooker and my career: LinkedIn newsletter series](../newsletter/README.md)

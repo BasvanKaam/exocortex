@@ -17,6 +17,9 @@ Alles over snooker: mijn spel, training, wedstrijden, clubs en historie. Snooker
 ## Training
 - [Snooker training log](snooker/training/README.md) (one file per session, analysable per week or month)
 
+## LinkedIn-nieuwsbrief
+- [Snooker and my career: newsletter series](snooker/newsletter/README.md) (serieplan, 13 edities, plus draft van editie 01 "The pot is not the point")
+
 ## Notities
 Nieuwe snooker-notities komen hier, nieuwste bovenaan.
 
