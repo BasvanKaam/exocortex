@@ -33,3 +33,4 @@ The design principle Bas applies: as you move from Innovation Days toward Tech I
 - [Nerdio Fusion: a hybrid vision + skill event concept](nerdio-fusion-hybrid-event-concept.md)
 - [The Innovation Day / MicroHack hands-on event format](nerdio-innovation-day-microhack-format.md)
 - [Nerdio Innovation Day vs Enterprise Training Camp](nerdio-innovation-day-vs-enterprise-training-camp.md)
+- [Idea: Citrix Reskill course, welcome video, mid-course support offer, Reskill Edition and a new Innovation Day](citrix-reskilling/proposal-to-joseph.md)

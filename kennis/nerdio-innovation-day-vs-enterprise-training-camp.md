@@ -44,3 +44,4 @@ The distinction in one line: Innovation Day is top-of-funnel inspiration co-host
 - [Nerdio Fusion: a hybrid vision + skill event concept](nerdio-fusion-hybrid-event-concept.md)
 - [The Innovation Day / MicroHack hands-on event format](nerdio-innovation-day-microhack-format.md)
 - [Nerdio's four lab-driven event formats](nerdio-lab-driven-event-formats.md)
+- [Idea: Citrix Reskill course, welcome video, mid-course support offer, Reskill Edition and a new Innovation Day](citrix-reskilling/proposal-to-joseph.md)

@@ -72,6 +72,10 @@ Snooker heeft een eigen sectie: `domein: snooker`, met `kennis/index-snooker.md`
 - Snooker-nieuwsbrief: vraag ik naar de snooker-nieuwsbrief, de snooker-serie, snooker en mijn carriere, of iets in die richting, start dan bij `kennis/snooker/newsletter/README.md` (serieplan, beslissingen, open vragen, drafts per editie). Nieuwe edities komen in die map als `NN-korte-titel.md`. De serie loopt binnen EUC News Nuggets, zonder namen van personen.
 - Trainingsverslagen (een snooker-training die ik doorgeef) gaan naar `kennis/snooker/training/`, een bestand per sessie, volgens de conventie en het template in `kennis/snooker/training/README.md`. Zet de sessie bovenaan onder "Sessions" in die README.
 
+## Projectmappen
+Lopend werk met een eigen map onder `kennis/<project>/`, met `README.md` als startpunt. Alleen publieke informatie, geen Nerdio-IP (zie `beslissingen/projectmappen-nerdio-werk.md`).
+- Citrix Reskilling: vraag ik naar de Citrix Reskill course, Reskilling of de Reskill Edition, start dan bij `kennis/citrix-reskilling/README.md`.
+
 ## Opruimen (elke sessie)
 Ik wil geen losse eindjes. Het einde van een sessie is niet te detecteren, dus de controle draait op twee momenten: bij de start van elke sessie (direct na `git pull`) en na elke afgeronde taak.
 - Controleer: staan er lokale wijzigingen die nog niet gecommit of gepusht zijn? Staan er branches op GitHub naast `main` (`git ls-remote --heads origin`)?

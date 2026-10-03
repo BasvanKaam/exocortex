@@ -153,6 +153,8 @@ Map of content for the Nerdio domain: Bas's work at Nerdio since June 2020, firs
 - [Two event types: Training Camp vs Innovation Day](etc-vs-innovation-day-event-design.md)
 - [Nerdio's four lab-driven event formats](nerdio-lab-driven-event-formats.md)
 - [Idea: Nerdio Fusion - a merged event format](idee-nerdio-fusion-merged-event-format.md)
+- [Idea: Citrix Reskill course, welcome video, mid-course support offer, Reskill Edition and a new Innovation Day](citrix-reskilling/proposal-to-joseph.md)
+- [Citrix Reskilling project (hub)](citrix-reskilling/README.md)
 - [How Bas designs a self-paced MicroHack lab](microhack-lab-design-method.md)
 - [XpressLabs: Bas's Innovation-Day-in-a-box teaching method](xpresslabs-innovation-day-in-a-box-method.md)
 - [Nerdio Scripted Actions Hackathon: Bas's Community Event Format](nerdio-scripted-actions-hackathon-concept.md)

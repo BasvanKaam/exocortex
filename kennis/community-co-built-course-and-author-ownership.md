@@ -47,3 +47,4 @@ Dave is the right person to shape this with. He talks to these people the most a
 - [Lead enablement with hands-on labs, not slideware](hands-on-labs-over-slideware.md)
 - [Community Scripts Should Be Free and Vendor-Neutral](community-scripts-should-be-vendor-neutral-and-free.md)
 - [Quality Over Quantity in Community Content](quality-over-quantity-in-community-content.md)
+- [Idea: Citrix Reskill course, welcome video, mid-course support offer, Reskill Edition and a new Innovation Day](citrix-reskilling/proposal-to-joseph.md)
