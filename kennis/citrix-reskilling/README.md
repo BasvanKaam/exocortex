@@ -16,6 +16,7 @@ Uitzondering op de Nerdio-regel: dit brein staat in een afgeschermde GitHub-omge
 ## Documenten
 
 - [Proposal to Joseph: welcome video, mid-course support offer, Reskill Edition, new Innovation Day](proposal-to-joseph.md) (2026-10-03, concept)
+    - Deelbare versie (Claude Doc): https://claude.ai/code/artifact/491a0e2d-7964-49bf-8822-93ec6384480c
 
 ## Open punten
 
